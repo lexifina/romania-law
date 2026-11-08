@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--soimari-12-2024",
+   "path": "local/prahova/soimari/2024/12",
+   "short": "HCL Șoimari nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 12/2024 pentru plata sumelor necesare decontarii cheltuielilor de transport pentru cadrele didactice si personalul auxiliar pe luna ianuarie 2024",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#72337",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#72337",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--soimari-13-2024",
    "path": "local/prahova/soimari/2024/13",
    "short": "HCL Șoimari nr. 13/2024",
@@ -388,6 +403,21 @@
      "from": "2024-11-29",
      "units": 1,
      "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#87934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--soimari-34-2024",
+   "path": "local/prahova/soimari/2024/34",
+   "short": "HCL Șoimari nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 34/2024 decontare transport cadre didactice",
+   "url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#89765",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#89765",
      "sha256": null
     }
    ]

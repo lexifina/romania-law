@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-2-2023",
+   "path": "local/prahova/olari/2023/2",
+   "short": "HCL Olari nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 2/2023 privind desemnarea a doi consilieri locali, în calitate de membri ai Comisiei de evaluare a performanţelor profesionale ale Secretarului General al Comunei Olari, judetul Prahova, pentru activitatea desfăşurată în anul 2022;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/92680",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/92680",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-20-2023",
    "path": "local/prahova/olari/2023/20",
    "short": "HCL Olari nr. 20/2023",

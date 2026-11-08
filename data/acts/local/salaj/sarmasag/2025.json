@@ -3,6 +3,28 @@
 "shard": "local/salaj/sarmasag/2025",
 "acts": [
 {
+"slug": "hcl-salaj--sarmasag-67-2025",
+"path": "local/salaj/sarmasag/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 67/2025 pentru alegerea preşedintelui de şedinţă",
+"short": "HCL Șărmășag nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229668",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--sarmasag-68-2025",
 "path": "local/salaj/sarmasag/2025/68",
 "kind": "local",
@@ -25,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-salaj--sarmasag-69-2025",
+"path": "local/salaj/sarmasag/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 69/2025 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2025",
+"short": "HCL Șărmășag nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229670",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--sarmasag-70-2025",
 "path": "local/salaj/sarmasag/2025/70",
 "kind": "local",
@@ -44,6 +88,116 @@
 "council_name": "Consiliul Local al Comunei Șărmășag",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-71-2025",
+"path": "local/salaj/sarmasag/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 71/2025 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2025",
+"short": "HCL Șărmășag nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229675",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-72-2025",
+"path": "local/salaj/sarmasag/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 72/2025 pentru alegerea preşedintelui de şedinţă",
+"short": "HCL Șărmășag nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229695",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-73-2025",
+"path": "local/salaj/sarmasag/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 73/2025 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2025",
+"short": "HCL Șărmășag nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229696",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-74-2025",
+"path": "local/salaj/sarmasag/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 74/2025 privind rectificarea bugetului local al comunei Sărmăşag pe trimestrul III 2025",
+"short": "HCL Șărmășag nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229697",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-75-2025",
+"path": "local/salaj/sarmasag/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 75/2025 privind rectificarea bugetului local al comunei pe trimestrul III 2025",
+"short": "HCL Șărmășag nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229698",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +245,94 @@
 }
 },
 {
+"slug": "hcl-salaj--sarmasag-78-2025",
+"path": "local/salaj/sarmasag/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 78/2025 pentru reorganizarea Aparatului de specialitate al primarului comunei Şărmăşag şi a Serviciilor publice de interes local",
+"short": "HCL Șărmășag nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229729",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-79-2025",
+"path": "local/salaj/sarmasag/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 79/2025 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2025",
+"short": "HCL Șărmășag nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229730",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-80-2025",
+"path": "local/salaj/sarmasag/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 80/2025 pentru transformarea posturilor ca urmare a examenului de promovare la Liceul Tehnologic nr.1 Șărmășag",
+"short": "HCL Șărmășag nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229731",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-81-2025",
+"path": "local/salaj/sarmasag/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 81/2025 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2025",
+"short": "HCL Șărmășag nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229763",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--sarmasag-82-2025",
 "path": "local/salaj/sarmasag/2025/82",
 "kind": "local",
@@ -113,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-salaj--sarmasag-83-2025",
+"path": "local/salaj/sarmasag/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 83/2025 pentru rectificarea bugetului local al comunei Șărmășag și modificarea Programului de investiții pe anul 2025",
+"short": "HCL Șărmășag nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229783",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--sarmasag-84-2025",
 "path": "local/salaj/sarmasag/2025/84",
 "kind": "local",
@@ -132,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Șărmășag",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-85-2025",
+"path": "local/salaj/sarmasag/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 85/2025 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2025",
+"short": "HCL Șărmășag nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229790",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +465,72 @@
 }
 },
 {
+"slug": "hcl-salaj--sarmasag-88-2025",
+"path": "local/salaj/sarmasag/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 88/2025 pentru desemnarea reprezentanților Consiliului local al comunei Șărmășag în Consiliul de administrație a Liceului Tehnologic nr.1 Șărmășag",
+"short": "HCL Șărmășag nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229793",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-89-2025",
+"path": "local/salaj/sarmasag/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 89/2025 pentru desemnarea reprezentantului Consiliului local al comunei Șărmășag în Comisia pentru Evaluarea și Asigurarea Calității a Liceului Tehnologic nr.1 Șărmășag",
+"short": "HCL Șărmășag nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229794",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-90-2025",
+"path": "local/salaj/sarmasag/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 90/2025 pentru încheierea unui contract de asistență juridică și reprezentare în instanţă cu cabinet de avocat",
+"short": "HCL Șărmășag nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229795",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--sarmasag-91-2025",
 "path": "local/salaj/sarmasag/2025/91",
 "kind": "local",
@@ -220,6 +572,50 @@
 "council_name": "Consiliul Local al Comunei Șărmășag",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-93-2025",
+"path": "local/salaj/sarmasag/2025/93",
+"kind": "local",
+"year": "2025",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 93/2025 pentru alegerea preşedintelui de şedinţă",
+"short": "HCL Șărmășag nr. 93/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229804",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-94-2025",
+"path": "local/salaj/sarmasag/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 94/2025 pentru rectificarea bugetului local al comunei Șărmășag pe anul 2025",
+"short": "HCL Șărmășag nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/229805",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -531,6 +927,72 @@
 }
 },
 {
+"slug": "hcl-salaj--sarmasag-109-2025",
+"path": "local/salaj/sarmasag/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 109/2025 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul IV anul 2025",
+"short": "HCL Șărmășag nr. 109/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/230739",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-110-2025",
+"path": "local/salaj/sarmasag/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 110/2025 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul IV anul 2025",
+"short": "HCL Șărmășag nr. 110/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/231104",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-111-2025",
+"path": "local/salaj/sarmasag/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 111/2025 pentru alegerea preşedintelui de şedinţă",
+"short": "HCL Șărmășag nr. 111/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/231853",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--sarmasag-112-2025",
 "path": "local/salaj/sarmasag/2025/112",
 "kind": "local",
@@ -550,6 +1012,28 @@
 "council_name": "Consiliul Local al Comunei Șărmășag",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--sarmasag-113-2025",
+"path": "local/salaj/sarmasag/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 113/2025 pentru cuprinderea unor bunuri în Inventarul bunurilor care alcătuiesc domeniul privat al comunei Șărmășag",
+"short": "HCL Șărmășag nr. 113/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/sarmasag-sj/registru-hcl/231855",
+"council": "salaj/sarmasag",
+"council_name": "Consiliul Local al Comunei Șărmășag",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

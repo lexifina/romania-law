@@ -3,6 +3,126 @@
  "shard": "local/salaj/chiesd/2022",
  "acts": [
   {
+   "slug": "hcl-salaj--chiesd-10-2022",
+   "path": "local/salaj/chiesd/2022/10",
+   "short": "HCL Chieșd nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 10/2022 privind aprobarea decontării navetei cadrelor didactice care îşi desfăşoară activitatea pe raza comunei Chieşd, judeţul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252667",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-11-2022",
+   "path": "local/salaj/chiesd/2022/11",
+   "short": "HCL Chieșd nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 11/2022 privind aprobarea Programului Anual al Achizițiilor Publice pe anul 2022",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252669",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-12-2022",
+   "path": "local/salaj/chiesd/2022/12",
+   "short": "HCL Chieșd nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 12/2022 privind aprobarea participării comunei CHIEȘD în calitate de asociat în cadrul Asociației de Dezvoltare Intercomunitară Țara Silvaniei",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252711",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-13-2022",
+   "path": "local/salaj/chiesd/2022/13",
+   "short": "HCL Chieșd nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 13/2022 privind implementarea și aprobarea investiției,, Achiziție utilaje: Sărăriță detașabila și Lamă de zăpadă’’de către Comuna Chieșd, jud. Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252712",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-14-2022",
+   "path": "local/salaj/chiesd/2022/14",
+   "short": "HCL Chieșd nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 14/2022 privind aprobarea contractării serviciilor de proiectare, întocmire documentații de urbanism și executarea unor măsurători topografice pentru documentele de recepție tehnică. în vederea actualizării Planului Urbanistic General al Comunei Chieșd, jud. Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252713",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-15-2022",
+   "path": "local/salaj/chiesd/2022/15",
+   "short": "HCL Chieșd nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 15/2022 privind aprobarea contractării serviciilor de proiectare, întocmire documentații de urbanism și executarea unor măsurători topografice pentru documentele de recepție tehnică. în vederea actualizării Planului Urbanistic General al Comunei Chieșd, jud. Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252714",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-16-2022",
+   "path": "local/salaj/chiesd/2022/16",
+   "short": "HCL Chieșd nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 16/2022 privind implementarea și aprobarea documentației de evaluare a activelor din domeniul public și privat aparținând Comunei Chieșd, jud. Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252726",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-17-2022",
+   "path": "local/salaj/chiesd/2022/17",
+   "short": "HCL Chieșd nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 17/2022 privind aprobarea bugetului local pe anul 2022- secţiunea dezvoltare",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252727",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252727",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-18-2022",
    "path": "local/salaj/chiesd/2022/18",
    "short": "HCL Chieșd nr. 18/2022",
@@ -33,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-salaj--chiesd-2-2022",
+   "path": "local/salaj/chiesd/2022/2",
+   "short": "HCL Chieșd nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 2/2022 privind aprobarea Actului de Punere în Valoare întocmit de Ocolul Silvic Șimleu Silvaniei pentru materialul lemnos din fondul forestier aflat proprietatea comunei Chieșd, în vederea aprovizionării instituțiilor publice cu lemne de foc",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252642",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-20-2022",
+   "path": "local/salaj/chiesd/2022/20",
+   "short": "HCL Chieșd nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 20/2022 9.privind alegerea presedintelui de ședință pentru perioada martie-mai 2022;",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252740",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-21-2022",
+   "path": "local/salaj/chiesd/2022/21",
+   "short": "HCL Chieșd nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 21/2022 privind aprobarea Cererii de finantare, Devizului general (Cheltuieli Totale, Cheltuieli Eligibile si Cheltuieli Neeligibile) si sustinerea de la Bugetul local a Cheltuielilor Neeligibile in cadrul Programului National de Investitii_”Anghel Saligny”, a obiectivului de investitii \"Modernizare drumuri comunale, strazi si trotuare in Comuna Chiesd, Județul Salaj\"",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252741",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252741",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-22-2022",
    "path": "local/salaj/chiesd/2022/22",
    "short": "HCL Chieșd nr. 22/2022",
@@ -48,6 +213,261 @@
    ]
   },
   {
+   "slug": "hcl-salaj--chiesd-23-2022",
+   "path": "local/salaj/chiesd/2022/23",
+   "short": "HCL Chieșd nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 23/2022 privind aprobarea modelului legitimației și a semnului distinctiv pentru calitatea de ales",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252750",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-24-2022",
+   "path": "local/salaj/chiesd/2022/24",
+   "short": "HCL Chieșd nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 24/2022",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252767",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-25-2022",
+   "path": "local/salaj/chiesd/2022/25",
+   "short": "HCL Chieșd nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 25/2022 privind aprobarea /stabilirea numărului și a cuantumului burselor școlare /finanțarea burselor din bugetul general al Comunei Chieșd aferente anului școlar 2021-2022,pentru elevii care frecventează cursurile de zi, în unitățile de învățământ preuniversitar de stat de pe raza Comunei Chieșd, jud. Sălaj,",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252818",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-26-2022",
+   "path": "local/salaj/chiesd/2022/26",
+   "short": "HCL Chieșd nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 26/2022 privind desemnarea a doi consilieri locali, din cadrul Consiliului Local Chieșd, care vor face parte din Comisia de evaluare a probei de interviu, din cadrul concursului pentru ocuparea funcției de Director la Școala Gimnazială nr 1 Chieșd, jud Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252819",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-27-2022",
+   "path": "local/salaj/chiesd/2022/27",
+   "short": "HCL Chieșd nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 27/2022 privind aprobarea finațării nerambursabile de la bugetul local al comunei Chieșd, a sumei de 7.700 lei, pentru unitatea de cult Biserica Reformată Chieșd",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252824",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-28-2022",
+   "path": "local/salaj/chiesd/2022/28",
+   "short": "HCL Chieșd nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 28/2022 privind aprobarea obiectivului investiției ,, Renovare energetică a 4 clădiri rezidențiale multifamiliale din Comuna Chieșd”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252825",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-29-2022",
+   "path": "local/salaj/chiesd/2022/29",
+   "short": "HCL Chieșd nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 29/2022 privind aprobarea participării în cadrul Programului privind reducerea emisiilor de gazec cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehiculele de transport rutier nepoluant din punct de vedere energetic: stații de reîncărcare pentru vehicule electrice în localități",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252826",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-3-2022",
+   "path": "local/salaj/chiesd/2022/3",
+   "short": "HCL Chieșd nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 3/2022 privind aprobarea finațării nerambursabile de la bugetul local al comunei Chieșd, a sumei de 15.300 lei, pentru unitatea de cult Biserica Cultului Ortodox Român Sighetu Silvaniei",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252643",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-30-2022",
+   "path": "local/salaj/chiesd/2022/30",
+   "short": "HCL Chieșd nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 30/2022 privind aprobarea documentației tehnico-economice pentru investiția: \"Extindere bază sportivă, sat Chieșd, comuna Chieșd-finalizare lucrări, județul Sălaj\"",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252827",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-31-2022",
+   "path": "local/salaj/chiesd/2022/31",
+   "short": "HCL Chieșd nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 31/2022",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252828",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-32-2022",
+   "path": "local/salaj/chiesd/2022/32",
+   "short": "HCL Chieșd nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 32/2022 privind stabilirea si indexarea cu rata inflatiei a impozitelor si taxelor locale, precum si a taxelor speciale, pentru anul fiscal 2023",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252829",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-33-2022",
+   "path": "local/salaj/chiesd/2022/33",
+   "short": "HCL Chieșd nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 33/2022 privind aprobarea finațării nerambursabile de la bugetul local al comunei Chieșd, a sumei de 13.500 lei, pentru unitatea de cult Biserica Penticostala Chieșd",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252830",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-34-2022",
+   "path": "local/salaj/chiesd/2022/34",
+   "short": "HCL Chieșd nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 34/2022 privind aprobarea devizului general actualizat și indicatorii tehnico economici pentru obiectivul de investiție, Înființare retea inteligentă de gaze naturale în Com. Chieșd, jud. Sălaj”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252831",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-35-2022",
+   "path": "local/salaj/chiesd/2022/35",
+   "short": "HCL Chieșd nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 35/2022 privind aprobarea depunerii proiectului “RENOVAREAREA ENERGETICA A 4 CLADIRI REZIDENTIALE MULTIFAMILIALE DIN COMUNA CHIESD” , în cadrul apelurilor de proiecte cu titlul PNRR/2022/C5/1/A.3.1/1, PNRR/2022/C5/1/A.3.2/1, componenta 5 — Valul renovării, axa 1 — Schema de granturi pentru eficiență energetică și reziliență în clădiri rezidențiale multifamiliale, operațiunea A.3— Renovarea energetică moderată sau aprofundată a clădirilor rezidențiale multifamiliale",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252504",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-36-2022",
+   "path": "local/salaj/chiesd/2022/36",
+   "short": "HCL Chieșd nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 36/2022 privind aprobarea depunerii proiectului “SISTEM INTELIGENT DE MANAGEMENT LOCAL – MOBILIER URBAN INTELIGENT, IN COMUNA CHIEȘD, JUDETUL SALAJ”la Ministerul Dezvoltarii, Lucrarilor Publice si A dministratiei, prin Planul National de Redresare si Rezilienta– PNRR – COMPONENTA C10 – FONDUL LOCAL - INVESTITIAI.1.2: ASIGURAREA INFRASTRUCTURII PENTRU TRANSPORTUL VERDE – ITS/ALTE INFRASTRUCTURI TIC",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252505",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-37-2022",
+   "path": "local/salaj/chiesd/2022/37",
+   "short": "HCL Chieșd nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 37/2022",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252506",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-38-2022",
+   "path": "local/salaj/chiesd/2022/38",
+   "short": "HCL Chieșd nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 38/2022 privind premierea elevilor de pe raza Unității Administrativ Teritoriale CHIEȘD, cu rezultate deosebite la învățătură, olimpiade, concursuri județene, naționale, internaționale și evaluări naționale 2022;",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252508",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252508",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-39-2022",
    "path": "local/salaj/chiesd/2022/39",
    "short": "HCL Chieșd nr. 39/2022",
@@ -58,6 +478,21 @@
      "from": "2022-05-23",
      "units": 1,
      "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-4-2022",
+   "path": "local/salaj/chiesd/2022/4",
+   "short": "HCL Chieșd nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 4/2022 privind aprobarea finațării nerambursabile de la bugetul local al comunei Chieșd, a sumei de 30.000 lei, pentru unitatea de cult Biserica Cultului Ortodox Român, Parohia Ortodoxă Chieșd",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252645",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252645",
      "sha256": null
     }
    ]
@@ -163,6 +598,21 @@
      "from": "2022-08-16",
      "units": 1,
      "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-5-2022",
+   "path": "local/salaj/chiesd/2022/5",
+   "short": "HCL Chieșd nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 5/2022 privind aprobarea obiectivului de investiții și devizul general pentru proiectul: ,, Extindere rețele electrice de 0,4 Kv, în localitatea Chieșd”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252654",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252654",
      "sha256": null
     }
    ]
@@ -318,6 +768,51 @@
    ]
   },
   {
+   "slug": "hcl-salaj--chiesd-6-2022",
+   "path": "local/salaj/chiesd/2022/6",
+   "short": "HCL Chieșd nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 6/2022 privind aprobarea obiectivului de investiții și devizul general pentru proiectul: ,, Marcaje și indicatoare pe străzile din comuna Chieșd, jud. Sălaj”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252656",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-7-2022",
+   "path": "local/salaj/chiesd/2022/7",
+   "short": "HCL Chieșd nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 7/2022 privind aprobarea obiectivului de investiții și devizul general pentru proiectul,,Amenajare parcare la cimitirul din localitatea Chieșd, Comuna Chieșd, jud. Sălaj”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252658",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-8-2022",
+   "path": "local/salaj/chiesd/2022/8",
+   "short": "HCL Chieșd nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 8/2022 privind aprobarea obiectivului de investiții și devizul general pentru proiectul: ,, Reparații Grădinița Sighetu Silvaniei și construirea de scări și trotuar”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252663",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252663",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-86-2022",
    "path": "local/salaj/chiesd/2022/86",
    "short": "HCL Chieșd nr. 86/2022",
@@ -343,6 +838,21 @@
      "from": "2022-12-22",
      "units": 1,
      "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-9-2022",
+   "path": "local/salaj/chiesd/2022/9",
+   "short": "HCL Chieșd nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 9/2022 privind aprobarea susținerii financiare a Asociației Club Sportiv FC Chieșd, pentru anul competițional 2022-2023",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/252665",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/252665",
      "sha256": null
     }
    ]

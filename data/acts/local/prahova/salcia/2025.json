@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-prahova--salcia-5-2025",
+"path": "local/prahova/salcia/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 5/2025 privind aprobarea Documentatiei tehico-economice(fazaPT), a indicatorilor tehnico-econimici actualizati și a devizului general actualizat pentru obiectivul de investitie”ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ ÎN COMUNA SALCIA,JUDEȚUL PRAHOVA”,aprobat pentri finantare prin Programul Național de Investitii ”Anghel Saligny”,precum și a sumei reprezentând categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Salcia nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-13",
+"latest": "2025-03-13",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/194750",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--salcia-6-2025",
 "path": "local/prahova/salcia/2025/6",
 "kind": "local",
@@ -110,6 +132,29 @@
 "council_name": "Consiliul Local al Comunei Salcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--salcia-7-2025",
+"path": "local/prahova/salcia/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 7/2025",
+"short": "HCL Salcia nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/198858",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -154,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Salcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--salcia-10-2025",
+"path": "local/prahova/salcia/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 10/2025 privind stabilirea agentilor economici din comuna Salcia,județul Prahova, care vor fi prinsi în Programul de aprovizionare cu produse alimentare și nealimentare ce urmează a fi distribuite raționalizat populației în situații deosebite stabilite de lege",
+"short": "HCL Salcia nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/210992",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

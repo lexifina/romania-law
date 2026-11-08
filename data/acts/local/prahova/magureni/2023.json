@@ -3,6 +3,28 @@
 "shard": "local/prahova/magureni/2023",
 "acts": [
 {
+"slug": "hcl-prahova--magureni-1-2023",
+"path": "local/prahova/magureni/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 1/2023 privind aprobarea documentației tehnico -economică-studiul de fezabilitate și proiectul tehnic, a indicatorilor Tehnico - economici și a devizului general pentru obiectivul de investiții Reabilitare și extindere rețea alimentare cu apă în comuna Măgureni, județul Prahova - etapa 2 aprobat pentru finanțare în Programul Național de Investiții Anghel Saligny, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului,",
+"short": "HCL Măgureni nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/91795",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-2-2023",
 "path": "local/prahova/magureni/2023/2",
 "kind": "local",
@@ -69,6 +91,94 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-5-2023",
+"path": "local/prahova/magureni/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 5/2023 privind aprobarea Protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și UAT Măgureni, județul Prahova având ca obiect asigurarea colaborării interinstituționale MMSS și UAT Măgureni în cadrul proiectului \"HUB de servicii MMSS-SII MMSS\", Cod Mysmis 130963",
+"short": "HCL Măgureni nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/91806",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-6-2023",
+"path": "local/prahova/magureni/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 6/2023 privind aprobarea planului de actiuni/lucrari de interes local ce vor fi realizate in anul 2023 de catre persoanele apte de munca din familiile beneficiare de ajutor social, precum si de persoanele obligate sa presteze munca in folosul comunitatii",
+"short": "HCL Măgureni nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/93572",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-7-2023",
+"path": "local/prahova/magureni/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 7/2023 privind rectificarea bugetului local de venituri si cheltuieli si a listei de investitii pe anul 2023",
+"short": "HCL Măgureni nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/93573",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-8-2023",
+"path": "local/prahova/magureni/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 8/2023 privind aprobarea alocarii din bugetul local a sumei de 6000 lei ce reprezinta cadouri oferite angajatelor cu ocazia zilei de 8 Martie",
+"short": "HCL Măgureni nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/93574",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-9-2023",
 "path": "local/prahova/magureni/2023/9",
 "kind": "local",
@@ -88,6 +198,50 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-10-2023",
+"path": "local/prahova/magureni/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 10/2023 privind aprobarea documentatiei de avizare a lucrarilor de interventii, a indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitii \"Reabilitarea si modernizare DJ 145 - km 3+820 m - km 5 + 870 m, comuna Magureni, judetul Prahova\" aprobat pentru finantare in Programul National de Investitii \"Anghel Saligny\", precum si a sumei reprezentand categorii de cheltuieli finantate din bugetul local pentru realizarea obiectivului",
+"short": "HCL Măgureni nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/93576",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-11-2023",
+"path": "local/prahova/magureni/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 11/2023 privind alegerea presedintelui de sedinta pentru lunile martie, aprilie si mai 2023",
+"short": "HCL Măgureni nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/93577",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +330,72 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-16-2023",
+"path": "local/prahova/magureni/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 16/2023 privind participarea Comunai Magureni in cadrul Programului privind casarea autovehiculelor uzate",
+"short": "HCL Măgureni nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/104029",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-17-2023",
+"path": "local/prahova/magureni/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 17/2023 privind aprobarea documentatiei de avizare a lucrarilor de interventii, a indicatorilor tehnoco-economici si a devizului general pentru obiectivul de investitii \"Reabilitare si modernizare DJ 145 - km 3+820 m - km 5+870 m , comuna Magureni, judetul Prahova\" aprobat pentru finantare in Programul National de Investitii \" Anghel Saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Măgureni nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/104030",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-18-2023",
+"path": "local/prahova/magureni/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 18/2023 privind relocarea cabinetelor medicale individuale din cladirea situata in comuna Magureni, strada Cantacuzinilor, nr. 140 in cladirea din comuna Magureni, strada Cantacuzinilor, nr. 354 - Centrul Multifunctiional - parter, inscris in CF cu NC 20787-C2-U2",
+"short": "HCL Măgureni nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/104071",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -334,6 +554,51 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-26-2023",
+"path": "local/prahova/magureni/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 26/2023 privind alegerea presedintelui de sedinta pentru lunile iunie, iulie si august",
+"short": "HCL Măgureni nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/105493",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-27-2023",
+"path": "local/prahova/magureni/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 27/2023",
+"short": "HCL Măgureni nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/113375",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--magureni-28-2023",
 "path": "local/prahova/magureni/2023/28",
 "kind": "local",
@@ -375,6 +640,29 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-30-2023",
+"path": "local/prahova/magureni/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 30/2023",
+"short": "HCL Măgureni nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-03",
+"latest": "2023-10-03",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/115349",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

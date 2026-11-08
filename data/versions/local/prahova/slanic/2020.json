@@ -3,6 +3,111 @@
  "shard": "local/prahova/slanic/2020",
  "acts": [
   {
+   "slug": "hcl-prahova--slanic-1-2020",
+   "path": "local/prahova/slanic/2020/1",
+   "short": "HCL Slănic nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 1/2020 privind acoperirea definitivă din excedentul bugetului local a deficitului secţiunii de dezvoltare şi secţiunii de funcţionare din 08.01.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl1_08012020.pdf",
+     "sha256": "744921fa50af325050330fab23903773a711a7aa079830b1f8638a8544f4f35a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-10-2020",
+   "path": "local/prahova/slanic/2020/10",
+   "short": "HCL Slănic nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 10/2020 privind aprobarea utilizării excedentului bugetului local al oraşului Slănic , aferent anului 2019, în anul 2020 din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl10_31012020.pdf",
+     "sha256": "f09829d8ef933345542dfe380d5e2b6bdf84b1992f0b0888b8171d4d2c955903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-11-2020",
+   "path": "local/prahova/slanic/2020/11",
+   "short": "HCL Slănic nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 11/2020 privind încheierea unor contracte de consultanţă, asistenţă şi reprezentare juridică , pentru anul 2020 din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl11_31012020.pdf",
+     "sha256": "0bb0044da95e9ce4c80404adc4041044982ac9d967455787bd3b2fa09b51358a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-12-2020",
+   "path": "local/prahova/slanic/2020/12",
+   "short": "HCL Slănic nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 12/2020 privind alegerea președintelui de ședința pe lunile martie-mai 2020 din 28.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl12_28022020.pdf",
+     "sha256": "b52b92f2a4ccf5651fcfa33887ebcc6e0175e6fddd80d68a8c0495ebab9caf01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-16-2020",
+   "path": "local/prahova/slanic/2020/16",
+   "short": "HCL Slănic nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 16/2020 privind închirierea prin licitaţie publică a cabinetului stomatologic și a spațiilor comune, apartinand domeniului privat al orasului Slanic din 28.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl16_28022020.pdf",
+     "sha256": "ceb8fb0076ba71e8ca0dc8d3050375eb74b7d0b830041d6c39070c467cb2d3ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-17-2020",
+   "path": "local/prahova/slanic/2020/17",
+   "short": "HCL Slănic nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 17/2020 privind aprobarea Bugetului de Venituri si Cheltuieli al oraşului Slănic, pe anul 2020 si estimarea pentru anii 2021 – 2023 din 28.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl17_28022020.pdf",
+     "sha256": "88356b7d0bd4c652cd1266aff7f0e0eb1b35ac4eef35444f983519376f0239c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-2-2020",
+   "path": "local/prahova/slanic/2020/2",
+   "short": "HCL Slănic nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 2/2020 privind acoperirea definitivă din excedentul bugetului local, a deficitului secţiunii de dezvoltare şi secţiunii de funcţionare pentru încheierea exerciţiului bugetului local al oraşului Slănic pe anul 2019 din 08.01.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl2_08012020.pdf",
+     "sha256": "bd2663e9fa2fb2e8b1a55fcbc754576dbf60faa7a80f42445e9c95814f605f15"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--slanic-20-2020",
    "path": "local/prahova/slanic/2020/20",
    "short": "HCL Slănic nr. 20/2020",
@@ -29,6 +134,21 @@
      "units": 1,
      "source_url": "http://www.primariaslanic.ro/arhiva/documente/hotarari/2020/hcl21_29042020.pdf",
      "sha256": "87551b4e25f4c53a0fd242002b400e961741e48572a55848e5ba97b2cdd164a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-22-2020",
+   "path": "local/prahova/slanic/2020/22",
+   "short": "HCL Slănic nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 22/2020 privind punerea la dispoziția proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Prahova , în perioada 2014-2020 pentru obiectivele de investiții din 29.04.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2017.htm",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2017/hcl22_28042017.pdf",
+     "sha256": "0c8acf96cc00f36d7ba224c1a454b085b39be8b4cc1a7465e63975fd65a35907"
     }
    ]
   },
@@ -123,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--slanic-3-2020",
+   "path": "local/prahova/slanic/2020/3",
+   "short": "HCL Slănic nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 3/2020 privind aprobarea Strategiei locale de dezvoltare şi funcţionare pe termen mediu şi lung a serviciului de salubrizare la nivelul oraşului Slănic din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl3_31012020.pdf",
+     "sha256": "7a666ff633ba18d5d71ee1c97067a54852134a974822154a0e6173233f33af5f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--slanic-30-2020",
    "path": "local/prahova/slanic/2020/30",
    "short": "HCL Slănic nr. 30/2020",
@@ -168,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--slanic-4-2020",
+   "path": "local/prahova/slanic/2020/4",
+   "short": "HCL Slănic nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 4/2020 pentru înfiinţarea Serviciului local de salubrizare Slănic din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-03-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl4_31012020.pdf",
+     "sha256": "a37740737cc3e0207b50d4f19fe8b390c76e93692ce20fdf394c7a27033c0b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-5-2020",
+   "path": "local/prahova/slanic/2020/5",
+   "short": "HCL Slănic nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 5/2020 privind stabilirea modalităţii de gestiune a activităţilor de dezinsecţie, dezinfecţie şi deratizare în oraşul Slănic din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl5_31012020.pdf",
+     "sha256": "fbfe540f20635961c21d700c5ea65b3597d968530c7e5ba647933b7573cca4ae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--slanic-57-2020",
    "path": "local/prahova/slanic/2020/57",
    "short": "HCL Slănic nr. 57/2020",
@@ -179,6 +344,66 @@
      "units": 1,
      "source_url": "http://www.primariaslanic.ro/arhiva/documente/hot_CNSU_57_07122020.pdf",
      "sha256": "10b42f97634dbd39e97a7a4c17aacaa64e12b0352bcced8abaafefbec9b0077d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-6-2020",
+   "path": "local/prahova/slanic/2020/6",
+   "short": "HCL Slănic nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 6/2020 privind aprobarea Planului de acţiuni şi lucrări de interes local pe anul 2020, ce vor fi executate de beneficiarii de ajutor social din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl6_31012020.pdf",
+     "sha256": "5dee7121a5ea9189fea44268358165ab90bbf82708b90e6aabbf82ccc2a90442"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-7-2020",
+   "path": "local/prahova/slanic/2020/7",
+   "short": "HCL Slănic nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 7/2020 privind aprobarea Programului de măsuri pentru prevenirea şi combaterea marginalizării sociale pentru anul 2020 din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-04",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl7_31012020.pdf",
+     "sha256": "6bb5c35c057085019f3d8b9cb13ee7443a61fc14aa1b7727fb6974d5bb13868d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-8-2020",
+   "path": "local/prahova/slanic/2020/8",
+   "short": "HCL Slănic nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 8/2020 privind aprobarea Planului anual de acţiune privind serviciile sociale pe anul 2020 al Direcţiei de asistenţă socială din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl8_31012020.pdf",
+     "sha256": "8a94998aa8b8d68a1362cbf29873cb7356409d64cc53c09d42cabc040361bffa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-9-2020",
+   "path": "local/prahova/slanic/2020/9",
+   "short": "HCL Slănic nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 9/2020 privind aprobarea contului de execuţie al bugetului local al oraşului Slănic , încheiat la 31 decembrie 2019 din 03.02.2020",
+   "url": "https://primariaslanic.ro/arhiva/hotarari.htm",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2020/hcl9_31012020.pdf",
+     "sha256": "6c3d857e653cd5350d5f932a50bc9be1733fe28fc675dde8daa847ed96bb1467"
     }
    ]
   }

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-prahova--salcia-3-2024",
+"path": "local/prahova/salcia/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 3/2024 prinvind alegerea presedintelui de ședință precum și a inlocuitorului acestuia in cazul lipsei titularului",
+"short": "HCL Salcia nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/142617",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--salcia-4-2024",
 "path": "local/prahova/salcia/2024/4",
 "kind": "local",

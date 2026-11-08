@@ -223,6 +223,28 @@
 }
 },
 {
+"slug": "hcl-prahova--manesti-11-2025",
+"path": "local/prahova/manesti/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 11/2025 privind desemnarea Primarului ca reprezentat CL in relatia cu Ministerul Energiei",
+"short": "HCL Mănești nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-19",
+"latest": "2025-02-19",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/192722",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--manesti-12-2025",
 "path": "local/prahova/manesti/2025/12",
 "kind": "local",
@@ -264,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--manesti-14-2025",
+"path": "local/prahova/manesti/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 14/2025 privind aprobarea numărului asistenților personali ai persoanelor cu handicap grav în anul 2025 și a indemnizațiilor persoanelor cu handicap grav",
+"short": "HCL Mănești nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/199781",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -550,6 +594,51 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--manesti-28-2025",
+"path": "local/prahova/manesti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 28/2025",
+"short": "HCL Mănești nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/201328",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--manesti-29-2025",
+"path": "local/prahova/manesti/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 29/2025 privind închirierea prin atribuire directă a unor suprafețe de pajiști (pășune) aflate în domeniul privat al comunei Mănești, sat Coada Izvorului, județul Prahova",
+"short": "HCL Mănești nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/201329",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1104,6 +1193,29 @@
 }
 },
 {
+"slug": "hcl-prahova--manesti-55-2025",
+"path": "local/prahova/manesti/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 55/2025",
+"short": "HCL Mănești nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/226302",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--manesti-56-2025",
 "path": "local/prahova/manesti/2025/56",
 "kind": "local",
@@ -1170,6 +1282,29 @@
 }
 },
 {
+"slug": "hcl-prahova--manesti-59-2025",
+"path": "local/prahova/manesti/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 59/2025",
+"short": "HCL Mănești nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/226418",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--manesti-60-2025",
 "path": "local/prahova/manesti/2025/60",
 "kind": "local",
@@ -1211,6 +1346,28 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--manesti-62-2025",
+"path": "local/prahova/manesti/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 62/2025 privind aprobarea amplasării, pe domeniul public, a unor echipamente automate de preluare a ambalajelor SGR",
+"short": "HCL Mănești nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/226421",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1258,6 +1415,29 @@
 }
 },
 {
+"slug": "hcl-prahova--manesti-65-2025",
+"path": "local/prahova/manesti/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 65/2025",
+"short": "HCL Mănești nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/226617",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--manesti-66-2025",
 "path": "local/prahova/manesti/2025/66",
 "kind": "local",
@@ -1277,6 +1457,50 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--manesti-67-2025",
+"path": "local/prahova/manesti/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 67/2025 privind aprobarea desfasurarii programului “INDEXUL ANIMALELOR” si a Regulamentului privind gestionarea cainilor cu stapan pe raza comunei Manesti",
+"short": "HCL Mănești nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/226619",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--manesti-68-2025",
+"path": "local/prahova/manesti/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 68/2025 privind aprobarea Organigramei şi a Ștatului de funcţii ale aparatului de specialitate al Primarului comunei Mănești, județul Prahova",
+"short": "HCL Mănești nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/226620",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1497,6 +1721,50 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--manesti-79-2025",
+"path": "local/prahova/manesti/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 79/2025 privind privind închirierea prin licitație publică a terenului în suprafață de 2 mp aparținînd domeniului public al comunei Mănești, înscris in cartea funciară nr. 27013, în vederea amplasării unui terminal automat de depozitare si livrare colete-locker",
+"short": "HCL Mănești nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/238838",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--manesti-80-2025",
+"path": "local/prahova/manesti/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 80/2025 privind desemnarea reprezentantului Consiliului Local Măneşti , judeţul Prahova în Comisia pentru Asigurarea Calității Educației, pentru anul şcolar 2025-2026",
+"short": "HCL Mănești nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/238839",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

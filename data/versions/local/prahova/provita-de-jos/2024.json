@@ -228,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--provita-de-jos-23-2024",
+   "path": "local/prahova/provita-de-jos/2024/23",
+   "short": "HCL Provița de Jos nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 23/2024 privind stabilirea situațiilor considerate deosebite precum și a criteriilor de acordare a unor ajutoare de urgenta",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190415",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190415",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--provita-de-jos-24-2024",
    "path": "local/prahova/provita-de-jos/2024/24",
    "short": "HCL Provița de Jos nr. 24/2024",
@@ -418,6 +433,36 @@
      "from": "2024-07-25",
      "units": 1,
      "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-36-2024",
+   "path": "local/prahova/provita-de-jos/2024/36",
+   "short": "HCL Provița de Jos nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 36/2024 privind stabilirea situațiilor considerate deosebite precum și a criteriilor de acordare a unor ajutoare de urgență",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190490",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-37-2024",
+   "path": "local/prahova/provita-de-jos/2024/37",
+   "short": "HCL Provița de Jos nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 37/2024 privind aprobarea majorării cu 10% față de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al Primarului Comunei Provița de Jos, în vederea punerii în aplicare a prevederilor Articolului II din Ordonanța de Urgență a Guvernului nr. 53/2024 și aprobarea decontării dispozitivelor de corecție speciale",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/190491",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/190491",
      "sha256": null
     }
    ]

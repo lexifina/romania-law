@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-prahova--scorteni-2-2026",
+"path": "local/prahova/scorteni/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 2/2026",
+"short": "HCL Scorțeni nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/252567",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--scorteni-3-2026",
 "path": "local/prahova/scorteni/2026/3",
 "kind": "local",
@@ -44,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Scorțeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-4-2026",
+"path": "local/prahova/scorteni/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 4/2026 privind actualizarea Comisiei locale de ordine publica a Comunei Scorteni",
+"short": "HCL Scorțeni nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/255531",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-prahova--scorteni-6-2026",
+"path": "local/prahova/scorteni/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 6/2026 privind aprobarea alocarii unor sume din bugetul local in vederea achizitiei serviciilor de elaborare “ Studiu pedologic “ necesare finalizarii obiectivului de investitii “Elaborarea/ actualizarea in format GIS a documentelor de amenajare a teritoriului si de planificare urbana in cadrul UAT Scorteni“, proiect finantat prin Programul National de Redresare si Rezilienta (PNRR)",
+"short": "HCL Scorțeni nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-25",
+"latest": "2026-03-25",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/255533",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--scorteni-7-2026",
 "path": "local/prahova/scorteni/2026/7",
 "kind": "local",
@@ -91,6 +158,51 @@
 }
 },
 {
+"slug": "hcl-prahova--scorteni-8-2026",
+"path": "local/prahova/scorteni/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 8/2026 privind aprobarea închirierii prin atribuire directa a pajiştilor proprietate privata a Comunei Scorteni, în suprafaţă de 8.9968 ha",
+"short": "HCL Scorțeni nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/261807",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-9-2026",
+"path": "local/prahova/scorteni/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 9/2026",
+"short": "HCL Scorțeni nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/261808",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--scorteni-10-2026",
 "path": "local/prahova/scorteni/2026/10",
 "kind": "local",
@@ -110,6 +222,28 @@
 "council_name": "Consiliul Local al Comunei Scorțeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-11-2026",
+"path": "local/prahova/scorteni/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 11/2026 privind închirierea prin licitaţie publică a unui imobil, format din : clădire (fosta gradinita) si teren aferent situat în Comuna Scorteni, sat Mislea, str.Campinei, nr.17, pentru desfăşurarea de activităţi de recuperare medicala și alte activitati conexe",
+"short": "HCL Scorțeni nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/261810",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +288,50 @@
 "council_name": "Consiliul Local al Comunei Scorțeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-14-2026",
+"path": "local/prahova/scorteni/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 14/2026 privind aprobarea numărului maxim de posturi încadrate la nivelul comunei Scorțeni, județul Prahova",
+"short": "HCL Scorțeni nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/262927",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-15-2026",
+"path": "local/prahova/scorteni/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 15/2026 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav şi a numărului de indemnizaţii de handicap, la nivelul comunei Scorteni in anul 2026",
+"short": "HCL Scorțeni nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/266734",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +423,50 @@
 }
 },
 {
+"slug": "hcl-prahova--scorteni-20-2026",
+"path": "local/prahova/scorteni/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 20/2026 privind privind aprobarea contului de executie al bugetului local si al bugetului institutiilor publice finantate din venituri proprii si subventii din bugetul local la 31.03.2026",
+"short": "HCL Scorțeni nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/266739",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-21-2026",
+"path": "local/prahova/scorteni/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 21/2026 privind aprobarea decontarii navetei cadrelor didactice si a personalului didactic auxiliar, care îşi desfăşoară activitatea pe raza comunei Scorţeni, pentru anul scolar 2025 - 2026",
+"short": "HCL Scorțeni nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/266740",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--scorteni-22-2026",
 "path": "local/prahova/scorteni/2026/22",
 "kind": "local",
@@ -267,6 +489,271 @@
 }
 },
 {
+"slug": "hcl-prahova--scorteni-23-2026",
+"path": "local/prahova/scorteni/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 23/2026 privind aprobarea Raportului privind activitatea desfăşurată de către asistenţii personali ai persoanelor cu grad de handicap grav, pentru semestrul II din anul 2025, la nivelul UAT Scorțeni, județul Prahova",
+"short": "HCL Scorțeni nr. 23/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/266742",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-24-2026",
+"path": "local/prahova/scorteni/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 24/2026 privind aprobarea rezultatului evaluarii anuale a managementului Caminului Cultural Scorteni, institutie publica de cultură din subordinea Consiliului Local al Comunei Scorteni – Judetul Prahova",
+"short": "HCL Scorțeni nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/266743",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-25-2026",
+"path": "local/prahova/scorteni/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 25/2026 privind instituirea unui drept de uz și a unui drept de servitute legala de trecere subterana si supraterana pe terenul afecta de bicetivul/sistemul din doemniul gazelor naturalae, teren proprietate publica a comunei Scorteni, în favoarea DISTRIGAZ SUD REȚELE SRL",
+"short": "HCL Scorțeni nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-22",
+"latest": "2026-05-22",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/266744",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-26-2026",
+"path": "local/prahova/scorteni/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 26/2026",
+"short": "HCL Scorțeni nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-02",
+"latest": "2026-06-02",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/269790",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-27-2026",
+"path": "local/prahova/scorteni/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 27/2026 privind aprobarea prelungirii contractului de inchiriere nr.12139/14.06.2021, incheiat intre UAT Scorteni si Asociatia CARP Campina",
+"short": "HCL Scorțeni nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/275476",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-28-2026",
+"path": "local/prahova/scorteni/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 28/2026 privind însușirea Acordului de cooperare privind organizarea şi exercitarea activității de contabilitate",
+"short": "HCL Scorțeni nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/275477",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-29-2026",
+"path": "local/prahova/scorteni/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 29/2026 privind inventarierea in domeniul privat al terenului in suprafata de 73 m.p. faneata, situat in extravilanul comunei Scorteni, Tarlaua 20, parcela 907/1",
+"short": "HCL Scorțeni nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/275478",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-30-2026",
+"path": "local/prahova/scorteni/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 30/2026 privind modificarea HCL nr.28/24.06.2026 pentru însușirea Acordului de cooperare privind organizarea şi exercitarea activității de contabilitate",
+"short": "HCL Scorțeni nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-29",
+"latest": "2026-07-29",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/277670",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-31-2026",
+"path": "local/prahova/scorteni/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 31/2026 privind privind aprobarea contului de executie al bugetului local si al bugetului institutiilor publice finantate din venituri proprii si subventii din bugetul local la 30.06.2026",
+"short": "HCL Scorțeni nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-04",
+"latest": "2026-08-04",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/279902",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-32-2026",
+"path": "local/prahova/scorteni/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 32/2026 privind aprobarea obiectivului de investitii \" Execuție Sistem de supraveghere video la sediul Primariei din strada Principală-Centru, nr.2\"",
+"short": "HCL Scorțeni nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/279903",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-33-2026",
+"path": "local/prahova/scorteni/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 33/2026 privind aprobarea obiectivului de investitii \"Achizitie unitate de casierie cu sertare cu deschidere temporizata\"",
+"short": "HCL Scorțeni nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-17",
+"latest": "2026-08-17",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/279904",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-34-2026",
+"path": "local/prahova/scorteni/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 34/2026 privind aprobarea rectificarii bugetului local al comunei Scorteni și al bugetului instituțiilor publice finanțate parțial din venituri proprii și subvenții, pe anul 2026",
+"short": "HCL Scorțeni nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-04",
+"latest": "2026-08-04",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/279905",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--scorteni-35-2026",
 "path": "local/prahova/scorteni/2026/35",
 "kind": "local",
@@ -286,6 +773,50 @@
 "council_name": "Consiliul Local al Comunei Scorțeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-36-2026",
+"path": "local/prahova/scorteni/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 36/2026 privind achizitionarea de numere de inregistrare a vehiculelor care nu se supun inmatricularii",
+"short": "HCL Scorțeni nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/283344",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-37-2026",
+"path": "local/prahova/scorteni/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 37/2026 privind aprobarea deplasarii Ansamblului „ Datina Scorteni” la Festivalul International „ BALKAN FOLK FEST - SEASON 2026 ”, in Varna, Bulgaria",
+"short": "HCL Scorțeni nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/283345",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

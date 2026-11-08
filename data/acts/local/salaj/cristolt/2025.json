@@ -3,6 +3,94 @@
 "shard": "local/salaj/cristolt/2025",
 "acts": [
 {
+"slug": "hcl-salaj--cristolt-7-2025",
+"path": "local/salaj/cristolt/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 7/2025 privind aprobarea bugetului pe anul 2025 și a contului de închieiere a exercițiului bugetar pe anul 2024",
+"short": "HCL Cristolț nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/199821",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-8-2025",
+"path": "local/salaj/cristolt/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 8/2025 privind aprobarea inchirierii, prin licitaţie publică, a unui spaţiului proprietatea publică a Comunei Cristolț, în suprafaţă de 81 mp situat in sat Cristolț, nr. 27",
+"short": "HCL Cristolț nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/199822",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-9-2025",
+"path": "local/salaj/cristolt/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 9/2025 privind privind aprobarea acordului de participare a comunei Cristolț, judeţul Sălaj, în cadrul Programului ,, Rabla pentru Sobe 2025",
+"short": "HCL Cristolț nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/199823",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-10-2025",
+"path": "local/salaj/cristolt/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 10/2025 privind aprobarea achiziției de servicii de arhivare a documentelor comunei Cristolț",
+"short": "HCL Cristolț nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-14",
+"latest": "2025-04-14",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/202850",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--cristolt-11-2025",
 "path": "local/salaj/cristolt/2025/11",
 "kind": "local",
@@ -22,6 +110,316 @@
 "council_name": "Consiliul Local al Comunei Cristolț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-12-2025",
+"path": "local/salaj/cristolt/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 12/2025 privind aprobarea propunerii spre finanțare a investiției ”Actualizarea Planului Urbanistic General al Comunei Cristolț, a regulamentului local de urbanism și transpunerea PUG-ului în sistem GIS (Geographic Information Systems)” în cadrul Programului multianual privind finanţarea elaborării şi/sau actualizării planurilor urbanistice generale ale localităţilor şi a regulamentelor locale de urbanism",
+"short": "HCL Cristolț nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/205383",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-13-2025",
+"path": "local/salaj/cristolt/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 13/2025",
+"short": "HCL Cristolț nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-12",
+"latest": "2025-05-12",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/205384",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-14-2025",
+"path": "local/salaj/cristolt/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 14/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Cristolț pentru perioada Iunie, Iulie, August 2025",
+"short": "HCL Cristolț nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/207755",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-15-2025",
+"path": "local/salaj/cristolt/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 15/2025 privind aprobarea achiziționării de servicii de curățare a pășuni din localitatea Muncel aflată în domeniul privat al comunei Cristolț, în scopul închirieri acesteia",
+"short": "HCL Cristolț nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/207756",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-16-2025",
+"path": "local/salaj/cristolt/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 16/2025",
+"short": "HCL Cristolț nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/207757",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-17-2025",
+"path": "local/salaj/cristolt/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 17/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Cristolț nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/211501",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-18-2025",
+"path": "local/salaj/cristolt/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 18/2025 privind aprobarea Devizului General pentru realizarea obiectivului de investitii\" LUCRARI DE REPARATII CURENTE LA CASA SPECIALISTULUI ȘI DISPENSAR UMAN” in comuna Cristolț,judetul Sălaj",
+"short": "HCL Cristolț nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/211502",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-19-2025",
+"path": "local/salaj/cristolt/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 19/2025 privind aprobarea Devizului General pentru realizarea obiectivului de investitii\" LUCRARI DE REPARATII CURENTE LA PRIMĂRIE + ȘCOALA VECHE CRISTOLȚ” in comuna Cristolț,judetul Sălaj",
+"short": "HCL Cristolț nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/211503",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-20-2025",
+"path": "local/salaj/cristolt/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 20/2025 privind aprobarea Devizului General pentru realizarea obiectivului de investitii\" LUCRARI DE REPARATII CURENTE LA ȘCOALA PRIMARĂ VĂLENI” in comuna Cristolț,judetul Sălaj",
+"short": "HCL Cristolț nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/211504",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-21-2025",
+"path": "local/salaj/cristolt/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 21/2025 privind aprobarea Devizului General pentru realizarea obiectivului de investitii\" MODERNIZARE GRUP SANITAR LA CĂMINUL CULTURAL VĂLENI” in comuna Cristolț,judetul Sălaj",
+"short": "HCL Cristolț nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/211505",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-22-2025",
+"path": "local/salaj/cristolt/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 22/2025 privind aprobarea delegării dreptului de folosință gratuită a unor bunuri imobile, de natura clădirilor+teren în favoarea, Şcolii Gimnaziale nr. 1 Cristolț, județul Sălaj,",
+"short": "HCL Cristolț nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/211506",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-23-2025",
+"path": "local/salaj/cristolt/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 23/2025 privind aderarea comunei Cristolț la Parteneriatul nr. 1871 din 13.05.2022 încheiat între comuna Bălan, județul Sălaj și comuna Gârbou județul Sălaj privind înoirea parcului de vehicule destinate transportului public prin achiziția unui microbuz (vehicul nepoluant)",
+"short": "HCL Cristolț nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-16",
+"latest": "2025-06-16",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/211507",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-24-2025",
+"path": "local/salaj/cristolt/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 24/2025 privind includerea comunei Cristolț în proiectului Înnoirea parcului de vehicule destinate transportului public prin achiziția unui microbuz (vehicul nepoluant) pentru comuna Bălan, județul Sălaj",
+"short": "HCL Cristolț nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-21",
+"latest": "2025-07-21",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/216564",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-25-2025",
+"path": "local/salaj/cristolt/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 25/2025 privind scoaterea din funcţiune și casarea unor mijloace fixe și obiecte de inventar, din proprietatea privată a comunei Cristolț",
+"short": "HCL Cristolț nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-21",
+"latest": "2025-07-21",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/216565",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +445,94 @@
 }
 },
 {
+"slug": "hcl-salaj--cristolt-27-2025",
+"path": "local/salaj/cristolt/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 27/2025 privind aprobarea Programului anual propriu pentru acordarea de finanţări nerambursabile din bugetul local al comunei CRISTOLT alocate pentru activităţi nonprofit de interes local pentru anul 2025",
+"short": "HCL Cristolț nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-21",
+"latest": "2025-07-21",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/216567",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-28-2025",
+"path": "local/salaj/cristolt/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 28/2025 privind aprobarea Planului de dezvoltare a serviciilor sociale prevăzut la art. 3 alin. (2) din Legea 100/2024 din 16 aprilie 2024 pentru modificarea și completarea unor acte normative în domeniul asistenței sociale, precum și pentru completarea Legii nr. 78/2014 privind reglementarea activității de voluntariat în România și pentru modificarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului în vederea depunerii documentației de acreditare a Primăriei ca si furnizor de servicii sociale",
+"short": "HCL Cristolț nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/221960",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-29-2025",
+"path": "local/salaj/cristolt/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 29/2025 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Cristolț pe o perioadă de 3 luni Septembrie, Octombrie, Noiembrie 2025",
+"short": "HCL Cristolț nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223026",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-30-2025",
+"path": "local/salaj/cristolt/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 30/2025 privind aprobarea încheierii unor contracte de asistență juridică, cu un cabinet de avocat în vederea asigurării reprezentării în fața instanței de judecată, asistare juridică și consultanță pentru apărarea intereselor juridice ale UAT Cristolț și ale Consiliului Local al comunei Cristolț",
+"short": "HCL Cristolț nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223027",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--cristolt-31-2025",
 "path": "local/salaj/cristolt/2025/31",
 "kind": "local",
@@ -66,6 +552,183 @@
 "council_name": "Consiliul Local al Comunei Cristolț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-32-2025",
+"path": "local/salaj/cristolt/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 32/2025 privind desemnarea reprezentantului Consiliului Local al comunei Cristolț în Consiliul de administraţie al Școlii Gimnaziale nr. 1 Cristolț",
+"short": "HCL Cristolț nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223029",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-33-2025",
+"path": "local/salaj/cristolt/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 33/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Cristolț nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223030",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-34-2025",
+"path": "local/salaj/cristolt/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 34/2025",
+"short": "HCL Cristolț nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223031",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-35-2025",
+"path": "local/salaj/cristolt/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 35/2025 privind aprobarea Regulamentului de Organizare si Functionare a Consiliului Local al comunei Cristolț, jud Sălaj,",
+"short": "HCL Cristolț nr. 35/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223032",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-36-2025",
+"path": "local/salaj/cristolt/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 36/2025 privind aprobare cuantumul indemnizație consilieri locali",
+"short": "HCL Cristolț nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223033",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-37-2025",
+"path": "local/salaj/cristolt/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 37/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Cristolț nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223034",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-38-2025",
+"path": "local/salaj/cristolt/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 38/2025 privind aprobarea depunerii proiectului cu titlul: „Împreună pentru Cristolț – grijă și respect pentru oameni”; Program: “Programul Incluziune și Demnitate Socială 2021 – 2027” PIDS/632/PIDS_P6/OP4/ESO4.11/PIDS_A26 - Servicii de îngrijire la domiciliu pentru persoanele vârstnice - Regiuni mai putin dezvoltate",
+"short": "HCL Cristolț nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/223035",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-39-2025",
+"path": "local/salaj/cristolt/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 39/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Cristolț nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/226995",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +754,28 @@
 }
 },
 {
+"slug": "hcl-salaj--cristolt-41-2025",
+"path": "local/salaj/cristolt/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 41/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Cristolț nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/230401",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--cristolt-42-2025",
 "path": "local/salaj/cristolt/2025/42",
 "kind": "local",
@@ -110,6 +795,50 @@
 "council_name": "Consiliul Local al Comunei Cristolț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-43-2025",
+"path": "local/salaj/cristolt/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 43/2025 privind aprobarea contractului de lucrări pentru obiectivul de investiții „LUCRĂRI DE REPARAȚII LA PODEȚE ÎN COMUNA CRISTOLȚ”",
+"short": "HCL Cristolț nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/230403",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cristolt-44-2025",
+"path": "local/salaj/cristolt/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cristolț nr. 44/2025 privind aprobarea Acordului de asociere între Consiliul Județean Sălaj, și Comuna Cristolț, pentru executarea lucrărilor de întreținere pe timp de iarnă a unor sectoare de drum județean din administrarea Consiliului Județean Sălaj pentru perioada de iarna 2025-2026",
+"short": "HCL Cristolț nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/cristolt-sj/registru-hcl/230404",
+"council": "salaj/cristolt",
+"council_name": "Consiliul Local al Comunei Cristolț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--vadu-sapat-3-2024",
+   "path": "local/prahova/vadu-sapat/2024/3",
+   "short": "HCL Vadu Săpat nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 3/2024 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav si a numarului de indemnizatii pentru persoane cu handicap grav, pentru anul 2024",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/137410",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/137410",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-30-2024",
    "path": "local/prahova/vadu-sapat/2024/30",
    "short": "HCL Vadu Săpat nr. 30/2024",
@@ -733,6 +748,21 @@
      "from": "2024-02-09",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/137413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-7-2024",
+   "path": "local/prahova/vadu-sapat/2024/7",
+   "short": "HCL Vadu Săpat nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 7/2024 privind majorarea salariilor de baza ale angajaților Primăriei Comunei Vadu Sapat și indemnizațiilor demnitarilor de la nivelul Comunei Vadu Sapat, conform OUG 115/2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/137414",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/137414",
      "sha256": null
     }
    ]

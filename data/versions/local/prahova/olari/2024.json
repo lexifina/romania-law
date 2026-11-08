@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-11-2024",
+   "path": "local/prahova/olari/2024/11",
+   "short": "HCL Olari nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 11/2024 privind aprobarea organigramei, a statului de funcţii si a numarului de personal al aparatului de specialitate al primarului comunei Olari, pentru anul 2024, a numarului de asistenti personali ai persoanelor cu handicap precum si a listei cu beneficiarii indemnizatiilor lunare pentru persoane cu handicap",
+   "url": "https://emol.ro/olari-ph/registru-hcl/158914",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/158914",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-12-2024",
    "path": "local/prahova/olari/2024/12",
    "short": "HCL Olari nr. 12/2024",
@@ -148,6 +163,21 @@
      "from": "2024-09-25",
      "units": 1,
      "source_url": "https://emol.ro/olari-ph/registru-hcl/170299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-2-2024",
+   "path": "local/prahova/olari/2024/2",
+   "short": "HCL Olari nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 2/2024 privind desemnarea a doi consilieri locali, în calitate de membri ai Comisiei de evaluare a performanţelor profesionale ale Secretarului General al Comunei Olari, judetul Prahova, pentru activitatea desfăşurată în anul 2023",
+   "url": "https://emol.ro/olari-ph/registru-hcl/143212",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/143212",
      "sha256": null
     }
    ]

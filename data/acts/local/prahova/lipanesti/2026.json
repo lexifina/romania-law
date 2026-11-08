@@ -290,6 +290,29 @@
 }
 },
 {
+"slug": "hcl-prahova--lipanesti-14-2026",
+"path": "local/prahova/lipanesti/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 14/2026",
+"short": "HCL Lipănești nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-29",
+"latest": "2026-04-29",
+"portal": null,
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--lipanesti-15-2026",
 "path": "local/prahova/lipanesti/2026/15",
 "kind": "local",

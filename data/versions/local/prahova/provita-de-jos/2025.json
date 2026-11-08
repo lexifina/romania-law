@@ -3,6 +3,246 @@
  "shard": "local/prahova/provita-de-jos/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--provita-de-jos-1-2025",
+   "path": "local/prahova/provita-de-jos/2025/1",
+   "short": "HCL Provița de Jos nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 1/2025 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Provița de Jos pentru anul 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/194778",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/194778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-10-2025",
+   "path": "local/prahova/provita-de-jos/2025/10",
+   "short": "HCL Provița de Jos nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 10/2025 privind continuarea implementării Programului național ,,Masă sănătoasă” la nivelul Școlii Gimnaziale, comuna Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/197765",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/197765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-11-2025",
+   "path": "local/prahova/provita-de-jos/2025/11",
+   "short": "HCL Provița de Jos nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 11/2025 privind aprobarea prelungirii contractelor de închiriere pentru pășunat ale crescătorilor de animale de pe raza comunei Provița de Jos, pentru suprafețele de pășune și fânețe ce fac parte din domeniul privat al comunei Provița de Jos, prin încheierea de acte adiționale",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/197766",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/197766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-12-2025",
+   "path": "local/prahova/provita-de-jos/2025/12",
+   "short": "HCL Provița de Jos nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 12/2025 privind rectificarea bugetului local al comunei Provița de Jos ediția martie 2025 și estimări pentru anii 2026-2028",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/197767",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/197767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-13-2025",
+   "path": "local/prahova/provita-de-jos/2025/13",
+   "short": "HCL Provița de Jos nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 13/2025",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/199481",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/199481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-14-2025",
+   "path": "local/prahova/provita-de-jos/2025/14",
+   "short": "HCL Provița de Jos nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 14/2025",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/202204",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/202204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-15-2025",
+   "path": "local/prahova/provita-de-jos/2025/15",
+   "short": "HCL Provița de Jos nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 15/2025 privind aprobarea participării comunei Provița de Jos, la Programul privind acordarea de sprijin în vederea achiziţionării de aparate pentru încălzirea locuinţelor, pentru localităţile din zona montană, finanțat prin Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/202205",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/202205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-16-2025",
+   "path": "local/prahova/provita-de-jos/2025/16",
+   "short": "HCL Provița de Jos nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 16/2025 privind aprobarea Planului pentru asigurarea cu resurse umane, materiale și financiare necesare gestionării situaţiilor de urgenţă în anul 2025 la nivelul comunei Proviţa de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/211266",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/211266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-17-2025",
+   "path": "local/prahova/provita-de-jos/2025/17",
+   "short": "HCL Provița de Jos nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 17/2025 privind aprobarea Programului de aprovizionare cu produse agroalimentare ce urmează a fi distribuite raționalizat populației în caz de mobilizare sau război și nominalizarea agenților economici din rețeaua comercială a comunei Provița de Jos în cadrul Programului",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/211267",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/211267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-18-2025",
+   "path": "local/prahova/provita-de-jos/2025/18",
+   "short": "HCL Provița de Jos nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 18/2025 privind aprobarea situaţiei financiare a comunei Proviţa de Jos pentru trimestrul I anul 2025",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/211268",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/211268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-19-2025",
+   "path": "local/prahova/provita-de-jos/2025/19",
+   "short": "HCL Provița de Jos nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 19/2025",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/211269",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/211269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-2-2025",
+   "path": "local/prahova/provita-de-jos/2025/2",
+   "short": "HCL Provița de Jos nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 2/2025 privind utilizarea excedentului bugetar al anilor precedenți în anul bugetar 2025 la nivelul comunei Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/194779",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/194779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-20-2025",
+   "path": "local/prahova/provita-de-jos/2025/20",
+   "short": "HCL Provița de Jos nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 20/2025 privind aprobarea participării comunei Provița de Jos la Programul: ,,Furnizare de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/211270",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/211270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-21-2025",
+   "path": "local/prahova/provita-de-jos/2025/21",
+   "short": "HCL Provița de Jos nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 21/2025 privind rectificarea bugetului local al comunei Provița de Jos ediția mai 2025 și estimări pentru anii 2026-2028",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/211271",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/211271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-22-2025",
+   "path": "local/prahova/provita-de-jos/2025/22",
+   "short": "HCL Provița de Jos nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 22/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/215058",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/215058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-23-2025",
+   "path": "local/prahova/provita-de-jos/2025/23",
+   "short": "HCL Provița de Jos nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 23/2025 privind inventarierea unui imobil în domeniul privat al comunei Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/215059",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/215059",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--provita-de-jos-24-2025",
    "path": "local/prahova/provita-de-jos/2025/24",
    "short": "HCL Provița de Jos nr. 24/2025",
@@ -88,6 +328,21 @@
      "from": "2025-09-30",
      "units": 1,
      "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/229232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-3-2025",
+   "path": "local/prahova/provita-de-jos/2025/3",
+   "short": "HCL Provița de Jos nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 3/2025 privind aprobarea situaţiei financiare a comunei Proviţa de Jos pentru trimestrul IV anul 2024",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/194780",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/194780",
      "sha256": null
     }
    ]
@@ -243,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--provita-de-jos-4-2025",
+   "path": "local/prahova/provita-de-jos/2025/4",
+   "short": "HCL Provița de Jos nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 4/2025 privind aprobarea Regulamentului de Organizare și Funcționare a spațiului de promovare și comercializare a produselor locale ale producătorilor agricoli de pe raza comunei Provița de Jos",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/194781",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/194781",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--provita-de-jos-40-2025",
    "path": "local/prahova/provita-de-jos/2025/40",
    "short": "HCL Provița de Jos nr. 40/2025",
@@ -298,6 +568,81 @@
      "from": "2025-12-19",
      "units": 1,
      "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/242537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-5-2025",
+   "path": "local/prahova/provita-de-jos/2025/5",
+   "short": "HCL Provița de Jos nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 5/2025 privind aprobarea Planului de lucrări de interes local la nivelul comunei Proviţa de Jos pe anul 2025, a listei cuprinzând persoanele apte de muncă ce urmează să efectueze lucrările de interes local şi a listei cuprinzând beneficiarii de ajutor social",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/194782",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/194782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-6-2025",
+   "path": "local/prahova/provita-de-jos/2025/6",
+   "short": "HCL Provița de Jos nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 6/2025",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/194783",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/194783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-7-2025",
+   "path": "local/prahova/provita-de-jos/2025/7",
+   "short": "HCL Provița de Jos nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 7/2025 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/197762",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/197762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-8-2025",
+   "path": "local/prahova/provita-de-jos/2025/8",
+   "short": "HCL Provița de Jos nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 8/2025 privind alocarea fondurilor pentru naveta cadrelor didactice și personalului didactic auxiliar care funcționează la Școala Gimnazială, comuna Provița de Jos la nivelul comunei Proviţa de Jos pentru anul 2025",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/197763",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/197763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--provita-de-jos-9-2025",
+   "path": "local/prahova/provita-de-jos/2025/9",
+   "short": "HCL Provița de Jos nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 9/2025 privind aprobarea bugetului local al comunei Provița de Jos pe anul 2025, a estimărilor pentru anii 2026-2028 și a obiectivelor de investiții pe anul 2025",
+   "url": "https://emol.ro/provitadejos-ph/registru-hcl/197764",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/provitadejos-ph/registru-hcl/197764",
      "sha256": null
     }
    ]

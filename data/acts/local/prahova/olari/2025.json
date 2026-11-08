@@ -267,6 +267,29 @@
 }
 },
 {
+"slug": "hcl-prahova--olari-13-2025",
+"path": "local/prahova/olari/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 13/2025",
+"short": "HCL Olari nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://emol.ro/olari-ph/registru-hcl/199552",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--olari-14-2025",
 "path": "local/prahova/olari/2025/14",
 "kind": "local",

@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-30-2022",
+   "path": "local/prahova/plopu/2022/30",
+   "short": "HCL Plopu nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 30/2022 privind DESEMNAREA A 2 CONSILIERI LOCALI IN COMISIA DE EVALUARE A PERFORMANTELOR PROFESIONALE INDIVIDUALE ALE SECRETARULUI GENERAL AL COMUNEI PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/55083",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/55083",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-31-2022",
    "path": "local/prahova/plopu/2022/31",
    "short": "HCL Plopu nr. 31/2022",
@@ -853,6 +868,21 @@
      "from": "2022-09-26",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/73812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-62-2022",
+   "path": "local/prahova/plopu/2022/62",
+   "short": "HCL Plopu nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 62/2022 privind DESEMNAREA A DOI CONSILIERI LOCALI IN CONSILIUL DE ADMINISTRATIE AL SCOLII GIMNAZIALE, COMUNA PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/73813",
+   "versions": [
+    {
+     "from": "2022-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/73813",
      "sha256": null
     }
    ]

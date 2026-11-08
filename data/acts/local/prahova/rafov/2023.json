@@ -3,6 +3,28 @@
 "shard": "local/prahova/rafov/2023",
 "acts": [
 {
+"slug": "hcl-prahova--rafov-1-2023",
+"path": "local/prahova/rafov/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 1/2023 privind acordarea unui ajutor de urgenta",
+"short": "HCL Râfov nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-07",
+"latest": "2023-04-07",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/96677",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-2-2023",
 "path": "local/prahova/rafov/2023/2",
 "kind": "local",
@@ -179,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-10-2023",
+"path": "local/prahova/rafov/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 10/2023 privind aprobarea unui sprijin financiar asociatiei de parinti a scolii gimnaziale Buda, Comuna Rafov, Judetul Prahova",
+"short": "HCL Râfov nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-07",
+"latest": "2023-04-07",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/96686",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-11-2023",
 "path": "local/prahova/rafov/2023/11",
 "kind": "local",
@@ -308,6 +352,50 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-17-2023",
+"path": "local/prahova/rafov/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 17/2023 privind rezilierea unui contract de inchiriere pasune",
+"short": "HCL Râfov nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/98183",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-18-2023",
+"path": "local/prahova/rafov/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 18/2023 privind privind decontarea navetei cadrelor didactice pentru lunile : Decembrie 2022 si Ianuarie 2023",
+"short": "HCL Râfov nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/98184",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -575,6 +663,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-31-2023",
+"path": "local/prahova/rafov/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 31/2023 privind aprobarea studiilor de oportunitate pentru concesionarea unor suprafete de teren, aflate in domeniul privat al Comunei rafov, in vederea dezvoltarii unor parcuri fotovoltaice",
+"short": "HCL Râfov nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-07",
+"latest": "2023-04-07",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/99346",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-32-2023",
 "path": "local/prahova/rafov/2023/32",
 "kind": "local",
@@ -619,6 +729,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-34-2023",
+"path": "local/prahova/rafov/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 34/2023 privind aprobarea decontarii navetei cadrelor didactice pe luna februarie 2023",
+"short": "HCL Râfov nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-07",
+"latest": "2023-04-07",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/99349",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-35-2023",
 "path": "local/prahova/rafov/2023/35",
 "kind": "local",
@@ -639,6 +771,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--rafov-36-2023",
+"path": "local/prahova/rafov/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 36/2023 privind aprobarea documentatiei pentru concesionarea unor suprafete de teren , aflate in domeniul privat al Comunei rafov , in vederea dezvoltarii unor parcuri fotovoltaice",
+"short": "HCL Râfov nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-19",
+"latest": "2023-04-19",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/99361",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -728,6 +882,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--rafov-41-2023",
+"path": "local/prahova/rafov/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 41/2023 privind repartizarea unor sume prevazute in bugetul local pe anul 2023 pentru acordarea unui sprijin financiar Parohiei Buda , comuna Rafov",
+"short": "HCL Râfov nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-30",
+"latest": "2023-08-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/117861",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-42-2023",
+"path": "local/prahova/rafov/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 42/2023 privind aprobarea decontarii navetei cadrelor didactice pentru lunile martie si aprilie 2023",
+"short": "HCL Râfov nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-30",
+"latest": "2023-08-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/117862",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -863,6 +1061,29 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-49-2023",
+"path": "local/prahova/rafov/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 49/2023",
+"short": "HCL Râfov nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/118690",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--rafov-50-2023",
 "path": "local/prahova/rafov/2023/50",
 "kind": "local",
@@ -883,6 +1104,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--rafov-51-2023",
+"path": "local/prahova/rafov/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 51/2023 privind aprobarea delegarii catre Judetul Prahova in vederea depunerii proiectului \" Transportul elevilor adaptati mobilitatii fara CO2-TEAM-CO2",
+"short": "HCL Râfov nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/118692",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1064,6 +1307,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-60-2023",
+"path": "local/prahova/rafov/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 60/2023 privind repartizarea unor sume prevazute in bugetul local pe anul 2023 pentru acordarea unui sprijin financiar Parohiile Goga si Moara Domneasca, Comuna Rafov",
+"short": "HCL Râfov nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/121410",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-61-2023",
 "path": "local/prahova/rafov/2023/61",
 "kind": "local",
@@ -1130,6 +1395,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-64-2023",
+"path": "local/prahova/rafov/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 64/2023 privind aprobarea decontarii navetei cadrelor didactice pentru lunile MAI-IULIE",
+"short": "HCL Râfov nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/122900",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-65-2023",
 "path": "local/prahova/rafov/2023/65",
 "kind": "local",
@@ -1149,6 +1436,29 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-66-2023",
+"path": "local/prahova/rafov/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 66/2023",
+"short": "HCL Râfov nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-02",
+"latest": "2023-10-02",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/122902",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1262,6 +1572,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-72-2023",
+"path": "local/prahova/rafov/2023/72",
+"kind": "local",
+"year": "2023",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 72/2023 privind acordarea unui ajutor de urgenta",
+"short": "HCL Râfov nr. 72/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/127362",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-73-2023",
 "path": "local/prahova/rafov/2023/73",
 "kind": "local",
@@ -1326,6 +1658,50 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-76-2023",
+"path": "local/prahova/rafov/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 76/2023 privind acordarea unui ajutor de inmormantare",
+"short": "HCL Râfov nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/127366",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-77-2023",
+"path": "local/prahova/rafov/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 77/2023 privind aprobarea decontarii navetei cadrelor didactice pentru luna August 2023",
+"short": "HCL Râfov nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/127367",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

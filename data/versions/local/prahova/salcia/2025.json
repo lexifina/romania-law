@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--salcia-10-2025",
+   "path": "local/prahova/salcia/2025/10",
+   "short": "HCL Salcia nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 10/2025 privind stabilirea agentilor economici din comuna Salcia,județul Prahova, care vor fi prinsi în Programul de aprovizionare cu produse alimentare și nealimentare ce urmează a fi distribuite raționalizat populației în situații deosebite stabilite de lege",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/210992",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/210992",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--salcia-11-2025",
    "path": "local/prahova/salcia/2025/11",
    "short": "HCL Salcia nr. 11/2025",
@@ -363,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--salcia-5-2025",
+   "path": "local/prahova/salcia/2025/5",
+   "short": "HCL Salcia nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 5/2025 privind aprobarea Documentatiei tehico-economice(fazaPT), a indicatorilor tehnico-econimici actualizati și a devizului general actualizat pentru obiectivul de investitie”ÎNFIINȚARE SISTEM DE ALIMENTARE CU APĂ ÎN COMUNA SALCIA,JUDEȚUL PRAHOVA”,aprobat pentri finantare prin Programul Național de Investitii ”Anghel Saligny”,precum și a sumei reprezentând categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/194750",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/194750",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--salcia-6-2025",
    "path": "local/prahova/salcia/2025/6",
    "short": "HCL Salcia nr. 6/2025",
@@ -373,6 +403,21 @@
      "from": "2025-03-27",
      "units": 1,
      "source_url": "https://emol.ro/salcia-ph/registru-hcl/198857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--salcia-7-2025",
+   "path": "local/prahova/salcia/2025/7",
+   "short": "HCL Salcia nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 7/2025",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/198858",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/198858",
      "sha256": null
     }
    ]

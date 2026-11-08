@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-10-2022",
+   "path": "local/prahova/stefesti/2022/10",
+   "short": "HCL Ștefești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 10/2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53784",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-11-2022",
+   "path": "local/prahova/stefesti/2022/11",
+   "short": "HCL Ștefești nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 11/2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78073",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78073",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-12-2022",
    "path": "local/prahova/stefesti/2022/12",
    "short": "HCL Ștefești nr. 12/2022",
@@ -73,6 +103,21 @@
      "from": "2022-11-02",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-16-2022",
+   "path": "local/prahova/stefesti/2022/16",
+   "short": "HCL Ștefești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 16/2022 privind alegerea președintelui de ședință pentru următoarele 3 luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/78078",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/78078",
      "sha256": null
     }
    ]
@@ -448,6 +493,36 @@
      "from": "2022-01-28",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-5-2022",
+   "path": "local/prahova/stefesti/2022/5",
+   "short": "HCL Ștefești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 5/2022 privind stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Ștefești, precum și stabilirea nivelului indemnizației lunare de care beneficiază consilierii locali",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53343",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-6-2022",
+   "path": "local/prahova/stefesti/2022/6",
+   "short": "HCL Ștefești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 6/2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/53344",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/53344",
      "sha256": null
     }
    ]

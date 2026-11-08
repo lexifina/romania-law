@@ -135,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-prahova--olari-7-2026",
+"path": "local/prahova/olari/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 7/2026 privind desemnarea consilierilor locali ca membri in comisia de evaluare a ofertelor și in Comisia de soluționare a contestațiilor pentru vânzarea prin licitație publică a unui imobil din domeniul privat al comunei Olari, judetul Prahova, initiat de primar",
+"short": "HCL Olari nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-20",
+"latest": "2026-04-20",
+"portal": "https://emol.ro/olari-ph/registru-hcl/263656",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--olari-8-2026",
+"path": "local/prahova/olari/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 8/2026 privind desemnarea a doi consilieri locali, în calitate de membri ai Comisiei de evaluare a performanţelor profesionale ale Secretarului General al Comunei Olari, judetul Prahova",
+"short": "HCL Olari nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-20",
+"latest": "2026-04-20",
+"portal": "https://emol.ro/olari-ph/registru-hcl/263657",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--olari-9-2026",
 "path": "local/prahova/olari/2026/9",
 "kind": "local",

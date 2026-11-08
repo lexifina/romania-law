@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-15-2026",
+   "path": "local/prahova/stefesti/2026/15",
+   "short": "HCL Ștefești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 15/2026 privind stabilirea funcției publice specifice de asistent social și echivalarea acesteia cu funcția publică generală",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/262913",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/262913",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-16-2026",
    "path": "local/prahova/stefesti/2026/16",
    "short": "HCL Ștefești nr. 16/2026",
@@ -228,6 +243,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-24-2026",
+   "path": "local/prahova/stefesti/2026/24",
+   "short": "HCL Ștefești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 24/2026 privind alegerea presedintelui de sedinta pentru urmatoarele 3(trei) luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/267734",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/267734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-25-2026",
+   "path": "local/prahova/stefesti/2026/25",
+   "short": "HCL Ștefești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 25/2026 privind aprobarea sustinerii financiare a ASOCIATIEI SPORTIVE ,, BRADETUL STEFESTI 2022’’, in anul 2026",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/275904",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/275904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-26-2026",
+   "path": "local/prahova/stefesti/2026/26",
+   "short": "HCL Ștefești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 26/2026 privind decontarea cheltuielilor de transport a cadrelor didactice",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/275905",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/275905",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-27-2026",
    "path": "local/prahova/stefesti/2026/27",
    "short": "HCL Ștefești nr. 27/2026",
@@ -268,6 +328,21 @@
      "from": "2026-06-25",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/275908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-3-2026",
+   "path": "local/prahova/stefesti/2026/3",
+   "short": "HCL Ștefești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 3/2026 privind alegerea presedintelui de sedinta pentru urmatoarele 3(trei) luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/255905",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/255905",
      "sha256": null
     }
    ]
@@ -613,6 +688,36 @@
      "from": "2026-02-25",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/255909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-8-2026",
+   "path": "local/prahova/stefesti/2026/8",
+   "short": "HCL Ștefești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 8/2026",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/255910",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/255910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-9-2026",
+   "path": "local/prahova/stefesti/2026/9",
+   "short": "HCL Ștefești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 9/2026",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/255911",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/255911",
      "sha256": null
     }
    ]

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-10-2020",
+   "path": "local/prahova/rafov/2020/10",
+   "short": "HCL Râfov nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 10/2020 privind presedintele de sedinta pentru lunile februarie, martie si aprilie 2020",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/4906",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/4906",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-11-2020",
    "path": "local/prahova/rafov/2020/11",
    "short": "HCL Râfov nr. 11/2020",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-14-2020",
+   "path": "local/prahova/rafov/2020/14",
+   "short": "HCL Râfov nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 14/2020 privind reziliere contract concesionare islaz-Banu Vasile",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/4910",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/4910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-15-2020",
    "path": "local/prahova/rafov/2020/15",
    "short": "HCL Râfov nr. 15/2020",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-16-2020",
+   "path": "local/prahova/rafov/2020/16",
+   "short": "HCL Râfov nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 16/2020 privind insusire cerere concesionare / schimb teren boeru",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/4913",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/4913",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-17-2020",
    "path": "local/prahova/rafov/2020/17",
    "short": "HCL Râfov nr. 17/2020",
@@ -88,6 +133,21 @@
      "from": "2020-02-20",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/4914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-18-2020",
+   "path": "local/prahova/rafov/2020/18",
+   "short": "HCL Râfov nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 18/2020 privind decontare naveta lunile decembrie ,ianuarie",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/4915",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/4915",
      "sha256": null
     }
    ]
@@ -228,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-27-2020",
+   "path": "local/prahova/rafov/2020/27",
+   "short": "HCL Râfov nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 27/2020 privind ajutor financiar parohia Moara Domneasca",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/4924",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/4924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-28-2020",
+   "path": "local/prahova/rafov/2020/28",
+   "short": "HCL Râfov nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 28/2020 privind ajutor de urgenta Cucuiet",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/4925",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/4925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-29-2020",
+   "path": "local/prahova/rafov/2020/29",
+   "short": "HCL Râfov nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 29/2020 privind decontare naveta cadre didactice luna februarie",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/4926",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/4926",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-3-2020",
    "path": "local/prahova/rafov/2020/3",
    "short": "HCL Râfov nr. 3/2020",
@@ -238,6 +343,21 @@
      "from": "2020-01-09",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/4899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-30-2020",
+   "path": "local/prahova/rafov/2020/30",
+   "short": "HCL Râfov nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 30/2020",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/4927",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/4927",
      "sha256": null
     }
    ]
@@ -408,6 +528,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-41-2020",
+   "path": "local/prahova/rafov/2020/41",
+   "short": "HCL Râfov nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 41/2020 privind aproape acordarii unui ajutor de urgenta pentru efectuarea unor investigatii medicale si procurarea de medicamente pentru fiica grav bolnava",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/12117",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/12117",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-42-2020",
    "path": "local/prahova/rafov/2020/42",
    "short": "HCL Râfov nr. 42/2020",
@@ -558,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-51-2020",
+   "path": "local/prahova/rafov/2020/51",
+   "short": "HCL Râfov nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 51/2020 privind repartizarea unei sume prevazute in bugetul local pe anul 2020 pentru acordarea sprijinului financiar Parohiei din satul Malaiesti, Comuna Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/12139",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/12139",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-52-2020",
    "path": "local/prahova/rafov/2020/52",
    "short": "HCL Râfov nr. 52/2020",
@@ -613,6 +763,21 @@
      "from": "2020-08-21",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/13640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-56-2020",
+   "path": "local/prahova/rafov/2020/56",
+   "short": "HCL Râfov nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 56/2020",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/13641",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/13641",
      "sha256": null
     }
    ]

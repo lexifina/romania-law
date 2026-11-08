@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-10-2026",
+   "path": "local/prahova/rafov/2026/10",
+   "short": "HCL Râfov nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 10/2026 privind aprobarea închirierii prin atribuire directă a suprafețelor de pășune , rămase neocupate , din Comuna Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/254237",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/254237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-11-2026",
    "path": "local/prahova/rafov/2026/11",
    "short": "HCL Râfov nr. 11/2026",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-14-2026",
+   "path": "local/prahova/rafov/2026/14",
+   "short": "HCL Râfov nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 14/2026 privind actualizarea indicatorilor tehnico-economici-anexa 2.2.B. a devizului general și a cofinanțării pentru realizarea obiectivului de investiții \" Înființare canalizare menajeră în comuna Râfov, Sat Sicrita, Jud. Prahova\"",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/254241",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/254241",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-15-2026",
    "path": "local/prahova/rafov/2026/15",
    "short": "HCL Râfov nr. 15/2026",
@@ -93,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-17-2026",
+   "path": "local/prahova/rafov/2026/17",
+   "short": "HCL Râfov nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 17/2026 privind aprobarea rezilierii unui contract de închiriere pășune",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/254244",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/254244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-18-2026",
+   "path": "local/prahova/rafov/2026/18",
+   "short": "HCL Râfov nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 18/2026 privind completarea Hotararii nr. 10/12.02.2026 privind aprobarea închirierii prin atribuire directă a suprafețelor de pășune, rămase neocupate , din Comuna Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/256427",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/256427",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-19-2026",
    "path": "local/prahova/rafov/2026/19",
    "short": "HCL Râfov nr. 19/2026",
@@ -103,6 +163,21 @@
      "from": "2026-03-12",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/256428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-2-2026",
+   "path": "local/prahova/rafov/2026/2",
+   "short": "HCL Râfov nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 2/2026 privind aprobarea numarului maxim de posturi de asistenti persomali pentru persoanele cu handicap",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252113",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252113",
      "sha256": null
     }
    ]
@@ -478,6 +553,21 @@
      "from": "2026-02-09",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/252119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-9-2026",
+   "path": "local/prahova/rafov/2026/9",
+   "short": "HCL Râfov nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 9/2026 privind aprobarea obiectivelor de investitii provizorii pe anul 2026 cu finantare partiala sau integrala din bugetul local",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/252120",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/252120",
      "sha256": null
     }
    ]

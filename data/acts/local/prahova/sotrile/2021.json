@@ -25,6 +25,94 @@
 }
 },
 {
+"slug": "hcl-prahova--sotrile-2-2021",
+"path": "local/prahova/sotrile/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 2/2021 privind validarea Dispoziţiei primarului comunei nr. 1 din 5 ianuarie 2021 privind aprobarea acoperirii definitive din excedentul bugetului local al deficitului sectiunii de dezvoltare al bugetului local din anul 2020",
+"short": "HCL Șotrile nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/15324",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-3-2021",
+"path": "local/prahova/sotrile/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 3/2021 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Șotrile, începând cu anul 2021",
+"short": "HCL Șotrile nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/15325",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-4-2021",
+"path": "local/prahova/sotrile/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 4/2021 privind aprobarea Planului de acţiuni desfăşurate în anul 2021, în vederea acordării ajutorului social la nivelul comunei Şotrile",
+"short": "HCL Șotrile nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/15326",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-5-2021",
+"path": "local/prahova/sotrile/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 5/2021 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Șotrile nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/15327",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-6-2021",
 "path": "local/prahova/sotrile/2021/6",
 "kind": "local",
@@ -44,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Șotrile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-7-2021",
+"path": "local/prahova/sotrile/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 7/2021 privind aprobarea modificării Actului constitutiv și a Statutului Asociaţiei de dezvoltare intercomunitară de utilităţi publice pentru serviciul de alimentare cu apă şi de canalizare „MĂGURA”",
+"short": "HCL Șotrile nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/15329",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-prahova--sotrile-12-2021",
+"path": "local/prahova/sotrile/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 12/2021 privind aprobarea bugetului de venituri si cheltuieli pe anul 2021 si estimarile pentru anii 2022-2024",
+"short": "HCL Șotrile nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/22634",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-13-2021",
 "path": "local/prahova/sotrile/2021/13",
 "kind": "local",
@@ -179,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-prahova--sotrile-15-2021",
+"path": "local/prahova/sotrile/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 15/2021 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Șotrile nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/22637",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-16-2021",
 "path": "local/prahova/sotrile/2021/16",
 "kind": "local",
@@ -198,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Șotrile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-17-2021",
+"path": "local/prahova/sotrile/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 17/2021 privind aprobarea numărului maxim de posturi pentru asistenţii personali ai persoanelor cu handicap grav precum și numărul indemnizatiilor acordate persoanelor cu handicap grav pentru anul 2021",
+"short": "HCL Șotrile nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/22639",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +421,28 @@
 }
 },
 {
+"slug": "hcl-prahova--sotrile-20-2021",
+"path": "local/prahova/sotrile/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 20/2021 privind aprobarea numarului si a cuantumului burselor acordate elevilor din invatamantul preuniversitar de stat de la Scoala Gimnazială, comuna Şotrile, pentru anul școlar 2021-2022",
+"short": "HCL Șotrile nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/22642",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-21-2021",
 "path": "local/prahova/sotrile/2021/21",
 "kind": "local",
@@ -265,6 +463,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-22-2021",
+"path": "local/prahova/sotrile/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 22/2021 privind modificarea și completarea art.2 al Hotararii consiliului local nr 43 din 26 septembrie 2019 privind instituirea taxei speciale pentru utilizatorii –beneficiarii serviciului de salubrizare din comuna Șotrile, care nu au încheiat contract de prestări servicii cu operatorul de salubrizare al comunei Șotrile",
+"short": "HCL Șotrile nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/22644",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -378,6 +598,73 @@
 }
 },
 {
+"slug": "hcl-prahova--sotrile-28-2021",
+"path": "local/prahova/sotrile/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 28/2021 privind aprobarea închirierii prin licitație publică a unui spaţiu- C3- din imobilul situat in punct „Complex”din comuna Sotrile, sat Sotrile, nr. 45, pentru desfășurararea activității de „ frizerie”",
+"short": "HCL Șotrile nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/28254",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-29-2021",
+"path": "local/prahova/sotrile/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 29/2021 privind închirierea unui spaţiu -C1- din imobilul situat in comuna Sotrile, sat Sotrile, nr. 45, punct „Complex”, înscris în CF nr. 20740, tarla 16, parcela 213 Cc, in suprafata de 24 mp și a terenului aferent in suprafata de 30 mp destinat activităților sanitar-veterinare (cabinet veterinar)",
+"short": "HCL Șotrile nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/28255",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-30-2021",
+"path": "local/prahova/sotrile/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 30/2021",
+"short": "HCL Șotrile nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/28256",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-31-2021",
 "path": "local/prahova/sotrile/2021/31",
 "kind": "local",
@@ -397,6 +684,50 @@
 "council_name": "Consiliul Local al Comunei Șotrile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-32-2021",
+"path": "local/prahova/sotrile/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 32/2021 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Șotrile nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-27",
+"latest": "2021-07-27",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/31051",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-33-2021",
+"path": "local/prahova/sotrile/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 33/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Șotrile pentru anul 2021",
+"short": "HCL Șotrile nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-27",
+"latest": "2021-07-27",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/31052",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -422,6 +753,28 @@
 }
 },
 {
+"slug": "hcl-prahova--sotrile-35-2021",
+"path": "local/prahova/sotrile/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 35/2021 privind aprobarea modificarii statului de funcţii al Comunei Șotrile",
+"short": "HCL Șotrile nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-27",
+"latest": "2021-07-27",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/31054",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-36-2021",
 "path": "local/prahova/sotrile/2021/36",
 "kind": "local",
@@ -441,6 +794,161 @@
 "council_name": "Consiliul Local al Comunei Șotrile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-37-2021",
+"path": "local/prahova/sotrile/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 37/2021 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico economici aferenti investiției „Înființare rețea inteligentă de distribuție gaze naturale în Județul Prahova – Comunele Talea, Adunați, Secăria, Șotrile, Valea Doftanei”",
+"short": "HCL Șotrile nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-06",
+"latest": "2021-09-06",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/34378",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-38-2021",
+"path": "local/prahova/sotrile/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 38/2021 pentru validarea Dispoziției primarului comunei nr. 180 din 20 septembrie 2021 privind rectificarea bugetului local pe anul 2021",
+"short": "HCL Șotrile nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/38832",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-39-2021",
+"path": "local/prahova/sotrile/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 39/2021 privind desemnarea reprezentanților Consiliului Local al Comunei Șotrile în Consiliul de administrație al Școlii Gimnaziale, comuna Șotrile",
+"short": "HCL Șotrile nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/38833",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-40-2021",
+"path": "local/prahova/sotrile/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 40/2021 privind desemnarea unui consilier local in Comisia de Evaluare a Asigurarii Calitatii Educaţiei in cadrul Scolii Gimnaziale, Comuna Șotrile",
+"short": "HCL Șotrile nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/38834",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-41-2021",
+"path": "local/prahova/sotrile/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 41/2021 privind desemnarea unui consilier local in Comisia pentru prevenirea şi combaterea violenței în mediul şcolar constituita la nivelul Scolii Gimnaziale, Comuna Șotrile",
+"short": "HCL Șotrile nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/38835",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-42-2021",
+"path": "local/prahova/sotrile/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 42/2021 privind aprobarea retragerii comunelor Cornu și Talea din cadrul Asociaţiei de dezvoltare intercomunitară de utilităţi publice pentru serviciul de alimentare cu apă şi de canalizare „MĂGURA” și acordarea unui mandat special reprezentantului comunei Șotrile să voteze în cadrul Adunării Generale a Asociaților retragerea celor două comune din Asociație",
+"short": "HCL Șotrile nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/38836",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-43-2021",
+"path": "local/prahova/sotrile/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 43/2021",
+"short": "HCL Șotrile nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/38837",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -508,6 +1016,51 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-47-2021",
+"path": "local/prahova/sotrile/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 47/2021",
+"short": "HCL Șotrile nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/38841",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-48-2021",
+"path": "local/prahova/sotrile/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 48/2021 privind modificarea valorii de investiție și a indicatorilor tehnico-economici ai obiectivului ” MODERNIZARE DRUMURI LOCALE COMUNA ȘOTRILE, JUDEȚUL PRAHOVA”, ca urmare a actualizării prețurilor aferente materialelor în conformitate cu prevederile Ordonanței Guvernului nr.15/2021",
+"short": "HCL Șotrile nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-21",
+"latest": "2021-10-21",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/38842",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

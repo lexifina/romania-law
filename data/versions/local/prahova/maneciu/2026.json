@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--maneciu-12-2026",
+   "path": "local/prahova/maneciu/2026/12",
+   "short": "HCL Măneciu nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 12/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Măneciu pentru perioada MAI 2026 – IULIE 2026",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/266950",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/266950",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--maneciu-13-2026",
    "path": "local/prahova/maneciu/2026/13",
    "short": "HCL Măneciu nr. 13/2026",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--maneciu-16-2026",
+   "path": "local/prahova/maneciu/2026/16",
+   "short": "HCL Măneciu nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 16/2026 pentru aprobarea modificării Hotărȃrii Consiliului Local nr. 25/25.02.2021 privind aprobarea închirierii pajiștilor aparținȃnd domeniului privat al Comunei Măneciu, județul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/266954",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/266954",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--maneciu-17-2026",
    "path": "local/prahova/maneciu/2026/17",
    "short": "HCL Măneciu nr. 17/2026",
@@ -103,6 +133,51 @@
      "from": "2026-05-08",
      "units": 1,
      "source_url": "https://emol.ro/maneciu-ph/registru-hcl/266955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-18-2026",
+   "path": "local/prahova/maneciu/2026/18",
+   "short": "HCL Măneciu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 18/2026 privind darea în administrarea Colegiului Ferdinand I, comuna Măneciu, județul Prahova, a imobilului „Creşă Mare” situat ȋn comuna Măneciu, sat Măneciu Ungureni, nr.142, județul Prahova şi a terenului aferent ȋn suprafaţă de 5000 mp",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/266956",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/266956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-19-2026",
+   "path": "local/prahova/maneciu/2026/19",
+   "short": "HCL Măneciu nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 19/2026 privind aprobarea prelungirii Contractului de delegare prin concesiune a gestiunii activității de colectare transport și transfer a deșeurilor municipale în zonele 3-Drăgănești, 4-Urlați și 5-Vălenii de Munte, nr. 259/18.02.2019",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/266957",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/266957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-2-2026",
+   "path": "local/prahova/maneciu/2026/2",
+   "short": "HCL Măneciu nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 2/2026 privind privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Măneciu pentru perioada FEBRUARIE 2026 – APRILIE 2026",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/252020",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/252020",
      "sha256": null
     }
    ]
@@ -253,6 +328,21 @@
      "from": "2026-06-09",
      "units": 1,
      "source_url": "https://emol.ro/maneciu-ph/registru-hcl/270692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-3-2026",
+   "path": "local/prahova/maneciu/2026/3",
+   "short": "HCL Măneciu nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 3/2026 privind aprobarea unor măsuri pentru implementarea Programului Naţional „Masă sănătoasă” pentru preşcolarii şi elevii din cadrul Colegiului „Ferdinand I”, comuna Măneciu, judeţul Prahova în anul 2026",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/252021",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/252021",
      "sha256": null
     }
    ]
@@ -423,6 +513,96 @@
    ]
   },
   {
+   "slug": "hcl-prahova--maneciu-40-2026",
+   "path": "local/prahova/maneciu/2026/40",
+   "short": "HCL Măneciu nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 40/2026 privind aprobarea cumpărării unui teren în suprafaţă de 9226 mp situat în comuna Măneciu, sat Făcăieni, T 84, Parcela F 5968/4, 5969/4, judeţul Prahova, CF 22790",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/280662",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/280662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-41-2026",
+   "path": "local/prahova/maneciu/2026/41",
+   "short": "HCL Măneciu nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 41/2026 privind aprobarea dosarului cuprinzând cererea şi actele prevăzute de Legea nr. 15/2003, rerepublicată, cu modificările şi completările ulterioare, privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, ȋn comuna Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/280663",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/280663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-42-2026",
+   "path": "local/prahova/maneciu/2026/42",
+   "short": "HCL Măneciu nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 42/2026 privind aprobarea retragerii dreptului de folosinţă a terenului atribuit ȋn baza Legii nr. 15/2003, rerepublicată, cu modificările şi completările ulterioare, privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, ȋn comuna Măneciu, judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/280664",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/280664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-43-2026",
+   "path": "local/prahova/maneciu/2026/43",
+   "short": "HCL Măneciu nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 43/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Măneciu pentru perioada august 2026 – octombrie 2026",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/282689",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/282689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-44-2026",
+   "path": "local/prahova/maneciu/2026/44",
+   "short": "HCL Măneciu nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 44/2026 privind aprobarea înființării societății comerciale de interes public local SC SERVICIUL DE TRANSPORT LOCAL MANECIU SRL",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/282690",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/282690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-45-2026",
+   "path": "local/prahova/maneciu/2026/45",
+   "short": "HCL Măneciu nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 45/2026 privind aprobarea înființării societăți comerciale de interes public local SC PARC INDUSTRIAL MANECIU SRL",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/282691",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/282691",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--maneciu-46-2026",
    "path": "local/prahova/maneciu/2026/46",
    "short": "HCL Măneciu nr. 46/2026",
@@ -433,6 +613,21 @@
      "from": "2026-08-17",
      "units": 1,
      "source_url": "https://emol.ro/maneciu-ph/registru-hcl/282692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-47-2026",
+   "path": "local/prahova/maneciu/2026/47",
+   "short": "HCL Măneciu nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 47/2026",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/282693",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/282693",
      "sha256": null
     }
    ]
@@ -633,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--maneciu-6-2026",
+   "path": "local/prahova/maneciu/2026/6",
+   "short": "HCL Măneciu nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 6/2026 privind aprobarea Acordului de Parteneriat între Asociaţia Organizaţia de Management al Destinaţiei Turistice Cheia Măneciu – „OMD Cheia Măneciu” şi Unitatea Administrativ Teritorială Comuna Măneciu în vederea realizării proiectului „Amenajare Spaţii de Odihnă, Promenadă şi Relaxare în centrul Staţiunii Cheia, Comuna Măneciu, judeţul Prahova” în cadrul Planului Naţional de Redresare şi Rezilienţă",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/258321",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/258321",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--maneciu-60-2026",
    "path": "local/prahova/maneciu/2026/60",
    "short": "HCL Măneciu nr. 60/2026",
@@ -778,6 +988,21 @@
      "from": "2026-03-30",
      "units": 1,
      "source_url": "https://emol.ro/maneciu-ph/registru-hcl/259605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--maneciu-9-2026",
+   "path": "local/prahova/maneciu/2026/9",
+   "short": "HCL Măneciu nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 9/2026 privind constituirea unui drept de superficie cu titlu oneros pentru terenul în suprafaţă de 135,28 m.p. aferent imobilului situat în Comuna Măneciu, sat Măneciu Ungureni, nr. 606, bl 1, sc A , ap.2, PARTER, aparţinând domeniului privat al Comunei Măneciu , judeţul Prahova",
+   "url": "https://emol.ro/maneciu-ph/registru-hcl/259606",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maneciu-ph/registru-hcl/259606",
      "sha256": null
     }
    ]

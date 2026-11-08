@@ -3,6 +3,36 @@
  "shard": "local/salaj/simleu-silvaniei/2026",
  "acts": [
   {
+   "slug": "hcl-salaj--simleu-silvaniei-1-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/1",
+   "short": "HCL Șimleu Silvaniei nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 1/2026 privind alegerea președintelui de ședință care va conduce ședințele Consiliului Local al orașului Șimleu Silvaniei în perioada IANUARIE-MARTIE 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. nr. 509/16.01.2026 al Primarului orașului Șimleu Silvaniei; -Raportul de specialitate nr. nr. 510/16.01.2026 al Compar",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/22/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/01/HCL-nr.-1-din-29.01.2026-PRESEDINTE-DE-SEDINTA-IANUARIE-MARTIE-2026.pdf",
+     "sha256": "c54c6cc538a0ba82d19c96833eb53b8b5bba241a21007fe1a8e2d774b5f717b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-10-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/10",
+   "short": "HCL Șimleu Silvaniei nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 10/2026 privind stabilirea unor normative proprii de cheltuieli pentru consumul lunar de carburanți la autovehiculele și utilajele aflate în dotarea Primăriei orașului Șimleu Silvaniei și a Serviciilor din subordinea Consilului Local, pentru anul 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere; - Referatul de aprobare nr.982/ 22.01.2026 al Pri",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/21/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/01/HCL-nr.-10-din-29.01.2026-stabilire-consum-de-carburanti-la-auto-primarie-pe-2026.pdf",
+     "sha256": "50d4987b613f8335e3f69246b3168c3ef7558d4937f61910e3a28277e297063a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-100-2026",
    "path": "local/salaj/simleu-silvaniei/2026/100",
    "short": "HCL Șimleu Silvaniei nr. 100/2026",
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--simleu-silvaniei-11-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/11",
+   "short": "HCL Șimleu Silvaniei nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 11/2026 privind stabilirea domeniilor serviciilor publice și a activităților în care contravenienții, precum și persoanele obligate la prestarea unei munci neremunerate în folosul comunității, ca urmare a săvârșirii unor fapte prevăzute de legea penală, vor presta activități în folosul comunității, dispuse în condițiile legii Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/21/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-11-din-26.02.2026-stabilire-domeniu-pt-prestare-munca-in-folosul-comunitatii.pdf",
+     "sha256": "72e94a985a78e53ab6f864610913ef6f9f8d7f2288db18936b7f5fb12c71b050"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-110-2026",
    "path": "local/salaj/simleu-silvaniei/2026/110",
    "short": "HCL Șimleu Silvaniei nr. 110/2026",
@@ -164,6 +209,21 @@
      "units": 1,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/10/HCL-nr.-112-din-29.10.2026-actualizarea-REGULAMENTULUI-Serviciul-Politia-Locala-2026-V4.pdf",
      "sha256": "9e624580ae116d36f0c75a970945e9ddd4251930c67310858b50f3e3264fff9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-113-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/113",
+   "short": "HCL Șimleu Silvaniei nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 113/2026",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/10/HCL-nr.-113-din-29.10.2026-finalizare_insule_ecologice_Simleu_2026-cu-ANEXA-modificata.pdf",
+     "sha256": "9c7e072f32ac041c09a14c82e1768535e575a9b640b9a79a1ac206bc52dd7d55"
     }
    ]
   },
@@ -258,6 +318,36 @@
    ]
   },
   {
+   "slug": "hcl-salaj--simleu-silvaniei-13-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/13",
+   "short": "HCL Șimleu Silvaniei nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 13/2026 privind aprobarea ”Planului de acțiune comunitară pe anul 2026” prevăzut de Legea nr. 196/2016, privind venitul minim de incluziune, cu modificările și completările ulterioare Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 2493/10.02.2026 a Primarului orașului Șimleu Silvaniei, - Raportul de specialitate nr.249",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/20/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-13-din-26.02.2026-PLAN-DE-ACTIUNE-COMUNITARA-2026.pdf",
+     "sha256": "d3d189a7d760c018912261f98679f6f0282ba741489520fc45df15f905d7e862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-14-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/14",
+   "short": "HCL Șimleu Silvaniei nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 14/2026 privind aprobarea contului de execuție al bugetului local întocmit la data de 31.12.2025 și al contului de execuție al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii la data de 31.12.2025 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 3029/18.02.2026 al Prim",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/20/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-14-din-26.02.2026-cont-de-executie-31.12.2025.pdf",
+     "sha256": "25bbe2ffc18549f403f19642a83488adf0648b0631442888b50fada0a2ae78b4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-15-2026",
    "path": "local/salaj/simleu-silvaniei/2026/15",
    "short": "HCL Șimleu Silvaniei nr. 15/2026",
@@ -269,6 +359,111 @@
      "units": 7,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-15-din-26.02.2026-modificare-Regulament-premiere-elevi.pdf",
      "sha256": "ba3e0c6d3351f67bff7a6248f5b4340428b8f82392dc5e1f756dcd233dda85eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-16-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/16",
+   "short": "HCL Șimleu Silvaniei nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 16/2026 privind declararea ca locuință de serviciu a unei unități locative cuprinse în domeniul privat al orașului Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 2856/17.02.2026 al Primarului orașului Șimleu Silvaniei; -Raportul de specialitate nr. 2857/17.02.2026 al responsbilului desemnat cu spațiul locativ din cadru",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/20/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-16-din-26.02.2026-declarare-locuinta-de-serviciu-a-unei-locuinte-din-domeniul-privat-al-orasului.pdf",
+     "sha256": "9dae4d45974ed4053d688924bf505ea8a9ee65ba5dedfb32d5526dc878d7531c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-17-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/17",
+   "short": "HCL Șimleu Silvaniei nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 17/2026 privind actualizarea Devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții: „Modernizare străzi în orașul Șimleu Silvaniei, județ Sălaj”, ca urmare a majorării cotei TVA de la 19% la 21% Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 3011/18.02.2026 al Primarului orașului Șimleu",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/19/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-17-din-26.02.2026-actualizare-Deviz-General-_-cota-TVA-Modernizare-str-azi.pdf",
+     "sha256": "2b191822db7afffc0417ef749734434134ab1a1e9e278334cab7d0cbd7fd24e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-18-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/18",
+   "short": "HCL Șimleu Silvaniei nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 18/2026 privind actualizarea Devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții: ,,Rețea pistă de biciclete” din UAT Orașul Șimleu Silvaniei, jud. Sălaj, ca urmare a majorării cotei TVA de la 19% la 21% Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere : − Referatul de aprobare nr. 3015/2026 al Primarului orașului",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/19/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-18-din-26.02.2026-actualizare-Deviz-General-cota-TVA-Piste-de-biciclete.pdf",
+     "sha256": "e1d7cc1016c8ded7aa9699d3aea7ef3cfccad3194cd7e767737fc78946f7a51e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-19-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/19",
+   "short": "HCL Șimleu Silvaniei nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 19/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "445f573cedf02cd1178f6b05e165ad4a0bf4b876242bc6095de55c3b2a31ee5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-20-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/20",
+   "short": "HCL Șimleu Silvaniei nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 20/2026 privind aprobarea documentației cadastrale, cu propunerea de alipire a imobilelor înscrise în CF nr. 56896, 57365_UAT Șimleu Silvaniei, terenuri situate în orașul Șimleu Silvaniei, jud",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/19/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-20-din-26.02.2026-alipire-Ferma-20-teren-Magazie.pdf",
+     "sha256": "311281e8f54d2602d8118204846d3f4a3e6469ecbe52edea21586276cbbf8911"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-21-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/21",
+   "short": "HCL Șimleu Silvaniei nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 21/2026 pentru acordarea scutirilor de la plata majorărilor de întârziere aferente obligațiilor fiscale și nefiscale datorate bugetului local de către persoanele fizice care au calitatea de contribuabili ai bugetului local al Orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 2897/2026 a Primarului",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/19/",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/02/HCL-nr.-21-din-26.02.2026-scutiri-majorari-PF.pdf",
+     "sha256": "e854e4fe129789813106849f4c6118663019ae34275f4d6d67562954ea7a6022"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-22-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/22",
+   "short": "HCL Șimleu Silvaniei nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 22/2026 privind aprobarea încheierii unui act adițional la Acordul de parteneriat nr. 6597/09.05.2017 încheiat cu Parohia Ortodoxă Română nr. 1 Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Adresa nr. 17/09.02.2026 a Parohiei Ortodoxe nr. 1 Șimleu Silvaniei, înregistrată la Primăria orașului Șimleu Silvaniei sub nr. 2359/09.02",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/18/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/03/HCL-nr.-22-din-26.03.2026-prelungire-acord-parteneriat-Parohia-Ortodoxa-2026.pdf",
+     "sha256": "afdc6ec1aaf7acfb687112ba5468cd280efd0e5460679839a708e3cb05009c78"
     }
    ]
   },
@@ -288,6 +483,141 @@
    ]
   },
   {
+   "slug": "hcl-salaj--simleu-silvaniei-24-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/24",
+   "short": "HCL Șimleu Silvaniei nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 24/2026 pentru aprobarea aderării la Alianța Regională Smart Park Nord-Vest și semnarea Acordului de cooperare privind organizarea și funcționarea Alianței Consiliul Local Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică: Având în vedere: - Referatul de aprobare nr. 4993/23.03.2026 al Primarul orașului Șimleu Silvaniei; - Raportul de specialitate comun nr. 4994/23.03.2026 al Compartimentului m",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/18/",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/03/HCL-nr.-24-din-26.03.2026-aderare-la-Alianta.pdf",
+     "sha256": "6a0f1309ee5bfd5e3599f8ec38474d008429884a98d45c7eccb7c935d451a0e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-25-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/25",
+   "short": "HCL Șimleu Silvaniei nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 25/2026 privind alegerea președintelui de ședință care va conduce ședințele Consiliului Local al orașului Șimleu Silvaniei în perioada APRILIE-IUNIE 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: • Referatul de aprobare nr. 6049/03.04.2026 al Primarului orașului Șimleu Silvaniei; • Raportul de specialitate nr. 6050/03.04.2026 al Compartiment",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/18/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/04/HCL-nr.-25-din-15.04.2026-PRESEDINTE-DE-SEDINTA-aprilie-iunie-2026.pdf",
+     "sha256": "08fa32258af82ecee772a490190eb938d16d9a16f4dd9db6602c1ce3134e5967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-26-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/26",
+   "short": "HCL Șimleu Silvaniei nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 26/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d546bb0c3ce4c7cd63ab364d564edc87bd6bec7fdaff3e22694f730bc9bcf7f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-27-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/27",
+   "short": "HCL Șimleu Silvaniei nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 27/2026 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții: „,Rețea pistă de biciclete” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 6245/08.04.2026 al Primarului orașului Șimleu Silvaniei; -Raportul de specialitate comun nr. 6246/08.04.2026 al Compartimentului investiții, management",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/18/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/04/HCL-nr.-27-din-15.04.2026-actualizare-indicatori-RETEA-PISTA-DE-BICICLETE.pdf",
+     "sha256": "4db84463dcb7b463d1eb6e28198a3dfed83f9f7b250c8216be092aa2f8d7b31a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-28-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/28",
+   "short": "HCL Șimleu Silvaniei nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 28/2026 privind aprobarea documentației cadastrale, cu propunerea de dezmembrare a imobilului înscris în CF nr. 56773_UAT Șimleu Silvaniei, teren situat în orașul Șimleu Silvaniei, str. DN 1H, nr. FN, jud",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/17/",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/04/HCL-nr.-28-din-15.04.2026-aprobare-dezmembrare-imobil-Parc-Specializare-Inteligenta.pdf",
+     "sha256": "e8f93b5088340a4a2b810596278e421b00c92aca1fe659b5f01c835355362e06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-29-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/29",
+   "short": "HCL Șimleu Silvaniei nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 29/2026 privind reglementarea desfășurării activităților de jocuri de noroc pe raza administrativ- teritorială a orașului Șimleu Silvaniei, jud",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/17/",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/04/HCL-nr.-29-din-24.04.2026-aprobarea-organizarii-JOCURI-DE-NOROC.pdf",
+     "sha256": "204c61c5f86bb3cc576d3a5d48b937a178b900c5f5a775e144fb0f420ca8387c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-30-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/30",
+   "short": "HCL Șimleu Silvaniei nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 30/2026 privind aprobarea contului de încheiere al exercițiului bugetar aferent anului 2025 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 7420/28.04.2026 al Primarului orașului Șimleu Silvaniei; -Raportul de specialitate nr.7421/28.04.2026 al Direcției financiar-economică; -Avizul Comisiei pentru programe de dezvoltare",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/17/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-30-din-04.05.2026-aprobarea-exercitiului-bugetar-pe-anul-2025.pdf",
+     "sha256": "52b7be8caa38d0893c06da351f79fc04ff1a8119933aa50656af53c530121359"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-31-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/31",
+   "short": "HCL Șimleu Silvaniei nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 31/2026 privind aprobarea contului de execuție al bugetului local întocmit la data de 31.03.2026 și al contului de execuție al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii la data de 31.03.2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 7422/28.04.2026 al Prim",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-31-din-04.05.2026-cont-de-executie-31.03.2026.pdf",
+     "sha256": "6cd5a160470c9ff364b5e4caf197816e55ae05cd72fdc160ff6d52480b5a6a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-32-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/32",
+   "short": "HCL Șimleu Silvaniei nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 32/2026 privind aprobarea bugetului local și a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe anul 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 7208/24.04.2026 al Primarului orașului Șimleu Silvaniei; -Raportul de specialitate nr. 7209/24.04.2026 al Direcț",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-32-din-04.05.2026-aprobare-buget-local-pe-2026.pdf",
+     "sha256": "524f264661c217ef76b28ab927b5adc3785ad69218eb96fe0443f3ce076ddc4b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-33-2026",
    "path": "local/salaj/simleu-silvaniei/2026/33",
    "short": "HCL Șimleu Silvaniei nr. 33/2026",
@@ -299,6 +629,291 @@
      "units": 1,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-33-din-04052026-1.pdf",
      "sha256": "e647679e538c94bbb634f522beff7704198ab73b65730298f7fd73ccfbf01178"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-34-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/34",
+   "short": "HCL Șimleu Silvaniei nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 34/2026 privind actualizarea Devizului general și a indicatorilor tehnico-economici pentru proiectul cu titlul „Renovarea energetică a Grădiniței cu Program Prelungit nr. 1 din Orașul Șimleu Silvaniei”, ca urmare a majorării cotei TVA de la 19% la 21% Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 7490/29.04.2026 al Pr",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/15/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-34-din-04.05.2026-actualizare-Deviz-General-_-cota-TVA-Gradi-1.pdf",
+     "sha256": "faa8aedf83dae11e37957b4e87e912f591421eb130671d53249a460610409a9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-35-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/35",
+   "short": "HCL Șimleu Silvaniei nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 35/2026 privind actualizarea Devizului general și a indicatorilor tehnico-economici pentru proiectul cu titlul „Renovarea energetică a Grădiniței cu Program Normal nr. 4 din Orașul Șimleu Silvaniei”, ca urmare a majorării cotei TVA de la 19% la 21% Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 7492/29.04.2026 al Prima",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/15/",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-35-din-04.05.2026-actualizare-Deviz-General-_-cota-TVA-Gradi-4.pdf",
+     "sha256": "9c9c4b73da37c2879ddb0b784533edd40f312b6c99c1abcc1e471c44fdd17ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-36-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/36",
+   "short": "HCL Șimleu Silvaniei nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 36/2026 privind alegerea președintelui de ședință care va conduce ședința exraordinară a Consiliului Local al orașului Șimleu Silvaniei din data de 18 mai 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: • Propunerea consilierilor locali consemnată în procesul verbal al ședinței; • Raportul de specialitate nr. 8529/18.05.2026 al Secretarului g",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/15/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-36-din-18.05.2026-presedinte-de-sedinta-pt-18.05.2026.pdf",
+     "sha256": "4bda3b3bae86d384abd0ecef10558c838c007db86b9f8b0b21bf33a2924c9564"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-37-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/37",
+   "short": "HCL Șimleu Silvaniei nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 37/2026 privind aprobarea prelungirii duratei contractului de concesiune nr. 884/23.05.2011, pentru exploatarea capelei funerare propietate publică a orașului Șimleu Silvaniei situată în cimitirul ortodox din strada Alexandru Aciu, nr. 14, identificată în Cartea funciară nr. 57491 UAT Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/15/",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-37-din-18.05.2026-prelungire-contr-concesiune-capela.pdf",
+     "sha256": "4c0fae127c2882b127815f7bc2bcfb3e1d2664dc36e605679ab8980d868dd19c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-38-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/38",
+   "short": "HCL Șimleu Silvaniei nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 38/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cb89424fcb96094714ce0162624fa06af4f753ba4d4b910eb835a4ab00f9ff78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-39-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/39",
+   "short": "HCL Șimleu Silvaniei nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 39/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-39-din-28.05.2026.pdf",
+     "sha256": "c26bc8c24e40181308c085ef0c08afb47ba0326e106a7941a86a63f7eafced86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-40-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/40",
+   "short": "HCL Șimleu Silvaniei nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 40/2026 privind propunerea de atribuire în proprietatea numiților Hari Francisc și Hari Rodica-Ildiko, a suprafeței de 143 mp, teren aferent casei de locuit, în vederea emiterii Ordinului Prefectului Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședința publică; Având în vedere: - Referatul de aprobare nr. 7543 / 30.04.2026 al Primarului orașului Șimleu Silvaniei; - Raportul de specialitate nr",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/15/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/15/",
+     "sha256": "a7aff499041d82a621b87f604aa9b6c5404d552e60050ba8cffb3af4415d03f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-41-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/41",
+   "short": "HCL Șimleu Silvaniei nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 41/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e23c59f9b6ca0e27af083e3e79d6a9c022d601886531318b753d43c57ba4c929"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-42-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/42",
+   "short": "HCL Șimleu Silvaniei nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 42/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-42-din-28.05.2026.pdf",
+     "sha256": "3c28479e27a472b99f31064745267bc974347e1f065bd100271bf2067c235548"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-43-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/43",
+   "short": "HCL Șimleu Silvaniei nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 43/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fd6034f67633faf75ba224081dc0a222df9debcdb5af48185ddcfbfd826b01ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-44-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/44",
+   "short": "HCL Șimleu Silvaniei nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 44/2026 privind aprobarea statului de funcții și organigramei Spitalului Orășenesc „Prof. Dr",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/14/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-44-din-28.05.2026-aprobare-Stat-de-functii-spital-pe-2026.pdf",
+     "sha256": "75f008c3dae71032cb50015a2bcb6df558e043f0ffb768355812894b47651535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-45-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/45",
+   "short": "HCL Șimleu Silvaniei nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 45/2026 privind înregistrarea în domeniul public al orașului a elementelor de infrastructură publică rețea apă potabilă și canalizare realizate în cadrul lucrărilor de extindere în localitatea Șimleu Silvaniei, jud",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/14/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-45.pdf",
+     "sha256": "fdf62e690963b4024c3e2d4917ccdae41be3f5d2dd98217eaee0d7cc374ac075"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-46-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/46",
+   "short": "HCL Șimleu Silvaniei nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 46/2026 pentru aprobarea proiectului (cererii de finanțare) și a cheltuielilor aferente, în conformitate cu ultima formă a bugetului rezultat în etapa de evaluare și selecție pentru obiectivul de investiții “Transformare Cinematograf în Centru Cultural Multifuncțional în Orașul Șimleul Silvaniei, Județ Sălaj” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având î",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/14/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-46.pdf",
+     "sha256": "7fc1ed752a384b301eb273239205e7ecfc99b476f6d19ef12622a256dd63fc92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-47-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/47",
+   "short": "HCL Șimleu Silvaniei nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 47/2026 privind aprobarea schimbului de locuințe de serviciu între Pop Ioan-Gligor, titularul contractului de închiriere nr.4 / 22.12.2021 și o locuință de serviciu vacantă Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 8547/18.05.2026 al Primarului orașului Șimleu Silvaniei privind aprobarea schimbului de locuinte de",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/14/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/14/",
+     "sha256": "467976e214113e6906a5e8a4f35132692621bb93c18a6b4c5c50756e2f5e236c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-48-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/48",
+   "short": "HCL Șimleu Silvaniei nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 48/2026 privind aprobarea ”Programului anual propriu pentru acordarea de finanțări nerambursabile alocate de la bugetul local pentru activități nonprofit de interes local” pentru anul 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 8513/18.05.2026 al Primarului orașului Șimleu Silvaniei; -Raportul de specialitate nr",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/14/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-48-din-28.05.2026-aprobare-Program-anual-de-finantare-pe-Legea_350.pdf",
+     "sha256": "03b41c68d13711e2557432b3a64cfc574c8b7be1f31cffd5003204975d1f946c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-49-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/49",
+   "short": "HCL Șimleu Silvaniei nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 49/2026 privind aprobarea ”Programului anual propriu privind acordarea de sprijin financiar unităților de cult din orașul Șimleu Silvaniei, aparținând cultelor religioase recunoscute din România”, pentru anul 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 8514/18.05.2026 al Primarului orașului Șimleu Silvaniei; -Ra",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/14/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-49-din-28.05.2026-aprobare-Program-anual-finantare-OG-82_culte.pdf",
+     "sha256": "5c3d915bfd901ccb4cde1c6d9a0ee04fa81c149e83216e038dccd154a7a2efb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-5-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/5",
+   "short": "HCL Șimleu Silvaniei nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 5/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ef9e16772ef34c0ea881e6da743cc21dbf772b0b6596f0fac27ee87032234f12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-50-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/50",
+   "short": "HCL Șimleu Silvaniei nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 50/2026 privind aprobarea Regulamentului pentru alocarea de fonduri de la bugetul local al orașului Șimleu Silvaniei pentru unitățile de cult aparținând cultelor religioase recunoscute din România, care își desfășoară activitatea pe raza orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 859618.05",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/13/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/05/HCL-nr.-50-din-28.05.2026-aprobare-REGULAMENT-finantare-CULTE_-OG-82.pdf",
+     "sha256": "842b07479ad69440017440bb40184ea0a8ca996e6c50dcd4a9fc1b04b5c55efa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-52-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/52",
+   "short": "HCL Șimleu Silvaniei nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 52/2026 privind aprobarea punerii în aplicare a metodelor de intervenție asupra speciei de urs brun la nivel UAT Orașul Șimleu Silvaniei și aprobarea încheierii unui contract de permanență și intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun la nivelul UAT Orașul Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/13/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/06/HCL-nr.-52-din-30.06.2026-masuri-ursi.pdf",
+     "sha256": "89a0862b050f1887c1678488a05c362c7c0eb65d46e63bd648dd1cf609082098"
     }
    ]
   },
@@ -348,6 +963,66 @@
    ]
   },
   {
+   "slug": "hcl-salaj--simleu-silvaniei-56-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/56",
+   "short": "HCL Șimleu Silvaniei nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 56/2026 privind stabilirea unor măsuri cu privire la salariile de bază pentru personalul contractual din cadrul Aparatului de specialitate al primarului orașului Șimleu Silvaniei, al instituțiilor și serviciilor publice fără personalitate juridică din subordinea Consiliului Local al orașului Șimleu Silvaniei, începând cu 1 iulie 2026, conform HG 146/2026 Consiliul Local al orașului Șimleu Silvaniei, județ",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/12/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/06/HCL-nr.-56-din-30.06.2026-modificare-salarii-personal-contractual-cu-1-iulie-cf-HG-146_2026.pdf",
+     "sha256": "3b3296789395ac8b98225621f9088567930fd9f2ae567bb2771a43e8e22415bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-57-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/57",
+   "short": "HCL Șimleu Silvaniei nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 57/2026 privind aprobarea apartamentării blocului de locuințe ANL, cu nr. cadastral 52327-C1, situat pe strada Mihail Sadoveanu, nr. 23, din orașul Șimleu Silvaniei, jud",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/12/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/06/HCL-nr.-57-din-30.06.2026-apartamentare-bl-ANL_M-Sadoveanu.pdf",
+     "sha256": "4edc37f5c9453802d9568a68c20a812d1244abfa0d62089354184559d27228fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-59-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/59",
+   "short": "HCL Șimleu Silvaniei nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 59/2026 privind actualizarea devizului general și a indicatorilor tehnico-economici ca urmare a ajustării valorii contractului în conformitate cu prevederile Legii nr. 98/2016 pentru obiectivul de investiții: „Modernizare străzi în orașul Șimleu Silvaniei, județ Sălaj” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 102",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/11/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/06/HCL-nr.-59-din-30.06.2026-actualizare-deviz-general-Oi-indicatori-Modernizare-str-azi-n-oraOul-yimleu-Silvaniei.pdf",
+     "sha256": "b605eab76a8dbb84f20ccc63068220309d026e157bd4d7217bdde7a5373d55b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-6-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/6",
+   "short": "HCL Șimleu Silvaniei nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 6/2026 privind aprobarea Organigramei și a Statului de funcții pentru Aparatul de specialitate al Primarului Orașului Șimleu Silvaniei Consiliul Local al Orașului Șimleu Silvaniei, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 913/21.01.2026 al Primarului orașului Șimleu Silvaniei; - Raportul de specialitate nr. 917/21.01.2026 al Compartimentului resurse umane și salarizare;",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/21/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/01/HCL-nr.-6-din-29.01.2026-APROBARE-STAT-DE-FUNCTII-PROMOVARE-in-GRAD-PROFESIONAL-cons-juridic-principal.pdf",
+     "sha256": "84e0b05781b3b0688eccee80601b7855750313ef2d877407be79b75efccff656"
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--simleu-silvaniei-60-2026",
    "path": "local/salaj/simleu-silvaniei/2026/60",
    "short": "HCL Șimleu Silvaniei nr. 60/2026",
@@ -359,6 +1034,246 @@
      "units": 6,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/06/HCL-nr.-60-din-30.06.2026-ROF-aparat-primar-ca-urmare-a-reorganizarii-cf-HCL-26-din-15.04.2026.pdf",
      "sha256": "5617f688c3298db484307534f43cdd9916a80ed8869ec8c9544036d0bac6a589"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-61-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/61",
+   "short": "HCL Șimleu Silvaniei nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 61/2026 privind rectificarea bugetului local și actualizarea Programului de investiții pe anul 2026 cu finanțare din bugetul local și a activităților finanțate din FEN și PNRR Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: -Referatul de aprobare nr. 10582/22.06.2026 al Primarului orașului Șimleu Silvaniei; -Raportul de specialitate nr. 10583/22.0",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/11/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/06/HCL-nr.-61-din-30.06.2026-rectificare-buget-local-pe-2026-iunie.pdf",
+     "sha256": "1e627d5d141cb43c9aaca82b2c4a22492a36fe6a2e36d51afa7e159b74501e4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-62-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/62",
+   "short": "HCL Șimleu Silvaniei nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 62/2026 pentru modificarea anexei la HCL nr. 109/27.11.2025 privind aprobarea Planului de investiții pentru anul 2026 pentru dezvoltarea și modernizarea serviciului de salubrizare -componenta Colectare și Transport deșeuri din orașul Șimleu Silvaniei, ca urmare a modificării cuantumului redevenței Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere :",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/11/",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/06/HCL-nr.-62-din-30.06.2026-modificare-HCL-109-din-2025-plan-investitie-redeventa-ECODES-pe-2026.pdf",
+     "sha256": "00e771a9d4842b837cab057cab4526e4b0d720eefddd0971618f360d14dbfd2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-64-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/64",
+   "short": "HCL Șimleu Silvaniei nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 64/2026 privind alegerea președintelui de ședință care va conduce ședințele Consiliului Local al orașului Șimleu Silvaniei în perioada IULIE-SEPTEMBRIE 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere:  Referatul de aprobare nr. 11413/02.07.2026 al Primarului orașului Șimleu Silvaniei;  Raportul de specialitate nr. 11414/02.07.2026 al Compart",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/11/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/07/HCL-nr.-64-din-13.07.2026-PRESEDINTE-DE-SEDINTA-iulie-septembrie-2026.pdf",
+     "sha256": "70c64c90ae9eb722f45f70087d11a4d6cbae071c1ed08296f344c279dad9daae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-65-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/65",
+   "short": "HCL Șimleu Silvaniei nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 65/2026 privind înființarea de către UAT orașul Șimleu Silvaniei a S.C.“MĂGURA PARK” S.R.L Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere; - Referatul de aprobare nr. 10147/15.06.2026 al Primarului orașului Șimleu Silvaniei; - Raportul de specialitate nr. 10150/15.06.2026 al Direcția investiții, dezvoltare și proiecte, Direcția financiar- economic",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/10/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/07/HCL-nr.-65-din-13.07.2026-infiintare-SC-MAGURA-PARK-3.pdf",
+     "sha256": "62e51da82f5dfab1e0e681f2fdbe860585a0890c3b080a07d47b341b5bde97e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-66-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/66",
+   "short": "HCL Șimleu Silvaniei nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 66/2026 pentru concesionarea prin licitatie -parcele de teren",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/10/",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/07/HCL-nr.-66-din-13.07.2026-APROBARE-studiu-oportunitate-pentru-concesionarea-prin-licitatie-parcele-de-teren.pdf",
+     "sha256": "0a45c1330e9da689fcd469123436c821b8c9d4d1a5ef502cf39e53ba142dee9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-67-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/67",
+   "short": "HCL Șimleu Silvaniei nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 67/2026 privind aprobarea încheierii protocolului de colaborare în vederea schimbului de informații de interes pentru activitatea notarială Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere; - Referatul de aprobare nr.11721/08.07.2026 al Primarului Orașului Șimleu Silvaniei; - Raportul de specialitate comun nr.11722/08.07.2026 al Compartimentului Sta",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/10/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-67-din-30.07.2026-Protocol-colaborare-UNNPR-si-Camera-notarilor.pdf",
+     "sha256": "ffe1d9e6ae5a163e89af3172fd4f536f3f4143c8d701baf70183b8aa5c8b3cef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-68-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/68",
+   "short": "HCL Șimleu Silvaniei nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 68/2026 privind aprobarea contului de execuție al bugetului local întocmit la data de 30.06.2026 și al contului de execuție al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii la data de 30.06.2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: • Referatul de aprobare nr. 12490/22.07.2026 al Pri",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/10/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-68-din-30.07.2026-cont-de-executie-30.06.2026.pdf",
+     "sha256": "c6f425d5f01ca1fb45ebb77ab5092905846641ad809523171fa234226c814a89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-69-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/69",
+   "short": "HCL Șimleu Silvaniei nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 69/2026 privind repartizarea sumelor în cadrul “Programului anual pentru acordarea de finanțări nerambursabile alocate de la bugetul local pentru activități nonprofit de interes local”, pentru anul 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere; - Referatul de aprobare nr. 12385/21.07.2026 al Primarului orașului Șimleu Silvaniei ; - Raportul",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/10/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-69-din-30.07.2026-Repartizare-sume-L350.pdf",
+     "sha256": "b60eb904437751799146d204b479c78fcbd8e81290693c27ac5585ec18371a5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-7-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/7",
+   "short": "HCL Șimleu Silvaniei nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 7/2026 privind stabilirea unor măsuri cu privire la salariile de bază pentru funcționarii publici și personalul contractual din cadrul Aparatului de specialitate al primarului orașului Șimleu Silvaniei, al instituțiilor și serviciilor publice fără personalitate juridică din subordinea Consiliului Local al orașului Șimleu Silvaniei, pentru anul 2026, conform Legii 141/2025 Consiliul Local al orașului Șiml",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/21/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/01/HCL-nr.-7-din-29.01.2026-modificare-salarii-cf-OUG-141-din-2025-mentinere-la-nivelul-2025.pdf",
+     "sha256": "a55af50492849e154b9eab5d489922da2a92ce08ba9906293f3b5ae416195d9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-70-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/70",
+   "short": "HCL Șimleu Silvaniei nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 70/2026 privind repartizarea sumelor în cadrul “Programului anual propriu privind acordarea de sprijin financiar unităților de cult din orașul Șimleu Silvaniei, aparținând cultelor religioase recunoscute din România”, pentru anul 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere; - Referatul de aprobare nr. 12386/21.07.2026 al Primarului orașulu",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/10/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-70-din-30.07.2026-Repartizare-sume-OG82.pdf",
+     "sha256": "b186f379cdf7f4eef556f9f49f3c29855a39caeb3a63ce2320ff12c8f2eed982"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-71-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/71",
+   "short": "HCL Șimleu Silvaniei nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 71/2026 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții: „,REȚEA PISTĂ DE BICICLETE” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 12477/22.07.2026 al Primarului orașului Șimleu Silvaniei; -Raportul de specialitate comun nr. 12480/22.07.2026 al Compartimentului dezvoltare, investiț",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/10/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-71-din-30.07.2026-actualizare-indicatori-RETEA-PISTA-DE-BICICLETE-2026.pdf",
+     "sha256": "aef1918fb10c3ecd4ae9f21708a197002bf0b7593bbc731c0b34f877ea5166a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-72-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/72",
+   "short": "HCL Șimleu Silvaniei nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 72/2026 privind aprobarea Listei solicitanților care au acces la locuințele de serviciu și a Listei privind stabilirea ordinii de prioritate a solicitanților care au acces la locuințele de serviciu din fondul locativ aflat în patrimoniul orașului Șimleu Silvaniei Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședintă publică; Având în vedere: - Referatul de aprobare nr. 12504/22",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/10/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-72-din-30.07.2026-LISTA-DE-PRIORITATI-FOND-LOCATIV-iulie-2026.pdf",
+     "sha256": "c16922aa79e092ee7153f417c87130921de9198f7fb38991558a6c103d981403"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-73-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/73",
+   "short": "HCL Șimleu Silvaniei nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 73/2026 privind aprobarea indicatorilor tehnico – economici finali pentru obiectivul de investiții ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Șimleu Silvaniei LOT 1” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere : - Referatul de aprobare nr. 10644/2026 al Primarului orașului Șimleu Silvaniei; - Raportul de speciali",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/9/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-73-din-30.07.2026-HCL-Lot-1.pdf",
+     "sha256": "9084cc1f25c0b9d4bd1fd261c9573ddfed3adb5c8d18f03ae57ffcb146ee7e6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-74-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/74",
+   "short": "HCL Șimleu Silvaniei nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 74/2026 privind aprobarea indicatorilor tehnico – economici finali pentru obiectivul de investiții ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Șimleu Silvaniei LOT 2” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere : - Referatul de aprobare nr. 10650/27.07.2026 al Primarului orașului Șimleu Silvaniei; - Raportul de sp",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/9/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-74-din-30.07.2026-HCL-Lot-2.pdf",
+     "sha256": "607de6c65e1bf5d13babf6dc74823f2d08213503a3b9f5a16069e90380c5d421"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-75-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/75",
+   "short": "HCL Șimleu Silvaniei nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 75/2026 privind aprobarea indicatorilor tehnico – economici finali pentru obiectivul de investiții ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Șimleu Silvaniei LOT 3” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere : - Referatul de aprobare nr. 10667/27.07.2026 al Primarului orașului Șimleu Silvaniei; - Raportul de sp",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/9/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-75-din-30.07.2026-HCL-Lot-3.pdf",
+     "sha256": "f934c2b2b87548c24b0bcb6a7115afab12215cbdc08be0ca0afc9c30d8ec54ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-76-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/76",
+   "short": "HCL Șimleu Silvaniei nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 76/2026 privind aprobarea indicatorilor tehnico – economici finali pentru obiectivul de investiții ,,Renovarea energetică a clădirilor rezidențiale multifamiliale din orașul Șimleu Silvaniei LOT 4” Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere : - Referatul de aprobare nr. 10647/27.07.2026 al Primarului orașului Șimleu Silvaniei; - Raportul de sp",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/9/",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-76-din-30.07.2026-HCL-Lot-4.pdf",
+     "sha256": "c8383d5a56c31d06f27d6dcc185c3968ebba9accc0233e53caec77337ad26cc6"
     }
    ]
   },
@@ -404,6 +1319,21 @@
      "units": 1,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-79-din-1.pdf",
      "sha256": "ef8c970e1af1d9be5d439995b71120fb4af611329449910d5d20e4b9c6f87e19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-8-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/8",
+   "short": "HCL Șimleu Silvaniei nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 8/2026 privind aprobarea Raportului de activitate desfășurat de asistenții personali ai persoanelor cu handicap grav pe semestrul II al anului 2025 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 946/22.01.2026 a Primarul orașului Șimleu Silvaniei - Raportul de specialitate nr.954/22.01.2026 al Direcției de asistență s",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/21/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/01/HCL-nr.-8-din-29.01.2026-asistenti-personali-ACTIVITATE-SEMESTRUL-II-pe-2025.pdf",
+     "sha256": "1f979219d57cb1b9ec3bbc78c1014fe4dba3af5c2b14cae83945267d4bc59d68"
     }
    ]
   },
@@ -539,6 +1469,21 @@
      "units": 1,
      "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/08/HCL-nr.-89-din-27.08.2026-aprobare-naveta-la-cadre-didactice.pdf",
      "sha256": "6b229f28da4034e9784f20cbeb55e665972b4989812ee70ad2f06e725aeb3a9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--simleu-silvaniei-9-2026",
+   "path": "local/salaj/simleu-silvaniei/2026/9",
+   "short": "HCL Șimleu Silvaniei nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șimleu Silvaniei nr. 9/2026 privind aprobarea Planului anual de acțiuni și lucrări de interes local care vor fi efectuate de beneficiarii venitului minim de incluziune - ajutor de incluziune, în anul 2026 Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică; Având în vedere: - Referatul de aprobare nr. 991/22.01.2026 a Primarului orașului Șimleu Silvaniei, - Raportul de specialitate comun",
+   "url": "https://www.simleusilvaniei.ro/consiliul-local-al-orasului-simleu-silvaniei/hotararile-consiliului-local/page/21/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.simleusilvaniei.ro/wp-content/uploads/2026/01/HCL-nr.-9-din-29.01.2026-ACTIUNI-SI-LUCRARI-VMI-2026.pdf",
+     "sha256": "c0070d4223bd1cb5241e7beadd8a14954148d8910b76e1218a2aaeff2ef141eb"
     }
    ]
   },

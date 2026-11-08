@@ -1,0 +1,651 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/slanic/2012",
+ "acts": [
+  {
+   "slug": "hcl-prahova--slanic-1-2012",
+   "path": "local/prahova/slanic/2012/1",
+   "short": "HCL Slănic nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 1/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/31.01.2012_1.pdf",
+     "sha256": "8f4140383e759196f76e6733c85de7b16547463ccc76bc5f1dac578c32eb2c7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-13-2012",
+   "path": "local/prahova/slanic/2012/13",
+   "short": "HCL Slănic nr. 13/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 13/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/13_22.03.2012.pdf",
+     "sha256": "59784c077577ce8e9206d2c175d4e338835b4f32c0b9f813f1496b2bd43ec3aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-14-2012",
+   "path": "local/prahova/slanic/2012/14",
+   "short": "HCL Slănic nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 14/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-04-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/14_19.04.2012.pdf",
+     "sha256": "af8bc53e91b5af4569cd289aa87ad2c0dcef3bd5eee52fdd1a23e20d76345251"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-15-2012",
+   "path": "local/prahova/slanic/2012/15",
+   "short": "HCL Slănic nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 15/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-04-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/15_19.04.2012.pdf",
+     "sha256": "fbac9710b150d5d7389eec5619c65d10319038e13939bc195275779e5e739abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-16-2012",
+   "path": "local/prahova/slanic/2012/16",
+   "short": "HCL Slănic nr. 16/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 16/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-04-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/16_19.04.2012.pdf",
+     "sha256": "4c0285aeba8baecd9613143e60f012fd9544aaa34b1eadaac3ee9b8666572a0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-17-2012",
+   "path": "local/prahova/slanic/2012/17",
+   "short": "HCL Slănic nr. 17/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 17/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-04-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/17_19.04.2012.pdf",
+     "sha256": "3ac5419c7a750482720319e2ce75e169f1e73c3b60238996104381cf56835b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-18-2012",
+   "path": "local/prahova/slanic/2012/18",
+   "short": "HCL Slănic nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 18/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/18_24.05.2012.pdf",
+     "sha256": "358c11f69da8e1cd0b2a042e97dde598f0b4687e7b489dab7fa0e634cb336539"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-19-2012",
+   "path": "local/prahova/slanic/2012/19",
+   "short": "HCL Slănic nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 19/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/19_24.05.2012.pdf",
+     "sha256": "a3c1c5e7e42be31e12c80c16219903fa47eb3fae19f0b00a3be56f9e6bfa2b85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-2-2012",
+   "path": "local/prahova/slanic/2012/2",
+   "short": "HCL Slănic nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 2/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-02-08",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/8.02.2012_2.pdf",
+     "sha256": "7b18205a066f37bf990da7efde77764e9323624c7e809eb9d86e4345eb3c1eb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-20-2012",
+   "path": "local/prahova/slanic/2012/20",
+   "short": "HCL Slănic nr. 20/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 20/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/20_24.05.2012.pdf",
+     "sha256": "50008a86be33adefc4a573a4ca29a31829c5a3238caf3fff486ea14a6b3226cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-21-2012",
+   "path": "local/prahova/slanic/2012/21",
+   "short": "HCL Slănic nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 21/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/21_24.05.2012.pdf",
+     "sha256": "8b96c3fdb4eacd171738515826be183887b0ffc35b5fef523c72bd05324b2fc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-23-2012",
+   "path": "local/prahova/slanic/2012/23",
+   "short": "HCL Slănic nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 23/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/hotarari%20CONSTITUIRE%20CONSILIUL%20LOCAL.doc",
+     "sha256": "90896a574aa87e7b00648594c732a7a757b67057fdb020d676364d7961759943"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-29-2012",
+   "path": "local/prahova/slanic/2012/29",
+   "short": "HCL Slănic nr. 29/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 29/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/29_19.07.2012.pdf",
+     "sha256": "8927dc157c01b9d52064306cbe22eb736b5e5b64bd1f78666ed20c51b827ca00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-30-2012",
+   "path": "local/prahova/slanic/2012/30",
+   "short": "HCL Slănic nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 30/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/30_19.07.2012.pdf",
+     "sha256": "0fd7a3acfa51121640fc0049bcb739f64fee948f4713bbc76c3ac74208f6f320"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-31-2012",
+   "path": "local/prahova/slanic/2012/31",
+   "short": "HCL Slănic nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 31/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/31_19.07.2012.pdf",
+     "sha256": "8380a3af9ebf6a0fd434886ebc01f596e5c9294551d43d7da2ef017a843a651f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-32-2012",
+   "path": "local/prahova/slanic/2012/32",
+   "short": "HCL Slănic nr. 32/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 32/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/32_19.07.2012.pdf",
+     "sha256": "cdd70b3ae05faf0bc985c5fc5e1bd0d21e8a149b848d31f16bfa6c26e653b10e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-33-2012",
+   "path": "local/prahova/slanic/2012/33",
+   "short": "HCL Slănic nr. 33/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 33/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/33_19.07.2012.pdf",
+     "sha256": "f5238d6ef943f17d2b9e3fda832cdf089b6b7d10dcc8819d7401d5f04bb07dbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-34-2012",
+   "path": "local/prahova/slanic/2012/34",
+   "short": "HCL Slănic nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 34/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-09-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/34_24.09.2012.pdf",
+     "sha256": "924595ded833f237518c9c8310867cb5ca76abaf16f7c0dffbb4fab1ea32e614"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-35-2012",
+   "path": "local/prahova/slanic/2012/35",
+   "short": "HCL Slănic nr. 35/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 35/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-09-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/35_24.09.2012.pdf",
+     "sha256": "dd04cad4c4fa5022c58a03b6ebf2f63effacaa220a203aab42186235d4086436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-38-2012",
+   "path": "local/prahova/slanic/2012/38",
+   "short": "HCL Slănic nr. 38/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 38/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-09-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/38_24.09.2012.pdf",
+     "sha256": "04209b9d3ce70034863ae08255cd8dbbeda96c7cdc6a2b871ad87b93ea804ebc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-39-2012",
+   "path": "local/prahova/slanic/2012/39",
+   "short": "HCL Slănic nr. 39/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 39/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-09-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/39_24.09.2012.pdf",
+     "sha256": "13df0e5e5ce3037a53eaa019df94239ba2eb2a7f3d5baa2ab0e4d1d95f1c34aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-4-2012",
+   "path": "local/prahova/slanic/2012/4",
+   "short": "HCL Slănic nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 4/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/4_22.03.2012.pdf",
+     "sha256": "3776911f002419451ca9e9fe1b6db5148479a2865fe33699d0a720ff676ad8ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-40-2012",
+   "path": "local/prahova/slanic/2012/40",
+   "short": "HCL Slănic nr. 40/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 40/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-09-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/40_24.09.2012.pdf",
+     "sha256": "be77b989c55fa815cb0289614f8a0d9087d0d2f0803aa140f251e590f799202d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-41-2012",
+   "path": "local/prahova/slanic/2012/41",
+   "short": "HCL Slănic nr. 41/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 41/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-09-24",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/41_24.09.2012.pdf",
+     "sha256": "1721e585158332a9492bb2e8a1f3b49cf0b8e313c41f6845ab0409e25da792b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-42-2012",
+   "path": "local/prahova/slanic/2012/42",
+   "short": "HCL Slănic nr. 42/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 42/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/42_16.10.2012.PDF",
+     "sha256": "8c33f37a2ec3fb7c310100e4ef3ac0b117996cde282fa14291dedf8a0aab894c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-43-2012",
+   "path": "local/prahova/slanic/2012/43",
+   "short": "HCL Slănic nr. 43/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 43/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/43_16.10.2012.PDF",
+     "sha256": "73b9727fc6308ce6de9be998270c00adb5fc3294f50e560252f5e31cc4c70b78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-44-2012",
+   "path": "local/prahova/slanic/2012/44",
+   "short": "HCL Slănic nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 44/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/44_16.10.2012.PDF",
+     "sha256": "048841b243f7e08cb55a1b1df78a370dc32476dbc3c000ee08013a7eb43f1b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-45-2012",
+   "path": "local/prahova/slanic/2012/45",
+   "short": "HCL Slănic nr. 45/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 45/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/45_16.10.2012.PDF",
+     "sha256": "a1b1d39a6a4ac62c75757cc7cdb9b353d1044a26f7502f20f2d574d1ef04cc6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-46-2012",
+   "path": "local/prahova/slanic/2012/46",
+   "short": "HCL Slănic nr. 46/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 46/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/46_16.10.2012.PDF",
+     "sha256": "b53643b053fd9b31516aff8b8964b88747f5c5b80fc3b4faa6b56f6d30c32fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-47-2012",
+   "path": "local/prahova/slanic/2012/47",
+   "short": "HCL Slănic nr. 47/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 47/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/47_16.10.2012.PDF",
+     "sha256": "815332729e2fce881901326be806a1b9fa3852ebbcd32709542f4016ae6d8b42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-48-2012",
+   "path": "local/prahova/slanic/2012/48",
+   "short": "HCL Slănic nr. 48/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 48/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/48_16.10.2012.PDF",
+     "sha256": "b9856b9e79ad8c8c5a6c0caffbadbef3c8ece4cb7e17c0f4c6837406a04da253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-49-2012",
+   "path": "local/prahova/slanic/2012/49",
+   "short": "HCL Slănic nr. 49/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 49/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/49_16.10.2012.PDF",
+     "sha256": "13a1a313dda4fb863d395465994b18f42041e9d3c6867ffe7f01f81ffc8004f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-50-2012",
+   "path": "local/prahova/slanic/2012/50",
+   "short": "HCL Slănic nr. 50/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 50/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/50_29.11.2012.PDF",
+     "sha256": "784cc13ac9808095cf14dcdb36dd8e2dcee4861c2c713bedb8d8cc3bcf57b78a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-51-2012",
+   "path": "local/prahova/slanic/2012/51",
+   "short": "HCL Slănic nr. 51/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 51/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/51_29.11.2012.PDF",
+     "sha256": "c26b98e390e54edd8d5071221e8cee096ae6bcf42739ceaf6db0b682ad1d2e45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-52-2012",
+   "path": "local/prahova/slanic/2012/52",
+   "short": "HCL Slănic nr. 52/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 52/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/52_29.11.2012.PDF",
+     "sha256": "be18e54a82ebcdf462ea31cd244d14bbcd951b0f9f28e50afa1ce405fffb59f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-53-2012",
+   "path": "local/prahova/slanic/2012/53",
+   "short": "HCL Slănic nr. 53/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 53/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/53_29.11.2012.PDF",
+     "sha256": "0f6cd5ba5839b7a5dd35a55d55ebd775a93ac03aff3d7cc14b8e2c62c3e8e6c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-54-2012",
+   "path": "local/prahova/slanic/2012/54",
+   "short": "HCL Slănic nr. 54/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 54/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/54_29.11.2012.PDF",
+     "sha256": "115216178e85659f978222292a45252f0f0e50cc3ab4f8f89c8d356efb698463"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-55-2012",
+   "path": "local/prahova/slanic/2012/55",
+   "short": "HCL Slănic nr. 55/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 55/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/55_29.11.2012.PDF",
+     "sha256": "4d1d7df26b488e9eb86249c1acedabff42228166604adc473ecd3322cb233fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-56-2012",
+   "path": "local/prahova/slanic/2012/56",
+   "short": "HCL Slănic nr. 56/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 56/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/56_29.11.2012.PDF",
+     "sha256": "698e64e6e8f69f790d36426e2dd7b9777fe53e84e2bc6d604d47b816efb5fe62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-57-2012",
+   "path": "local/prahova/slanic/2012/57",
+   "short": "HCL Slănic nr. 57/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 57/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/57_29.11.2012.PDF",
+     "sha256": "6b9ddd46ee42c45a4c4f7b14217e243a473983f6601c2bffe8bfc74eac4a9a6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-58-2012",
+   "path": "local/prahova/slanic/2012/58",
+   "short": "HCL Slănic nr. 58/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 58/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/58_29.11.2012.PDF",
+     "sha256": "e0cee5093f466ead663cd2875f4f0769589cc93526cef33d7a43ed0ef029c618"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-59-2012",
+   "path": "local/prahova/slanic/2012/59",
+   "short": "HCL Slănic nr. 59/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 59/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/59_29.11.2012.PDF",
+     "sha256": "9063560ec51762ac4f401598aa263ff11612eeaa0d12c28fadbca89a8f500c94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-60-2012",
+   "path": "local/prahova/slanic/2012/60",
+   "short": "HCL Slănic nr. 60/2012",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 60/2012",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_arh.htm",
+   "versions": [
+    {
+     "from": "2012-12-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/60_31.12.2012.PDF",
+     "sha256": "0c1c4ad62da8b699bd3cc44071190ff6ba167e4947f8e5eb344cadd7f18e5d68"
+    }
+   ]
+  }
+ ]
+}

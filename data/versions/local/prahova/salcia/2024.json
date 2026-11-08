@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--salcia-3-2024",
+   "path": "local/prahova/salcia/2024/3",
+   "short": "HCL Salcia nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Salcia nr. 3/2024 prinvind alegerea presedintelui de ședință precum și a inlocuitorului acestuia in cazul lipsei titularului",
+   "url": "https://emol.ro/salcia-ph/registru-hcl/142617",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/salcia-ph/registru-hcl/142617",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--salcia-4-2024",
    "path": "local/prahova/salcia/2024/4",
    "short": "HCL Salcia nr. 4/2024",

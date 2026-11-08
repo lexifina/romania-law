@@ -25,6 +25,160 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-2-2025",
+"path": "local/salaj/pericei/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 2/2025 privind utilizarea excedentului bugetar aferent anului 2024",
+"short": "HCL Pericei nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/187716",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-3-2025",
+"path": "local/salaj/pericei/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 3/2025 privind acoperirea deficitului din anul 2024 pe secțiunea de dezvoltare",
+"short": "HCL Pericei nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/187717",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-4-2025",
+"path": "local/salaj/pericei/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 4/2025 privind aprobarea modului de întocmire a registrului agricol pentru perioada 2025-2029",
+"short": "HCL Pericei nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/187718",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-5-2025",
+"path": "local/salaj/pericei/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 5/2025 privind aprobarea Proiectului Tehnic și a documentației tehnico-economică, pentru obiectivul de investiție: ” Crearea unui centru de zi pentru copii expuși riscului de a fi separați de familie în Comuna Pericei, Județul Sălaj” aprobat în cadrul apelurilor de proiecte Planul Național de Redresare și Reziliență, Componenta C13 - Reforme sociale",
+"short": "HCL Pericei nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/195446",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-6-2025",
+"path": "local/salaj/pericei/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 6/2025 privind aprobarea programului de acțiuni comunitare destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pe anul 2025;",
+"short": "HCL Pericei nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/195447",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-7-2025",
+"path": "local/salaj/pericei/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 7/2025 privind aprobarea inventarului bunurilor care alcătuiesc domeniul public și privat al comunei Pericei ;",
+"short": "HCL Pericei nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/195448",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-8-2025",
+"path": "local/salaj/pericei/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 8/2025 privind aderarea Comunei Pericei ca membru susținător la Societatea Națională de Cruce Roșie din România Filiala Sălaj;",
+"short": "HCL Pericei nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-21",
+"latest": "2025-02-21",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/195449",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-9-2025",
 "path": "local/salaj/pericei/2025/9",
 "kind": "local",
@@ -114,6 +268,139 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-13-2025",
+"path": "local/salaj/pericei/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 13/2025",
+"short": "HCL Pericei nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-11",
+"latest": "2025-04-11",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/202693",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--pericei-14-2025",
+"path": "local/salaj/pericei/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 14/2025 privind aprobarea aprobarea indicatorilor tehnico-economici actualizați după semnarea contractului de execuție a lucrărilor pentru obiectivul de investiție : ”Extindere canalizare și alimentare cu apă în satele Bădăcin și Pericei, județul Sălaj ” prin Programul Național de investiții ”Anghel Saligny” aprobat prin OUG nr. 95/2021,",
+"short": "HCL Pericei nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/206209",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-15-2025",
+"path": "local/salaj/pericei/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 15/2025 privind aprobarea indicatorilor tehnico-economici actualizați după semnarea contractului de execuție a lucrărilor pentru obiectivul de investiție : ”Modernizarea drumului comunal 102/A, în sat Pericei, județul Sălaj ” prin Programul Național de investiții ”Anghel Saligny” aprobat prin OUG nr. 95/2021",
+"short": "HCL Pericei nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/206210",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-16-2025",
+"path": "local/salaj/pericei/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 16/2025 privind aprobarea indicatorilor tehnico-economici actualizați după semnarea contractului de execuție a lucrărilor pentru obiectivul de investiție : ” Crearea unui centru de zi pentru copii expuși riscului de a fi separate de familie în Comuna Pericei, județul Sălaj ” aprobat în cadrul apelurilor de proiecte Planul Național de Redresare și Reziliență, Componenta C 13-reforme sociale,",
+"short": "HCL Pericei nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/206211",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-17-2025",
+"path": "local/salaj/pericei/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 17/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului ” Furnizarea de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente de calitate”",
+"short": "HCL Pericei nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/206212",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-18-2025",
+"path": "local/salaj/pericei/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 18/2025 privind retragerea Comunei Pericei din cadrul Asociația de Dezvoltare Intercomunitară ” BEREC”",
+"short": "HCL Pericei nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/206213",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-19-2025",
 "path": "local/salaj/pericei/2025/19",
 "kind": "local",
@@ -178,6 +465,28 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-22-2025",
+"path": "local/salaj/pericei/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 22/2025 privind însușirea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Pericei, în scopul realizării unor atribuții stabilite prin lege autorităților administrației publice locale",
+"short": "HCL Pericei nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/210329",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -247,6 +556,28 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-26-2025",
+"path": "local/salaj/pericei/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 26/2025 privind aprobare Planului Urbanistic General-Comuna Pericei",
+"short": "HCL Pericei nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-12",
+"latest": "2025-06-12",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/212233",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-27-2025",
 "path": "local/salaj/pericei/2025/27",
 "kind": "local",
@@ -291,6 +622,72 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-29-2025",
+"path": "local/salaj/pericei/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 29/2025 privind aprobarea Acordui de cooperare între Comuna Pericei, Judetul Sălaj din România şi satul Lesencentomaj, Districtul Tapolca,județul Vesprem din Ungaria",
+"short": "HCL Pericei nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-12",
+"latest": "2025-06-12",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/212236",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-30-2025",
+"path": "local/salaj/pericei/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 30/2025 privind aprobarea Regulamentului de acordare a premiilor pentru elevii olimpici care au obținut rezultate deosebite la concursurile, olimpiadele și competițiile școlare, faza județeană/națională/internațională",
+"short": "HCL Pericei nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-12",
+"latest": "2025-06-12",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/212237",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-31-2025",
+"path": "local/salaj/pericei/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 31/2025 privind aprobarea extinderii rețelei de gaze naturale în comuna Pericei, sat Pericei",
+"short": "HCL Pericei nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/219884",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-32-2025",
 "path": "local/salaj/pericei/2025/32",
 "kind": "local",
@@ -310,6 +707,50 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-33-2025",
+"path": "local/salaj/pericei/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 33/2025 privind aprobarea actualizării statului de funcții si a organigramei",
+"short": "HCL Pericei nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/219886",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-34-2025",
+"path": "local/salaj/pericei/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 34/2025 privind aprobarea prelungire valabilitate Planului Urbanistic Zonal",
+"short": "HCL Pericei nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/219887",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -357,6 +798,95 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-37-2025",
+"path": "local/salaj/pericei/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 37/2025 privind aprobarea înființării unui SRL",
+"short": "HCL Pericei nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-26",
+"latest": "2025-08-26",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/222536",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-38-2025",
+"path": "local/salaj/pericei/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 38/2025",
+"short": "HCL Pericei nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/223350",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--pericei-39-2025",
+"path": "local/salaj/pericei/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 39/2025 privind aprobarea aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiție : ”Extindere canalizare și alimentare cu apă în satele Bădăcin și Pericei, județul Sălaj ” prin Programul Național de investiții ”Anghel Saligny” aprobat prin OUG nr. 95/2021",
+"short": "HCL Pericei nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/223351",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-40-2025",
+"path": "local/salaj/pericei/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 40/2025 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiție : ”Modernizarea drumului comunal 102/A, în sat Pericei, județul Sălaj ” prin Programul Național de investiții ”Anghel Saligny” aprobat prin OUG nr. 95/2021",
+"short": "HCL Pericei nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/223352",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-41-2025",
 "path": "local/salaj/pericei/2025/41",
 "kind": "local",
@@ -376,6 +906,50 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-42-2025",
+"path": "local/salaj/pericei/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 42/2025 privind revocarea HCL nr.37 din 26.08.2025",
+"short": "HCL Pericei nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/224850",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-43-2025",
+"path": "local/salaj/pericei/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 43/2025 privind aprobarea înființării Serviciului public de administrare, întreținere și deservire a domeniului public al comunei Pericei",
+"short": "HCL Pericei nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-04",
+"latest": "2025-09-04",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/224851",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -401,6 +975,50 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-45-2025",
+"path": "local/salaj/pericei/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 45/2025 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/225006",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-46-2025",
+"path": "local/salaj/pericei/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 46/2025 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/225007",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-47-2025",
 "path": "local/salaj/pericei/2025/47",
 "kind": "local",
@@ -423,6 +1041,28 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-48-2025",
+"path": "local/salaj/pericei/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 48/2025 privind aprobarea modificărilor tehnice și financiare pentru obiectivul „Îmbunătățirea infrastructurii agricole din comuna Pericei, județul Sălaj”",
+"short": "HCL Pericei nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-15",
+"latest": "2025-09-15",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/225009",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-49-2025",
 "path": "local/salaj/pericei/2025/49",
 "kind": "local",
@@ -442,6 +1082,50 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-50-2025",
+"path": "local/salaj/pericei/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 50/2025 privind aprobarea modificărilor tehnice și financiare pentru obiectivul „Îmbunătățirea infrastructurii agricole din comuna Pericei, județul Sălaj”",
+"short": "HCL Pericei nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/229751",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-51-2025",
+"path": "local/salaj/pericei/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 51/2025 privind aprobarea proiectului tehnic și a documentației tehnico-economice pentru obiectivul de investiții „Crearea centrului de zi de asistență și de recuperare pentru persoane vârstnice în Comuna Pericei, Județul Sălaj”",
+"short": "HCL Pericei nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/229752",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -508,6 +1192,72 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-55-2025",
+"path": "local/salaj/pericei/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 55/2025 privind aprobarea modificării a organigramei și a statului de funcții",
+"short": "HCL Pericei nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/229756",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-56-2025",
+"path": "local/salaj/pericei/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 56/2025 privind aprobarea,depunerea și implementarea obiectivului de investiții cu titlul ” Amenajare parțială incinta capelei din localitatea Pericei și împrejmuire”",
+"short": "HCL Pericei nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/229757",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-57-2025",
+"path": "local/salaj/pericei/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 57/2025 privind aprobarea încheierii unui Acord de parteneriat pentru realizarea în comun de către Comuna Pericei şi Parohia Ortodoxă Bădăcin, respectiv Parohia Grec-catolică Bădăcin investiţiei de interes public” SALĂ PENTRU CEREMONII FUNERARE ÎN SATUL BĂDĂCIN, COMUNA PERICEI”,",
+"short": "HCL Pericei nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-13",
+"latest": "2025-10-13",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/229758",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

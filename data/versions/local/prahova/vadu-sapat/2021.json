@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--vadu-sapat-19-2021",
+   "path": "local/prahova/vadu-sapat/2021/19",
+   "short": "HCL Vadu Săpat nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 19/2021 privind alegerea președintelui de ședință pentru perioada mai-iulie 2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41309",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41309",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-2-2021",
    "path": "local/prahova/vadu-sapat/2021/2",
    "short": "HCL Vadu Săpat nr. 2/2021",
@@ -313,6 +328,21 @@
      "from": "2021-07-29",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-3-2021",
+   "path": "local/prahova/vadu-sapat/2021/3",
+   "short": "HCL Vadu Săpat nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 3/2021 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav și a numărului de indemnizații pentru persoane cu handicap grav, pentru anul 2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/19603",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/19603",
      "sha256": null
     }
    ]
@@ -523,6 +553,36 @@
      "from": "2021-02-24",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-8-2021",
+   "path": "local/prahova/vadu-sapat/2021/8",
+   "short": "HCL Vadu Săpat nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 8/2021",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41292",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-9-2021",
+   "path": "local/prahova/vadu-sapat/2021/9",
+   "short": "HCL Vadu Săpat nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 9/2021 privind desemnarea consilierilor locali membrii ai Comisiei responsabile pentru organizarea pășunatului pe raza comuna Vadu Săpat, județul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/41293",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/41293",
      "sha256": null
     }
    ]

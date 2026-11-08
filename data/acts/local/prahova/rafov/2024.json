@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-5-2024",
+"path": "local/prahova/rafov/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 5/2024 privind rezilierea a doua contracte de inchiriere care au ca obiect teren di Islazul ce partine domeniului privat al Comunei Rafov",
+"short": "HCL Râfov nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-14",
+"latest": "2024-03-14",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/147735",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-6-2024",
 "path": "local/prahova/rafov/2024/6",
 "kind": "local",
@@ -289,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-15-2024",
+"path": "local/prahova/rafov/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 15/2024 privind aprobarea decontarii navetei cadrelor didactice pentru luna Decembrie 2023",
+"short": "HCL Râfov nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-15",
+"latest": "2024-03-15",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/147950",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-16-2024",
 "path": "local/prahova/rafov/2024/16",
 "kind": "local",
@@ -333,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-18-2024",
+"path": "local/prahova/rafov/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 18/2024 privind acordarea unui ajutor de urgenta",
+"short": "HCL Râfov nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-15",
+"latest": "2024-03-15",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/147953",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-19-2024",
 "path": "local/prahova/rafov/2024/19",
 "kind": "local",
@@ -352,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-20-2024",
+"path": "local/prahova/rafov/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 20/2024 privind acordul de principiu pentru cumpararea unui imobil situat in intravilanul satului Moara Domneasca, Comuna Rafov",
+"short": "HCL Râfov nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161296",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -443,6 +531,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-25-2024",
+"path": "local/prahova/rafov/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 25/2024 privind acordarea titlului de \" Cetatean de onoare al Comunei Rafov\"",
+"short": "HCL Râfov nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161328",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-26-2024",
 "path": "local/prahova/rafov/2024/26",
 "kind": "local",
@@ -488,6 +598,72 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-28-2024",
+"path": "local/prahova/rafov/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 28/2024 privind aprobarea cumpararii unui imobil situat in intravilanul satului Moara Domneasca , Comuna Rafov , nr cadastral 20781",
+"short": "HCL Râfov nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161382",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-29-2024",
+"path": "local/prahova/rafov/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 29/2024 privind modificarea HCL nr 8/21.01.2024 pentru aprobarea inchirierii prin atribuire directa a suprafetelor de pasune , ramase neocupate , din Comuna Rafov",
+"short": "HCL Râfov nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161383",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-30-2024",
+"path": "local/prahova/rafov/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 30/2024 privind aprobarea decontarii navetei cadrelor didactice pentru lunile ianuarie , februarie si martie 2024",
+"short": "HCL Râfov nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161384",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-31-2024",
 "path": "local/prahova/rafov/2024/31",
 "kind": "local",
@@ -507,6 +683,50 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-32-2024",
+"path": "local/prahova/rafov/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 32/2024 privind acordarea unui ajutor de inmormantare",
+"short": "HCL Râfov nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161590",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-33-2024",
+"path": "local/prahova/rafov/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 33/2024 privind inchirierea, prin licitatie publica , a unui spatiu apartinand dispensarului uman din satul Buda , aflat in domeniul privat al Comunei Rafov",
+"short": "HCL Râfov nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161591",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -686,6 +906,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-42-2024",
+"path": "local/prahova/rafov/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 42/2024 privind aprobarea reziliarii unui contract de inchiriere pasune",
+"short": "HCL Râfov nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161600",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-43-2024",
 "path": "local/prahova/rafov/2024/43",
 "kind": "local",
@@ -708,6 +950,50 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-44-2024",
+"path": "local/prahova/rafov/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 44/2024 privind acordarea unui ajutor de urgenta",
+"short": "HCL Râfov nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-04",
+"latest": "2024-07-04",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/161602",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-45-2024",
+"path": "local/prahova/rafov/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 45/2024 privind aprobarea concesionarii unei suprafete de teren , aflate in domeniul privat al Comunei Rafov, in vederea dezvoltarii unei activitati piscicole/agrement",
+"short": "HCL Râfov nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/169878",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-46-2024",
 "path": "local/prahova/rafov/2024/46",
 "kind": "local",
@@ -727,6 +1013,72 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-47-2024",
+"path": "local/prahova/rafov/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 47/2024 privind aprobarea intocmirii studiului de fezabilitate -parte a documentatiei de atribuire pentru concesionarea serviciului de distributie gaze naturale, Com Rafov , Judetul Prahova",
+"short": "HCL Râfov nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/169880",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-48-2024",
+"path": "local/prahova/rafov/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 48/2024 privind aprobarea decontarii navetei cadrelor didactice pentru lunile aprilie si mai",
+"short": "HCL Râfov nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/169881",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-49-2024",
+"path": "local/prahova/rafov/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 49/2024 privind aprobarea reorganizarii aparatului de specialitate al primarului Comunei Rafov incepand cu luna iulie 2024, in conformitate cu Legea nr. 296/2023 privind unele masuri fiscal bugetare pentru asigurarea sustenabilitati financiare a Tomaniei pe termen lung",
+"short": "HCL Râfov nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/169909",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -796,6 +1148,95 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-53-2024",
+"path": "local/prahova/rafov/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 53/2024 privind acordarea unui ajutor de inmormantare",
+"short": "HCL Râfov nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/170329",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-54-2024",
+"path": "local/prahova/rafov/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 54/2024 privind acordare ajutor de urgenta",
+"short": "HCL Râfov nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/170330",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-55-2024",
+"path": "local/prahova/rafov/2024/55",
+"kind": "local",
+"year": "2024",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 55/2024 privind acordarea unui ajutor de urgenta",
+"short": "HCL Râfov nr. 55/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/170331",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-56-2024",
+"path": "local/prahova/rafov/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 56/2024",
+"short": "HCL Râfov nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/170332",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--rafov-57-2024",
 "path": "local/prahova/rafov/2024/57",
 "kind": "local",
@@ -837,6 +1278,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-59-2024",
+"path": "local/prahova/rafov/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 59/2024 privind repartizarea unor sume prevazute in bugetul local pe anul 2024 pentru acordarea unui sprijin financiar Parohiei Moara Domneasca , comuna Rafov",
+"short": "HCL Râfov nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-10",
+"latest": "2024-10-10",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/172363",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1017,6 +1480,50 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-68-2024",
+"path": "local/prahova/rafov/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 68/2024 privind acordarea unui ajutor de urgenta",
+"short": "HCL Râfov nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/177121",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-69-2024",
+"path": "local/prahova/rafov/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 69/2024 privind aprobarea decontarii navetei cadrelor didactice",
+"short": "HCL Râfov nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/177122",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-70-2024",
 "path": "local/prahova/rafov/2024/70",
 "kind": "local",
@@ -1036,6 +1543,29 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-71-2024",
+"path": "local/prahova/rafov/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 71/2024",
+"short": "HCL Râfov nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/177124",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

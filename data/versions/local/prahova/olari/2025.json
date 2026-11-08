@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-13-2025",
+   "path": "local/prahova/olari/2025/13",
+   "short": "HCL Olari nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 13/2025",
+   "url": "https://emol.ro/olari-ph/registru-hcl/199552",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/199552",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-14-2025",
    "path": "local/prahova/olari/2025/14",
    "short": "HCL Olari nr. 14/2025",

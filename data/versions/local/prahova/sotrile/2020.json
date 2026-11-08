@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--sotrile-15-2020",
+   "path": "local/prahova/sotrile/2020/15",
+   "short": "HCL Șotrile nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 15/2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4952",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-16-2020",
+   "path": "local/prahova/sotrile/2020/16",
+   "short": "HCL Șotrile nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 16/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/4953",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4953",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--sotrile-17-2020",
    "path": "local/prahova/sotrile/2020/17",
    "short": "HCL Șotrile nr. 17/2020",
@@ -258,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--sotrile-27-2020",
+   "path": "local/prahova/sotrile/2020/27",
+   "short": "HCL Șotrile nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 27/2020 privind validarea mandatului de consilier local al d-lui Milu George-Ionuț",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10002",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-28-2020",
+   "path": "local/prahova/sotrile/2020/28",
+   "short": "HCL Șotrile nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 28/2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10003",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-29-2020",
+   "path": "local/prahova/sotrile/2020/29",
+   "short": "HCL Șotrile nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 29/2020 privind modificarea și completarea Hotărârii consiliului local al comunei Șotrile nr 48 din 6 noiembrie 2019 privind aprobarea Regulamentului de organizare și funcționare al consiliului local al comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10004",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10004",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--sotrile-3-2020",
    "path": "local/prahova/sotrile/2020/3",
    "short": "HCL Șotrile nr. 3/2020",
@@ -268,6 +343,141 @@
      "from": "2020-01-22",
      "units": 1,
      "source_url": "https://emol.ro/sotrile-ph/registru-hcl/4853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-30-2020",
+   "path": "local/prahova/sotrile/2020/30",
+   "short": "HCL Șotrile nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 30/2020 privind aprobarea Strategiei locale de dezvoltare a serviciilor sociale și a Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10005",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-31-2020",
+   "path": "local/prahova/sotrile/2020/31",
+   "short": "HCL Șotrile nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 31/2020 privind aprobarea modificării suprafeței de teren înscris în cartea funciara nr 20552 Sotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10006",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-32-2020",
+   "path": "local/prahova/sotrile/2020/32",
+   "short": "HCL Șotrile nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 32/2020 privind aprobarea modificării listei bunurilor ce aparțin domeniului privat al comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10007",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-33-2020",
+   "path": "local/prahova/sotrile/2020/33",
+   "short": "HCL Șotrile nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 33/2020 privind aprobarea Procedurii-cadru privind vânzarea prin licitaţie publică a bunurilor imobile (terenuri şi/sau clădiri) aflate în domeniul privat al Comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10008",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-34-2020",
+   "path": "local/prahova/sotrile/2020/34",
+   "short": "HCL Șotrile nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 34/2020 privind aprobarea numărului asistenților personali la nivelul anului 2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10009",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-35-2020",
+   "path": "local/prahova/sotrile/2020/35",
+   "short": "HCL Șotrile nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 35/2020 privind aprobarea structurii organizatorice şi a statului de funcţii ale Comunei Șotrile pentru anul 2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10010",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-36-2020",
+   "path": "local/prahova/sotrile/2020/36",
+   "short": "HCL Șotrile nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 36/2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10011",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-37-2020",
+   "path": "local/prahova/sotrile/2020/37",
+   "short": "HCL Șotrile nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 37/2020 privind rectificarea bugetului de venituri și cheltuieli ale comunei Șotrile pentru anul 2020",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10012",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-38-2020",
+   "path": "local/prahova/sotrile/2020/38",
+   "short": "HCL Șotrile nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 38/2020 privind aprobarea vânzării prin licitaţie publică a terenului aparținând domeniului privat al comunei Șotrile, în suprafaţă de 15000 mp, situat în extravilanul comunei Șotrile, Tarlaua 107, parcela , număr cadastral 21425",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/10013",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/10013",
      "sha256": null
     }
    ]

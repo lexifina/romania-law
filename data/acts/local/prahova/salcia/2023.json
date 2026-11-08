@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-prahova--salcia-2-2023",
+"path": "local/prahova/salcia/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 2/2023",
+"short": "HCL Salcia nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/87360",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--salcia-3-2023",
+"path": "local/prahova/salcia/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 3/2023 prinvind alegerea presedintelui de ședință precum și a inlocuitorului acestuia in cazul lipsei titularului",
+"short": "HCL Salcia nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/87361",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--salcia-4-2023",
 "path": "local/prahova/salcia/2023/4",
 "kind": "local",
@@ -180,6 +225,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--salcia-11-2023",
+"path": "local/prahova/salcia/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Salcia nr. 11/2023 privind declanșarea procedurii de expropriere pentru cauză de utilitate publică a imobilelor situate in comuna Salcia ,județul Prahova ,teren extravilan în suprafată de 2500 m.p ,tarlaua 15,parcela 221,nr.cadastral 20317 și respectiv teren extravilan în suprafata de 11.000 m.p. ,tarlaua 16 ,parcela 267,nr.cadastral 20318 ,pentru realizarea obiectivului de investitii”Înființare sistem de alimentare cu apă în comuna Salcia,județul Prahova",
+"short": "HCL Salcia nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-06",
+"latest": "2023-03-06",
+"portal": "https://emol.ro/salcia-ph/registru-hcl/93580",
+"council": "prahova/salcia",
+"council_name": "Consiliul Local al Comunei Salcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

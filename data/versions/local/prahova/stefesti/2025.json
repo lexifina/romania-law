@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-10-2025",
+   "path": "local/prahova/stefesti/2025/10",
+   "short": "HCL Ștefești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 10/2025 privind decontarea cheltuielilor de transport a cadrelor didactice",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/193530",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/193530",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-11-2025",
    "path": "local/prahova/stefesti/2025/11",
    "short": "HCL Ștefești nr. 11/2025",
@@ -28,6 +43,21 @@
      "from": "2025-03-12",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/196707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-12-2025",
+   "path": "local/prahova/stefesti/2025/12",
+   "short": "HCL Ștefești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 12/2025 privind acordarea unui mandat special reprezentantului comunei Stefesti, județul Prahova, pentru a vota în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Apei – Prahova’’ retragerea comunei Măgureni , județul Prahova, din asociație",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/196708",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/196708",
      "sha256": null
     }
    ]
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-15-2025",
+   "path": "local/prahova/stefesti/2025/15",
+   "short": "HCL Ștefești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 15/2025 privind alegerea presedintelui de sedinta pentru urmatoarele 3(trei) luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/198965",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/198965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-16-2025",
    "path": "local/prahova/stefesti/2025/16",
    "short": "HCL Ștefești nr. 16/2025",
@@ -73,6 +118,21 @@
      "from": "2025-03-31",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/201458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-17-2025",
+   "path": "local/prahova/stefesti/2025/17",
+   "short": "HCL Ștefești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 17/2025 aprobarea Studiului de fundamentare a deciziei de concesionare a servicului de utilitate publica de distributie a gazelor naturale in judetul Prahova- comunele Cocoraștii Mislii, Vâlcănești, Cosminele, Dumbrăvești, Vărbilău, Aluniș, Ștefești, Bertea, și orașul Slănic",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/201459",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/201459",
      "sha256": null
     }
    ]
@@ -228,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-27-2025",
+   "path": "local/prahova/stefesti/2025/27",
+   "short": "HCL Ștefești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 27/2025 privind aprobarea sustinerii financiare a ASOCIATIEI SPORTIVE ,, BRADETUL STEFESTI 2022’’, in anul 2025",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/213076",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/213076",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-28-2025",
    "path": "local/prahova/stefesti/2025/28",
    "short": "HCL Ștefești nr. 28/2025",
@@ -268,6 +343,21 @@
      "from": "2025-01-27",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/188548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-30-2025",
+   "path": "local/prahova/stefesti/2025/30",
+   "short": "HCL Ștefești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 30/2025 privind alegerea presedintelui de sedinta pentru urmatoarele 3(trei) luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/213079",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/213079",
      "sha256": null
     }
    ]

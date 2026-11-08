@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-salaj--bobota-39-2026",
+"path": "local/salaj/bobota/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bobota nr. 39/2026 privind prelungirea duratei contractelor de închiriere/concesiune încheiate între Comuna Bobota și Cabinetele Medicale Medicină de Familie din comuna Bobota",
+"short": "HCL Bobota nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-25",
+"latest": "2026-08-25",
+"portal": "https://emol.ro/bobota-sj/registru-hcl/281169",
+"council": "salaj/bobota",
+"council_name": "Consiliul Local al Comunei Bobota",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--bobota-40-2026",
 "path": "local/salaj/bobota/2026/40",
 "kind": "local",

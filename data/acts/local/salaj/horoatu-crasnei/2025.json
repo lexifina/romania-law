@@ -91,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-5-2025",
+"path": "local/salaj/horoatu-crasnei/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 5/2025",
+"short": "HCL Horoatu Crasnei nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194347",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-6-2025",
 "path": "local/salaj/horoatu-crasnei/2025/6",
 "kind": "local",
@@ -489,6 +512,29 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-24-2025",
+"path": "local/salaj/horoatu-crasnei/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 24/2025",
+"short": "HCL Horoatu Crasnei nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-03",
+"latest": "2025-07-03",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/213584",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-25-2025",
 "path": "local/salaj/horoatu-crasnei/2025/25",
 "kind": "local",
@@ -688,6 +734,29 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-34-2025",
+"path": "local/salaj/horoatu-crasnei/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 34/2025",
+"short": "HCL Horoatu Crasnei nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225759",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-35-2025",
 "path": "local/salaj/horoatu-crasnei/2025/35",
 "kind": "local",
@@ -729,6 +798,28 @@
 "council_name": "Consiliul Local al Comunei Horoatu Crasnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-37-2025",
+"path": "local/salaj/horoatu-crasnei/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 37/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ,,Construire Centru Comunitar Integrat în Comuna Horoatu Crasnei, județul Sălaj\"",
+"short": "HCL Horoatu Crasnei nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225762",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

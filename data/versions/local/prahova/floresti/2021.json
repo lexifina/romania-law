@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-10-2021",
+   "path": "local/prahova/floresti/2021/10",
+   "short": "HCL Florești nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2021 privind aprobarea alipirii unor imobile terenuri situate in comuna Floresti, sat Catina, judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/19009",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/19009",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-11-2021",
    "path": "local/prahova/floresti/2021/11",
    "short": "HCL Florești nr. 11/2021",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-15-2021",
+   "path": "local/prahova/floresti/2021/15",
+   "short": "HCL Florești nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 15/2021 privind desemnarea reprezentantului legal al proiectelor ”DOTAREA PRIMĂRIEI COMUNEI FLOREȘTI, JUDEȚUL PRAHOVA CU MOBILIER” si „DOTAREA PRIMĂRIEI COMUNEI FLOREȘTI, CU INSTALATII DE DEZINSECTIE” si pentru reprezentarea comunei Floresti in relatia cu AFIR",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/21193",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/21193",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-16-2021",
    "path": "local/prahova/floresti/2021/16",
    "short": "HCL Florești nr. 16/2021",
@@ -133,6 +163,36 @@
      "from": "2021-04-29",
      "units": 1,
      "source_url": "https://emol.ro/floresti-ph/registru-hcl/23715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-2-2021",
+   "path": "local/prahova/floresti/2021/2",
+   "short": "HCL Florești nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 2/2021",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/15701",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/15701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-20-2021",
+   "path": "local/prahova/floresti/2021/20",
+   "short": "HCL Florești nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 20/2021 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/23716",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/23716",
      "sha256": null
     }
    ]
@@ -228,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-27-2021",
+   "path": "local/prahova/floresti/2021/27",
+   "short": "HCL Florești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 27/2021 privind acordarea indemnizatiei de hrana, functionarilor publici si personalului contractual din cadrul aparatului de specialitate al Primarului comunei Floresti, Serviciilor publice din subordinea Consiliului Local si asistentilor personali ai persoanelor cu handicap, incepand cu data de 01.05.2021",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/25499",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/25499",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-28-2021",
    "path": "local/prahova/floresti/2021/28",
    "short": "HCL Florești nr. 28/2021",
@@ -253,6 +328,21 @@
      "from": "2021-05-27",
      "units": 1,
      "source_url": "https://emol.ro/floresti-ph/registru-hcl/25501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-3-2021",
+   "path": "local/prahova/floresti/2021/3",
+   "short": "HCL Florești nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2021 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/15702",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/15702",
      "sha256": null
     }
    ]
@@ -463,6 +553,21 @@
      "from": "2021-08-26",
      "units": 1,
      "source_url": "https://emol.ro/floresti-ph/registru-hcl/33758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-43-2021",
+   "path": "local/prahova/floresti/2021/43",
+   "short": "HCL Florești nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 43/2021 privind desemnarea reprezentanţilor Consiliului Local al comunei Floresti în Consiliul de Administraţie al Şcolii Gimnaziale,Comuna Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/36850",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/36850",
      "sha256": null
     }
    ]
@@ -763,6 +868,21 @@
      "from": "2021-10-28",
      "units": 1,
      "source_url": "https://emol.ro/floresti-ph/registru-hcl/40261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-62-2021",
+   "path": "local/prahova/floresti/2021/62",
+   "short": "HCL Florești nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 62/2021 privind acordarea unui sprijin financiar Bisericii Adventiste de Ziua a Saptea,Calinesti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/40262",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/40262",
      "sha256": null
     }
    ]

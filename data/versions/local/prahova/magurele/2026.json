@@ -3,6 +3,321 @@
  "shard": "local/prahova/magurele/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--magurele-1-2026",
+   "path": "local/prahova/magurele/2026/1",
+   "short": "HCL Măgurele nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 1/2026 privind utilizarea excedentului bugetului local rezultat la 31.12.2025 pentru efectuarea unor cheltuieli bugetare în cursul anului 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/246210",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/246210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-10-2026",
+   "path": "local/prahova/magurele/2026/10",
+   "short": "HCL Măgurele nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 10/2026 privind alegerea președintelui de ședință și a potențialului președinte de ședință pentru lunile martie - mai 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/254838",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/254838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-11-2026",
+   "path": "local/prahova/magurele/2026/11",
+   "short": "HCL Măgurele nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 11/2026 privind utilizarea excedentului bugetului local rezultat la 31.12.2025 pentru efectuarea unor cheltuieli bugetare în cursul anului 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/254839",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/254839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-12-2026",
+   "path": "local/prahova/magurele/2026/12",
+   "short": "HCL Măgurele nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 12/2026 privind aprobarea numărului de posturi pentru anul 2026, în limita numărului maxim stabilit potrivit OUG nr. 63/2010 și comunicat de către Instituția Prefectului – Județul Prahova",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/263308",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/263308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-13-2026",
+   "path": "local/prahova/magurele/2026/13",
+   "short": "HCL Măgurele nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 13/2026 privind privind prelungirea contractelor de închiriere a pajiștilor proprietate privată a comunei Măgurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/263309",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/263309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-14-2026",
+   "path": "local/prahova/magurele/2026/14",
+   "short": "HCL Măgurele nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 14/2026 privind aprobarea prelungirii prin act adițional a contractului de închiriere nr.3476/15.10.2017 încheiat între comuna Măgurele și SC WIA KINETO DENT SRL",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/263310",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/263310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-15-2026",
+   "path": "local/prahova/magurele/2026/15",
+   "short": "HCL Măgurele nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 15/2026 privind aprobarea bugetului local al comunei Măgurele pe anul 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273381",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-16-2026",
+   "path": "local/prahova/magurele/2026/16",
+   "short": "HCL Măgurele nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 16/2026 privind aprobarea bugetului de venituri și cheltuieli pe anul 2026 la Serviciul public de alimentare cu apă și canalizare al comunei Măgurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273382",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-17-2026",
+   "path": "local/prahova/magurele/2026/17",
+   "short": "HCL Măgurele nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 17/2026 privind aprobarea numărului de posturi pentru asistenții personali ai persoanelor cu handicap grav pe anul 2026 și a numărului de indemnizații lunare acordate persoanelor cu handicap grav în anul 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273383",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-18-2026",
+   "path": "local/prahova/magurele/2026/18",
+   "short": "HCL Măgurele nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 18/2026 privind utilizarea excedentului bugetului local rezultat la 31.12.2025 pentru efectuarea unor cheltuieli bugetare în cursul anului 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273384",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-19-2026",
+   "path": "local/prahova/magurele/2026/19",
+   "short": "HCL Măgurele nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 19/2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273385",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-2-2026",
+   "path": "local/prahova/magurele/2026/2",
+   "short": "HCL Măgurele nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 2/2026 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare în sumîă de 2188928,81 lei",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/246211",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/246211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-20-2026",
+   "path": "local/prahova/magurele/2026/20",
+   "short": "HCL Măgurele nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 20/2026 privind alegerea președintelui de ședință și a potențialului președinte de ședință pentru lunile iunie-august 2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273386",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-21-2026",
+   "path": "local/prahova/magurele/2026/21",
+   "short": "HCL Măgurele nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 21/2026 privind aprobarea Raportului privind activitatea desfăşurată de către asistenţii personali ai persoanelor cu grad de handicap grav, pentru anul 2025, la nivelul comunei Măgurele, județul Prahova",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273387",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-22-2026",
+   "path": "local/prahova/magurele/2026/22",
+   "short": "HCL Măgurele nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 22/2026 privind privind aprobarea prelungirii Contractului de delegare prin concesiune a gestiunii activității de colectare, transport și transfer a deșeurilor municipale în zonele 3 - Drăgănești, 4 – Urlați și 5 –Vălenii de Munte nr.259/18.02.2019",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273388",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-23-2026",
+   "path": "local/prahova/magurele/2026/23",
+   "short": "HCL Măgurele nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 23/2026 privind aprobarea contractului de comodat pentru darea în folosință gratuită Asociaţiei Grupul de Acţiune Locală Valea Teleajenului a unui spațiu de depozitare echipamente sportive în suprafaţă de 11,44 m.p situat la parter ,,SALA DE SPORT ȘCOLARĂ, SAT MĂGURELE, COMUNA MĂGURELE, JUDEȚUL PRAHOVA”, ce se află în domeniul public al Comunei Măgurele,",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/273389",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/273389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-24-2026",
+   "path": "local/prahova/magurele/2026/24",
+   "short": "HCL Măgurele nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 24/2026 privind aprobarea solicitării trecerii unei suprafețe de teren de 170,6 mp.din domeniul public al comunei Măgurele, județul Prahova în domeniul public al Statului, în vederea dării în administrarea Ministerului Transporturilor și Infrastructurii, prin Compania Națională de Administrare a Infrastructurii Rutiere S.A",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/274133",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/274133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-25-2026",
+   "path": "local/prahova/magurele/2026/25",
+   "short": "HCL Măgurele nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 25/2026 privind aprobarea indicatorilor tehnico-economici urmarea a finalizării Expertizei Tehnice si Proiectului Tehnic pentru refacerea Staţiei de epurare din Comuna Măgurele afectata de incendiul din noaptea de 18.06.2025, din cadrul obiectivului de investiţie “Înființare sistem de canalizare cu statie de epurare în comuna Măgurele, Judeţul Prahova”",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/274134",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/274134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-26-2026",
+   "path": "local/prahova/magurele/2026/26",
+   "short": "HCL Măgurele nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 26/2026 privind aprobarea solicitării trecerii unei suprafețe de 116 mp.din domeniul public al comunei Măgurele, județul Prahova în domeniul public al Statului, în vederea dării în administrarea Ministerului Transporturilor și Infrastructurii, prin Compania Națională de Administrare a Infrastructurii Rutiere S.A",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/274135",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/274135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-27-2026",
+   "path": "local/prahova/magurele/2026/27",
+   "short": "HCL Măgurele nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 27/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat urmare a finalizării procedurilor de achiziții și a modificării cotei de TVA de la 19 la 21%, pentru obiectivul de investiții „Reţele de canalizare în Comuna Măgurele, Judeţul Prahova”, aprobat pentru finanțare prin Programul național de investiții Anghel Saligny",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/274136",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/274136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-28-2026",
+   "path": "local/prahova/magurele/2026/28",
+   "short": "HCL Măgurele nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 28/2026 privind aprobarea contractului de comodat pentru darea în folosință gratuită a unui spațiu in suprafața de 8 mp situat la etajul I din sediul Primăriei Măgurele, ce se află în domeniul public al Comunei Măgurele, cu destinația de sediu social și birou administrativ al Asociației de Dezvoltare Intercomunitară „ ADAPOST CANIN VALEA TELEAJENULUI ”",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/274137",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/274137",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magurele-29-2026",
    "path": "local/prahova/magurele/2026/29",
    "short": "HCL Măgurele nr. 29/2026",
@@ -13,6 +328,21 @@
      "from": "2026-09-03",
      "units": 1,
      "source_url": "https://emol.ro/magurele-ph/registru-hcl/274138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-3-2026",
+   "path": "local/prahova/magurele/2026/3",
+   "short": "HCL Măgurele nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 3/2026 privind utilizarea excedentului bugetului activităților finanțate integral din venituri proprii rezultat la 31.12.2025 pentru efectuarea unor cheltuieli bugetare în cursul anului 2026 la Serviciul public de apă și canalizare al comunei Măgurele",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/246212",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/246212",
      "sha256": null
     }
    ]
@@ -168,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magurele-4-2026",
+   "path": "local/prahova/magurele/2026/4",
+   "short": "HCL Măgurele nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 4/2026 privind privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru școli al României în perioada 2023-2029 și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative la nivel local, pentru anii școlari 2026-2027, 2027-2028, 2028-2029",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/254832",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/254832",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magurele-40-2026",
    "path": "local/prahova/magurele/2026/40",
    "short": "HCL Măgurele nr. 40/2026",
@@ -298,6 +643,66 @@
      "from": "2026-10-26",
      "units": 1,
      "source_url": "https://emol.ro/magurele-ph/registru-hcl/295483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-5-2026",
+   "path": "local/prahova/magurele/2026/5",
+   "short": "HCL Măgurele nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 5/2026 privind aprobarea Raportului informării și consultării Publicului privind\"Actualizare documentație Plan Urbanistic General pentru comuna Măgurele și Regulamentul Local de Urbanism aferent Planului Urbanistic General al comunei Măgurele,județul Prahova\"",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/254833",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/254833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-6-2026",
+   "path": "local/prahova/magurele/2026/6",
+   "short": "HCL Măgurele nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 6/2026 privind încheierea contului de execuție bugetară la data de 31.12.2025",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/254834",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/254834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-7-2026",
+   "path": "local/prahova/magurele/2026/7",
+   "short": "HCL Măgurele nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 7/2026 privind ajustarea tarifului pentru distribuția apei potabile în comuna Măgurele începând cu data de 01.02.2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/254835",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/254835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magurele-8-2026",
+   "path": "local/prahova/magurele/2026/8",
+   "short": "HCL Măgurele nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 8/2026",
+   "url": "https://emol.ro/magurele-ph/registru-hcl/254836",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magurele-ph/registru-hcl/254836",
      "sha256": null
     }
    ]

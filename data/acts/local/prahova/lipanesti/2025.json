@@ -620,6 +620,28 @@
 }
 },
 {
+"slug": "hcl-prahova--lipanesti-29-2025",
+"path": "local/prahova/lipanesti/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 29/2025 Acordarea unei sume cu titlu de sprijin financiar pentru o unitate de cult religios de pe raza administrativ-teritorială a comunei Cândești",
+"short": "HCL Lipănești nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-17",
+"latest": "2025-06-17",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#100657",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--lipanesti-30-2025",
 "path": "local/prahova/lipanesti/2025/30",
 "kind": "local",
@@ -796,6 +818,28 @@
 }
 },
 {
+"slug": "hcl-prahova--lipanesti-38-2025",
+"path": "local/prahova/lipanesti/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 38/2025 Vânzarea cu drept de preempțiune a unor terenuri aflate în proprietatea privată a comunei Cândești",
+"short": "HCL Lipănești nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#104540",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--lipanesti-39-2025",
 "path": "local/prahova/lipanesti/2025/39",
 "kind": "local",
@@ -950,6 +994,28 @@
 }
 },
 {
+"slug": "hcl-prahova--lipanesti-46-2025",
+"path": "local/prahova/lipanesti/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 46/2025 Desemnarea reprezentantului Consiliului local Cândești în Consiliul de administrație al Școlii Gimnaziale Comuna Cândești",
+"short": "HCL Lipănești nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#106014",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--lipanesti-47-2025",
 "path": "local/prahova/lipanesti/2025/47",
 "kind": "local",
@@ -969,6 +1035,50 @@
 "council_name": "Consiliul Local al Comunei Lipănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--lipanesti-48-2025",
+"path": "local/prahova/lipanesti/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 48/2025 Acordarea unei sume cu titlu de sprijin financiar pentru o unitate de cult religios de pe raza administrativ-teritorială a comunei Cândești",
+"short": "HCL Lipănești nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#106016",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--lipanesti-49-2025",
+"path": "local/prahova/lipanesti/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 49/2025 Aprobarea vânzării cu drept de preempțiune a unor terenuri aflate în proprietatea privată a comunei Cândești",
+"short": "HCL Lipănești nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#106017",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1013,6 +1123,28 @@
 "council_name": "Consiliul Local al Comunei Lipănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--lipanesti-52-2025",
+"path": "local/prahova/lipanesti/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 52/2025 Desemnarea reprezentantului Consiliului local Cândești în Consiliul de administrație al Școlii Gimnaziale Comuna Cândești",
+"short": "HCL Lipănești nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-03",
+"latest": "2025-10-03",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#106723",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-17-2022",
+   "path": "local/salaj/pericei/2022/17",
+   "short": "HCL Pericei nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 17/2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/55346",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/55346",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-18-2022",
    "path": "local/salaj/pericei/2022/18",
    "short": "HCL Pericei nr. 18/2022",
@@ -133,6 +148,21 @@
      "from": "2022-03-29",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/55347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-19-2022",
+   "path": "local/salaj/pericei/2022/19",
+   "short": "HCL Pericei nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 19/2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/55348",
+   "versions": [
+    {
+     "from": "2022-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/55348",
      "sha256": null
     }
    ]
@@ -193,6 +223,36 @@
      "from": "2022-04-29",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/59255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-23-2022",
+   "path": "local/salaj/pericei/2022/23",
+   "short": "HCL Pericei nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 23/2022 privind modificarea HCL nr. 17/23.03.2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/59256",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/59256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-24-2022",
+   "path": "local/salaj/pericei/2022/24",
+   "short": "HCL Pericei nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 24/2022 privind modificarea HCL nr. 19/29.03.2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/59257",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/59257",
      "sha256": null
     }
    ]
@@ -268,6 +328,21 @@
      "from": "2022-05-30",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/61983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-3-2022",
+   "path": "local/salaj/pericei/2022/3",
+   "short": "HCL Pericei nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 3/2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/48323",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/48323",
      "sha256": null
     }
    ]

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-10-2022",
+   "path": "local/prahova/magureni/2022/10",
+   "short": "HCL Măgureni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 10/2022 privind aprobarea alocării din bugetul local a sumei de 6000 lei ce reprezintă cadouri oferite angajatelor cu ocazia zilei de 8 Martie",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66816",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66816",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-11-2022",
    "path": "local/prahova/magureni/2022/11",
    "short": "HCL Măgureni nr. 11/2022",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-14-2022",
+   "path": "local/prahova/magureni/2022/14",
+   "short": "HCL Măgureni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 14/2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66820",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66820",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-15-2022",
    "path": "local/prahova/magureni/2022/15",
    "short": "HCL Măgureni nr. 15/2022",
@@ -88,6 +118,36 @@
      "from": "2022-07-27",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/66854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-17-2022",
+   "path": "local/prahova/magureni/2022/17",
+   "short": "HCL Măgureni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 17/2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66855",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-18-2022",
+   "path": "local/prahova/magureni/2022/18",
+   "short": "HCL Măgureni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 18/2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66875",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66875",
      "sha256": null
     }
    ]
@@ -168,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-23-2022",
+   "path": "local/prahova/magureni/2022/23",
+   "short": "HCL Măgureni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 23/2022 privind alegerea președintelui de ședința pentru lunile iunie, iulie și august",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66900",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66900",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-24-2022",
    "path": "local/prahova/magureni/2022/24",
    "short": "HCL Măgureni nr. 24/2022",
@@ -178,6 +253,21 @@
      "from": "2023-02-09",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/89725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-25-2022",
+   "path": "local/prahova/magureni/2022/25",
+   "short": "HCL Măgureni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 25/2022 privind trecerea ubitatii individuale 20787-c2-u2 (apartament 2 - parter centru multifunctional - partial) din domeniul public al comunei Magureni in domeniul privat al localitatii",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/89726",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/89726",
      "sha256": null
     }
    ]
@@ -223,6 +313,36 @@
      "from": "2023-02-10",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/89865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-29-2022",
+   "path": "local/prahova/magureni/2022/29",
+   "short": "HCL Măgureni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 29/2022 privind privind inchirierea prin atribuire directa a suprafetei de 26,5004 ha pasune aflata in proprietatea private a comunei Magureni, judetul Prahova",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/89864",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/89864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-3-2022",
+   "path": "local/prahova/magureni/2022/3",
+   "short": "HCL Măgureni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 3/2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66660",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66660",
      "sha256": null
     }
    ]
@@ -588,6 +708,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-6-2022",
+   "path": "local/prahova/magureni/2022/6",
+   "short": "HCL Măgureni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 6/2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66663",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-7-2022",
+   "path": "local/prahova/magureni/2022/7",
+   "short": "HCL Măgureni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 7/2022 privind alegerea președintelui de ședință pentru lunile martie, aprilie și mai 2022",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66664",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66664",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-8-2022",
    "path": "local/prahova/magureni/2022/8",
    "short": "HCL Măgureni nr. 8/2022",
@@ -598,6 +748,21 @@
      "from": "2022-07-27",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/66814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-9-2022",
+   "path": "local/prahova/magureni/2022/9",
+   "short": "HCL Măgureni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 9/2022 privind aprobarea alocării din bugetul local a unei sume ce reprezintă cadouri în bani oferite angajaților cu ocazia sărbătorilor de Paște",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/66815",
+   "versions": [
+    {
+     "from": "2022-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/66815",
      "sha256": null
     }
    ]

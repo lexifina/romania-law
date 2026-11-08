@@ -1,6 +1,8 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hcl-olt--bals-1-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#91989
 hcl-olt--bals-10-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94059
+hcl-olt--bals-101-2025,current,2026-11-08,2026-12-08,register-read,,,,
+hcl-olt--bals-102-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-103-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#103554
 hcl-olt--bals-104-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#103555
 hcl-olt--bals-105-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#103556
@@ -27,6 +29,7 @@ hcl-olt--bals-129-2025,current,2026-11-08,2026-12-08,register-read,,,,https://ba
 hcl-olt--bals-131-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-132-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#105292
 hcl-olt--bals-133-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#105303
+hcl-olt--bals-134-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-135-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#105306
 hcl-olt--bals-141-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#105670
 hcl-olt--bals-142-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#105671
@@ -35,6 +38,7 @@ hcl-olt--bals-147-2025,current,2026-11-08,2026-12-08,register-read,,,,https://ba
 hcl-olt--bals-15-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94331
 hcl-olt--bals-152-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#107117
 hcl-olt--bals-155-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#107763
+hcl-olt--bals-156-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#107769
 hcl-olt--bals-157-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-158-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-159-2025,current,2026-11-08,2026-12-08,register-read,,,,
@@ -54,11 +58,14 @@ hcl-olt--bals-186-2025,current,2026-11-08,2026-12-08,register-read,,,,https://ba
 hcl-olt--bals-187-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#109656
 hcl-olt--bals-188-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#109653
 hcl-olt--bals-19-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94325
+hcl-olt--bals-192-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-193-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#111229
 hcl-olt--bals-194-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#111232
 hcl-olt--bals-195-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#111230
 hcl-olt--bals-196-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#111233
+hcl-olt--bals-198-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-2-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#91991
+hcl-olt--bals-20-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-202-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#112565
 hcl-olt--bals-203-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#112568
 hcl-olt--bals-209-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#113187
@@ -78,6 +85,7 @@ hcl-olt--bals-26-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-27-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94031
 hcl-olt--bals-29-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-3-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94047
+hcl-olt--bals-30-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#94515
 hcl-olt--bals-31-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-32-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-33-2025,current,2026-11-08,2026-12-08,register-read,,,,
@@ -123,6 +131,8 @@ hcl-olt--bals-71-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bal
 hcl-olt--bals-73-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#99238
 hcl-olt--bals-75-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-79-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#102611
+hcl-olt--bals-8-2025,current,2026-11-08,2026-12-08,register-read,,,,
+hcl-olt--bals-81-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-82-2025,current,2026-11-08,2026-12-08,register-read,,,,https://bals.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4284#102619
 hcl-olt--bals-83-2025,current,2026-11-08,2026-12-08,register-read,,,,
 hcl-olt--bals-84-2025,current,2026-11-08,2026-12-08,register-read,,,,

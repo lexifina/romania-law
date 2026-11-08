@@ -1,4 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hcl-olt--milcov-1-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/249114
 hcl-olt--milcov-10-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/265805
 hcl-olt--milcov-11-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/265806
 hcl-olt--milcov-12-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/265807
@@ -9,6 +10,7 @@ hcl-olt--milcov-16-2026,current,2026-11-08,2026-12-08,register-read,,,,https://e
 hcl-olt--milcov-17-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/271265
 hcl-olt--milcov-18-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/276719
 hcl-olt--milcov-19-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/279177
+hcl-olt--milcov-2-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/249115
 hcl-olt--milcov-20-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/279178
 hcl-olt--milcov-21-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/279179
 hcl-olt--milcov-22-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/283386
@@ -16,6 +18,10 @@ hcl-olt--milcov-23-2026,current,2026-11-08,2026-12-08,register-read,,,,https://e
 hcl-olt--milcov-24-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/291618
 hcl-olt--milcov-25-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/293066
 hcl-olt--milcov-26-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/293067
+hcl-olt--milcov-3-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/249116
+hcl-olt--milcov-4-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/249117
+hcl-olt--milcov-5-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/249118
+hcl-olt--milcov-6-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/249119
 hcl-olt--milcov-7-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/259469
 hcl-olt--milcov-8-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/260760
 hcl-olt--milcov-9-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/milcov-ot/registru-hcl/260761

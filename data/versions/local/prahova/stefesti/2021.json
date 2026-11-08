@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-11-2021",
+   "path": "local/prahova/stefesti/2021/11",
+   "short": "HCL Ștefești nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 11/2021 privind desemnarea reprezentanților consiliului local în comisia de evaluare a performanțelor individuale ale secretarului general al unității administrativ teritoriale",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/25842",
+   "versions": [
+    {
+     "from": "2021-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/25842",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-12-2021",
    "path": "local/prahova/stefesti/2021/12",
    "short": "HCL Ștefești nr. 12/2021",
@@ -183,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-21-2021",
+   "path": "local/prahova/stefesti/2021/21",
+   "short": "HCL Ștefești nr. 21/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 21/2021 privind acordarea unui mandat special viceprimarului comunei Stefesti pentru a vota impotriva actualizarii tarifelor in cadrul Adunarii Generale a Asociatei de Dezvoltare Intercomunitara,,Parteneriatul pentru Managementul Deseurilor Prahova'' aferente Contractului nr.1792/13.09.2016 Delegare prin concesiune a gestiunii activitatii de colectare, trasport si transfer a deseurilor municipale in zonele 2 Boldesti si 6 Valea Doftanei",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/28022",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/28022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-22-2021",
+   "path": "local/prahova/stefesti/2021/22",
+   "short": "HCL Ștefești nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 22/2021 privind alegerea presedintelui de sedinta pentru urmatoarele trei luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/28023",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/28023",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-23-2021",
    "path": "local/prahova/stefesti/2021/23",
    "short": "HCL Ștefești nr. 23/2021",
@@ -243,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-27-2021",
+   "path": "local/prahova/stefesti/2021/27",
+   "short": "HCL Ștefești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 27/2021 privind desemnarea unor reprezentanți ai consiliului local, pentru a face parte din Consiliul de Administrație și din Comisia de evaluare și asigurare a calității educației a Școlii gimnaziale Ștefești",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41196",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41196",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-28-2021",
    "path": "local/prahova/stefesti/2021/28",
    "short": "HCL Ștefești nr. 28/2021",
@@ -298,6 +358,21 @@
      "from": "2021-09-24",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-31-2021",
+   "path": "local/prahova/stefesti/2021/31",
+   "short": "HCL Ștefești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 31/2021 privind alegerea președintelui de ședință pentru următoarele 3 (trei) luni",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/41265",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/41265",
      "sha256": null
     }
    ]

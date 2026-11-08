@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-10-2025",
+   "path": "local/prahova/magureni/2025/10",
+   "short": "HCL Măgureni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 10/2025 privind aprobarea alocării din bugetul local a unei sume ce reprezinta cadouri oferite femeilor cu ocazia zile de 8 martie",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/200183",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/200183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-11-2025",
+   "path": "local/prahova/magureni/2025/11",
+   "short": "HCL Măgureni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 11/2025 privind acordarea unui mandat special Primarului comunei Măgureni să voteze aprobarea documentației pentru procedura de NEGOCIERE FĂRĂ PUBLICARE PREALABILĂ a Contractului de delegare prin concesiune a gestiunii activității de colectare, transport și transfer a deșeurilor municipale în zonele 2 Boldești Scăeni și 6 Valea Doftanei",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/200184",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/200184",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-12-2025",
    "path": "local/prahova/magureni/2025/12",
    "short": "HCL Măgureni nr. 12/2025",
@@ -58,6 +88,36 @@
      "from": "2025-03-28",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/200254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-15-2025",
+   "path": "local/prahova/magureni/2025/15",
+   "short": "HCL Măgureni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 15/2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/200255",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/200255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-16-2025",
+   "path": "local/prahova/magureni/2025/16",
+   "short": "HCL Măgureni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 16/2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/200256",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/200256",
      "sha256": null
     }
    ]
@@ -108,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-2-2025",
+   "path": "local/prahova/magureni/2025/2",
+   "short": "HCL Măgureni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 2/2025 privind alegerea presedintelui de sedinta pentru lunile februarie, martie, si aprilie 2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/191568",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/191568",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-20-2025",
    "path": "local/prahova/magureni/2025/20",
    "short": "HCL Măgureni nr. 20/2025",
@@ -118,6 +193,21 @@
      "from": "2025-05-23",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/208561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-21-2025",
+   "path": "local/prahova/magureni/2025/21",
+   "short": "HCL Măgureni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 21/2025 privind alegerea președintelui de ședință pentru lunile mai, iunie, iulie 2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/208562",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/208562",
      "sha256": null
     }
    ]
@@ -238,6 +328,21 @@
      "from": "2025-10-09",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/229158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-3-2025",
+   "path": "local/prahova/magureni/2025/3",
+   "short": "HCL Măgureni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 3/2025",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/191569",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/191569",
      "sha256": null
     }
    ]

@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-prahova--manesti-8-2026",
+"path": "local/prahova/manesti/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 8/2026 privind aprobarea numărului asistenților personali ai persoanelor cu handicap grav în anul 2026 și a indemnizațiilor persoanelor cu handicap grav",
+"short": "HCL Mănești nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-24",
+"latest": "2026-02-24",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/254472",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--manesti-9-2026",
 "path": "local/prahova/manesti/2026/9",
 "kind": "local",
@@ -397,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Mănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--manesti-20-2026",
+"path": "local/prahova/manesti/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănești nr. 20/2026 privind aprobarea Organigramei şi a Ștatului de funcţii ale aparatului de specialitate al Primarului comunei Mănești, județul Prahova",
+"short": "HCL Mănești nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-08",
+"latest": "2026-04-08",
+"portal": "https://emol.ro/manesti-ph/registru-hcl/262202",
+"council": "prahova/manesti",
+"council_name": "Consiliul Local al Comunei Mănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

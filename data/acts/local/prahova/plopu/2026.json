@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-6-2026",
+"path": "local/prahova/plopu/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 6/2026 privind DECONTAREA SUMEI DE 1.409 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII DECEMBRIE, ANUL 2025",
+"short": "HCL Plopu nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/249494",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-7-2026",
 "path": "local/prahova/plopu/2026/7",
 "kind": "local",
@@ -265,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-14-2026",
+"path": "local/prahova/plopu/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 14/2026 privind DECONTAREA SUMEI DE 1.693 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII IANUARIE, ANUL 2026",
+"short": "HCL Plopu nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-25",
+"latest": "2026-02-25",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/254763",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -647,6 +691,96 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-32-2026",
+"path": "local/prahova/plopu/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 32/2026 privind APROBAREA REVOCARII HOTARARII NR.23 ADOPTATA DE CONSILIUL LOCAL AL COMUNEI PLOPU LA DATA DE 30 MARTIE 2026",
+"short": "HCL Plopu nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/263910",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--plopu-33-2026",
+"path": "local/prahova/plopu/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 33/2026",
+"short": "HCL Plopu nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/263911",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--plopu-34-2026",
+"path": "local/prahova/plopu/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 34/2026 privind APROBAREA STUDIULUI DE OPORTUNITATE, A MODALITATII DE DARE IN GESTIUNE SI A DOCUMENTATIEI NECESARE IN VEDEREA SCOATERII LA LICITTAIE A SERVICIULUI PUBLIC DE ALIMENTARE CU APA POTABILA, CANALIZARE SI EPURARE MENAJERA AL COMUNEI PLOPU, JUDETUL PRAHOVA",
+"short": "HCL Plopu nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/263912",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--plopu-35-2026",
+"path": "local/prahova/plopu/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 35/2026",
+"short": "HCL Plopu nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/263913",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--plopu-36-2026",
 "path": "local/prahova/plopu/2026/36",
 "kind": "local",
@@ -666,6 +800,50 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-37-2026",
+"path": "local/prahova/plopu/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 37/2026 privind DECONTAREA SUMEI DE 1.522 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII FEBRUARIE, ANUL 2026",
+"short": "HCL Plopu nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/267485",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--plopu-38-2026",
+"path": "local/prahova/plopu/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 38/2026 privind DECONTAREA SUMEI DE 2461 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII MARTIE, ANUL 2026",
+"short": "HCL Plopu nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/267486",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -823,6 +1001,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-46-2026",
+"path": "local/prahova/plopu/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 46/2026 privind DECONTAREA SUMEI DE 1626 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII APRILIE, ANUL 2026",
+"short": "HCL Plopu nr. 46/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/267494",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-47-2026",
 "path": "local/prahova/plopu/2026/47",
 "kind": "local",
@@ -908,6 +1108,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-51-2026",
+"path": "local/prahova/plopu/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 51/2026 privind DECONTAREA SUMEI DE 2257 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII MAI, ANUL 2026",
+"short": "HCL Plopu nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-16",
+"latest": "2026-06-16",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/274470",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1262,6 +1484,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-68-2026",
+"path": "local/prahova/plopu/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 68/2026 privind DECONTAREA SUMEI DE 2168 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICESI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTU L PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII IUNIE, ANUL 2026",
+"short": "HCL Plopu nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/279461",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

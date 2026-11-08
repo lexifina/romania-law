@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-3-2020",
+"path": "local/prahova/floresti/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2020",
+"short": "HCL Florești nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/780",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--floresti-4-2020",
 "path": "local/prahova/floresti/2020/4",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-5-2020",
+"path": "local/prahova/floresti/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 5/2020 privind aprobarea cuantumului si a numarului de burse de merit acordate elevilor din invatamantul preuniveritar de stat din comuna Floresti aferente anului şcolar 2019-2020 pe semestrul",
+"short": "HCL Florești nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-10",
+"latest": "2020-02-10",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/782",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-18-2020",
+"path": "local/prahova/floresti/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 18/2020 privind inchirierea prin licitatie publica a unui bun mobil proprietate publica a comunei Floresti avand destinatia de chiosc comercial mobil",
+"short": "HCL Florești nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/827",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-19-2020",
 "path": "local/prahova/floresti/2020/19",
 "kind": "local",
@@ -375,6 +442,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--floresti-21-2020",
+"path": "local/prahova/floresti/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 21/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Florești nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/1532",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -422,6 +511,73 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-24-2020",
+"path": "local/prahova/floresti/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 24/2020",
+"short": "HCL Florești nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/3175",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--floresti-25-2020",
+"path": "local/prahova/floresti/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 25/2020 privind acordarea unui sprijin financiar Parohiei Calinesti",
+"short": "HCL Florești nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-10",
+"latest": "2020-06-10",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/3850",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-26-2020",
+"path": "local/prahova/floresti/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 26/2020 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T30, parcelele A 1577/1 si Np 1579, cu nr.cadastral 22215 în suprafaţă de 22.101 mp",
+"short": "HCL Florești nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/5329",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-27-2020",
 "path": "local/prahova/floresti/2020/27",
 "kind": "local",
@@ -441,6 +597,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-28-2020",
+"path": "local/prahova/floresti/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 28/2020 Proiect de hotarare privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Novacesti, tarlaua T10, parcela A463/6, cu nr.cadastral 21316 în suprafaţă de 325 mp",
+"short": "HCL Florești nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/6531",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

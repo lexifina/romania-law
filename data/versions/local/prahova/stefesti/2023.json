@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-12-2023",
+   "path": "local/prahova/stefesti/2023/12",
+   "short": "HCL Ștefești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 12/2023 privind aprobarea unei sume din bugetul local al Comunei Stefesti. judetul Prahova, reprezentand norma de hrana, aferenta anului 2023, pentru politia locala",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88092",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88092",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-13-2023",
    "path": "local/prahova/stefesti/2023/13",
    "short": "HCL Ștefești nr. 13/2023",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-23-2023",
+   "path": "local/prahova/stefesti/2023/23",
+   "short": "HCL Ștefești nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 23/2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/104041",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/104041",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-24-2023",
    "path": "local/prahova/stefesti/2023/24",
    "short": "HCL Ștefești nr. 24/2023",
@@ -238,6 +268,36 @@
      "from": "2023-05-12",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/104043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-26-2023",
+   "path": "local/prahova/stefesti/2023/26",
+   "short": "HCL Ștefești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 26/2023 pentru modificarea Anexei nr.1la HCL nr.8 din 31.01.2023 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Stefesti, precum si stabilirea nivelului indemnizatiei lunare de care beneficieaza consilierii locali",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/104044",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/104044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-27-2023",
+   "path": "local/prahova/stefesti/2023/27",
+   "short": "HCL Ștefești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 27/2023 privind aprobarea actualizarii coeficientilor de ierarhizare din Anexa nr.1la HCL nr.5 din 28.01.2022 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Stefesti, precum si stabilirea nivelului indemnizatiei lunare de care beneficieaza consilierii locali, cu incadrarea in noul venit al viceprimarului incepand cu 1 noiembrie 2022",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/104045",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/104045",
      "sha256": null
     }
    ]
@@ -288,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-30-2023",
+   "path": "local/prahova/stefesti/2023/30",
+   "short": "HCL Ștefești nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 30/2023 privind aprobarea participării Comunei Stefesti, Județul Prahova la Parteneriatul LEADER cu denumirea ”GAL Dealurile Sultanului”",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/106342",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/106342",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-31-2023",
    "path": "local/prahova/stefesti/2023/31",
    "short": "HCL Ștefești nr. 31/2023",
@@ -303,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--stefesti-32-2023",
+   "path": "local/prahova/stefesti/2023/32",
+   "short": "HCL Ștefești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 32/2023 privind aprobarea delegării către Județul Prahova în vederea depunerii proiectului ”Transportul elevilor adaptați mobilității fără CO₂ - TEAM-CO₂”",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/108405",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/108405",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--stefesti-33-2023",
    "path": "local/prahova/stefesti/2023/33",
    "short": "HCL Ștefești nr. 33/2023",
@@ -313,6 +403,21 @@
      "from": "2023-06-29",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/111639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-34-2023",
+   "path": "local/prahova/stefesti/2023/34",
+   "short": "HCL Ștefești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 34/2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/111640",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/111640",
      "sha256": null
     }
    ]
@@ -358,6 +463,21 @@
      "from": "2023-08-08",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/115705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-38-2023",
+   "path": "local/prahova/stefesti/2023/38",
+   "short": "HCL Ștefești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 38/2023",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/115706",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/115706",
      "sha256": null
     }
    ]
@@ -538,6 +658,21 @@
      "from": "2023-11-13",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/128598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-5-2023",
+   "path": "local/prahova/stefesti/2023/5",
+   "short": "HCL Ștefești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 5/2023 privind decontarea cheltuielilor de transport a cadrelor didactice",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88085",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88085",
      "sha256": null
     }
    ]
@@ -733,6 +868,36 @@
      "from": "2023-03-28",
      "units": 1,
      "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-8-2023",
+   "path": "local/prahova/stefesti/2023/8",
+   "short": "HCL Ștefești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 8/2023 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Stefesti, precum si stabilirea nivelului indemnizatiei lunare de care benficiaza consilierii locali",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88088",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--stefesti-9-2023",
+   "path": "local/prahova/stefesti/2023/9",
+   "short": "HCL Ștefești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 9/2023 privind decontarea cheltuielilor de transport pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Stefesti si a Regulamentului de aplicare",
+   "url": "https://emol.ro/stefesti-ph/registru-hcl/88089",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefesti-ph/registru-hcl/88089",
      "sha256": null
     }
    ]

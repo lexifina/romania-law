@@ -1,0 +1,1146 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/slanic/2016",
+ "acts": [
+  {
+   "slug": "hcl-prahova--slanic-10-2016",
+   "path": "local/prahova/slanic/2016/10",
+   "short": "HCL Slănic nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 10/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-02-08",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl10_08022016.pdf",
+     "sha256": "159a1d5085951c30ab3a6b66de5cfd89644593a19246642e86124f62a457d67c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-11-2016",
+   "path": "local/prahova/slanic/2016/11",
+   "short": "HCL Slănic nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 11/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl11_18022016.pdf",
+     "sha256": "692a96bed1ce356b4eef663f466a868e3ab3a8a0ad9f31c7ebdc38efe9a4a6e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-12-2016",
+   "path": "local/prahova/slanic/2016/12",
+   "short": "HCL Slănic nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 12/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl12_18022016.pdf",
+     "sha256": "101fe7d69c3df70d76dd2c7b1fb48ef95e3ecdf6c9eaf5ed2cc82bc1a9c9eb5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-13-2016",
+   "path": "local/prahova/slanic/2016/13",
+   "short": "HCL Slănic nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 13/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl13_18022016.pdf",
+     "sha256": "06bcefea73e26729c6ac3567a7a13a4c7ac1a780b408b51b5494902639e257da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-14-2016",
+   "path": "local/prahova/slanic/2016/14",
+   "short": "HCL Slănic nr. 14/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 14/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl14_18022016.pdf",
+     "sha256": "097e986a694c851e87a5c3620dbce04733875e59493e8e3cecdb66457d55daea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-15-2016",
+   "path": "local/prahova/slanic/2016/15",
+   "short": "HCL Slănic nr. 15/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 15/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl15_31032016.pdf",
+     "sha256": "1cd5b535baab0ecc0528e58708a03c66a08a79a416457ce9bee0258515001f47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-16-2016",
+   "path": "local/prahova/slanic/2016/16",
+   "short": "HCL Slănic nr. 16/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 16/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl16_31032016.pdf",
+     "sha256": "1c34d47df51d78194b81a3be8d7eedb128e244438238997cd0ff906b1118388c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-17-2016",
+   "path": "local/prahova/slanic/2016/17",
+   "short": "HCL Slănic nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 17/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl17_31032016.pdf",
+     "sha256": "29680737418e22f21584675a5ec0e411f091625eb2950adfa2ce5d86ae0f4054"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-18-2016",
+   "path": "local/prahova/slanic/2016/18",
+   "short": "HCL Slănic nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 18/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl18_31032016.pdf",
+     "sha256": "7ae2e5543c5d326663545b81bfde961a8a333d871f20225e23158fe63c4f5303"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-19-2016",
+   "path": "local/prahova/slanic/2016/19",
+   "short": "HCL Slănic nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 19/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl19_31032016.pdf",
+     "sha256": "c877ff970515ae90253c3d3938dd458cb0ac5263f9831fd20bb1dba731f21c04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-2-2016",
+   "path": "local/prahova/slanic/2016/2",
+   "short": "HCL Slănic nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 2/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl2_29012016.pdf",
+     "sha256": "85a997440b8f21f00fb66c74da7d3d9ed11aba5e9b23b5749ad997584bb3d3dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-20-2016",
+   "path": "local/prahova/slanic/2016/20",
+   "short": "HCL Slănic nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 20/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl20_31032016.pdf",
+     "sha256": "8b9bca32ad9f970e859adf56e400a5232fe3a08e158a7645b7cd54c0f8cf5594"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-21-2016",
+   "path": "local/prahova/slanic/2016/21",
+   "short": "HCL Slănic nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 21/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl21_26042016.pdf",
+     "sha256": "a26857825536d3af8c95e03c8ebc17edb7c9b8efadbd721fd2cd4cc9ea40ba5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-22-2016",
+   "path": "local/prahova/slanic/2016/22",
+   "short": "HCL Slănic nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 22/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl22_26042016.pdf",
+     "sha256": "819b83cc0e4f46225b393e7136425b9bbe7289c0d596aa5f690ed8cbba82051a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-23-2016",
+   "path": "local/prahova/slanic/2016/23",
+   "short": "HCL Slănic nr. 23/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 23/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl23_26042016.pdf",
+     "sha256": "354ee4de184217f8448fedd1af8deca80e85811f771fc0ae9cfa29e607424bf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-24-2016",
+   "path": "local/prahova/slanic/2016/24",
+   "short": "HCL Slănic nr. 24/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 24/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl24_26042016.pdf",
+     "sha256": "f7d47427d9dd223aab181a1c8359bde97203e8044433077fd6a3a7e68aaf3696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-25-2016",
+   "path": "local/prahova/slanic/2016/25",
+   "short": "HCL Slănic nr. 25/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 25/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl25_26042016.pdf",
+     "sha256": "38bdb35ce645ae56fcab3bbbf92e9003251c817f0a5c1a30dd525a0d71249c90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-27-2016",
+   "path": "local/prahova/slanic/2016/27",
+   "short": "HCL Slănic nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 27/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl27_25052016.pdf",
+     "sha256": "16415af35aafb98a18a8f5c4c34457948c23c49e09e005f9fdf751abc5e2f6b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-28-2016",
+   "path": "local/prahova/slanic/2016/28",
+   "short": "HCL Slănic nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 28/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl28_25052016.pdf",
+     "sha256": "051097e17e95cd02397cd5dae1a30d94c06b856ecba1eefdc9153828f1e16813"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-29-2016",
+   "path": "local/prahova/slanic/2016/29",
+   "short": "HCL Slănic nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 29/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-05-25",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl29_25052016.pdf",
+     "sha256": "a81635e4730db0de62b38b5833adc44a7fc783b78e0f957aab4691e2318423b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-3-2016",
+   "path": "local/prahova/slanic/2016/3",
+   "short": "HCL Slănic nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 3/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl3_29012016.pdf",
+     "sha256": "9b5c884bb971940e8af5c6694b50682ddf1b05e03c823625ebcc0b879470a7a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-31-2016",
+   "path": "local/prahova/slanic/2016/31",
+   "short": "HCL Slănic nr. 31/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 31/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl31_26062016.pdf",
+     "sha256": "c5882fd35e73b80535baef5034e935b08ea33c44f7495e215f9fad9c9c3c4099"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-32-2016",
+   "path": "local/prahova/slanic/2016/32",
+   "short": "HCL Slănic nr. 32/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 32/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl32_26062016.pdf",
+     "sha256": "bf7b9c125d546df127067947b40e86935fb4469d06e0692a1f0886ef8f860cc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-33-2016",
+   "path": "local/prahova/slanic/2016/33",
+   "short": "HCL Slănic nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 33/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl33_26062016.pdf",
+     "sha256": "ee32afe73924d98568a54524cb0330cc67a4434040bad1aa601e9dd4690e24c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-34-2016",
+   "path": "local/prahova/slanic/2016/34",
+   "short": "HCL Slănic nr. 34/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 34/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl34_26062016.pdf",
+     "sha256": "9ec63dfea995d19de2d5ae7d46326c3cd39556164f4f1ffb0b30aa3d9220df85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-35-2016",
+   "path": "local/prahova/slanic/2016/35",
+   "short": "HCL Slănic nr. 35/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 35/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl35_26062016.pdf",
+     "sha256": "e29e84870af8853b2033d827294b992d3594260de9591578cde8cb5275fd6116"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-36-2016",
+   "path": "local/prahova/slanic/2016/36",
+   "short": "HCL Slănic nr. 36/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 36/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-06-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl36_26062016.pdf",
+     "sha256": "dd6a559c5b801e3f3c879439565c27adee3c3d0f627ec25a654d308c7f0f0466"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-37-2016",
+   "path": "local/prahova/slanic/2016/37",
+   "short": "HCL Slănic nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 37/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl37_28072016.pdf",
+     "sha256": "8f50ea94671dd0a1b995dc163040deb095d44869d117443686d5fe4b76ba09b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-38-2016",
+   "path": "local/prahova/slanic/2016/38",
+   "short": "HCL Slănic nr. 38/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 38/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl38_28072016.pdf",
+     "sha256": "0f2657bd21e5c2c7dee7a07d4cb81706e9757af3971b33c05590c5b6d359cb2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-39-2016",
+   "path": "local/prahova/slanic/2016/39",
+   "short": "HCL Slănic nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 39/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl39_28072016.pdf",
+     "sha256": "3dbe864026655f599609362f821498a72dde22188951ae0e5ff845228c262030"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-4-2016",
+   "path": "local/prahova/slanic/2016/4",
+   "short": "HCL Slănic nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 4/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl4_29012016.pdf",
+     "sha256": "7b2c0c65e8a6e620c0c9e4c5c569bfc939935534ae96fb8fd8edb29a5fd90e86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-40-2016",
+   "path": "local/prahova/slanic/2016/40",
+   "short": "HCL Slănic nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 40/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl40_28072016.pdf",
+     "sha256": "70cd4281dc6b6341af00b81f2fd1d8c74631c98da975b7a3e9928f73dc2f1b61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-41-2016",
+   "path": "local/prahova/slanic/2016/41",
+   "short": "HCL Slănic nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 41/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl41_28072016.pdf",
+     "sha256": "06ae558eea1fb282633257856cd63d3858372449d06eab910826e5361532b7d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-42-2016",
+   "path": "local/prahova/slanic/2016/42",
+   "short": "HCL Slănic nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 42/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl42_28072016.pdf",
+     "sha256": "b36f4d08c8eb746c55b51cd5715dc650ee2a10d935b682fb1087227d4b4dadc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-43-2016",
+   "path": "local/prahova/slanic/2016/43",
+   "short": "HCL Slănic nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 43/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl43_28072016.pdf",
+     "sha256": "8af542e36438587754aee0e32bda3a56439d52bdbaa21fab11a6d3543f4eeb96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-45-2016",
+   "path": "local/prahova/slanic/2016/45",
+   "short": "HCL Slănic nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 45/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl45_28072016.pdf",
+     "sha256": "964729624244405a6c84d6413d6d59b39a1f91d5944318ae923ff612cd9a7cf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-46-2016",
+   "path": "local/prahova/slanic/2016/46",
+   "short": "HCL Slănic nr. 46/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 46/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-08",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl46_08082016.pdf",
+     "sha256": "64c47f16a2b8cb3f8a74e77a9c49af2faa401e8b2cfcc08a9cffebf022942341"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-47-2016",
+   "path": "local/prahova/slanic/2016/47",
+   "short": "HCL Slănic nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 47/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-08",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl47_08082016.pdf",
+     "sha256": "00c8dbb273ee7779ff4c50a82d3fe022334f98243725f180b1049769c0ab0661"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-48-2016",
+   "path": "local/prahova/slanic/2016/48",
+   "short": "HCL Slănic nr. 48/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 48/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl48_08082016.pdf",
+     "sha256": "f0cd30bfd237b275ba5a69840c70e62e563313bbf50fa5fe45c70085deac2922"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-49-2016",
+   "path": "local/prahova/slanic/2016/49",
+   "short": "HCL Slănic nr. 49/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 49/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl49_08082016.pdf",
+     "sha256": "9df06481a967d5821da38129258a03370790297fe6aa78221c7bf73c9f44c489"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-5-2016",
+   "path": "local/prahova/slanic/2016/5",
+   "short": "HCL Slănic nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 5/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl5_29012016.pdf",
+     "sha256": "7f804eef6361ee9b11df039736286078cd35a165e81cedab3609b2f107cf7d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-50-2016",
+   "path": "local/prahova/slanic/2016/50",
+   "short": "HCL Slănic nr. 50/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 50/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl50_31082016.pdf",
+     "sha256": "fd3b2823b82d8660c5bb6c7cca94479e07818b5296419aae341255bb73e50336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-51-2016",
+   "path": "local/prahova/slanic/2016/51",
+   "short": "HCL Slănic nr. 51/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 51/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl51_31082016.pdf",
+     "sha256": "4968a3e80d4f0959def4be8d553e452cbd6430b047ac263c4aae35367cc15b9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-52-2016",
+   "path": "local/prahova/slanic/2016/52",
+   "short": "HCL Slănic nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 52/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl52_31082016.pdf",
+     "sha256": "3012f33687968d613c6b7fc2a0033e45e0f80705125f4388dbd099c89f0f2ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-53-2016",
+   "path": "local/prahova/slanic/2016/53",
+   "short": "HCL Slănic nr. 53/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 53/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl53_31082016.pdf",
+     "sha256": "e3d3b9b8586959b952587c34e575995a7d03d3b94a9cc1bee1d6d482db35efc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-54-2016",
+   "path": "local/prahova/slanic/2016/54",
+   "short": "HCL Slănic nr. 54/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 54/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl54_31082016.pdf",
+     "sha256": "d04d01ac89bbdc78217a4dffe0ea88a72e0026f57fb8437d602048283c3f1be1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-55-2016",
+   "path": "local/prahova/slanic/2016/55",
+   "short": "HCL Slănic nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 55/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl55_31082016.pdf",
+     "sha256": "28607bccab50f8f09028e604a11d0ae5dbd8ae0c739b6901f69fa117b1270d83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-56-2016",
+   "path": "local/prahova/slanic/2016/56",
+   "short": "HCL Slănic nr. 56/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 56/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl56_31082016.pdf",
+     "sha256": "a879de503bf52ea9815e0d1e3913acf9d5c527f7d59f8300e11c867457d673a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-57-2016",
+   "path": "local/prahova/slanic/2016/57",
+   "short": "HCL Slănic nr. 57/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 57/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl57_26092016.pdf",
+     "sha256": "f10ea75e55f5e812f60fa6d7daac4a270f2cbeded03538585ba5a4beae098ff3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-58-2016",
+   "path": "local/prahova/slanic/2016/58",
+   "short": "HCL Slănic nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 58/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl58_26092016.pdf",
+     "sha256": "59abc86c1b5fc991f510a2dea976b832fc91ac0be6b4ea55890ae0bb8d7a24d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-59-2016",
+   "path": "local/prahova/slanic/2016/59",
+   "short": "HCL Slănic nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 59/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl59_26092016.pdf",
+     "sha256": "49f75af69fa084ddacffc6c78419542c137a68233b4f9ff661872d8a99ad0234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-6-2016",
+   "path": "local/prahova/slanic/2016/6",
+   "short": "HCL Slănic nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 6/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl6_29012016.pdf",
+     "sha256": "b5adb78ea096ffb100f70c1ac5772679a57cd476c7c8e17d085855db9460b577"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-60-2016",
+   "path": "local/prahova/slanic/2016/60",
+   "short": "HCL Slănic nr. 60/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 60/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl60_26092016.pdf",
+     "sha256": "909349d171c2e1cce6781fe9698ff0a3a1b42dcf8f4694d65544cf23fc89ea74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-61-2016",
+   "path": "local/prahova/slanic/2016/61",
+   "short": "HCL Slănic nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 61/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl61_26092016.pdf",
+     "sha256": "d6eb95961ea9ca2cde0625cf0141aec64d1758e8ae80d719d4cd5828617a2d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-62-2016",
+   "path": "local/prahova/slanic/2016/62",
+   "short": "HCL Slănic nr. 62/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 62/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl62_30092016.pdf",
+     "sha256": "18a15f1e74b97008c10e4431743000622389914e4b5e9f81991eb855dc28e9cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-63-2016",
+   "path": "local/prahova/slanic/2016/63",
+   "short": "HCL Slănic nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 63/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl63_31102016.pdf",
+     "sha256": "5ecdac9765003e05aca123d506c91136d8e4d8715813700bf2277377dd20c056"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-64-2016",
+   "path": "local/prahova/slanic/2016/64",
+   "short": "HCL Slănic nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 64/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl64_31102016.pdf",
+     "sha256": "98927249c00728fca7dcd40a448e027df8dc0bd964b474172d2cee812845f2e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-65-2016",
+   "path": "local/prahova/slanic/2016/65",
+   "short": "HCL Slănic nr. 65/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 65/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl65_31102016.pdf",
+     "sha256": "6ddc142a54f571ee4ebb2f4cb1ecdca022de1f98582f629d40aa8717deb77005"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-66-2016",
+   "path": "local/prahova/slanic/2016/66",
+   "short": "HCL Slănic nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 66/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl66_31102016.pdf",
+     "sha256": "9cd4e28b928e5fca48996a1f1bfa5d729618ce051acded414b91b0a8f28d445c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-67-2016",
+   "path": "local/prahova/slanic/2016/67",
+   "short": "HCL Slănic nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 67/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl67_31102016.pdf",
+     "sha256": "113b806a292e5be6f1d2973ba8546fb0847d243fc8b5b513f937d44acd2c5934"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-68-2016",
+   "path": "local/prahova/slanic/2016/68",
+   "short": "HCL Slănic nr. 68/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 68/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl68_11112016.pdf",
+     "sha256": "bc8c65fd5a82bc65e9e2666519e75c8cddf44b9cc6afb856699b1d136325166e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-69-2016",
+   "path": "local/prahova/slanic/2016/69",
+   "short": "HCL Slănic nr. 69/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 69/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-11-21",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl69_21112016.pdf",
+     "sha256": "d02fec329c26dc57b06e101970747e91bc931ab8172d76189aadbfc5223c968d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-7-2016",
+   "path": "local/prahova/slanic/2016/7",
+   "short": "HCL Slănic nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 7/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-01-29",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl7_29012016.pdf",
+     "sha256": "5acc8422c8e1cdc68020fb4c08609102c621144ee61b8b91a2513ed38a546308"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-70-2016",
+   "path": "local/prahova/slanic/2016/70",
+   "short": "HCL Slănic nr. 70/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 70/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-11-21",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl70_21112016.pdf",
+     "sha256": "6ef99c74da90e706ad9c7e8b67e2c2363e4a6cb3e83c973fdc99e41cd10c5a00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-71-2016",
+   "path": "local/prahova/slanic/2016/71",
+   "short": "HCL Slănic nr. 71/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 71/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl71_28112016.pdf",
+     "sha256": "eb6b0ea9ee25c84da8bc99873ea05c96a71618e150c428db597ee1f770388bd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-72-2016",
+   "path": "local/prahova/slanic/2016/72",
+   "short": "HCL Slănic nr. 72/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 72/2016 privind aprobarea modificarii HCL nr.72 din 28 noiembrie 2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl72_28112016.pdf",
+     "sha256": "3716a23ec10414abf10393886e1d02a8f6e8a97e1168100f5fd9615bcd03226b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-73-2016",
+   "path": "local/prahova/slanic/2016/73",
+   "short": "HCL Slănic nr. 73/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 73/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl73_28112016.pdf",
+     "sha256": "ff6f1940312e4b88ffce4a13f9c6304ed530f06e9126793d98e32e0bae11b4f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-75-2016",
+   "path": "local/prahova/slanic/2016/75",
+   "short": "HCL Slănic nr. 75/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 75/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl75_28122016.pdf",
+     "sha256": "65ae2d7f16ca3143d272810b1286a3e511952ff9c40559c450441f08b5694db6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-76-2016",
+   "path": "local/prahova/slanic/2016/76",
+   "short": "HCL Slănic nr. 76/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 76/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl76_28122016.pdf",
+     "sha256": "38faee36809185d76921b11ff975782237b5abc7952e19953cd658ce07b63812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-77-2016",
+   "path": "local/prahova/slanic/2016/77",
+   "short": "HCL Slănic nr. 77/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 77/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl77_28122016.pdf",
+     "sha256": "e8846858e2db5fef31b612b8fb64cd5558b7fc943cbca68054205eb4fbc54ba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-78-2016",
+   "path": "local/prahova/slanic/2016/78",
+   "short": "HCL Slănic nr. 78/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 78/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl78_28122016.pdf",
+     "sha256": "fa5ee690854c2b978f4c7ed670962c34d82a795a9bbb2280890cb81bb746c15c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-79-2016",
+   "path": "local/prahova/slanic/2016/79",
+   "short": "HCL Slănic nr. 79/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 79/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl79_28122016.pdf",
+     "sha256": "ac909519c4fd34052c8cd2304060761bf5c03eab2dce6e39a46a20a54eaa3cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-8-2016",
+   "path": "local/prahova/slanic/2016/8",
+   "short": "HCL Slănic nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 8/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-02-08",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl8_08022016.pdf",
+     "sha256": "9e71ce5587f0486b852a36ca2dda0fa1f54b8865519968ad3e9bbe12541a7b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-80-2016",
+   "path": "local/prahova/slanic/2016/80",
+   "short": "HCL Slănic nr. 80/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 80/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl80_28122016.pdf",
+     "sha256": "40bc71fee2f998ae1eabedac5022e261e0d13811c0ba5737a012576cd11ea264"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-81-2016",
+   "path": "local/prahova/slanic/2016/81",
+   "short": "HCL Slănic nr. 81/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 81/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl81_28122016.pdf",
+     "sha256": "7435900a45fede36acd27061083ce42a3a97086d085ac382fdb2225937c9b56f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-9-2016",
+   "path": "local/prahova/slanic/2016/9",
+   "short": "HCL Slănic nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 9/2016",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2016.htm",
+   "versions": [
+    {
+     "from": "2016-02-08",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2016/hcl9_08022016.pdf",
+     "sha256": "266eecaa305d5e231549ee47cdc45afbbd46d78b90391015e16e9c1784c8a220"
+    }
+   ]
+  }
+ ]
+}

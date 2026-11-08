@@ -380,6 +380,29 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-18-2023",
+"path": "local/salaj/horoatu-crasnei/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 18/2023",
+"short": "HCL Horoatu Crasnei nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-06",
+"latest": "2023-04-06",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/97557",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-19-2023",
 "path": "local/salaj/horoatu-crasnei/2023/19",
 "kind": "local",
@@ -666,6 +689,28 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-32-2023",
+"path": "local/salaj/horoatu-crasnei/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 32/2023 privind aprobarea Regulamentului de acordare a ,,diplomei de aur” și a câte unui premiu financiar în valoare netă de 500 de lei pentru cuplurile care au împlinit 50 de ani de căsătorie neîntreruptă, precum și a ,,dipolomei de centenar’’ și a câte unui premiu financiar în valoare netă de 1000 de lei pentru persoanele care împlinesc onorabila vârstă de 100 de ani, cetățeni ai comunei Horoatu Crasnei, județul Sălaj;",
+"short": "HCL Horoatu Crasnei nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-15",
+"latest": "2023-06-15",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/106636",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-33-2023",
 "path": "local/salaj/horoatu-crasnei/2023/33",
 "kind": "local",
@@ -707,6 +752,28 @@
 "council_name": "Consiliul Local al Comunei Horoatu Crasnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-35-2023",
+"path": "local/salaj/horoatu-crasnei/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 35/2023 privind aprobarea proiectului ”Microbuze electrice pentru elevii din Sălaj” și încheierea acordului de parteneriat pentru depunerea acestuia spre finanțare în cadrul Planului Național de Redresare și Reziliență",
+"short": "HCL Horoatu Crasnei nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-15",
+"latest": "2023-06-15",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/108005",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -754,6 +821,28 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-38-2023",
+"path": "local/salaj/horoatu-crasnei/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 38/2023 privind aprobarea Acordului de Parteneriat între Județul Sălaj, și Comuna Horoatu Crasnei din județul Sălaj, în vederea implementării, în parteneriat, a proiectului ”Realizarea, implementarea, utilizarea și administrarea sistemelor informatice de înaltă performanță, la nivelul județului Sălaj, dezvoltate și găzduite prin sistemul Cloud Regional Nord-Vest”",
+"short": "HCL Horoatu Crasnei nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-07",
+"latest": "2023-07-07",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/110788",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-39-2023",
 "path": "local/salaj/horoatu-crasnei/2023/39",
 "kind": "local",
@@ -773,6 +862,51 @@
 "council_name": "Consiliul Local al Comunei Horoatu Crasnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-40-2023",
+"path": "local/salaj/horoatu-crasnei/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 40/2023 privind aprobarea documentatiei tehnico-economice pentru investitia ,,REABILITARE, MODERNIZARE, EXTINDERE SI DOTARE ASEZAMANT CULTURAL SAT STARCIU, NR. 401, COMUNA HOROATU CRASNEI, JUDEȚUL SALAJ\"",
+"short": "HCL Horoatu Crasnei nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-07",
+"latest": "2023-07-07",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/110790",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-41-2023",
+"path": "local/salaj/horoatu-crasnei/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 41/2023",
+"short": "HCL Horoatu Crasnei nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-07",
+"latest": "2023-07-07",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/110791",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -818,6 +952,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-44-2023",
+"path": "local/salaj/horoatu-crasnei/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 44/2023 privind aprobarea scoaterii la licitatie, în vederea inchirierii, a clădirii Centru de Informare și Marketing Turistic înscris în CF 51552 Horoatu Crasnei, jud. Sălaj;",
+"short": "HCL Horoatu Crasnei nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/114852",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -910,6 +1066,50 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-49-2023",
+"path": "local/salaj/horoatu-crasnei/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 49/2023 pentru actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ”MODERNIZARE DRUM COMUNAL DC70 IN COMUNA HOROATU CRASNEI, JUDETUL SALAJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții;",
+"short": "HCL Horoatu Crasnei nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/116697",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-50-2023",
+"path": "local/salaj/horoatu-crasnei/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 50/2023 pentru actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"Modernizare drumuri comunale in Comuna Horoatu Crasnei, judetul Salaj\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli fnanțate de la bugetul local pentru realizarea obiectivului;",
+"short": "HCL Horoatu Crasnei nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/116698",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-51-2023",
 "path": "local/salaj/horoatu-crasnei/2023/51",
 "kind": "local",
@@ -973,6 +1173,51 @@
 "council_name": "Consiliul Local al Comunei Horoatu Crasnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-54-2023",
+"path": "local/salaj/horoatu-crasnei/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 54/2023 privind aprobarea solicitării prelungirii duratei de executie si de implementare a proiectului din contractul de finanțare nr. C1920074X204263300854/15.03.2018 și a solicitării prelungirii Scrisorii de garanţie a restituirii avansului nr. IG183300621 din data de 28.09.2018, emisă de către Fondul de Garantare a Creditului Rural – IFN SA, pentru avansul prevăzut în contractul de finantare nr. C1920074X204263300854/15.03.2018 aferent proiectului „AMENAJARE PARC DE JOACA PENTRU COPII IN LOCALITATEA HOROATU CRASNEI, COMUNA HOROATU CRASNEI, JUDETUL SALAJ», finanțat în cadrul Programului Naţional de Dezvoltare Rurală 2014-2020 de catre Uniunea Europeana prin Fondul European Agricol pentru Dezvoltare Rurala si Guvernul Ramaniei, Sub-măsura 19.2 - „Sprijin pentru implementarea acțiunilor în cadrul Strategiei de Dezvoltare Locală”",
+"short": "HCL Horoatu Crasnei nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-20",
+"latest": "2023-09-20",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/119963",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-55-2023",
+"path": "local/salaj/horoatu-crasnei/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 55/2023",
+"short": "HCL Horoatu Crasnei nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-09",
+"latest": "2023-10-09",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/122087",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

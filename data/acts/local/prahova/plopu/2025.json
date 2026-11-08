@@ -181,6 +181,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-9-2025",
+"path": "local/prahova/plopu/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 9/2025 privind MODIFICAREA STRUCTURII ORGANIZATORICE A PRIMARIEI COMUNEI PLOPU, JUDETUL PRAHOVA",
+"short": "HCL Plopu nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/194771",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-10-2025",
 "path": "local/prahova/plopu/2025/10",
 "kind": "local",
@@ -358,6 +380,50 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-18-2025",
+"path": "local/prahova/plopu/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 18/2025 privind DECONTAREA SUMELOR REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU AFERENTE LUNILOR DECEMBRIE/ 2024, IANUARIE SI FEBRUARIE/ 2025",
+"short": "HCL Plopu nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/197920",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--plopu-19-2025",
+"path": "local/prahova/plopu/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 19/2025 privind ALEGEREA PRESEDINTELUI DE SEDINTA AL CONSILIULUI LOCAL AL COMUNEI PLOPU PENTRU LUNILE APRILIE, MAI SI IUNIE ALE ANULUI 2025",
+"short": "HCL Plopu nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/197921",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-20-2025",
 "path": "local/prahova/plopu/2025/20",
 "kind": "local",
@@ -377,6 +443,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-21-2025",
+"path": "local/prahova/plopu/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 21/2025 privind Includerea in domeniul privat al UAT comuna Plopu, judetul Prahova, a terenului in suprafata de 813 m.p. amplasat in intravilanul comunei Plopu, satul Galmeia, tarla 10, parcela Cc 185",
+"short": "HCL Plopu nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/197923",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -446,6 +534,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-25-2025",
+"path": "local/prahova/plopu/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 25/2025 privind DECONTAREA SUMEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU AFERENTA LUNII MARTIE/ 2025",
+"short": "HCL Plopu nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/204222",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-26-2025",
 "path": "local/prahova/plopu/2025/26",
 "kind": "local",
@@ -465,6 +575,50 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-27-2025",
+"path": "local/prahova/plopu/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 27/2025 privind Aprobarea Strategiei anuale de achizitii publice pe anul 2025 si a Programului anual al achizitiilor publice al comunei Plopu, judetul Prahova, actualizat la data de 24.03.2025",
+"short": "HCL Plopu nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/204224",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--plopu-28-2025",
+"path": "local/prahova/plopu/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 28/2025 privind Aprobarea Actului aditional nr.1 la contractul de finantare nr.C1/100122000036/ 20.08.2024 pentru proiectul “Extindere sistem de alimentare cu apa si sistem de canalizare in satele Harsa si Galmeia, comuna Plopu, judetul Prahova” incheiat intre Ministerul Mediului, Apelor si Padurilor si UAT comuna Plopu, judetul Prahova",
+"short": "HCL Plopu nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/204225",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -510,6 +664,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-31-2025",
+"path": "local/prahova/plopu/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 31/2025 privind DECONTAREA SUMEI DE 1140 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU AFERENTA LUNII APRILIE/ 2025",
+"short": "HCL Plopu nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/210543",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -602,6 +778,73 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-36-2025",
+"path": "local/prahova/plopu/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 36/2025 privind Aprobarea Devizului general actualizat pentru obiectivul de investitii ,,CLADIRILE PUBLICE - GRADINITA CU PROGRAM NORMAL, COMUNA PLOPU, SAT PLOPU, JUDETUL PRAHOVA”",
+"short": "HCL Plopu nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/210548",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--plopu-37-2025",
+"path": "local/prahova/plopu/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 37/2025 privind Aprobarea Devizului general actualizat pentru obiectivul de investitii ,,CRESTEREA EFICENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRILE PUBLICE SCOALA, SAT NISIPOASA, COMUNA PLOPU, JUDETUL PRAHOVA”",
+"short": "HCL Plopu nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/210549",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--plopu-38-2025",
+"path": "local/prahova/plopu/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 38/2025",
+"short": "HCL Plopu nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-30",
+"latest": "2025-05-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/210551",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--plopu-39-2025",
 "path": "local/prahova/plopu/2025/39",
 "kind": "local",
@@ -646,6 +889,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-41-2025",
+"path": "local/prahova/plopu/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 41/2025 privind DECONTAREA SUMEI DE 1.704 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII MAI/ 2025",
+"short": "HCL Plopu nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/215697",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-42-2025",
 "path": "local/prahova/plopu/2025/42",
 "kind": "local",
@@ -687,6 +952,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-44-2025",
+"path": "local/prahova/plopu/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 44/2025 privind Dezmembrarea in 2 loturi a terenului in suprafata de 813 m.p., amplasat in comuna Plopu, sat Galmeia, tarla 10, parcela Cc 185, cu nr. cadastral 25994, aflat in domeniul privat al UAT comuna Plopu",
+"short": "HCL Plopu nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-30",
+"latest": "2025-06-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/215700",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -797,6 +1084,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-50-2025",
+"path": "local/prahova/plopu/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 50/2025 privind DECONTAREA SUMEI DE 1.646 LEI REPREZENTAND CHELTUIELI DE TRANSPORT EFECTUATE DE CADRELE DIDACTICE SI/ SAU PERSONALUL DIDACTIC AUXILIAR DIN INVATAMANTUL PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTA LUNII IUNIE/ 2025",
+"short": "HCL Plopu nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-18",
+"latest": "2025-07-18",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/217373",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

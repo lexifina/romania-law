@@ -3,6 +3,161 @@
 "shard": "local/prahova/sotrile/2023",
 "acts": [
 {
+"slug": "hcl-prahova--sotrile-1-2023",
+"path": "local/prahova/sotrile/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 1/2023 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Șotrile pe anul școlar 2023-2024",
+"short": "HCL Șotrile nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/88187",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-2-2023",
+"path": "local/prahova/sotrile/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 2/2023 privind aprobarea utilizarii in anul 2023 a excedentului anual al bugetului local rezultat la incheierea exercitiului bugetar aferent anului 2022",
+"short": "HCL Șotrile nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/88188",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-3-2023",
+"path": "local/prahova/sotrile/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 3/2023 privind aprobarea bugetului local pe anul 2023 si estimarile pentru anii 2024-2026",
+"short": "HCL Șotrile nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/88189",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-4-2023",
+"path": "local/prahova/sotrile/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 4/2023",
+"short": "HCL Șotrile nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/88190",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-5-2023",
+"path": "local/prahova/sotrile/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 5/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Șotrile nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/88191",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-6-2023",
+"path": "local/prahova/sotrile/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 6/2023 privind aprobarea numărului maxim de posturi pentru asistenţii personali ai persoanelor cu handicap grav precum și numărul indemnizatiilor acordate persoanelor cu handicap grav pentru anul 2023",
+"short": "HCL Șotrile nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/88192",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-7-2023",
+"path": "local/prahova/sotrile/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 7/2023 privind alocarea de sume din bugetul local Parohiilor din comuna Șotrile, în anul 2023",
+"short": "HCL Șotrile nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/91943",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-8-2023",
 "path": "local/prahova/sotrile/2023/8",
 "kind": "local",
@@ -22,6 +177,339 @@
 "council_name": "Consiliul Local al Comunei Șotrile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-9-2023",
+"path": "local/prahova/sotrile/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 9/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Extindere rețea distribuție apă în Plaiul Cornului, Seciuri-comuna Șotrile”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Șotrile nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/91945",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-10-2023",
+"path": "local/prahova/sotrile/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 10/2023 privind aprobarea rectificării bugetului local pe anul 2023 si estimarile pentru anii 2024-2026",
+"short": "HCL Șotrile nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/91946",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-11-2023",
+"path": "local/prahova/sotrile/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 11/2023 privind modificarea componenţei Comisiei pentru programe de dezvoltare economico-sociala, buget-finante, administrarea domeniului public si privat al comunei, agricultura, gospodarie comunala, protectia mediului, servicii si comert, urbanism şi protecţie sociala din cadrul Consilului Local al comunei",
+"short": "HCL Șotrile nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-02",
+"latest": "2023-03-02",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/91947",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-12-2023",
+"path": "local/prahova/sotrile/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 12/2023 privind aprobarea încheierii unui act adițional la contractul de concesiune nr 4 din 4 aprilie 2001 încheiat de Consiliul local al comunei Șotrile, pentru terenul situat în comuna Șotrile, sat Lunca-Mare, punctul ”Cheia” , NC 20094",
+"short": "HCL Șotrile nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/97840",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-13-2023",
+"path": "local/prahova/sotrile/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 13/2023",
+"short": "HCL Șotrile nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/97841",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-14-2023",
+"path": "local/prahova/sotrile/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 14/2023 privind aprobarea încheierii unui act adițional la contractele de concesiune nr. 1415 din 21 octombrie 1994, nr 1414 din 21 octombrie 1994 , nr 424 din 19 martie 1999 , nr 425 din 19 martie 1999 și nr 802 din 4 mai 1995, încheiate de Consiliul local al comunei Șotrile, pentru 1/2 din terenul situat în comuna Șotrile, sat Lunca-Mare, punctul ”Cheia” , NC 20715",
+"short": "HCL Șotrile nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/97842",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-15-2023",
+"path": "local/prahova/sotrile/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 15/2023 privind aprobarea/respingerea vânzării prin licitație publică a imobilului (teren și construcții) situat în comuna Șotrile, sat Seciuri, nr 71, punct ”Han Paltinu”, NC 20204",
+"short": "HCL Șotrile nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/97843",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-16-2023",
+"path": "local/prahova/sotrile/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 16/2023 privind aprobarea/respingerea vânzării fără licitație publică (directă) a imobilului (teren) situat în comuna Șotrile, sat Seciuri, nr 89, NC 20169",
+"short": "HCL Șotrile nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/97844",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-17-2023",
+"path": "local/prahova/sotrile/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 17/2023",
+"short": "HCL Șotrile nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/102105",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-18-2023",
+"path": "local/prahova/sotrile/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 18/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Șotrile nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/102106",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-19-2023",
+"path": "local/prahova/sotrile/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 19/2023 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul I al anului 2023 şi stabilirea măsurilor pentru eficientizarea acestei activităţi, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+"short": "HCL Șotrile nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/102107",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-20-2023",
+"path": "local/prahova/sotrile/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 20/2023 privind aprobarea situatiilor financiare anuale ale comunei Sotrile pe anul 2022",
+"short": "HCL Șotrile nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/102108",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-21-2023",
+"path": "local/prahova/sotrile/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 21/2023 privind aprobarea închiderii contului anual de executie a bugetului local la data de 31 decembrie 2022",
+"short": "HCL Șotrile nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/102109",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-22-2023",
+"path": "local/prahova/sotrile/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 22/2023",
+"short": "HCL Șotrile nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/102110",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-23-2023",
+"path": "local/prahova/sotrile/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 23/2023 privind aprobarea participării Comunei Șotrile, judetul Prahova la parteneriatul LEADER cu denumirea ,,Parteneriatul pentru Dezvoltarea Zonei GAL Colinele Prahovei”",
+"short": "HCL Șotrile nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-19",
+"latest": "2023-05-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/104261",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +535,141 @@
 }
 },
 {
+"slug": "hcl-prahova--sotrile-25-2023",
+"path": "local/prahova/sotrile/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 25/2023",
+"short": "HCL Șotrile nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/107595",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-26-2023",
+"path": "local/prahova/sotrile/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 26/2023 privind însușirea raportului de evaluare și aprobarea vânzării prin licitație publică a imobilului (teren și construcții) situat în comuna Șotrile, sat Seciuri, nr 71, punct ”Han Paltinu”, NC 20204",
+"short": "HCL Șotrile nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/107596",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-27-2023",
+"path": "local/prahova/sotrile/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 27/2023 privind reducerea/scutirea de la plata impozitului/taxei pe clădiri și teren datorate la bugetul local pentru anul 2024 de către unii contribuabili",
+"short": "HCL Șotrile nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/107597",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-28-2023",
+"path": "local/prahova/sotrile/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 28/2023 privind aprobarea încheierii unui act adițional la contractele de concesiune nr 1944 din 29 octombrie 1993 și nr 798 din 4 mai 1995 încheiate de Consiliul local al comunei Șotrile, pentru terenul situat în comuna Șotrile, sat Lunca-Mare, punctul ”Cheia” , NC 166 și NC 165",
+"short": "HCL Șotrile nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/107598",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-29-2023",
+"path": "local/prahova/sotrile/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 29/2023",
+"short": "HCL Șotrile nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/108490",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-30-2023",
+"path": "local/prahova/sotrile/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 30/2023",
+"short": "HCL Șotrile nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/108491",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-31-2023",
 "path": "local/prahova/sotrile/2023/31",
 "kind": "local",
@@ -66,6 +689,50 @@
 "council_name": "Consiliul Local al Comunei Șotrile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-32-2023",
+"path": "local/prahova/sotrile/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 32/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Șotrile nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/114078",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-33-2023",
+"path": "local/prahova/sotrile/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 33/2023 privind aprobarea modificării punctului 3.2 , lit.C. -CAIET DE SARCINI, Cap. III – ELEMENTE DE PREȚ din Anexa nr. 4 a Hotărârii consiliului local nr. 26 din 31 mai 2023 privind însusirea raportului de evaluare si aprobarea vânzarii prin licitatie publica a imobilului (teren si constructii), situat in comuna Sotrile, sat Seciuri, nr. 71, punct „Han Paltinu”, NC 20204",
+"short": "HCL Șotrile nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/114079",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +780,117 @@
 }
 },
 {
+"slug": "hcl-prahova--sotrile-36-2023",
+"path": "local/prahova/sotrile/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 36/2023",
+"short": "HCL Șotrile nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/118413",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-37-2023",
+"path": "local/prahova/sotrile/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 37/2023 privind aprobarea Planului Urbanistic de Detaliu ,,PUD – RIDICARE RESTRICŢIE DE CONSTRUIRE (Sstud = 1928 mp )” - comuna Şotrile, sat Şotrile, pct. ,,Livezi”, nr. cadastral 21608 (tarla T 11, parcela L 111) cu acces din str.Ştefan cel Mare (NC 21633)",
+"short": "HCL Șotrile nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/118414",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-38-2023",
+"path": "local/prahova/sotrile/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 38/2023 privind aprobarea Planului Urbanistic de Detaliu „PUD – RIDICARE RESTRICŢIE DE CONSTRUIRE (Sstud = 2892 mp) - comuna Şotrile, sat Şotrile, pct. ,,Livezi”, nr. cadastral 21607 (tarla T 11, parcela L 111) cu acces din str.Ştefan cel Mare (NC 21633)",
+"short": "HCL Șotrile nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/118415",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-39-2023",
+"path": "local/prahova/sotrile/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 39/2023 privind suplimentarea sumei din bugetul local repartizată Parohiei Șotrile din comuna Șotrile, în anul 2023",
+"short": "HCL Șotrile nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/118416",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-40-2023",
+"path": "local/prahova/sotrile/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 40/2023 privind rectificarea bugetului local pentru anul 2023",
+"short": "HCL Șotrile nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/118417",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--sotrile-41-2023",
 "path": "local/prahova/sotrile/2023/41",
 "kind": "local",
@@ -132,6 +910,50 @@
 "council_name": "Consiliul Local al Comunei Șotrile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-42-2023",
+"path": "local/prahova/sotrile/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 42/2023 privind validarea dispoziției primarului comunei Șotrile nr. 218 din 25 septembrie 2023 privind rectificarea bugetului de venituri si cheltuieli pe anul 2023",
+"short": "HCL Șotrile nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/123783",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-43-2023",
+"path": "local/prahova/sotrile/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 43/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Extindere rețea distribuție apă în Plaiul Cornului, Seciuri-comuna Șotrile”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Șotrile nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/123784",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +998,72 @@
 "council_name": "Consiliul Local al Comunei Șotrile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-46-2023",
+"path": "local/prahova/sotrile/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 46/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Șotrile nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/125990",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-47-2023",
+"path": "local/prahova/sotrile/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 47/2023 privind desemnarea reprezentului Consiliului Local al Comunei Șotrile în Consiliul de administrație al Școlii Gimnaziale, Comuna Șotrile",
+"short": "HCL Șotrile nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/125991",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--sotrile-48-2023",
+"path": "local/prahova/sotrile/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 48/2023 privind desemnarea unui consilier local in Comisia pentru prevenirea si eliminarea violentei, a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii",
+"short": "HCL Șotrile nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/sotrile-ph/registru-hcl/125992",
+"council": "prahova/sotrile",
+"council_name": "Consiliul Local al Comunei Șotrile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -490,6 +490,28 @@
 }
 },
 {
+"slug": "hcl-prahova--provita-de-jos-23-2024",
+"path": "local/prahova/provita-de-jos/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 23/2024 privind stabilirea situațiilor considerate deosebite precum și a criteriilor de acordare a unor ajutoare de urgenta",
+"short": "HCL Provița de Jos nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/190415",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--provita-de-jos-24-2024",
 "path": "local/prahova/provita-de-jos/2024/24",
 "kind": "local",
@@ -755,6 +777,50 @@
 "council_name": "Consiliul Local al Comunei Provița de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-36-2024",
+"path": "local/prahova/provita-de-jos/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 36/2024 privind stabilirea situațiilor considerate deosebite precum și a criteriilor de acordare a unor ajutoare de urgență",
+"short": "HCL Provița de Jos nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/190490",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--provita-de-jos-37-2024",
+"path": "local/prahova/provita-de-jos/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Provița de Jos nr. 37/2024 privind aprobarea majorării cu 10% față de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al Primarului Comunei Provița de Jos, în vederea punerii în aplicare a prevederilor Articolului II din Ordonanța de Urgență a Guvernului nr. 53/2024 și aprobarea decontării dispozitivelor de corecție speciale",
+"short": "HCL Provița de Jos nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://emol.ro/provitadejos-ph/registru-hcl/190491",
+"council": "prahova/provita-de-jos",
+"council_name": "Consiliul Local al Comunei Provița de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -303,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-5-2021",
+   "path": "local/prahova/olari/2021/5",
+   "short": "HCL Olari nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 5/2021",
+   "url": "https://emol.ro/olari-ph/registru-hcl/21378",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/21378",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-6-2021",
    "path": "local/prahova/olari/2021/6",
    "short": "HCL Olari nr. 6/2021",

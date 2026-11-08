@@ -179,6 +179,50 @@
 }
 },
 {
+"slug": "hcl-prahova--stefesti-9-2020",
+"path": "local/prahova/stefesti/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 9/2020 privind stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul aparatului de specialitate al primarului cumunei Stefesti, precum si stabilirea nivelului indemnizatiei lunare de care beneficiaza consilierii locali",
+"short": "HCL Ștefești nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/2748",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-10-2020",
+"path": "local/prahova/stefesti/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 10/2020 privind inchirierea prin atribuire directa a suprafetei de 60 ha pasune din totalul de 102,52 ha islazuri proprietate privata a comunei Stefesti",
+"short": "HCL Ștefești nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/2749",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--stefesti-11-2020",
 "path": "local/prahova/stefesti/2020/11",
 "kind": "local",
@@ -220,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Ștefești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-13-2020",
+"path": "local/prahova/stefesti/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 13/2020 privind restituirea sumelor achitate in avans pentru inchirierea salonului de festivitati- pentru anul 2020",
+"short": "HCL Ștefești nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-27",
+"latest": "2020-04-27",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/2752",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -374,6 +440,28 @@
 "council_name": "Consiliul Local al Comunei Ștefești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--stefesti-21-2020",
+"path": "local/prahova/stefesti/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefești nr. 21/2020 privind alegerea presedintelui de sedinta pentru urmatoarele 3(trei) luni",
+"short": "HCL Ștefești nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-21",
+"latest": "2020-05-21",
+"portal": "https://emol.ro/stefesti-ph/registru-hcl/23700",
+"council": "prahova/stefesti",
+"council_name": "Consiliul Local al Comunei Ștefești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

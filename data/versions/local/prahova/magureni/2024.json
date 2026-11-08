@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--magureni-10-2024",
+   "path": "local/prahova/magureni/2024/10",
+   "short": "HCL Măgureni nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 10/2024 privind acceptarea unor donatii de teren în zona adiacentă a străzii Merticești",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/154307",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/154307",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--magureni-11-2024",
    "path": "local/prahova/magureni/2024/11",
    "short": "HCL Măgureni nr. 11/2024",
@@ -448,6 +463,36 @@
      "from": "2024-02-19",
      "units": 1,
      "source_url": "https://emol.ro/magureni-ph/registru-hcl/143734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-7-2024",
+   "path": "local/prahova/magureni/2024/7",
+   "short": "HCL Măgureni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 7/2024 privind alegerea presedintelui de sedință pentru lunile martie, aprilie si mai 2024",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/143735",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/143735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--magureni-8-2024",
+   "path": "local/prahova/magureni/2024/8",
+   "short": "HCL Măgureni nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 8/2024 privind aprobarea alocării din bugetul local a unei sume ce reprezintă cadouri oferite angajatelor cu ocazia zilei de 8 martie",
+   "url": "https://emol.ro/magureni-ph/registru-hcl/143736",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/magureni-ph/registru-hcl/143736",
      "sha256": null
     }
    ]

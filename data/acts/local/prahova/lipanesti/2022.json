@@ -378,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-prahova--lipanesti-18-2022",
+"path": "local/prahova/lipanesti/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 18/2022 Acordarea unei sume cu titlu de sprijin financiar pentru o unitate de cult religios",
+"short": "HCL Lipănești nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#21354",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--lipanesti-19-2022",
 "path": "local/prahova/lipanesti/2022/19",
 "kind": "local",
@@ -774,6 +796,28 @@
 }
 },
 {
+"slug": "hcl-prahova--lipanesti-37-2022",
+"path": "local/prahova/lipanesti/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 37/2022 Acordarea unei sume cu titlu de sprijin financiar pentru o unitate de cult religios de pe raza administrativ-teritorială a comunei Cândești",
+"short": "HCL Lipănești nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#32209",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--lipanesti-38-2022",
 "path": "local/prahova/lipanesti/2022/38",
 "kind": "local",
@@ -815,6 +859,28 @@
 "council_name": "Consiliul Local al Comunei Lipănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--lipanesti-40-2022",
+"path": "local/prahova/lipanesti/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 40/2022 Acordarea unor sume cu titlu de sprijin financiar pentru două unități de cult religios de pe raza administrativ-teritorială a comunei Cândești",
+"short": "HCL Lipănești nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-25",
+"latest": "2022-11-25",
+"portal": "https://candesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4936#34547",
+"council": "prahova/lipanesti",
+"council_name": "Consiliul Local al Comunei Lipănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

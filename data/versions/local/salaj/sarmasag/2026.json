@@ -3,6 +3,21 @@
  "shard": "local/salaj/sarmasag/2026",
  "acts": [
   {
+   "slug": "hcl-salaj--sarmasag-1-2026",
+   "path": "local/salaj/sarmasag/2026/1",
+   "short": "HCL Șărmășag nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 1/2026 pentru alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/247572",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247572",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--sarmasag-10-2026",
    "path": "local/salaj/sarmasag/2026/10",
    "short": "HCL Șărmășag nr. 10/2026",
@@ -13,6 +28,126 @@
      "from": "2026-02-03",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-100-2026",
+   "path": "local/salaj/sarmasag/2026/100",
+   "short": "HCL Șărmășag nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 100/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivul „Reabilitarea energetică moderată a clădirilor rezidenţiale multifamiliale din comuna Sărmăşag -2– C5-A3.1-392” depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.1/1",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/280274",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/280274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-101-2026",
+   "path": "local/salaj/sarmasag/2026/101",
+   "short": "HCL Șărmășag nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 101/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivul „Reabilitarea energetică moderată a clădirilor rezidenţiale multifamiliale din comuna Sărmăşag –3- C5-A3.1-363” depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.1/1",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/280275",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/280275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-102-2026",
+   "path": "local/salaj/sarmasag/2026/102",
+   "short": "HCL Șărmășag nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 102/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivul „Reabilitarea energetică moderată a clădirilor rezidenţiale multifamiliale din comuna Sărmăşag -4 – C5-A3.1-404” depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.1/1",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/280276",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/280276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-103-2026",
+   "path": "local/salaj/sarmasag/2026/103",
+   "short": "HCL Șărmășag nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 103/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivul „Reabilitarea energetică moderată a clădirilor rezidenţiale multifamiliale din comuna Șărmășag -6– C5-A3.1-370” - depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.1/1",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/280277",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/280277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-104-2026",
+   "path": "local/salaj/sarmasag/2026/104",
+   "short": "HCL Șărmășag nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 104/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivul „Reabilitarea energetică moderată a clădirilor rezidenţiale multifamiliale din comuna Șărmășag -7 – C5-A3.1-371” - depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.1/1",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/280278",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/280278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-105-2026",
+   "path": "local/salaj/sarmasag/2026/105",
+   "short": "HCL Șărmășag nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 105/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivul „Reabilitarea energetică aprofundată a clădirilor rezidenţiale multifamiliale din comuna Șărmășag -1– C5-A3.2-72” depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.2",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/282928",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/282928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-106-2026",
+   "path": "local/salaj/sarmasag/2026/106",
+   "short": "HCL Șărmășag nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 106/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivuli „Reabilitarea energetică aprofundată a clădirilor rezidenţiale multifamiliale din comuna Șărmășag –3- C5-A3.2-74” depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.2",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/282929",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/282929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-107-2026",
+   "path": "local/salaj/sarmasag/2026/107",
+   "short": "HCL Șărmășag nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 107/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivuli „Reabilitarea energetică aprofundată a clădirilor rezidenţiale multifamiliale din comuna Șărmășag-2 – C5-A3.2-78” depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.2",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/282930",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/282930",
      "sha256": null
     }
    ]
@@ -43,6 +178,36 @@
      "from": "2026-08-25",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/284390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-11-2026",
+   "path": "local/salaj/sarmasag/2026/11",
+   "short": "HCL Șărmășag nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 11/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/247582",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-110-2026",
+   "path": "local/salaj/sarmasag/2026/110",
+   "short": "HCL Șărmășag nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 110/2026 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/284391",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/284391",
      "sha256": null
     }
    ]
@@ -178,6 +343,21 @@
      "from": "2026-09-23",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/292535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-12-2026",
+   "path": "local/salaj/sarmasag/2026/12",
+   "short": "HCL Șărmășag nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 12/2026 pentru modificarea bugetului local provizoriu al comunei pe trimestrul I 2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/250258",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/250258",
      "sha256": null
     }
    ]
@@ -378,6 +558,36 @@
    ]
   },
   {
+   "slug": "hcl-salaj--sarmasag-15-2026",
+   "path": "local/salaj/sarmasag/2026/15",
+   "short": "HCL Șărmășag nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 15/2026 pentru aprobarea inventarului mijloacelor fixe și a obiectelor de inventar aparținând Primăriei comunei Şărmăşag și Serviciilor publice locale",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/253614",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/253614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-16-2026",
+   "path": "local/salaj/sarmasag/2026/16",
+   "short": "HCL Șărmășag nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 16/2026 privind actualizarea cuantumulului chiriei aferentă locuințelor pentru tineri destinate închirierii, realizate de Agenția Națională pentru Locuințe în comuna Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/253615",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/253615",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--sarmasag-17-2026",
    "path": "local/salaj/sarmasag/2026/17",
    "short": "HCL Șărmășag nr. 17/2026",
@@ -403,6 +613,66 @@
      "from": "2026-04-23",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/253617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-19-2026",
+   "path": "local/salaj/sarmasag/2026/19",
+   "short": "HCL Șărmășag nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 19/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/253618",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/253618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-2-2026",
+   "path": "local/salaj/sarmasag/2026/2",
+   "short": "HCL Șărmășag nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 2/2026 pentru validarea Dispoziției primarului comunei Șărmășag nr. 428/24 decembrie 2025 pentru rectificarea bugetului local al comunei pe trimestrul IV 2025",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/247573",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-20-2026",
+   "path": "local/salaj/sarmasag/2026/20",
+   "short": "HCL Șărmășag nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 20/2026 pentru cuprinderea unor bunuri în Inventarul bunurilor care alcătuiesc domeniul privat al comunei Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/253619",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/253619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-21-2026",
+   "path": "local/salaj/sarmasag/2026/21",
+   "short": "HCL Șărmășag nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 21/2026 privind propunerea de atribuire în proprietate a terenului intravilan, situat în comuna Șărmășag, sat Șărmășag, str.Florilor, nr.12",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/253620",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/253620",
      "sha256": null
     }
    ]
@@ -453,6 +723,66 @@
    ]
   },
   {
+   "slug": "hcl-salaj--sarmasag-25-2026",
+   "path": "local/salaj/sarmasag/2026/25",
+   "short": "HCL Șărmășag nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 25/2026 pentru aprobarea concesionarii Serviciului de distributie a gazelor naturale din comuna Șărmășag, județul Sălaj",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/254054",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/254054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-26-2026",
+   "path": "local/salaj/sarmasag/2026/26",
+   "short": "HCL Șărmășag nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 26/2026 privind aprobarea Studiului de fundamentare a deciziei de concesionare a sistemului public de distributie a gazelor naturale",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/254055",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/254055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-27-2026",
+   "path": "local/salaj/sarmasag/2026/27",
+   "short": "HCL Șărmășag nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 27/2026 pentru aprobarea documentatiei de atribuire a contractului de concesionare a sistemului public de distributie a gazelor naturale",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/254056",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/254056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-28-2026",
+   "path": "local/salaj/sarmasag/2026/28",
+   "short": "HCL Șărmășag nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 28/2026 pentru modificarea bugetului local provizoriu al comunei Șărmășag pe trimestrul I 2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/256663",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/256663",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--sarmasag-29-2026",
    "path": "local/salaj/sarmasag/2026/29",
    "short": "HCL Șărmășag nr. 29/2026",
@@ -463,6 +793,51 @@
      "from": "2026-04-23",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/258755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-3-2026",
+   "path": "local/salaj/sarmasag/2026/3",
+   "short": "HCL Șărmășag nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 3/2026 pentru stabilirea salariilor de bază a funcționarilor publici, a personalului contractual din cadrul aparatului de specialitate al primarului comunei Șărmășag și din serviciile publice de interes local",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/247574",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-30-2026",
+   "path": "local/salaj/sarmasag/2026/30",
+   "short": "HCL Șărmășag nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 30/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/258756",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/258756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-31-2026",
+   "path": "local/salaj/sarmasag/2026/31",
+   "short": "HCL Șărmășag nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 31/2026 pentru aprobarea cuantumului cotizației pentru Asociația de Dezvoltare Intercomunitară Valea Zalăului pe anul 2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/258757",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/258757",
      "sha256": null
     }
    ]
@@ -483,6 +858,36 @@
    ]
   },
   {
+   "slug": "hcl-salaj--sarmasag-33-2026",
+   "path": "local/salaj/sarmasag/2026/33",
+   "short": "HCL Șărmășag nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 33/2026 pentru încheierea unui contract de asistență juridică și reprezentare în instanţă cu cabinet de avocat",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/258759",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/258759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-34-2026",
+   "path": "local/salaj/sarmasag/2026/34",
+   "short": "HCL Șărmășag nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 34/2026 pentru modificarea bugetului local provizoriu al comunei Șărmășag pe trimestrul I 2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/259297",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/259297",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--sarmasag-35-2026",
    "path": "local/salaj/sarmasag/2026/35",
    "short": "HCL Șărmășag nr. 35/2026",
@@ -493,6 +898,21 @@
      "from": "2026-04-23",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/259896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-36-2026",
+   "path": "local/salaj/sarmasag/2026/36",
+   "short": "HCL Șărmășag nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 36/2026 privind aprobarea organigramei și a statului de funcții pentru Centrul comunitar integrat Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/259897",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/259897",
      "sha256": null
     }
    ]
@@ -523,6 +943,36 @@
      "from": "2026-04-23",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/261064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-39-2026",
+   "path": "local/salaj/sarmasag/2026/39",
+   "short": "HCL Șărmășag nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 39/2026 alegerea președintelui de ședință",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/262853",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/262853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-4-2026",
+   "path": "local/salaj/sarmasag/2026/4",
+   "short": "HCL Șărmășag nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 4/2026 pentru stabilirea salariului numitei DOBRAI JULIANNA, bibliotecar la Biblioteca comunală Șărmășag începând cu data de 01.01.2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/247575",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247575",
      "sha256": null
     }
    ]
@@ -583,6 +1033,36 @@
      "from": "2026-05-28",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/262857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-44-2026",
+   "path": "local/salaj/sarmasag/2026/44",
+   "short": "HCL Șărmășag nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 44/2026 pentru plata sumelor necesare decontării cheltuielilor de transport pentru cadrele didactice pentru anul 2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/262858",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/262858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-45-2026",
+   "path": "local/salaj/sarmasag/2026/45",
+   "short": "HCL Șărmășag nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 45/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/262859",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/262859",
      "sha256": null
     }
    ]
@@ -723,6 +1203,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--sarmasag-54-2026",
+   "path": "local/salaj/sarmasag/2026/54",
+   "short": "HCL Șărmășag nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 54/2026 pentru încheierea unui contract de asistență juridică și reprezentare în instanţă cu cabinet de avocat",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/270345",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/270345",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--sarmasag-55-2026",
    "path": "local/salaj/sarmasag/2026/55",
    "short": "HCL Șărmășag nr. 55/2026",
@@ -808,6 +1303,51 @@
      "from": "2026-02-03",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-60-2026",
+   "path": "local/salaj/sarmasag/2026/60",
+   "short": "HCL Șărmășag nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 60/2026 privind valorificarea prin vânzare a imobilului - teren intravilan în suprafață de 250 mp. proprietatea privată a comunei ȘĂRMĂȘAG ,situat în localitatea Șărmășag, str.Florilor,nr.10 și înscris în CF.52933 al localității Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/270351",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/270351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-61-2026",
+   "path": "local/salaj/sarmasag/2026/61",
+   "short": "HCL Șărmășag nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 61/2026 privind valorificarea prin vânzare a imobilului - teren intravilan în suprafață de 617 mp. proprietatea privată a comunei ȘĂRMĂȘAG ,situat în localitatea Șărmășag, str.Florilor,nr.8 și înscris în CF.54889 al localității Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/270352",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/270352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-62-2026",
+   "path": "local/salaj/sarmasag/2026/62",
+   "short": "HCL Șărmășag nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 62/2026 privind valorificarea prin vânzare a imobilului - teren intravilan în suprafață de 53 mp. proprietatea privată a comunei ȘĂRMĂȘAG ,situat în localitatea Șărmășag, str.Florilor și înscris în CF.54899 al localității Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/270353",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/270353",
      "sha256": null
     }
    ]
@@ -918,6 +1458,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--sarmasag-7-2026",
+   "path": "local/salaj/sarmasag/2026/7",
+   "short": "HCL Șărmășag nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 7/2026 privind aprobarea cotei de carburanți pentru autovehicule și utilaje ce fac parte din parcul auto al Primăriei comunei Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/247578",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247578",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--sarmasag-70-2026",
    "path": "local/salaj/sarmasag/2026/70",
    "short": "HCL Șărmășag nr. 70/2026",
@@ -993,6 +1548,51 @@
    ]
   },
   {
+   "slug": "hcl-salaj--sarmasag-75-2026",
+   "path": "local/salaj/sarmasag/2026/75",
+   "short": "HCL Șărmășag nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 75/2026 privind modificarea H.C.L nr.13 din 02.02.2026 de aprobare a documentației tehnico-economice (faza SF) şi a indicatorilor tehnico-economici, inclusiv anexa privind descrierea sumară a investiției pentru obiectivul de investiții, precum și angajamentul de înființare a serviciului public de termoficare pentru proiectul:” Implementarea unui sistem de Alimentare Centralizată cu Energie Termică (SACET) realizat utilizând cogenerarea de înaltă eficiență din biomasă în comuna Șărmășag, jud. Sălaj”",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/274386",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/274386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-76-2026",
+   "path": "local/salaj/sarmasag/2026/76",
+   "short": "HCL Șărmășag nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 76/2026 privind aprobarea proiectului și cheltuielile legate de proiectul \"IMPLEMENTAREA UNUI SISTEM DE ALIMENTARE CENTRALIZATĂ CU ENERGIE TERMICA (SACET) REALIZAT UTILIZÂND COGENERAREA DE INALTĂ EFICIENȚĂ DIN BIOMASĂ ÎN COMUNA ȘĂRMĂȘAG, JUD. SĂLAJ\"",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/274387",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/274387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-77-2026",
+   "path": "local/salaj/sarmasag/2026/77",
+   "short": "HCL Șărmășag nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 77/2026 privind modificarea Statului de funcții pentru aparatul de specialitate al primarului comunei Şărmăşag şi pentru serviciile publice de interes local prin transformarea funcției publice de execuție de Inspector cls I debutant în funcția publică de execuție de Inspector cls.I superior din cadrul SPCLEP Șărmășag -Compartimentul stare civilă",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/275403",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/275403",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--sarmasag-78-2026",
    "path": "local/salaj/sarmasag/2026/78",
    "short": "HCL Șărmășag nr. 78/2026",
@@ -1003,6 +1603,21 @@
      "from": "2026-06-30",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/275404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-79-2026",
+   "path": "local/salaj/sarmasag/2026/79",
+   "short": "HCL Șărmășag nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 79/2026 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul II 2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/275405",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/275405",
      "sha256": null
     }
    ]
@@ -1023,6 +1638,156 @@
    ]
   },
   {
+   "slug": "hcl-salaj--sarmasag-80-2026",
+   "path": "local/salaj/sarmasag/2026/80",
+   "short": "HCL Șărmășag nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 80/2026 privind aprobarea încheierii contractelor de prestări servicii de permanenţă/intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, în intravilanul localităţilor comunei Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/275406",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/275406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-81-2026",
+   "path": "local/salaj/sarmasag/2026/81",
+   "short": "HCL Șărmășag nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 81/2026 pentru completarea anexei nr.1 - Inventarul bunurilor care alcătuiesc domeniul public al comunei Șărmășag însușit prin Hotărârea nr. 92/2018",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/275407",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/275407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-82-2026",
+   "path": "local/salaj/sarmasag/2026/82",
+   "short": "HCL Șărmășag nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 82/2026 pentru revocarea H.C.L nr.61/27 mai 2026 privind valorificarea prin vânzare a imobilului - teren intravilan în suprafață de 617 mp. proprietatea privată a comunei ȘĂRMĂȘAG ,situat în localitatea Șărmășag, str.Florilor,nr.8 și înscris în CF.54889 al localității Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/275408",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/275408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-83-2026",
+   "path": "local/salaj/sarmasag/2026/83",
+   "short": "HCL Șărmășag nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 83/2026 privind valorificarea prin vânzare a imobilului - teren intravilan în suprafață de 450 mp. proprietatea privată a comunei ȘĂRMĂȘAG ,situat în localitatea Șărmășag, str.Florilor,nr.9 și înscris în CF.54888 al localității Șărmășag",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/275409",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/275409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-84-2026",
+   "path": "local/salaj/sarmasag/2026/84",
+   "short": "HCL Șărmășag nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 84/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico economici şi a bugetului aferent proiectului „Îmbunătățirea infrastructurii inteligente pentru transportul public din comuna Șărmășag” aprobat în cadrul apelului de proiecte PNRR/2022/C10",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/276956",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/276956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-85-2026",
+   "path": "local/salaj/sarmasag/2026/85",
+   "short": "HCL Șărmășag nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 85/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico economici şi a bugetului aferent proiectului „Reabilitarea energetică moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice din comuna Șărmășag” aprobat în cadrul apelului de proiecte PNRR/2022/C10",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/276957",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/276957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-86-2026",
+   "path": "local/salaj/sarmasag/2026/86",
+   "short": "HCL Șărmășag nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 86/2026 pentru alegerea președintelui de ședință",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279268",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-87-2026",
+   "path": "local/salaj/sarmasag/2026/87",
+   "short": "HCL Șărmășag nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 87/2026 pentru aprobarea Protocolului de colaborare între comuna Șărmășag, județul Sălaj și Uniunea Națională a Notarilor Publici din România - Camera Notarilor Publici Cluj",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279269",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-88-2026",
+   "path": "local/salaj/sarmasag/2026/88",
+   "short": "HCL Șărmășag nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 88/2026 pentru rectificarea bugetului local al comunei Șărmășag pe trimestrul III 2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279270",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-89-2026",
+   "path": "local/salaj/sarmasag/2026/89",
+   "short": "HCL Șărmășag nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 89/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279271",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279271",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--sarmasag-9-2026",
    "path": "local/salaj/sarmasag/2026/9",
    "short": "HCL Șărmășag nr. 9/2026",
@@ -1033,6 +1798,156 @@
      "from": "2026-02-03",
      "units": 1,
      "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/247580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-90-2026",
+   "path": "local/salaj/sarmasag/2026/90",
+   "short": "HCL Șărmășag nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 90/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279272",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-91-2026",
+   "path": "local/salaj/sarmasag/2026/91",
+   "short": "HCL Șărmășag nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 91/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279273",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-92-2026",
+   "path": "local/salaj/sarmasag/2026/92",
+   "short": "HCL Șărmășag nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 92/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279274",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-93-2026",
+   "path": "local/salaj/sarmasag/2026/93",
+   "short": "HCL Șărmășag nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 93/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279275",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-94-2026",
+   "path": "local/salaj/sarmasag/2026/94",
+   "short": "HCL Șărmășag nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 94/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279276",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-95-2026",
+   "path": "local/salaj/sarmasag/2026/95",
+   "short": "HCL Șărmășag nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 95/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279277",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-96-2026",
+   "path": "local/salaj/sarmasag/2026/96",
+   "short": "HCL Șărmășag nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 96/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279278",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-97-2026",
+   "path": "local/salaj/sarmasag/2026/97",
+   "short": "HCL Șărmășag nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 97/2026",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279279",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-98-2026",
+   "path": "local/salaj/sarmasag/2026/98",
+   "short": "HCL Șărmășag nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 98/2026 pentru modificarea structurii Comisiei pentru activități social-culturale, culte, învățământ, sănătate și familie, protecția copiilor, tineret și sport",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/279280",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/279280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--sarmasag-99-2026",
+   "path": "local/salaj/sarmasag/2026/99",
+   "short": "HCL Șărmășag nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șărmășag nr. 99/2026 pentru aprobarea valorii actualizate a indicatorilor tehnico-economici la finalizarea investitiei pentru obiectivul „Reabilitarea energetică moderată a clădirilor rezidenţiale multifamiliale din comuna Sărmăşag – 1- C5-A3.1-355” depus în cadrul apelului de proiecte PNRR/2022/C5/1/A.3.1/1",
+   "url": "https://emol.ro/sarmasag-sj/registru-hcl/280273",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmasag-sj/registru-hcl/280273",
      "sha256": null
     }
    ]

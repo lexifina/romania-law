@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-prahova--olari-5-2022",
+"path": "local/prahova/olari/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 5/2022 privind desemnarea consilierilor locali membri ai comisiei de evaluare a performantelor profesionale ale secretarului general al comunei",
+"short": "HCL Olari nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/olari-ph/registru-hcl/52614",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--olari-6-2022",
 "path": "local/prahova/olari/2022/6",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Olari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--olari-7-2022",
+"path": "local/prahova/olari/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 7/2022 privind aprobarea inchirierii, prin atribuire directa, a pajistilor aflate in proprietate privata a comunei Olari, judetul Prahova, initiat de primar;",
+"short": "HCL Olari nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-24",
+"latest": "2022-05-24",
+"portal": "https://emol.ro/olari-ph/registru-hcl/61238",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Olari",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--olari-13-2022",
+"path": "local/prahova/olari/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Olari nr. 13/2022 privind aprobarea organigramei, a statului de funcţii si a numarului de personal al aparatului de specialitate al primarului comunei Olari, pentru anul 2022, a numarului de asistenti personali ai persoanelor cu handicap precum si a listei cu beneficiarii indemnizatiilor lunare pentru persoane cu handicap, initiat de primar;",
+"short": "HCL Olari nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/olari-ph/registru-hcl/63369",
+"council": "prahova/olari",
+"council_name": "Consiliul Local al Comunei Olari",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

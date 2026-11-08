@@ -335,6 +335,52 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-16-2022",
+"path": "local/prahova/paulesti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 16/2022",
+"short": "HCL Păulești nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60419",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-17-2022",
+"path": "local/prahova/paulesti/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 17/2022",
+"short": "HCL Păulești nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60420",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-18-2022",
 "path": "local/prahova/paulesti/2022/18",
 "kind": "local",
@@ -489,6 +535,29 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-25-2022",
+"path": "local/prahova/paulesti/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 25/2022",
+"short": "HCL Păulești nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60428",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-26-2022",
 "path": "local/prahova/paulesti/2022/26",
 "kind": "local",
@@ -508,6 +577,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-27-2022",
+"path": "local/prahova/paulesti/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 27/2022 privind numirea membrilor Comitetului Director și ai Comisiei de Disciplină în cadrul Clubului Sportiv Păulești",
+"short": "HCL Păulești nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60434",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -731,6 +822,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-38-2022",
+"path": "local/prahova/paulesti/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 38/2022 privind aprobarea structurii de specialități a membrilor comisiei sociale pentru analizarea și repartizarea locuințelor de tip ANL pentru tuneri, destinate închirierii",
+"short": "HCL Păulești nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60446",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-39-2022",
 "path": "local/prahova/paulesti/2022/39",
 "kind": "local",
@@ -864,6 +977,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-45-2022",
+"path": "local/prahova/paulesti/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 45/2022 privind acordarea unui ajutor financiar Parohiei ,,Sfântul Gheorghe,, sat Cocoșești",
+"short": "HCL Păulești nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60453",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-46-2022",
 "path": "local/prahova/paulesti/2022/46",
 "kind": "local",
@@ -931,6 +1066,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-49-2022",
+"path": "local/prahova/paulesti/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 49/2022 privind însușirea raportului de evaluare a suprafeței de 740 mp teren Tarla 16 Parcela 2188, nr.cad.2188, în vederea concesionării",
+"short": "HCL Păulești nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60457",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-50-2022",
 "path": "local/prahova/paulesti/2022/50",
 "kind": "local",
@@ -950,6 +1107,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-51-2022",
+"path": "local/prahova/paulesti/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 51/2022 privind închirierea spațiilor disponibile excedentare din unitățile de învățământ preuniversitar de stat de pe raza comunei Păulești",
+"short": "HCL Păulești nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60459",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -997,6 +1176,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-54-2022",
+"path": "local/prahova/paulesti/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 54/2022 privind acordarea unui sprijin financiar Bisericii Adventiste de Ziua a Șaptea – Conferința Muntenia, din comuna Păulești, sat Găgeni",
+"short": "HCL Păulești nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60462",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-55-2022",
 "path": "local/prahova/paulesti/2022/55",
 "kind": "local",
@@ -1016,6 +1217,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-56-2022",
+"path": "local/prahova/paulesti/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 56/2022 privind stabilirea indemnizației aferente funcției de Președinte al Comitetului Diretor al Clubului Sportiv Păulești",
+"short": "HCL Păulești nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60577",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1240,6 +1463,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-67-2022",
+"path": "local/prahova/paulesti/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 67/2022 privind aprobarea vânzării suprafeței de 3044 mp aparținând domeniului privat al comunei Păulești, nr.cad.31375",
+"short": "HCL Păulești nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60588",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-68-2022",
 "path": "local/prahova/paulesti/2022/68",
 "kind": "local",
@@ -1262,6 +1507,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-69-2022",
+"path": "local/prahova/paulesti/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 69/2022 privind înfiinţarea statiilor publice pentru îmbarcare/debarcare călători, comuna Păulești",
+"short": "HCL Păulești nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/60590",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-70-2022",
 "path": "local/prahova/paulesti/2022/70",
 "kind": "local",
@@ -1281,6 +1548,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-71-2022",
+"path": "local/prahova/paulesti/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 71/2022 privind prelungirea contractului de închirire cu Dr.Galea Sofia",
+"short": "HCL Păulești nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70564",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1325,6 +1614,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-74-2022",
+"path": "local/prahova/paulesti/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 74/2022 privind modificarea și completarea HCL Păulești nr.27/11.02.2022 privind numirea membrilor Comitetului Director și ai Comisiei de Disciplină în cadtrul Clubului Sportiv Păulești",
+"short": "HCL Păulești nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70568",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1394,6 +1705,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-78-2022",
+"path": "local/prahova/paulesti/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 78/2022 privind însușirea Raportului de evaluare privind stabilirea valorii de piață, în vederea vânzării, loturilor de teren atribuite în baza prevederilor Legii nr.15/2003, republicată, cu modificările și completările ulterioare",
+"short": "HCL Păulești nr. 78/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70572",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-79-2022",
 "path": "local/prahova/paulesti/2022/79",
 "kind": "local",
@@ -1457,6 +1790,29 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-82-2022",
+"path": "local/prahova/paulesti/2022/82",
+"kind": "local",
+"year": "2022",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 82/2022",
+"short": "HCL Păulești nr. 82/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70588",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1725,6 +2081,29 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-95-2022",
+"path": "local/prahova/paulesti/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 95/2022",
+"short": "HCL Păulești nr. 95/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70626",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-96-2022",
 "path": "local/prahova/paulesti/2022/96",
 "kind": "local",
@@ -1766,6 +2145,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-98-2022",
+"path": "local/prahova/paulesti/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 98/2022 privind aprobarea documentației în vederea vânzării, prin licitație publică, a terenului în suprafață de 3044 mp, nr.cadastral 31375, Tarla 28 Parcela 754/1",
+"short": "HCL Păulești nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70629",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1835,6 +2236,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-102-2022",
+"path": "local/prahova/paulesti/2022/102",
+"kind": "local",
+"year": "2022",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 102/2022 privind elaborarea Planului Local de Acțiune privind incluziunea cetățenilor români de etnie romă din comuna Păulești, pentru anul 2022 și desemnarea componenței Grupului Local de Lucru",
+"short": "HCL Păulești nr. 102/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70633",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-103-2022",
 "path": "local/prahova/paulesti/2022/103",
 "kind": "local",
@@ -1877,6 +2300,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-105-2022",
+"path": "local/prahova/paulesti/2022/105",
+"kind": "local",
+"year": "2022",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 105/2022 privind constituirea comisiei de evaluare, a comisiei de soluționare a contestațiilor, în vederea vânzării prin licitație publică a terenului în suprafață de 3044 mp, nr.cad. 31375",
+"short": "HCL Păulești nr. 105/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70636",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1990,6 +2435,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-111-2022",
+"path": "local/prahova/paulesti/2022/111",
+"kind": "local",
+"year": "2022",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 111/2022 privind acordarea unui sprijin financiar Bisericii Creștin Baptiste ,,Emanuel,, Ploiești",
+"short": "HCL Păulești nr. 111/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70642",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-112-2022",
 "path": "local/prahova/paulesti/2022/112",
 "kind": "local",
@@ -2012,6 +2479,52 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-113-2022",
+"path": "local/prahova/paulesti/2022/113",
+"kind": "local",
+"year": "2022",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 113/2022",
+"short": "HCL Păulești nr. 113/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70644",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-114-2022",
+"path": "local/prahova/paulesti/2022/114",
+"kind": "local",
+"year": "2022",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 114/2022",
+"short": "HCL Păulești nr. 114/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70645",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-115-2022",
 "path": "local/prahova/paulesti/2022/115",
 "kind": "local",
@@ -2031,6 +2544,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-116-2022",
+"path": "local/prahova/paulesti/2022/116",
+"kind": "local",
+"year": "2022",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 116/2022 privind aprobarea Listei de repartizare a locuințelor pentru tineri, în regim de închiriere, construite prin A.N.L",
+"short": "HCL Păulești nr. 116/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/70647",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2144,6 +2679,50 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-122-2022",
+"path": "local/prahova/paulesti/2022/122",
+"kind": "local",
+"year": "2022",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 122/2022 privind desemnarea unor consilieri locali în Consiliul de Administratie al Scolii Gimnaziale Toma T. Socolescu Comuna Paulesti",
+"short": "HCL Păulești nr. 122/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85915",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-123-2022",
+"path": "local/prahova/paulesti/2022/123",
+"kind": "local",
+"year": "2022",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 123/2022 privind desemnarea unui consilier local in Comisia de Evaluare a Asigurarii Calitatii Educaţiei in cadrul Scolii Gimnaziale “Toma T.Socolescu” Comuna Paulesti",
+"short": "HCL Păulești nr. 123/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85916",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-124-2022",
 "path": "local/prahova/paulesti/2022/124",
 "kind": "local",
@@ -2229,6 +2808,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-128-2022",
+"path": "local/prahova/paulesti/2022/128",
+"kind": "local",
+"year": "2022",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 128/2022 privind aprobarea modelului contractului cadru de închiriere pentru locuințele ANL",
+"short": "HCL Păulești nr. 128/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85921",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2389,6 +2990,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-136-2022",
+"path": "local/prahova/paulesti/2022/136",
+"kind": "local",
+"year": "2022",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 136/2022 privind vânzarea prin încredințare directă a terenului în suprafață de 421 mp, nr.cad. 26014, situat în domeniul privat al comunei Păulești",
+"short": "HCL Păulești nr. 136/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85929",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-137-2022",
 "path": "local/prahova/paulesti/2022/137",
 "kind": "local",
@@ -2455,6 +3078,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-140-2022",
+"path": "local/prahova/paulesti/2022/140",
+"kind": "local",
+"year": "2022",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 140/2022 privind aprobarea aprobarea vânzării prin licitaţie publică a terenului aparținând domeniului privat al comunei Păulești, în suprafaţă de 397 mp, situat în intravilanul satului Cocoșești, Tarla 5, Parcela arabil 543/2, nr.cad. 31649",
+"short": "HCL Păulești nr. 140/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85952",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-141-2022",
 "path": "local/prahova/paulesti/2022/141",
 "kind": "local",
@@ -2474,6 +3119,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-142-2022",
+"path": "local/prahova/paulesti/2022/142",
+"kind": "local",
+"year": "2022",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 142/2022 privind acordarea unui mandat special în cadrul Asociaţiei de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deşeurilor Prahova”",
+"short": "HCL Păulești nr. 142/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85954",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2518,6 +3185,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-145-2022",
+"path": "local/prahova/paulesti/2022/145",
+"kind": "local",
+"year": "2022",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 145/2022 privind aprobarea vânzării prin licitație publică a terenului apartinând domeniului privat al comunei Păulești, în suprafață de 1200 mp, situat în Tarla 21 Parcela livadă 2575, în intavilanul satului Păulești, nr.cad. 31775",
+"short": "HCL Păulești nr. 145/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85957",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -2675,6 +3364,28 @@
 }
 },
 {
+"slug": "hcl-prahova--paulesti-153-2022",
+"path": "local/prahova/paulesti/2022/153",
+"kind": "local",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 153/2022 privind numirea persoanei care ține registrul de evidență a datoriei publice locale și a registrului de evidență a garantiilor locale ale u.a.t.Păulești",
+"short": "HCL Păulești nr. 153/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85966",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--paulesti-154-2022",
 "path": "local/prahova/paulesti/2022/154",
 "kind": "local",
@@ -2694,6 +3405,29 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-155-2022",
+"path": "local/prahova/paulesti/2022/155",
+"kind": "local",
+"year": "2022",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 155/2022",
+"short": "HCL Păulești nr. 155/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85968",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -2738,6 +3472,28 @@
 "council_name": "Consiliul Local al Comunei Păulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--paulesti-158-2022",
+"path": "local/prahova/paulesti/2022/158",
+"kind": "local",
+"year": "2022",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păulești nr. 158/2022 privind aprobarea Caietului de sarcini pentru achiziționarea de servicii ,,Inchiriere materiale pentru iluminat ornamental festiv 2022-2023, inclusiv montajul și racordarea acestora la rețeaua de iluminat public, testarea, punerea în funcțiune și demontarea lor la final, în comuna Păulești,,",
+"short": "HCL Păulești nr. 158/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-17",
+"latest": "2023-01-17",
+"portal": "https://emol.ro/paulesti-ph/registru-hcl/85971",
+"council": "prahova/paulesti",
+"council_name": "Consiliul Local al Comunei Păulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

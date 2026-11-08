@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-salaj--horoatu-crasnei-3-2026",
+"path": "local/salaj/horoatu-crasnei/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 3/2026",
+"short": "HCL Horoatu Crasnei nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/248416",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-salaj--horoatu-crasnei-4-2026",
 "path": "local/salaj/horoatu-crasnei/2026/4",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Horoatu Crasnei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--horoatu-crasnei-5-2026",
+"path": "local/salaj/horoatu-crasnei/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 5/2026 privind acordarea unui ajutor de urgență pentru refacerea locuinței afectate de incendiul produs la data de 16.12.2025",
+"short": "HCL Horoatu Crasnei nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/horoatucrasnei-sj/registru-hcl/248418",
+"council": "salaj/horoatu-crasnei",
+"council_name": "Consiliul Local al Comunei Horoatu Crasnei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

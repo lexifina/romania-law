@@ -243,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--horoatu-crasnei-24-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/24",
+   "short": "HCL Horoatu Crasnei nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 24/2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/213584",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/213584",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--horoatu-crasnei-25-2025",
    "path": "local/salaj/horoatu-crasnei/2025/25",
    "short": "HCL Horoatu Crasnei nr. 25/2025",
@@ -393,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--horoatu-crasnei-34-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/34",
+   "short": "HCL Horoatu Crasnei nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 34/2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225759",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225759",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--horoatu-crasnei-35-2025",
    "path": "local/salaj/horoatu-crasnei/2025/35",
    "short": "HCL Horoatu Crasnei nr. 35/2025",
@@ -418,6 +448,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-37-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/37",
+   "short": "HCL Horoatu Crasnei nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 37/2025 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții ,,Construire Centru Comunitar Integrat în Comuna Horoatu Crasnei, județul Sălaj\"",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225762",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/225762",
      "sha256": null
     }
    ]
@@ -613,6 +658,21 @@
      "from": "2025-11-28",
      "units": 1,
      "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/234952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--horoatu-crasnei-5-2025",
+   "path": "local/salaj/horoatu-crasnei/2025/5",
+   "short": "HCL Horoatu Crasnei nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Horoatu Crasnei nr. 5/2025",
+   "url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194347",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/horoatucrasnei-sj/registru-hcl/194347",
      "sha256": null
     }
    ]

@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-102-2022",
+   "path": "local/prahova/rafov/2022/102",
+   "short": "HCL Râfov nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 102/2022 privind repartizarea unei sume prevazute in bugetul local pe anul 2022 pentru acordarea unui sprijin financiar parohiei Palanca din Comuna Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/88933",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/88933",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-103-2022",
    "path": "local/prahova/rafov/2022/103",
    "short": "HCL Râfov nr. 103/2022",
@@ -88,6 +103,36 @@
      "from": "2022-11-07",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/88935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-105-2022",
+   "path": "local/prahova/rafov/2022/105",
+   "short": "HCL Râfov nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 105/2022 privind trecerea din domeniul privat al Comunei Rafov in domeniul public al Comunei Rafov a terenului situat in intravilanul satului Palanca, Comuna Rafov, Judetul Prahova C>F> nr. 23209 in vederea amplasarii unui obiectiv de utilitate publica",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/88936",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/88936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-106-2022",
+   "path": "local/prahova/rafov/2022/106",
+   "short": "HCL Râfov nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 106/2022 privind introducerea in domeniul public a terenurilor situate in Comuna Rafov:Tarlaua 25, Parcela 105/8, tarlaua 51, Parcela A 308/20 si Tarlaua 101, Parcela A 588",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/88937",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/88937",
      "sha256": null
     }
    ]
@@ -498,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-18-2022",
+   "path": "local/prahova/rafov/2022/18",
+   "short": "HCL Râfov nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 18/2022 privind concesionarea (in contratura a unui spatiu aprtinand dispensarului uman din satul Moara Domneasca , din domeniul privat al Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/56083",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/56083",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-19-2022",
    "path": "local/prahova/rafov/2022/19",
    "short": "HCL Râfov nr. 19/2022",
@@ -588,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-24-2022",
+   "path": "local/prahova/rafov/2022/24",
+   "short": "HCL Râfov nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 24/2022 privind decontarea navetei cadrelor didactice pentru lunile Decembrie 2021 si Ianuarie-Februarie 2022",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/56154",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/56154",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-25-2022",
    "path": "local/prahova/rafov/2022/25",
    "short": "HCL Râfov nr. 25/2022",
@@ -658,6 +733,36 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/56159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-3-2022",
+   "path": "local/prahova/rafov/2022/3",
+   "short": "HCL Râfov nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 3/2022 privind aprobarea modificarii contractului de inchiriere-spatiu nr 225/12.01.2012",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/50220",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/50220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-30-2022",
+   "path": "local/prahova/rafov/2022/30",
+   "short": "HCL Râfov nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 30/2022",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/56160",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/56160",
      "sha256": null
     }
    ]
@@ -963,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-5-2022",
+   "path": "local/prahova/rafov/2022/5",
+   "short": "HCL Râfov nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 5/2022 privind aprobarea inchirierii prin atribuire directa a suprafetelor de pasune, ramase neocupate, din Comuna Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/56031",
+   "versions": [
+    {
+     "from": "2022-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/56031",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-50-2022",
    "path": "local/prahova/rafov/2022/50",
    "short": "HCL Râfov nr. 50/2022",
@@ -1008,6 +1128,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-53-2022",
+   "path": "local/prahova/rafov/2022/53",
+   "short": "HCL Râfov nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 53/2022 privind aprobarea decontarii navetei cadrelor didactice pentru lunile martie si aprilie 2022",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/70398",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/70398",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-54-2022",
    "path": "local/prahova/rafov/2022/54",
    "short": "HCL Râfov nr. 54/2022",
@@ -1033,6 +1168,21 @@
      "from": "2022-06-28",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/70400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-56-2022",
+   "path": "local/prahova/rafov/2022/56",
+   "short": "HCL Râfov nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 56/2022",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/70401",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/70401",
      "sha256": null
     }
    ]
@@ -1093,6 +1243,21 @@
      "from": "2022-04-04",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/56032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-60-2022",
+   "path": "local/prahova/rafov/2022/60",
+   "short": "HCL Râfov nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 60/2022 privind repartizarea unei sume prevazute in bugetul local pe anul 2022 pentru acordarea unui sprijin financiar parohiei Palanca din Comuna Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/70405",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/70405",
      "sha256": null
     }
    ]
@@ -1188,6 +1353,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-67-2022",
+   "path": "local/prahova/rafov/2022/67",
+   "short": "HCL Râfov nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 67/2022 privind aprobarea unui sprijin financiar parohiilor din Comuna Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/74250",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/74250",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-68-2022",
    "path": "local/prahova/rafov/2022/68",
    "short": "HCL Râfov nr. 68/2022",
@@ -1263,6 +1443,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-72-2022",
+   "path": "local/prahova/rafov/2022/72",
+   "short": "HCL Râfov nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 72/2022 privind acordarea unui ajutor de urgenta",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/74484",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/74484",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-73-2022",
    "path": "local/prahova/rafov/2022/73",
    "short": "HCL Râfov nr. 73/2022",
@@ -1273,6 +1468,36 @@
      "from": "2022-08-24",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/74485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-74-2022",
+   "path": "local/prahova/rafov/2022/74",
+   "short": "HCL Râfov nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 74/2022 privind revocarea HCL 60/28.06.2022 privind acordarea unui sprijin financiar parohiei Palanca",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/74486",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/74486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-75-2022",
+   "path": "local/prahova/rafov/2022/75",
+   "short": "HCL Râfov nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 75/2022 privind aprobarea decontarii navetei cadrelor didactice pentru luna mai 2022",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/74487",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/74487",
      "sha256": null
     }
    ]
@@ -1303,6 +1528,21 @@
      "from": "2022-09-08",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/80043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-78-2022",
+   "path": "local/prahova/rafov/2022/78",
+   "short": "HCL Râfov nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 78/2022 privind desemnarea reprezentantului Consiliului Local Rafov in Comisia de evaluare a probei de interviu la concursul pentru ocuparea functiei de director adjunct al Scolii Gimnaziale Buda",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/80044",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/80044",
      "sha256": null
     }
    ]
@@ -1353,6 +1593,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-81-2022",
+   "path": "local/prahova/rafov/2022/81",
+   "short": "HCL Râfov nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 81/2022 privind aprobarea studiilor de oportunitate pentru concesionarea unor suprafete de teren aflate in domeniul privat al Comunei Rafov, in vederea dezvoltarii unor parcuri fotovoltaice",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/80415",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/80415",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-82-2022",
    "path": "local/prahova/rafov/2022/82",
    "short": "HCL Râfov nr. 82/2022",
@@ -1378,6 +1633,21 @@
      "from": "2022-09-23",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/80417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-84-2022",
+   "path": "local/prahova/rafov/2022/84",
+   "short": "HCL Râfov nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 84/2022",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/80418",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/80418",
      "sha256": null
     }
    ]
@@ -1603,6 +1873,21 @@
      "from": "2022-10-13",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/88575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-99-2022",
+   "path": "local/prahova/rafov/2022/99",
+   "short": "HCL Râfov nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 99/2022 privind numirea comisiei pentru solutionarea cererilor si repartizarea terenurilor atribuite in baza Legii 15/2003 pentru sprijinul acordat tinerilor in vederea construirii unei locuinte",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/88576",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/88576",
      "sha256": null
     }
    ]

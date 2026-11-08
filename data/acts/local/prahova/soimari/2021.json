@@ -291,6 +291,28 @@
 }
 },
 {
+"slug": "hcl-prahova--soimari-39-2021",
+"path": "local/prahova/soimari/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoimari nr. 39/2021 privind desemnarea reprezentantului Consiliului Local Soimari care va face parte din comisia de evaluare a probei de interviu pentru ocuparea functiilor de director din unitatile de invatamant preuniversitar de pe raza comunei Soimari",
+"short": "HCL Șoimari nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://soimari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2812#6825",
+"council": "prahova/soimari",
+"council_name": "Consiliul Local al Comunei Șoimari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--soimari-40-2021",
 "path": "local/prahova/soimari/2021/40",
 "kind": "local",

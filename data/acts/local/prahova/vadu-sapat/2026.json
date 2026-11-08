@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-prahova--vadu-sapat-4-2026",
+"path": "local/prahova/vadu-sapat/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 4/2026 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav si a numarului de indemnizatii pentru persoane cu handicap grav, pentru anul 2026",
+"short": "HCL Vadu Săpat nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/vadusapat-ph/registru-hcl/253072",
+"council": "prahova/vadu-sapat",
+"council_name": "Consiliul Local al Comunei Vadu Săpat",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--vadu-sapat-5-2026",
 "path": "local/prahova/vadu-sapat/2026/5",
 "kind": "local",
@@ -154,6 +176,52 @@
 "council_name": "Consiliul Local al Comunei Vadu Săpat",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--vadu-sapat-9-2026",
+"path": "local/prahova/vadu-sapat/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 9/2026",
+"short": "HCL Vadu Săpat nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/vadusapat-ph/registru-hcl/256463",
+"council": "prahova/vadu-sapat",
+"council_name": "Consiliul Local al Comunei Vadu Săpat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--vadu-sapat-10-2026",
+"path": "local/prahova/vadu-sapat/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 10/2026",
+"short": "HCL Vadu Săpat nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/vadusapat-ph/registru-hcl/256464",
+"council": "prahova/vadu-sapat",
+"council_name": "Consiliul Local al Comunei Vadu Săpat",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

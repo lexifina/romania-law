@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--varbilau-10-2026",
+   "path": "local/prahova/varbilau/2026/10",
+   "short": "HCL Vărbilău nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 10/2026",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/250336",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250336",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--varbilau-11-2026",
    "path": "local/prahova/varbilau/2026/11",
    "short": "HCL Vărbilău nr. 11/2026",
@@ -43,6 +58,21 @@
      "from": "2026-02-12",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-13-2026",
+   "path": "local/prahova/varbilau/2026/13",
+   "short": "HCL Vărbilău nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 13/2026 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Vărbilău, judeţul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/250339",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250339",
      "sha256": null
     }
    ]
@@ -78,6 +108,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--varbilau-16-2026",
+   "path": "local/prahova/varbilau/2026/16",
+   "short": "HCL Vărbilău nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 16/2026 privind concesionarea prin licitație publică a terenului aflat în proprietatea privată a comunei, în suprafață de 65.000, situat în comuna Vărbilău, sat Coțofenești, tarlaua 12, parcela 3911, număr cadastral 23196",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/256258",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-17-2026",
+   "path": "local/prahova/varbilau/2026/17",
+   "short": "HCL Vărbilău nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 17/2026 privind închirierea prin licitație publică a terenului aflat în proprietatea publică a comunei Vărbilău, în suprafață de 150 m.p. - Lotul 2, situat în intravilanul comunei Vărbilău, sat Vărbilău, județul Prahova, tarla 4, parcela Cc264, având număr cadastral 23116",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/256259",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-18-2026",
+   "path": "local/prahova/varbilau/2026/18",
+   "short": "HCL Vărbilău nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 18/2026 privind închirierea prin licitație publică a terenului aflat în proprietatea publică a comunei Vărbilău, în suprafață de 330 m.p., situat în intravilanul comunei Vărbilău, sat Vărbilău, județul Prahova, tarla 4, parcela Cc 297, având număr cadastral 23118",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/256260",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-19-2026",
+   "path": "local/prahova/varbilau/2026/19",
+   "short": "HCL Vărbilău nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 19/2026 privind închirierea prin licitație publică a terenului aflat în proprietatea privată a comunei Vărbilău, în suprafață de 3.000 m.p., situat în intravilanul comunei Vărbilău, sat Vărbilău, județul Prahova, tarla 24, parcela A1511, având număr cadastral 23304",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/256261",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-2-2026",
+   "path": "local/prahova/varbilau/2026/2",
+   "short": "HCL Vărbilău nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 2/2026 privind preluarea fără plată de la Instituția Prefectului - județul Prahova a autoturismului marca Dacia Logan, înmatriculat sub nr. MAI 30666, cu nr. de identificare UU1LSDABH35839368, anul fabricației 2006",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/246168",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/246168",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--varbilau-20-2026",
    "path": "local/prahova/varbilau/2026/20",
    "short": "HCL Vărbilău nr. 20/2026",
@@ -88,6 +193,66 @@
      "from": "2026-04-02",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-21-2026",
+   "path": "local/prahova/varbilau/2026/21",
+   "short": "HCL Vărbilău nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 21/2026",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/256263",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-22-2026",
+   "path": "local/prahova/varbilau/2026/22",
+   "short": "HCL Vărbilău nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 22/2026 privind acordarea unui mandat special reprezentantului comunei Vărbilău, județul Prahova, pentru a vota în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Apei – Prahova’’ aprobarea Planului anual de evoluție a tarifelor (Strategia de tarifare)",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/256264",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-23-2026",
+   "path": "local/prahova/varbilau/2026/23",
+   "short": "HCL Vărbilău nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 23/2026",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/256265",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-24-2026",
+   "path": "local/prahova/varbilau/2026/24",
+   "short": "HCL Vărbilău nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 24/2026 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/256266",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/256266",
      "sha256": null
     }
    ]
@@ -168,6 +333,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--varbilau-3-2026",
+   "path": "local/prahova/varbilau/2026/3",
+   "short": "HCL Vărbilău nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 3/2026 privind închirierea prin licitație publică a terenului aflat în proprietatea privată a comunei Vărbilău, în suprafață de 6.500 m.p. - Lotul 4, situat în extravilanul comunei Vărbilău, sat Vărbilău, județul Prahova, tarla 11, parcela 3860, având număr cadastral 23200",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/250329",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-30-2026",
+   "path": "local/prahova/varbilau/2026/30",
+   "short": "HCL Vărbilău nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 30/2026 privind închirierea prin licitație publică a terenului aflat în proprietatea privată a comunei Vărbilău, în suprafață de 7.173 m.p. - Lotul 2, situat în extravilanul comunei Vărbilău, sat Vărbilău, județul Prahova, tarla 11, parcela 3860, având număr cadastral 23200",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/264162",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264162",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--varbilau-31-2026",
    "path": "local/prahova/varbilau/2026/31",
    "short": "HCL Vărbilău nr. 31/2026",
@@ -183,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--varbilau-32-2026",
+   "path": "local/prahova/varbilau/2026/32",
+   "short": "HCL Vărbilău nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 32/2026 privind închirierea unor suprafeţe de pajişti aflate în domeniul privat al comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/264164",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264164",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--varbilau-33-2026",
    "path": "local/prahova/varbilau/2026/33",
    "short": "HCL Vărbilău nr. 33/2026",
@@ -193,6 +403,36 @@
      "from": "2026-05-08",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-34-2026",
+   "path": "local/prahova/varbilau/2026/34",
+   "short": "HCL Vărbilău nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 34/2026",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/264166",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-35-2026",
+   "path": "local/prahova/varbilau/2026/35",
+   "short": "HCL Vărbilău nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 35/2026 privind stabilirea funcției publice specifice de asistent social și echivalarea acesteia cu funcția publică generală de execuție",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/264167",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264167",
      "sha256": null
     }
    ]
@@ -243,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--varbilau-39-2026",
+   "path": "local/prahova/varbilau/2026/39",
+   "short": "HCL Vărbilău nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 39/2026 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/264171",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264171",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--varbilau-4-2026",
    "path": "local/prahova/varbilau/2026/4",
    "short": "HCL Vărbilău nr. 4/2026",
@@ -253,6 +508,21 @@
      "from": "2026-02-12",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-40-2026",
+   "path": "local/prahova/varbilau/2026/40",
+   "short": "HCL Vărbilău nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 40/2026 pentru însușirea propunerii de concesionare prin licitație publică a terenului aflat în proprietatea privată a comunei, în suprafață de 17.000 m.p., situat în extravilanul comunei Vărbilău, sat Vărbilău, tarlaua 11, parcelele A3858, A3859 și A3860, număr cadastral 23311",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/264773",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264773",
      "sha256": null
     }
    ]
@@ -283,6 +553,51 @@
      "from": "2026-05-08",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-43-2026",
+   "path": "local/prahova/varbilau/2026/43",
+   "short": "HCL Vărbilău nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 43/2026 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/264776",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-44-2026",
+   "path": "local/prahova/varbilau/2026/44",
+   "short": "HCL Vărbilău nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 44/2026 privind alegerea Preşedintelui de şedinţă al Consiliului Local al comunei Vărbilău, judeţul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/264777",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/264777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-45-2026",
+   "path": "local/prahova/varbilau/2026/45",
+   "short": "HCL Vărbilău nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 45/2026 privind concesionarea prin licitație publică a terenului aflat în proprietatea privată a comunei, în suprafață de 3000 m.p. – Lotul 2, situat în comuna Vărbilău, sat Poiana Vărbilău, tarlaua 19, parcela 94, număr cadastral 23273",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/267433",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/267433",
      "sha256": null
     }
    ]
@@ -358,6 +673,21 @@
      "from": "2026-02-12",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-50-2026",
+   "path": "local/prahova/varbilau/2026/50",
+   "short": "HCL Vărbilău nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 50/2026",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/268976",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/268976",
      "sha256": null
     }
    ]
@@ -453,6 +783,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--varbilau-57-2026",
+   "path": "local/prahova/varbilau/2026/57",
+   "short": "HCL Vărbilău nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 57/2026 privind concesionarea prin licitație publică a terenului aflat în proprietatea privată a comunei, în suprafață de 17.000 m.p., situat în extravilanul comunei Vărbilău, sat Vărbilău, tarlaua 11, parcelele A3858, A3859 și A3860, număr cadastral 23311",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/273955",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/273955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-58-2026",
+   "path": "local/prahova/varbilau/2026/58",
+   "short": "HCL Vărbilău nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 58/2026 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/273956",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/273956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-59-2026",
+   "path": "local/prahova/varbilau/2026/59",
+   "short": "HCL Vărbilău nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 59/2026 privind închirierea directă, fără licitație publică, a spațiului în suprafață de 71,83 m.p. din imobilul - clădire dispensar, situat în comuna Vărbilău, sat Coțofenești nr. 168D, județul Prahova, înscris în Cartea Funciară Vărbilău sub nr. 21159, către Moise Alexandru-George, în vederea înființării unui cabinet medical individual",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/273957",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/273957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-6-2026",
+   "path": "local/prahova/varbilau/2026/6",
+   "short": "HCL Vărbilău nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 6/2026 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/250332",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250332",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--varbilau-60-2026",
    "path": "local/prahova/varbilau/2026/60",
    "short": "HCL Vărbilău nr. 60/2026",
@@ -463,6 +853,51 @@
      "from": "2026-06-30",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/273958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-61-2026",
+   "path": "local/prahova/varbilau/2026/61",
+   "short": "HCL Vărbilău nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 61/2026 privind închirierea prin licitație publică a terenului aflat în proprietatea publică a comunei Vărbilău, în suprafață de 330 m.p., situat în intravilanul comunei Vărbilău, sat Vărbilău, județul Prahova, tarla 4, parcela Cc 297, având număr cadastral 23118",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/278558",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/278558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-62-2026",
+   "path": "local/prahova/varbilau/2026/62",
+   "short": "HCL Vărbilău nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 62/2026 privind închirierea prin licitație publică a terenului aflat în proprietatea publică a comunei Vărbilău, în suprafață de 150 m.p. - Lotul 2, situat în intravilanul comunei Vărbilău, sat Vărbilău, județul Prahova, tarla 4, parcela Cc264, având număr cadastral 23116",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/278559",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/278559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-63-2026",
+   "path": "local/prahova/varbilau/2026/63",
+   "short": "HCL Vărbilău nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 63/2026 privind închirierea prin licitație publică a terenului aflat în proprietatea privată a comunei Vărbilău, în suprafață de 3.000 m.p., situat în intravilanul comunei Vărbilău, sat Vărbilău, județul Prahova, tarla 24, parcela A1511, având număr cadastral 23304",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/278560",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/278560",
      "sha256": null
     }
    ]
@@ -493,6 +928,21 @@
      "from": "2026-07-21",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/278562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-66-2026",
+   "path": "local/prahova/varbilau/2026/66",
+   "short": "HCL Vărbilău nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 66/2026 privind aprobarea decontării cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Primarului comunei Vărbilău",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/278563",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/278563",
      "sha256": null
     }
    ]
@@ -538,6 +988,21 @@
      "from": "2026-07-21",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/278566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-7-2026",
+   "path": "local/prahova/varbilau/2026/7",
+   "short": "HCL Vărbilău nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 7/2026 privind stabilirea chiriilor și a redevențelor aferente contractelor de închiriere și contractelor de concesiune a bunurilor mobile și imobile aflate în proprietatea comunei Vărbilău și în administrarea Consiliului Local al comunei Vărbilău, aplicabile în anul 2026",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/250333",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250333",
      "sha256": null
     }
    ]
@@ -688,6 +1153,21 @@
      "from": "2026-09-14",
      "units": 1,
      "source_url": "https://emol.ro/varbilau-ph/registru-hcl/286186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--varbilau-8-2026",
+   "path": "local/prahova/varbilau/2026/8",
+   "short": "HCL Vărbilău nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărbilău nr. 8/2026 privind achiziționarea de servicii juridice de consultanţă, de asistenţă şi de reprezentare de către comuna Vărbilău, județul Prahova",
+   "url": "https://emol.ro/varbilau-ph/registru-hcl/250334",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/varbilau-ph/registru-hcl/250334",
      "sha256": null
     }
    ]

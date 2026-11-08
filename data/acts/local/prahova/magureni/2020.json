@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-8-2020",
+"path": "local/prahova/magureni/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 8/2020 privind inchirierea suprafetei de 118,6 ha islaz aflat in proprietatea privata a comunei Magureni, judetul Prahova",
+"short": "HCL Măgureni nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/8406",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-9-2020",
 "path": "local/prahova/magureni/2020/9",
 "kind": "local",
@@ -176,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-10-2020",
+"path": "local/prahova/magureni/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 10/2020 privind alegerea președintelui de ședință",
+"short": "HCL Măgureni nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/17610",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

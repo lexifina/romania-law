@@ -3,6 +3,29 @@
 "shard": "local/prahova/maneciu/2024",
 "acts": [
 {
+"slug": "hcl-prahova--maneciu-35-2024",
+"path": "local/prahova/maneciu/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 35/2024",
+"short": "HCL Măneciu nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/163372",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--maneciu-36-2024",
 "path": "local/prahova/maneciu/2024/36",
 "kind": "local",
@@ -91,6 +114,50 @@
 }
 },
 {
+"slug": "hcl-prahova--maneciu-40-2024",
+"path": "local/prahova/maneciu/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 40/2024 privind infiintarea Asociatiei \"Organizatia de Management al Destinatiei Turistice Cheia Maneciu - OMD Cheia Maneciu\"",
+"short": "HCL Măneciu nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/163377",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-41-2024",
+"path": "local/prahova/maneciu/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 41/2024 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Maneciu pentru perioada AUGUST 2024 - OCTOMBRIE 2024",
+"short": "HCL Măneciu nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/167211",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--maneciu-42-2024",
 "path": "local/prahova/maneciu/2024/42",
 "kind": "local",
@@ -113,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-prahova--maneciu-43-2024",
+"path": "local/prahova/maneciu/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 43/2024 privind aprobarea achiziționării serviciilor de consultanță juridică pentru întocmirea documentaţiei premergătoare contractării unui credit în limita gradului de îndatorare pentru Unitatea administrativ-teritorială Comuna Măneciu, judeţul Prahova",
+"short": "HCL Măneciu nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/167213",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--maneciu-44-2024",
 "path": "local/prahova/maneciu/2024/44",
 "kind": "local",
@@ -132,6 +221,50 @@
 "council_name": "Consiliul Local al Comunei Măneciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-45-2024",
+"path": "local/prahova/maneciu/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 45/2024 privind aprobarea închirierii prin licitaţie publică a imobilului teren în suprafaţă de 5521 mp, aparţinând domeniului privat al comunei Măneciu, situat în Comuna Măneciu, sat Măneciu – Ungureni, Tarla 70, Parcela 1396,1402, judeţul Prahova în vederea înfiinţării unui depozit pentru anrocamente",
+"short": "HCL Măneciu nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/167215",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-46-2024",
+"path": "local/prahova/maneciu/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 46/2024 privind aprobarea unor măsuri pentru implementarea Programului Naţional „Masă sănătoasă” pentru preşcolarii şi elevii din cadrul Şcolii Gimnaziale Măneciu, sat Măneciu- Pămînteni, comuna Măneciu, judeţul Prahova",
+"short": "HCL Măneciu nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/167216",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +312,51 @@
 }
 },
 {
+"slug": "hcl-prahova--maneciu-49-2024",
+"path": "local/prahova/maneciu/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 49/2024",
+"short": "HCL Măneciu nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/167219",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-50-2024",
+"path": "local/prahova/maneciu/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 50/2024 pentru aprobarea retragerii dreptului de folosinţă a terenului atribuit ȋn baza Legii nr. 15/2003, rerepublicată, cu modificările şi completările ulterioare, privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, ȋn comuna Măneciu, judeţul Prahova",
+"short": "HCL Măneciu nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-03",
+"latest": "2024-09-03",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/167220",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--maneciu-51-2024",
 "path": "local/prahova/maneciu/2024/51",
 "kind": "local",
@@ -198,6 +376,50 @@
 "council_name": "Consiliul Local al Comunei Măneciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-52-2024",
+"path": "local/prahova/maneciu/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 52/2024 privind rectificarea bugetului de venituri si cheltuieli al SC APA-CANAL MANECIU SRL pe anul 2024",
+"short": "HCL Măneciu nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/170980",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-53-2024",
+"path": "local/prahova/maneciu/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 53/2024 privind aprobarea dosarului cuprinzând cererea şi actele prevăzute de Legea nr. 15/2003, rerepublicată, cu modificările şi completările ulterioare, privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, ȋn comuna Măneciu, judeţul Prahova",
+"short": "HCL Măneciu nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/170981",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -330,6 +552,50 @@
 "council_name": "Consiliul Local al Comunei Măneciu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-60-2024",
+"path": "local/prahova/maneciu/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 60/2024 privind privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Măneciu pentru perioada NOIEMBRIE 2024 – IANUARIE 2025",
+"short": "HCL Măneciu nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/174837",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--maneciu-61-2024",
+"path": "local/prahova/maneciu/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măneciu nr. 61/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al comunei Măneciu, judeţul Prahova",
+"short": "HCL Măneciu nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/maneciu-ph/registru-hcl/174838",
+"council": "prahova/maneciu",
+"council_name": "Consiliul Local al Comunei Măneciu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

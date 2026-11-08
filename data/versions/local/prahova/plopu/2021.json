@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-25-2021",
+   "path": "local/prahova/plopu/2021/25",
+   "short": "HCL Plopu nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 25/2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/23437",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/23437",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-26-2021",
    "path": "local/prahova/plopu/2021/26",
    "short": "HCL Plopu nr. 26/2021",
@@ -408,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-35-2021",
+   "path": "local/prahova/plopu/2021/35",
+   "short": "HCL Plopu nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 35/2021 privind DECONTAREA CHELTUIELILOR DE TRANSPORT LA SI DE LA LOCUL DE MUNCA PENTRU CADRELE DIDACTICE SI PERSONALUL DIDACTIC AUXILIAR DIN UNITATILE DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA AFERENTE LUNILOR IANUARIE, FEBRUARIE SI MARTIE/ 2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/23467",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/23467",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-36-2021",
    "path": "local/prahova/plopu/2021/36",
    "short": "HCL Plopu nr. 36/2021",
@@ -453,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-39-2021",
+   "path": "local/prahova/plopu/2021/39",
+   "short": "HCL Plopu nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 39/2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/23471",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/23471",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-4-2021",
    "path": "local/prahova/plopu/2021/4",
    "short": "HCL Plopu nr. 4/2021",
@@ -478,6 +523,21 @@
      "from": "2021-04-26",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/23472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-41-2021",
+   "path": "local/prahova/plopu/2021/41",
+   "short": "HCL Plopu nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 41/2021 privind DECONTAREA CHELTUIELILOR DE TRANSPORT LA SI DE LA LOCUL DE MUNCA PENTRU CADRELE DIDACTICE SI PERSONALUL DIDACTIC AUXILIAR DIN UNITATILE DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTE LUNII APRILIE/ 2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/24384",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/24384",
      "sha256": null
     }
    ]
@@ -528,6 +588,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-45-2021",
+   "path": "local/prahova/plopu/2021/45",
+   "short": "HCL Plopu nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 45/2021 privind DECONTAREA CHELTUIELILOR DE TRANSPORT LA SI DE LA LOCUL DE MUNCA PENTRU CADRELE DIDACTICE SI PERSONALUL DIDACTIC AUXILIAR DIN UNITATILE DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTE LUNII MAI/ 2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/28396",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/28396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-46-2021",
+   "path": "local/prahova/plopu/2021/46",
+   "short": "HCL Plopu nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 46/2021 privind APROBAREA DECONTARII CHELTUIELILOR DIN COTA DE DEZVOLTAREPENTRU EXECUTIA DE VERIFICARI CTV PE RETEAUA DE CANALIZARE A COMUNEI PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/28397",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/28397",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-47-2021",
    "path": "local/prahova/plopu/2021/47",
    "short": "HCL Plopu nr. 47/2021",
@@ -573,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--plopu-5-2021",
+   "path": "local/prahova/plopu/2021/5",
+   "short": "HCL Plopu nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 5/2021 privind SUPLIMENTAREA NUMARULUI DE INDEMNIZATII LUNARE ACORDATE IN BAZA PREVEDERILOR ORDINULUI ADMINISTRATIEI PUBLICE NR.794/2002",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/13825",
+   "versions": [
+    {
+     "from": "2021-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/13825",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--plopu-50-2021",
    "path": "local/prahova/plopu/2021/50",
    "short": "HCL Plopu nr. 50/2021",
@@ -613,6 +718,21 @@
      "from": "2021-07-14",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/29745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-53-2021",
+   "path": "local/prahova/plopu/2021/53",
+   "short": "HCL Plopu nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 53/2021 privind DECONTAREA CHELTUIELILOR DE TRANSPORT LA SI DE LA LOCUL DE MUNCA PENTRU CADRELE DIDACTICE SI PERSONALUL DIDACTIC AUXILIAR DIN UNITATILE DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTE LUNII IUNIE/ 2021",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/29746",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/29746",
      "sha256": null
     }
    ]
@@ -898,6 +1018,21 @@
      "from": "2021-10-18",
      "units": 1,
      "source_url": "https://emol.ro/plopu-ph/registru-hcl/39472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--plopu-71-2021",
+   "path": "local/prahova/plopu/2021/71",
+   "short": "HCL Plopu nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Plopu nr. 71/2021 privind DESEMNAREA A DOI CONSILIERI LOCALI IN CONSILIUL DE ADMINISTRATIE AL SCOLII PLOPU",
+   "url": "https://emol.ro/plopu-ph/registru-hcl/39473",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/plopu-ph/registru-hcl/39473",
      "sha256": null
     }
    ]

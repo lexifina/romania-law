@@ -3,6 +3,50 @@
 "shard": "local/salaj/cizer/2022",
 "acts": [
 {
+"slug": "hcl-salaj--cizer-1-2022",
+"path": "local/salaj/cizer/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 1/2022 privind validarea unei dispoziții privind acoperirea deficitului Secțiunii de Dezvoltare a Bugetului local de venituri și cheltuieli al comunei Cizer pe anul 2021",
+"short": "HCL Cizer nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72304",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-2-2022",
+"path": "local/salaj/cizer/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 2/2022 privind alegerea președintelui de ședință a Consiliului local Cizer pentru următoarele trei luni",
+"short": "HCL Cizer nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72305",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--cizer-3-2022",
 "path": "local/salaj/cizer/2022/3",
 "kind": "local",
@@ -22,6 +66,94 @@
 "council_name": "Consiliul Local al Comunei Cizer",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cizer-4-2022",
+"path": "local/salaj/cizer/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 4/2022 privind desemnarea consilierilor locali din cadrul Consiliului local al comunei Cizer, care vor face parte din Comisia de evaluare a performanțelor individuale ale Secretarului general al comunei Cizer",
+"short": "HCL Cizer nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72307",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-5-2022",
+"path": "local/salaj/cizer/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 5/2022 privind aprobarea rezultatului inventarierii patrimoniului public și privat al comunei Cizer pentru anul 2021",
+"short": "HCL Cizer nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72308",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-6-2022",
+"path": "local/salaj/cizer/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 6/2022 privind aprobarea contului de execuție a bugetului local de venituri și cheltuieli al comunei Cizer pentru anul 2021",
+"short": "HCL Cizer nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72323",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-7-2022",
+"path": "local/salaj/cizer/2022/7",
+"kind": "local",
+"year": "2022",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 7/2022 privind aprobarea bugetului local de venituri și cheltuieli pentru anul 2022",
+"short": "HCL Cizer nr. 7/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72324",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-salaj--cizer-9-2022",
+"path": "local/salaj/cizer/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 9/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Cizer nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72349",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--cizer-10-2022",
 "path": "local/salaj/cizer/2022/10",
 "kind": "local",
@@ -66,6 +220,315 @@
 "council_name": "Consiliul Local al Comunei Cizer",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cizer-11-2022",
+"path": "local/salaj/cizer/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 11/2022 privind acordarea unui sprijin financiar pentru Parohiile Ortodoxe din Cizer, Plesca și Boian",
+"short": "HCL Cizer nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72351",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-12-2022",
+"path": "local/salaj/cizer/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 12/2022 privind casarea unor mijloace fixe și a unor obiecte de inventar constatate cu ocazia inventarierii patrimoniului Comunei Cizer pe anul 2021",
+"short": "HCL Cizer nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72352",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-13-2022",
+"path": "local/salaj/cizer/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 13/2022 privind aprobarea Devizului general și a cererii de finanțare al obiectivului de investiție: „ÎNFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CIZER, JUDEȚUL SĂLAJ",
+"short": "HCL Cizer nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72353",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-14-2022",
+"path": "local/salaj/cizer/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 14/2022 privind aprobarea Organigramei și a Statului de Funcții al aparatului de specialitate al primarului comunei Cizer",
+"short": "HCL Cizer nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-25",
+"latest": "2022-03-25",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72354",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-15-2022",
+"path": "local/salaj/cizer/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 15/2022 privind indexarea impozitelor și taxelor locale aplicabile în anul fiscal 2023 cu rata inflației în procent de 5,1%",
+"short": "HCL Cizer nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72376",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-16-2022",
+"path": "local/salaj/cizer/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 16/2022 privind aprobarea regulamentului privind regimul finanțărilor nerambursabile din fondurile bugetului local ale comunei Cizer, alocate pentru activități nonprofit de interes local",
+"short": "HCL Cizer nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72377",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-17-2022",
+"path": "local/salaj/cizer/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 17/2022",
+"short": "HCL Cizer nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72378",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--cizer-18-2022",
+"path": "local/salaj/cizer/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 18/2022 privind alegerea unui președinte de ședință a Consiliului local Cizer pentru următoarele trei luni",
+"short": "HCL Cizer nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72379",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-19-2022",
+"path": "local/salaj/cizer/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 19/2022 privind aprobarea contului de execuție a bugetului local de venituri și cheltuieli al comunei Cizer pe trimestrul I al anului 2022",
+"short": "HCL Cizer nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-19",
+"latest": "2022-05-19",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72380",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-20-2022",
+"path": "local/salaj/cizer/2022/20",
+"kind": "local",
+"year": "2022",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 20/2022 privind rectificarea bugetului local de venituri și cheltuieli pentru anul 2022",
+"short": "HCL Cizer nr. 20/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-19",
+"latest": "2022-05-19",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72381",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-21-2022",
+"path": "local/salaj/cizer/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 21/2022 privind aprobarea cererii de finanțare pentru proiectul „Îmbunătățirea managementului local în comuna Cizer, județul Sălaj, prin dotarea cu echipamente TIC/ITS”",
+"short": "HCL Cizer nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-19",
+"latest": "2022-05-19",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72382",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-22-2022",
+"path": "local/salaj/cizer/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 22/2022 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2022",
+"short": "HCL Cizer nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-16",
+"latest": "2022-06-16",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72409",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-23-2022",
+"path": "local/salaj/cizer/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 23/2022 privind modificarea și completarea domeniului public al comunei Cizer cu bunuri de uz și interes public local",
+"short": "HCL Cizer nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-16",
+"latest": "2022-06-16",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72410",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-24-2022",
+"path": "local/salaj/cizer/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 24/2022 privind completarea Programului anual al achizțiilor publice pe anul 2022 al comunei Cizer, județul Sălaj",
+"short": "HCL Cizer nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-16",
+"latest": "2022-06-16",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72411",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +554,183 @@
 }
 },
 {
+"slug": "hcl-salaj--cizer-26-2022",
+"path": "local/salaj/cizer/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 26/2022 privind darea în folosință gratuită pe o perioadă de 2 ani de zile, cu posibilitatea de prelungire, a spațiului aparținând UAT COMUNA CIZER în suprafață de 16 mp. din totalul de 337 mp, imobilul fiind situat în localitatea Pria, nr.118, comuna Cizer, județul Sălaj",
+"short": "HCL Cizer nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-16",
+"latest": "2022-06-16",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72413",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-27-2022",
+"path": "local/salaj/cizer/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 27/2022 privind aprobarea indicatorilor tehnico-economici actualizați ai proiectului „MODERNIZARE DRUMURI COMUNALE ȘI STRĂZI ÎN COMUNA CIZER (SATUL CIZER), JUDEȚUL SĂLAJ” precum și a asigurării finanțării pentru cheltuielile care nu se finanțează de la bugetul de stat prin program",
+"short": "HCL Cizer nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-08",
+"latest": "2022-07-08",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72423",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-28-2022",
+"path": "local/salaj/cizer/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 28/2022 privind aprobarea modificărilor tehnice aferente proiectului „MODERNIZARE ȘI DOTARE ȘCOALA GENERALĂ ”HOREA” LOCALITATEA CIZER, COMUNA CIZER, JUDEȚUL SĂLAJ”",
+"short": "HCL Cizer nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-08",
+"latest": "2022-07-08",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72424",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-29-2022",
+"path": "local/salaj/cizer/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 29/2022 privind aprobarea modificărilor tehnice aferente proiectului „MODERNIZARE ȘI DOTARE GRĂDINIȚĂ, LOCALITATEA CIZER, COMUNA CIZER, JUDEȚUL SĂLAJ”",
+"short": "HCL Cizer nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-08",
+"latest": "2022-07-08",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72425",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-30-2022",
+"path": "local/salaj/cizer/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 30/2022 privind revocarea în totalitate a HCL nr.26 din 16.06.2022 privind darea în folosință gratuită pe o perioadă de 2 ani de zile, cu posibilitatea de prelungire, a spațiului aparținând UAT COMUNA CIZER în suprafață de 16 mp. din totalul de 337 mp, imobilul fiind situat în localitatea Pria, nr.118, comuna Cizer, județul Sălaj",
+"short": "HCL Cizer nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-08",
+"latest": "2022-07-08",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72426",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-31-2022",
+"path": "local/salaj/cizer/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 31/2022 privind alegerea unui președinte de ședință pe următoarele trei luni, august-octombrie 2022",
+"short": "HCL Cizer nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-08",
+"latest": "2022-07-08",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72427",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-32-2022",
+"path": "local/salaj/cizer/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 32/2022 privind modificarea listei de investiții aferentă bugetului de venituri și cheltuieli al comunei Cizer pe anul 2022",
+"short": "HCL Cizer nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-08",
+"latest": "2022-07-08",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72428",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-33-2022",
+"path": "local/salaj/cizer/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 33/2022",
+"short": "HCL Cizer nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-08",
+"latest": "2022-07-08",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72429",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-salaj--cizer-34-2022",
 "path": "local/salaj/cizer/2022/34",
 "kind": "local",
@@ -110,6 +750,72 @@
 "council_name": "Consiliul Local al Comunei Cizer",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--cizer-35-2022",
+"path": "local/salaj/cizer/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 35/2022 privind aprobarea Devizului General și a Caietului de sarcini pentru obiectivul de investiții „Amenajare drum pietonal „Casa Lupuț” și „Amenajare teren aferent sală de sport școlară”",
+"short": "HCL Cizer nr. 35/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-27",
+"latest": "2022-07-27",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72459",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-36-2022",
+"path": "local/salaj/cizer/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 36/2022 privind aprobarea contului de executie al bugetului local al Comunei Cizer pe trimestrul II 2022",
+"short": "HCL Cizer nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-26",
+"latest": "2022-08-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72636",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--cizer-37-2022",
+"path": "local/salaj/cizer/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cizer nr. 37/2022 privind rectificarea bugetului local de venituri şi cheltuieli pentru anul 2022",
+"short": "HCL Cizer nr. 37/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-26",
+"latest": "2022-08-26",
+"portal": "https://emol.ro/cizer-sj/registru-hcl/72637",
+"council": "salaj/cizer",
+"council_name": "Consiliul Local al Comunei Cizer",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-12-2025",
+   "path": "local/prahova/rafov/2025/12",
+   "short": "HCL Râfov nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 12/2025 privind aprobarea decontarii navetei cadrelor didactice pentru lunile Decembrie 2024 și ianuarie 2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/198154",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/198154",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-13-2025",
    "path": "local/prahova/rafov/2025/13",
    "short": "HCL Râfov nr. 13/2025",
@@ -58,6 +73,36 @@
      "from": "2025-03-31",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/198155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-14-2025",
+   "path": "local/prahova/rafov/2025/14",
+   "short": "HCL Râfov nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 14/2025 privind revocarea HCL90/23.12.2025 privind completarea domeniului privat al Comunei Râfov cu terenul situat în T 100,HS 585",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/198156",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/198156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-15-2025",
+   "path": "local/prahova/rafov/2025/15",
+   "short": "HCL Râfov nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 15/2025 privind rezilierea unui contract de închiriere pentru un teren din izlazul ce aparține domeniului public",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/198157",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/198157",
      "sha256": null
     }
    ]
@@ -138,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-20-2025",
+   "path": "local/prahova/rafov/2025/20",
+   "short": "HCL Râfov nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 20/2025 privind aprobarea decontarii navetei cadrelor didactice pentru luna februarie 2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/202098",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/202098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-21-2025",
+   "path": "local/prahova/rafov/2025/21",
+   "short": "HCL Râfov nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 21/2025 privind aprobarea concesionarii prin licitatie publica a unui teren situat in T103, P 602, inscris in C.F.23178 apartinând domeniului public al comunei Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/202099",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/202099",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-22-2025",
    "path": "local/prahova/rafov/2025/22",
    "short": "HCL Râfov nr. 22/2025",
@@ -163,6 +238,36 @@
      "from": "2025-04-14",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/202101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-24-2025",
+   "path": "local/prahova/rafov/2025/24",
+   "short": "HCL Râfov nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 24/2025 privind aprobarea decontarii navetei cadrelor didactice pentru luna martie 2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/209331",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/209331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-25-2025",
+   "path": "local/prahova/rafov/2025/25",
+   "short": "HCL Râfov nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 25/2025 privind acordul de principiu pentru cumpararea unui imobil situat in intravilanul satului Mălăiești, Com Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/209332",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/209332",
      "sha256": null
     }
    ]
@@ -243,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-30-2025",
+   "path": "local/prahova/rafov/2025/30",
+   "short": "HCL Râfov nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 30/2025 privind modificarea HCL nr. 7/29.01.2025 privind aprobarea inchirierii , prin atribuire directa , a suprafetelor de pasune, ramase neocupate , din Comuna Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/209337",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/209337",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-31-2025",
    "path": "local/prahova/rafov/2025/31",
    "short": "HCL Râfov nr. 31/2025",
@@ -318,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-36-2025",
+   "path": "local/prahova/rafov/2025/36",
+   "short": "HCL Râfov nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 36/2025 privind aprobarea decontarii navetei cadrelor didactice pentru luna Aprilie 2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/213214",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/213214",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-37-2025",
    "path": "local/prahova/rafov/2025/37",
    "short": "HCL Râfov nr. 37/2025",
@@ -363,6 +498,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-4-2025",
+   "path": "local/prahova/rafov/2025/4",
+   "short": "HCL Râfov nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 4/2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/191880",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/191880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-40-2025",
+   "path": "local/prahova/rafov/2025/40",
+   "short": "HCL Râfov nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 40/2025 privind aprobarea concesionării prin licitație publică a unui teren situat in T103, P602, înscris în CF23178,aparținând domeniul privat al Comunei Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/213842",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/213842",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-41-2025",
    "path": "local/prahova/rafov/2025/41",
    "short": "HCL Râfov nr. 41/2025",
@@ -393,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-43-2025",
+   "path": "local/prahova/rafov/2025/43",
+   "short": "HCL Râfov nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 43/2025 privind închirierea , prin licitație publică , a unui spațiu aparținând dispensarului uman din Satul Buda, aflat în domeniul privat al Comunei Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/213845",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/213845",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-44-2025",
    "path": "local/prahova/rafov/2025/44",
    "short": "HCL Râfov nr. 44/2025",
@@ -418,6 +598,51 @@
      "from": "2025-08-06",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/220224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-46-2025",
+   "path": "local/prahova/rafov/2025/46",
+   "short": "HCL Râfov nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 46/2025 privind aprobarea cumpararii unui imobil situat in intravilanul satului Mălăiești , Comuna Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/220225",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/220225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-47-2025",
+   "path": "local/prahova/rafov/2025/47",
+   "short": "HCL Râfov nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 47/2025 privind atestarea apartenentei la domeniul privat al unor terenuri din Comuna Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/220226",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/220226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-48-2025",
+   "path": "local/prahova/rafov/2025/48",
+   "short": "HCL Râfov nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 48/2025 privind aprobarea decontarii navetei cadrelor didactice pentru lunile Mai si Iunie 2025",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/220227",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/220227",
      "sha256": null
     }
    ]
@@ -538,6 +763,21 @@
      "from": "2025-09-17",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/224638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-56-2025",
+   "path": "local/prahova/rafov/2025/56",
+   "short": "HCL Râfov nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 56/2025 privind aprobarea unor scutiri de la plata chiriei pentru terenuri inchiriate din domeniul privat al Comunei Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/229627",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/229627",
      "sha256": null
     }
    ]
@@ -678,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--rafov-65-2025",
+   "path": "local/prahova/rafov/2025/65",
+   "short": "HCL Râfov nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 65/2025 privind atestarea apartenentei la domeniul privat al unor terenuri din Comuna Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/229772",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/229772",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--rafov-66-2025",
    "path": "local/prahova/rafov/2025/66",
    "short": "HCL Râfov nr. 66/2025",
@@ -733,6 +988,21 @@
      "from": "2026-09-08",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/286565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-7-2025",
+   "path": "local/prahova/rafov/2025/7",
+   "short": "HCL Râfov nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 7/2025 privind aprobarea închirierii prin atribuire directă a suprafețelor de pășune, rămase neocupate, din comuna Râfov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/197397",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/197397",
      "sha256": null
     }
    ]
@@ -883,6 +1153,21 @@
      "from": "2026-09-08",
      "units": 1,
      "source_url": "https://emol.ro/rafov-ph/registru-hcl/286608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--rafov-8-2025",
+   "path": "local/prahova/rafov/2025/8",
+   "short": "HCL Râfov nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Râfov nr. 8/2025 privind desemnarea membrilor in comisia de evaluare a performantelor Secretarului General al Comunei Rafov",
+   "url": "https://emol.ro/rafov-ph/registru-hcl/197398",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/rafov-ph/registru-hcl/197398",
      "sha256": null
     }
    ]

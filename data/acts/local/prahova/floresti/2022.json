@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-3-2022",
+"path": "local/prahova/floresti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2022",
+"short": "HCL Florești nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/49667",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--floresti-4-2022",
 "path": "local/prahova/floresti/2022/4",
 "kind": "local",
@@ -180,6 +203,73 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-10-2022",
+"path": "local/prahova/floresti/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2022 privind inchirierea prin licitatie publica a unui spatiu cu destinatia de oficina locala de distributie din cadrul Caminului Cultural Catina ,situat in Comuna Floresti,sat Catina,nr.451,judetul Prahova aflat in domeniul public al Comunei Floresti Judetul Prahova",
+"short": "HCL Florești nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/53079",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-11-2022",
+"path": "local/prahova/floresti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 11/2022 privind desemnarea unui reprezentant al Consiliului Floresti si a unui membru supleant in comisia de evaluare a probei de interviu pentru concursul de ocupare a functiilor de director si director ajunct de la Scoala Gimnaziala,Comuna Floresti",
+"short": "HCL Florești nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/53080",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-12-2022",
+"path": "local/prahova/floresti/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 12/2022",
+"short": "HCL Florești nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/53081",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--floresti-13-2022",
 "path": "local/prahova/floresti/2022/13",
 "kind": "local",
@@ -200,6 +290,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--floresti-14-2022",
+"path": "local/prahova/floresti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 14/2022 privind aprobarea inchirierii directe catre OMV PETROM S.A.a terenului in suprafata de 15.679 mp, aflat in domeniul privat al comunei Floresti, avand nr.cadastral 21163,localizat in extravilanul UAT Filipestii de Padure, tarla 12, parcelele 324, 327, 328, 320,categoria de folosinta pasune in vederea realizarii investitiei “Conducta amestec la sondele 114,122,130 Filipesti”",
+"short": "HCL Florești nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/53083",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -382,6 +494,50 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-23-2022",
+"path": "local/prahova/floresti/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 23/2022 privind acordarea unui sprijin financiar Parohiei Calinesti",
+"short": "HCL Florești nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/60430",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-24-2022",
+"path": "local/prahova/floresti/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 24/2022 privind acordarea unui sprijin financiar Bisericii Adventiste de Ziua a Saptea,Calinesti",
+"short": "HCL Florești nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/60431",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-25-2022",
 "path": "local/prahova/floresti/2022/25",
 "kind": "local",
@@ -470,6 +626,29 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-29-2022",
+"path": "local/prahova/floresti/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 29/2022",
+"short": "HCL Florești nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/62411",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--floresti-30-2022",
 "path": "local/prahova/floresti/2022/30",
 "kind": "local",
@@ -489,6 +668,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-31-2022",
+"path": "local/prahova/floresti/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 31/2022 privind aprobarea alipirii unor imobile terenuri situate in comuna Floresti, sat Floresti, judetul Prahova",
+"short": "HCL Florești nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/64506",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -691,6 +892,72 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-41-2022",
+"path": "local/prahova/floresti/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 41/2022 privind acordarea unui sprijin financiar Bisericii Penticostale Floresti Prahova",
+"short": "HCL Florești nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/67396",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-42-2022",
+"path": "local/prahova/floresti/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 42/2022 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T8, parcela A 181/1 cu nr.cadastral 22442 în suprafaţă de 6.204 mp",
+"short": "HCL Florești nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/67397",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-43-2022",
+"path": "local/prahova/floresti/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 43/2022 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T8, parcela A 181/1 cu nr.cadastral 22443 în suprafaţă de 13.796 mp",
+"short": "HCL Florești nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-31",
+"latest": "2022-08-31",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/67398",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-44-2022",
 "path": "local/prahova/floresti/2022/44",
 "kind": "local",
@@ -864,6 +1131,117 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-52-2022",
+"path": "local/prahova/floresti/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 52/2022 privind inchirierea prin licitatie publica a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T5, parcela Cc 149, cu nr.cadastral 22441 în suprafaţă de 403 mp in vederea realizarii unei locuinte familiare",
+"short": "HCL Florești nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/73593",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-53-2022",
+"path": "local/prahova/floresti/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 53/2022 privind inchirierea prin licitatie publica a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T5, parcela Cc 149, cu nr.cadastral 22083 în suprafaţă de 403 mp in vederea realizarii unei locuinte familiare",
+"short": "HCL Florești nr. 53/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/73594",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-54-2022",
+"path": "local/prahova/floresti/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 54/2022 privind inchirierea prin licitatie publica a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T5, parcela Cc 149, cu nr.cadastral 21955 în suprafaţă de 403 mp in vederea realizarii unei locuinte familiare",
+"short": "HCL Florești nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/73595",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-55-2022",
+"path": "local/prahova/floresti/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 55/2022 privind desemnarea reprezentanţilor Consiliului Local al comunei Floresti în Consiliul de Administraţie al Şcolii Gimnaziale,Comuna Floresti",
+"short": "HCL Florești nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/73596",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--floresti-56-2022",
+"path": "local/prahova/floresti/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 56/2022",
+"short": "HCL Florești nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/73597",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1044,6 +1422,28 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-65-2022",
+"path": "local/prahova/floresti/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 65/2022 privind acordarea unui sprijin financiar Parohiei Calinesti",
+"short": "HCL Florești nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-10",
+"latest": "2022-10-10",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/73606",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-66-2022",
 "path": "local/prahova/floresti/2022/66",
 "kind": "local",
@@ -1130,6 +1530,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--floresti-70-2022",
+"path": "local/prahova/floresti/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 70/2022 privind aprobarea tipului de suport alimentar acordat prescolarilor si elevilor Scolii Gimnaziale, Comuna Floresti ,in cadrul Programului-pilot de acordare a unui suport alimentar pentru prescolarii si elevii din 350 de unitati de invatamant preuniversitar de stat",
+"short": "HCL Florești nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/76597",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

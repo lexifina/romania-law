@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-2-2026",
+"path": "local/prahova/magureni/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 2/2026 privind alegerea președintelui de ședință pentru lunile februarie, martie și aprilie 2026",
+"short": "HCL Măgureni nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/253625",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-3-2026",
 "path": "local/prahova/magureni/2026/3",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-4-2026",
+"path": "local/prahova/magureni/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 4/2026 privind inițierea procedurii de închiriere a islazului/pățiunilor aflate în proprietatea privată a comunei Măgureni, județul Prahova",
+"short": "HCL Măgureni nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-04",
+"latest": "2026-03-04",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/256914",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

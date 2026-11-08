@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-4-2020",
+"path": "local/prahova/plopu/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 4/2020 privind salariului de baza lunar de care beneficiaza d-nul Frunzeanu Decebal – Daniel indeplinind functia publica de executie de politist local (referent) in cadrul compartimentului “politie locala” al aparatului de specialitate al primarului comunei plopu, judetul prahova incepand cu data de 01.01.2020",
+"short": "HCL Plopu nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/550",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-5-2020",
 "path": "local/prahova/plopu/2020/5",
 "kind": "local",
@@ -110,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-7-2020",
+"path": "local/prahova/plopu/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 7/2020 privind aprobarea numarului maxim de posturi pentru asistentii personali ai persoanelor cu handicap grav cat si a numarului de indemnizatii lunare de handicap acordate in baza ordinului administratiei publice nr.794/2002 la nivelul aparatului de specialitate al primarului comunei Plopu, judetul Prahova",
+"short": "HCL Plopu nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-29",
+"latest": "2020-01-29",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/553",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -315,6 +359,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-17-2020",
+"path": "local/prahova/plopu/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 17/2020 privind modificarea Hotararii Consiliului local Plopu nr.88 din 11.12.2019",
+"short": "HCL Plopu nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/563",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-18-2020",
 "path": "local/prahova/plopu/2020/18",
 "kind": "local",
@@ -447,6 +513,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-24-2020",
+"path": "local/prahova/plopu/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 24/2020 privind DECONTAREA CHELTUIELILOR DE TRANSPORT LA SI DE LA LOCUL DE MUNCA PENTRU CADRELE DIDACTICE SI PERSONALUL DIDACTIC AUXILIAR DIN UNITATILE DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTE LUNII IANUARIE/ 2020",
+"short": "HCL Plopu nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/835",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-25-2020",
 "path": "local/prahova/plopu/2020/25",
 "kind": "local",
@@ -488,6 +576,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-27-2020",
+"path": "local/prahova/plopu/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 27/2020 privind APROBAREA CHELTUIELILOR EFECTUATE DE CRESCATORII DE ANIMALE, BENEFICIARI AI CONTRACTELOR DE INCHIRIERE A PAJISTILOR PERMANENTE AFLATE IN DOMENIUL PRIVAT AL COMUNEI PLOPU, IN CONFORMITATE CU PREVEDERILE CONTRACTULUI DE INCHIRIERE",
+"short": "HCL Plopu nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/862",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -554,6 +664,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-31-2020",
+"path": "local/prahova/plopu/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 31/2020 privind SUPLIMENTAREA NUMARULUI DE INDEMNIZATII LUNARE ACORDATE IN BAZA PREVEDERILOR ORDINULUI ADMINISTRATIEI PUBLICE NR.794/2002",
+"short": "HCL Plopu nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-29",
+"latest": "2020-05-29",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/3452",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -691,6 +823,28 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-38-2020",
+"path": "local/prahova/plopu/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 38/2020 privind DECONTAREA CHELTUIELILOR DE TRANSPORT LA SI DE LA LOCUL DE MUNCA PENTRU CADRELE DIDACTICE SI PERSONALUL DIDACTIC AUXILIAR DIN UNITATILE DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA AFERENTE LUNII MAI/ 2020",
+"short": "HCL Plopu nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/5807",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-39-2020",
 "path": "local/prahova/plopu/2020/39",
 "kind": "local",
@@ -710,6 +864,29 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-40-2020",
+"path": "local/prahova/plopu/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 40/2020",
+"short": "HCL Plopu nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/5809",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -801,6 +978,73 @@
 }
 },
 {
+"slug": "hcl-prahova--plopu-45-2020",
+"path": "local/prahova/plopu/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 45/2020",
+"short": "HCL Plopu nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/5814",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--plopu-46-2020",
+"path": "local/prahova/plopu/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 46/2020 privind DECONTAREA CHELTUIELILOR DE TRANSPORT LA SI DE LA LOCUL DE MUNCA PENTRU CADRELE DIDACTICE SI PERSONALUL DIDACTIC AUXILIAR DIN UNITATILE DE INVATAMANT PREUNIVERSITAR DE STAT DE PE RAZA COMUNEI PLOPU, JUDETUL PRAHOVA, AFERENTE LUNII IUNIE/ 2020",
+"short": "HCL Plopu nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/7828",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--plopu-47-2020",
+"path": "local/prahova/plopu/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 47/2020 privind DESEMNAREA A DOI CONSILIERI LOCALI DIN CONSILIUL LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA PENTRU A INDEPLINI CALITATEA DE MEMBRI IN CONSILIUL DE ADMINISTRATIE AL SCOLII GIMNAZIALE, COMUNA PLOPU, IN ANUL SCOLAR 2020 - 2021",
+"short": "HCL Plopu nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/7829",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--plopu-48-2020",
 "path": "local/prahova/plopu/2020/48",
 "kind": "local",
@@ -842,6 +1086,29 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-50-2020",
+"path": "local/prahova/plopu/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 50/2020",
+"short": "HCL Plopu nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/7832",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -931,6 +1198,28 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--plopu-55-2020",
+"path": "local/prahova/plopu/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 55/2020 privind SUPLIMENTAREA NUMARULUI DE INDEMNIZATII LUNARE ACORDATE IN BAZA PREVEDERILOR ORDINULUI ADMINISTRATIEI PUBLICE NR.794/2002",
+"short": "HCL Plopu nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-18",
+"latest": "2020-08-18",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/8096",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1110,6 +1399,29 @@
 "council_name": "Consiliul Local al Comunei Plopu",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--plopu-64-2020",
+"path": "local/prahova/plopu/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plopu nr. 64/2020",
+"short": "HCL Plopu nr. 64/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-18",
+"latest": "2020-08-18",
+"portal": "https://emol.ro/plopu-ph/registru-hcl/8105",
+"council": "prahova/plopu",
+"council_name": "Consiliul Local al Comunei Plopu",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

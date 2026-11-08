@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/slanic/2019",
+ "acts": [
+  {
+   "slug": "hcl-prahova--slanic-33-2019",
+   "path": "local/prahova/slanic/2019/33",
+   "short": "HCL Slănic nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 33/2019 privind respingerea propunerii de reziliere a contractului de delegare nr.1792 din 2016 din 25.07.2019",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2019.htm",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2019/hcl33_25072019.pdf",
+     "sha256": "6bd41c1c41b17666947d7170c8373b7512768a69eeb645019d8a94d39d9a4fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--slanic-34-2019",
+   "path": "local/prahova/slanic/2019/34",
+   "short": "HCL Slănic nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Slănic nr. 34/2019 privind aprobarea contului de execuţie al bugetului local al oraşului Slănic la 30 iunie 2019 din 25.07.2019",
+   "url": "https://primariaslanic.ro/arhiva/hotarari_2019.htm",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariaslanic.ro/arhiva/documente/hotarari/2019/hcl34_25072019.pdf",
+     "sha256": "9d4fc47af37f5eae6dcaafd6e96756ff6cb17b0ef4ab6877397a10295d1fe557"
+    }
+   ]
+  }
+ ]
+}

@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-22-2021",
+   "path": "local/salaj/pericei/2021/22",
+   "short": "HCL Pericei nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 22/2021 privind desemnarea reprezentantului comunei Pericei în adunarea generală a Asociaţiei \"Zona Metropolitana Zalău\"",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/21680",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/21680",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-23-2021",
    "path": "local/salaj/pericei/2021/23",
    "short": "HCL Pericei nr. 23/2021",
@@ -268,6 +283,21 @@
      "from": "2021-04-21",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/23989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-27-2021",
+   "path": "local/salaj/pericei/2021/27",
+   "short": "HCL Pericei nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 27/2021 privind completarea Anexei la Protocol cu BUNURI PROPUSE PENTRU CONCESIONARE- la obiectivul Sistem de canalizare menajera si statie de epurare in localitatea Pericei, Comuna Pericei, Judetul Salaj, catre Compania de Apa Somes S.A",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/23990",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/23990",
      "sha256": null
     }
    ]
@@ -343,6 +373,21 @@
      "from": "2021-05-28",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/31870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-32-2021",
+   "path": "local/salaj/pericei/2021/32",
+   "short": "HCL Pericei nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 32/2021 privind aprobarea vanzarii prin licitatie publica a unor terenuri intravilane situate in localitatea Pericei, proprietatea privata a comunei Pericei",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/31871",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/31871",
      "sha256": null
     }
    ]
@@ -523,6 +568,21 @@
      "from": "2021-07-08",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/31916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-44-2021",
+   "path": "local/salaj/pericei/2021/44",
+   "short": "HCL Pericei nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 44/2021 privind aprobarea privind asigurarea cofinanțării proiectului, asigurarea fluxului financiar pentru implementarea proiectului și acoperirea cheltuielilor altele decât cele eligibile pentru proiectul ”Realizarea sistemului de producție și distribuție a energiei termice pe bază de energie geotermală în Comuna Pericei județul Sălaj”",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/32875",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/32875",
      "sha256": null
     }
    ]

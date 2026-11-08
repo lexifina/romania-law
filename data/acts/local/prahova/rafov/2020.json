@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-10-2020",
+"path": "local/prahova/rafov/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 10/2020 privind presedintele de sedinta pentru lunile februarie, martie si aprilie 2020",
+"short": "HCL Râfov nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/4906",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-11-2020",
 "path": "local/prahova/rafov/2020/11",
 "kind": "local",
@@ -267,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-14-2020",
+"path": "local/prahova/rafov/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 14/2020 privind reziliere contract concesionare islaz-Banu Vasile",
+"short": "HCL Râfov nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/4910",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-15-2020",
 "path": "local/prahova/rafov/2020/15",
 "kind": "local",
@@ -289,6 +333,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-16-2020",
+"path": "local/prahova/rafov/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 16/2020 privind insusire cerere concesionare / schimb teren boeru",
+"short": "HCL Râfov nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/4913",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-17-2020",
 "path": "local/prahova/rafov/2020/17",
 "kind": "local",
@@ -308,6 +374,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-18-2020",
+"path": "local/prahova/rafov/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 18/2020 privind decontare naveta lunile decembrie ,ianuarie",
+"short": "HCL Râfov nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/4915",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -484,6 +572,95 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-27-2020",
+"path": "local/prahova/rafov/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 27/2020 privind ajutor financiar parohia Moara Domneasca",
+"short": "HCL Râfov nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/4924",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-28-2020",
+"path": "local/prahova/rafov/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 28/2020 privind ajutor de urgenta Cucuiet",
+"short": "HCL Râfov nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/4925",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-29-2020",
+"path": "local/prahova/rafov/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 29/2020 privind decontare naveta cadre didactice luna februarie",
+"short": "HCL Râfov nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/4926",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-30-2020",
+"path": "local/prahova/rafov/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 30/2020",
+"short": "HCL Râfov nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/4927",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -707,6 +884,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-41-2020",
+"path": "local/prahova/rafov/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 41/2020 privind aproape acordarii unui ajutor de urgenta pentru efectuarea unor investigatii medicale si procurarea de medicamente pentru fiica grav bolnava",
+"short": "HCL Râfov nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/12117",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-42-2020",
 "path": "local/prahova/rafov/2020/42",
 "kind": "local",
@@ -905,6 +1104,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-51-2020",
+"path": "local/prahova/rafov/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 51/2020 privind repartizarea unei sume prevazute in bugetul local pe anul 2020 pentru acordarea sprijinului financiar Parohiei din satul Malaiesti, Comuna Rafov",
+"short": "HCL Râfov nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/12139",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-52-2020",
 "path": "local/prahova/rafov/2020/52",
 "kind": "local",
@@ -990,6 +1211,29 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-56-2020",
+"path": "local/prahova/rafov/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 56/2020",
+"short": "HCL Râfov nr. 56/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-21",
+"latest": "2020-08-21",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/13641",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

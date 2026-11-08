@@ -3,6 +3,50 @@
 "shard": "local/prahova/magurele/2023",
 "acts": [
 {
+"slug": "hcl-prahova--magurele-1-2023",
+"path": "local/prahova/magurele/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 1/2023 privind utilizarea excedentului bugetului activităților finanțate integral din venituri proprii rezultat la 31.12.2022 pentru efectuarea unor cheltuieli bugetare în cursul anului 2023 la Serviciul public de apă și canalizare al comunei Măgurele",
+"short": "HCL Măgurele nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/87433",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-2-2023",
+"path": "local/prahova/magurele/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 2/2023 privind alegerea președintelui de ședință și a potențialului președinte de ședință pentru lunile ianuarie-martie 2023",
+"short": "HCL Măgurele nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/88169",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magurele-3-2023",
 "path": "local/prahova/magurele/2023/3",
 "kind": "local",
@@ -44,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Măgurele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magurele-5-2023",
+"path": "local/prahova/magurele/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 5/2023 privind însusirea și aprobarea inventarului bunurilor ce alcătuiesc domeniul public si privat al comunei Măgurele, judeţul Prahova, la 31.12.2022",
+"short": "HCL Măgurele nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/88655",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +179,50 @@
 }
 },
 {
+"slug": "hcl-prahova--magurele-9-2023",
+"path": "local/prahova/magurele/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 9/2023 privind aprobarea de venituri și cheltuieli pe anul 2023 la Serviciul public de alimentare cu apă și canalizare al comunei Măgurele",
+"short": "HCL Măgurele nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/88659",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-10-2023",
+"path": "local/prahova/magurele/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 10/2023 privind aprobarea numărului de posturi pentru asistenții personali ai persoanelor cu handicap grav pe anul 2023 și a numărului de indemnizații lunare acordate persoanelor cu handicap grav în anul 2023",
+"short": "HCL Măgurele nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/88660",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magurele-11-2023",
 "path": "local/prahova/magurele/2023/11",
 "kind": "local",
@@ -132,6 +242,72 @@
 "council_name": "Consiliul Local al Comunei Măgurele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magurele-12-2023",
+"path": "local/prahova/magurele/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 12/2023 privind menținerea calității de membru a comunei Măgurele în Asociația Grupul de Acțiune Locală Valea Teleajenului",
+"short": "HCL Măgurele nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/88662",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-13-2023",
+"path": "local/prahova/magurele/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 13/2023 privind utilizarea excedentului bugetului local rezultat la 31.12.2022 pentru efectuarea unor cheltuieli bugetare în cursul anului 2023",
+"short": "HCL Măgurele nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/88663",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-14-2023",
+"path": "local/prahova/magurele/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 14/2023 privind aprobarea drepturilor bănești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru luna ianuarie 2023",
+"short": "HCL Măgurele nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/93205",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +352,50 @@
 "council_name": "Consiliul Local al Comunei Măgurele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magurele-17-2023",
+"path": "local/prahova/magurele/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 17/2023 privind rectificarea bugetului local al comunei Măgurele pe anul 2023",
+"short": "HCL Măgurele nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/93208",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-18-2023",
+"path": "local/prahova/magurele/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 18/2023 privind încheierea contului de execuție bugetară la data de 31.12.2022",
+"short": "HCL Măgurele nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/93209",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +510,95 @@
 }
 },
 {
+"slug": "hcl-prahova--magurele-24-2023",
+"path": "local/prahova/magurele/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 24/2023 Privind modificarea prețului pentru distribuția apei potabile în comuna Măgurele",
+"short": "HCL Măgurele nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/97053",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-25-2023",
+"path": "local/prahova/magurele/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 25/2023 privind aprobarea modificării și completării organigramei și a ștatului de funcții al aparatului de specialitate al primarului comunei Măgurele",
+"short": "HCL Măgurele nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/97054",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-26-2023",
+"path": "local/prahova/magurele/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 26/2023",
+"short": "HCL Măgurele nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/97055",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--magurele-27-2023",
+"path": "local/prahova/magurele/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 27/2023 privind aprobarea drepturilor bănești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru luna februarie 2023",
+"short": "HCL Măgurele nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/97056",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magurele-28-2023",
 "path": "local/prahova/magurele/2023/28",
 "kind": "local",
@@ -309,6 +618,72 @@
 "council_name": "Consiliul Local al Comunei Măgurele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magurele-29-2023",
+"path": "local/prahova/magurele/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 29/2023 privind privind închirierea prin atribuire directă a pajiștilor proprietate privată a comunei Măgurele",
+"short": "HCL Măgurele nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/97058",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-30-2023",
+"path": "local/prahova/magurele/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 30/2023 privind decontarea cheltuielilor de transport de la domiciliu la serviciu pentru personalul contractual- muncitori calificați din cadrul Serviciului public de alimentare cu apă și canalizare al comunei Măgurele",
+"short": "HCL Măgurele nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/97059",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-31-2023",
+"path": "local/prahova/magurele/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 31/2023 privind alegerea președintelui de ședință și a potențialului președinte de ședință pentru lunile aprilie-iunie 2023",
+"short": "HCL Măgurele nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-28",
+"latest": "2023-03-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/97060",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -401,6 +776,116 @@
 }
 },
 {
+"slug": "hcl-prahova--magurele-36-2023",
+"path": "local/prahova/magurele/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 36/2023 privind rectificarea bugetului local al comunei Măgurele pe anul 2023",
+"short": "HCL Măgurele nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/102346",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-37-2023",
+"path": "local/prahova/magurele/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 37/2023 privind încheierea contului de execuție bugetară la data de 31.03.2023",
+"short": "HCL Măgurele nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/108142",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-38-2023",
+"path": "local/prahova/magurele/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 38/2023 privind rectificarea bugetului de venituri și cheltuieli pe anul 2023 la Serviciul public de alimentare cu apă și canalizare al comunei Măgurele",
+"short": "HCL Măgurele nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/108143",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-39-2023",
+"path": "local/prahova/magurele/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 39/2023 privind rectificarea bugetului local al comunei Măgurele pe anul 2023",
+"short": "HCL Măgurele nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/108144",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-40-2023",
+"path": "local/prahova/magurele/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 40/2023 privind stabilirea tarifelor pentru închirierea terenurilor aparținând domeniului public și privat al comunei Măgurele, aflate în administrarea Consiliului Local al comunei Măgurele, județul Prahova",
+"short": "HCL Măgurele nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-29",
+"latest": "2023-05-29",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/108145",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magurele-41-2023",
 "path": "local/prahova/magurele/2023/41",
 "kind": "local",
@@ -420,6 +905,50 @@
 "council_name": "Consiliul Local al Comunei Măgurele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magurele-42-2023",
+"path": "local/prahova/magurele/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 42/2023 privind transformarea unor posturi de execuție și modificarea corespunzătoare a statului de funcții pentru aparatul de specialitate al primarului comunei Măgurele",
+"short": "HCL Măgurele nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/111670",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-43-2023",
+"path": "local/prahova/magurele/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 43/2023 privind aprobarea documentației de dezmembrare a unui imobil-teren situat în comuna Măgurele, sat Coada Malului, județul Prahova",
+"short": "HCL Măgurele nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/111671",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -445,6 +974,205 @@
 }
 },
 {
+"slug": "hcl-prahova--magurele-45-2023",
+"path": "local/prahova/magurele/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 45/2023 privind aprobarea modificării elementelor de identificare ale pozițiilor 12,13,14,17 din Inventarul bunurilor care aparțin domeniului privat al Comunei Măgurele",
+"short": "HCL Măgurele nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/111673",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-46-2023",
+"path": "local/prahova/magurele/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 46/2023 privind alegerea președintelui de ședință și a potențialului președinte de ședință pentru lunile iulie-septembrie 2023",
+"short": "HCL Măgurele nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/111674",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-47-2023",
+"path": "local/prahova/magurele/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 47/2023 privind aprobarea drepturilor bănești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru lunile aprilie și mai 2023",
+"short": "HCL Măgurele nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/111675",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-48-2023",
+"path": "local/prahova/magurele/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 48/2023 privind aprobarea închirierii prin licitaţie publică a parterului în suprafaţă de 124 m.p aferent imobilului Centru Multifunctional P+1E în suprafaţă desfaşurată de 248 m.p şi Teren Minifotbal în suprafaţă de 968 m.p din cadrul Parcului Agrement Comuna Măgurele, aflat în domeniul public al Comunei Măgurele, Judeţul Prahova",
+"short": "HCL Măgurele nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-27",
+"latest": "2023-06-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/111676",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-49-2023",
+"path": "local/prahova/magurele/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 49/2023 privind aprobarea atragerii în intravilanul Comunei Măgurele a suprafeţei de 141,30 ha",
+"short": "HCL Măgurele nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/114937",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-50-2023",
+"path": "local/prahova/magurele/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 50/2023",
+"short": "HCL Măgurele nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/114938",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--magurele-51-2023",
+"path": "local/prahova/magurele/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 51/2023 privind rectificarea bugetului local al comunei Măgurele pe anul 2023",
+"short": "HCL Măgurele nr. 51/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/114939",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-52-2023",
+"path": "local/prahova/magurele/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 52/2023 privind încheierea contului de execuție bugetară la data de 30.06.2023",
+"short": "HCL Măgurele nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/114940",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-53-2023",
+"path": "local/prahova/magurele/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 53/2023 privind aprobarea drepturilor bănești aferente personalului didactic care solicită cheltuieli pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru luna iunie 2023",
+"short": "HCL Măgurele nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/114941",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magurele-54-2023",
 "path": "local/prahova/magurele/2023/54",
 "kind": "local",
@@ -464,6 +1192,162 @@
 "council_name": "Consiliul Local al Comunei Măgurele",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magurele-55-2023",
+"path": "local/prahova/magurele/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 55/2023",
+"short": "HCL Măgurele nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-10",
+"latest": "2023-08-10",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/116297",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--magurele-56-2023",
+"path": "local/prahova/magurele/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 56/2023 privind aprobarea încheierii de acorduri de cooperare cu ACOR- Filiala Judeţeană Prahova pentru asigurarea în bune condiţii a activităţilor din cadrul serviciilor publice prestate către cetăţeni",
+"short": "HCL Măgurele nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/118254",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-57-2023",
+"path": "local/prahova/magurele/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 57/2023 privind rectificarea bugetului local al comunei Măgurele pe anul 2023",
+"short": "HCL Măgurele nr. 57/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-29",
+"latest": "2023-08-29",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/118255",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-58-2023",
+"path": "local/prahova/magurele/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 58/2023",
+"short": "HCL Măgurele nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/120827",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--magurele-59-2023",
+"path": "local/prahova/magurele/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 59/2023 privind desemnarea reprezentantilor Consiliului Local al comunei Măgurele în cadrul Consiliului de administrație al Școlii Gimnaziale comuna Măgurele pentru anul școlar 2023-2024",
+"short": "HCL Măgurele nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/122481",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-60-2023",
+"path": "local/prahova/magurele/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 60/2023 privind desemnarea reprezentantului Consiliului Local al comunei Măgurele în Comisia de evaluare și asigurarea calității din Școala Gimnazială comuna Măgurele",
+"short": "HCL Măgurele nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/122482",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magurele-61-2023",
+"path": "local/prahova/magurele/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgurele nr. 61/2023 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali al persoanelor cu handicap grav pe semestrul I al anului 2023",
+"short": "HCL Măgurele nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://emol.ro/magurele-ph/registru-hcl/122483",
+"council": "prahova/magurele",
+"council_name": "Consiliul Local al Comunei Măgurele",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

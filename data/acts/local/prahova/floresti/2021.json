@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-2-2021",
+"path": "local/prahova/floresti/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 2/2021",
+"short": "HCL Florești nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/15701",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--floresti-3-2021",
+"path": "local/prahova/floresti/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Florești nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/15702",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-4-2021",
 "path": "local/prahova/floresti/2021/4",
 "kind": "local",
@@ -157,6 +202,28 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-10-2021",
+"path": "local/prahova/floresti/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2021 privind aprobarea alipirii unor imobile terenuri situate in comuna Floresti, sat Catina, judetul Prahova",
+"short": "HCL Florești nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/19009",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-11-2021",
 "path": "local/prahova/floresti/2021/11",
 "kind": "local",
@@ -245,6 +312,28 @@
 }
 },
 {
+"slug": "hcl-prahova--floresti-15-2021",
+"path": "local/prahova/floresti/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 15/2021 privind desemnarea reprezentantului legal al proiectelor ”DOTAREA PRIMĂRIEI COMUNEI FLOREȘTI, JUDEȚUL PRAHOVA CU MOBILIER” si „DOTAREA PRIMĂRIEI COMUNEI FLOREȘTI, CU INSTALATII DE DEZINSECTIE” si pentru reprezentarea comunei Floresti in relatia cu AFIR",
+"short": "HCL Florești nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-29",
+"latest": "2021-03-29",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/21193",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--floresti-16-2021",
 "path": "local/prahova/floresti/2021/16",
 "kind": "local",
@@ -330,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-20-2021",
+"path": "local/prahova/floresti/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 20/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Florești nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-29",
+"latest": "2021-04-29",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/23716",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -463,6 +574,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--floresti-27-2021",
+"path": "local/prahova/floresti/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 27/2021 privind acordarea indemnizatiei de hrana, functionarilor publici si personalului contractual din cadrul aparatului de specialitate al Primarului comunei Floresti, Serviciilor publice din subordinea Consiliului Local si asistentilor personali ai persoanelor cu handicap, incepand cu data de 01.05.2021",
+"short": "HCL Florești nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/25499",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -793,6 +926,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-43-2021",
+"path": "local/prahova/floresti/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 43/2021 privind desemnarea reprezentanţilor Consiliului Local al comunei Floresti în Consiliul de Administraţie al Şcolii Gimnaziale,Comuna Floresti",
+"short": "HCL Florești nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/36850",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1190,6 +1345,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--floresti-62-2021",
+"path": "local/prahova/floresti/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 62/2021 privind acordarea unui sprijin financiar Bisericii Adventiste de Ziua a Saptea,Calinesti",
+"short": "HCL Florești nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/floresti-ph/registru-hcl/40262",
+"council": "prahova/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

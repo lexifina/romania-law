@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--manesti-20-2026",
+   "path": "local/prahova/manesti/2026/20",
+   "short": "HCL Mănești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 20/2026 privind aprobarea Organigramei şi a Ștatului de funcţii ale aparatului de specialitate al Primarului comunei Mănești, județul Prahova",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/262202",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/262202",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--manesti-21-2026",
    "path": "local/prahova/manesti/2026/21",
    "short": "HCL Mănești nr. 21/2026",
@@ -823,6 +838,21 @@
      "from": "2026-02-24",
      "units": 1,
      "source_url": "https://emol.ro/manesti-ph/registru-hcl/254471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--manesti-8-2026",
+   "path": "local/prahova/manesti/2026/8",
+   "short": "HCL Mănești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Mănești nr. 8/2026 privind aprobarea numărului asistenților personali ai persoanelor cu handicap grav în anul 2026 și a indemnizațiilor persoanelor cu handicap grav",
+   "url": "https://emol.ro/manesti-ph/registru-hcl/254472",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/manesti-ph/registru-hcl/254472",
      "sha256": null
     }
    ]

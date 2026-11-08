@@ -423,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--vadu-sapat-35-2023",
+   "path": "local/prahova/vadu-sapat/2023/35",
+   "short": "HCL Vadu Săpat nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 35/2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/106704",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/106704",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-36-2023",
    "path": "local/prahova/vadu-sapat/2023/36",
    "short": "HCL Vadu Săpat nr. 36/2023",
@@ -603,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--vadu-sapat-47-2023",
+   "path": "local/prahova/vadu-sapat/2023/47",
+   "short": "HCL Vadu Săpat nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 47/2023 privind punerea la dispoziție a terenului situat în comuna Vadu Săpat, sat Vadu Sapat, nr.257, județul Prahova pentru proiectul REABILITARE TERMICĂ ȘI MODERNIZARE CORP C1 – C2 ȘI SCHIMBARE ȘARPANTĂ CORP C2",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/115667",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/115667",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-48-2023",
    "path": "local/prahova/vadu-sapat/2023/48",
    "short": "HCL Vadu Săpat nr. 48/2023",
@@ -618,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--vadu-sapat-49-2023",
+   "path": "local/prahova/vadu-sapat/2023/49",
+   "short": "HCL Vadu Săpat nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 49/2023 privind insusirea Raportului de evaluare avand ca obiect stabilirea pretulului de inchiriere a spatiului cu destinatie farmacie aflat în administrarea Comunei Vadu Sapat, spatiu existent in cadrul CENTRULUI MEDICAL P+1E\" din localitatea Vadu Sapat (Ungureni), nr. 531, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/115939",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/115939",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-5-2023",
    "path": "local/prahova/vadu-sapat/2023/5",
    "short": "HCL Vadu Săpat nr. 5/2023",
@@ -628,6 +673,36 @@
      "from": "2023-01-30",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-50-2023",
+   "path": "local/prahova/vadu-sapat/2023/50",
+   "short": "HCL Vadu Săpat nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 50/2023 privind aprobarea închirierii, prin licitație publică, a spatiului cu destinatie farmacie aflat în administrarea Comunei Vadu Sapat, spatiu existent in cadrul CENTRULUI MEDICAL P+1E\" din localitatea Vadu Sapat (Ungureni), nr. 531, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/115940",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/115940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-51-2023",
+   "path": "local/prahova/vadu-sapat/2023/51",
+   "short": "HCL Vadu Săpat nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 51/2023 privind desemnarea a doi consilieri locali ca reprezentanti din partea Consiliului Local Vadu Sapat in comisia de evaluare a ofertelor in cadrul procedurii de inchiriere prin licitatie publica a spatiului cu destinatie farmacie aflat în administrarea Comunei Vadu Sapat, spatiu existent in cadrul CENTRULUI MEDICAL P+1E\" din localitatea Vadu Sapat (Ungureni), nr. 531, judetul Prahova",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/115941",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/115941",
      "sha256": null
     }
    ]
@@ -958,6 +1033,21 @@
      "from": "2024-01-12",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/137405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-8-2023",
+   "path": "local/prahova/vadu-sapat/2023/8",
+   "short": "HCL Vadu Săpat nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 8/2023 privind aprobarea numarului de asistenti personali ai persoanelor cu handicap grav si a numarului de indemnizatii pentru persoane cu handicap grav, pentru anul 2023",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/94159",
+   "versions": [
+    {
+     "from": "2023-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/94159",
      "sha256": null
     }
    ]

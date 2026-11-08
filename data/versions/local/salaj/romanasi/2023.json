@@ -3,6 +3,441 @@
  "shard": "local/salaj/romanasi/2023",
  "acts": [
   {
+   "slug": "hcl-salaj--romanasi-1-2023",
+   "path": "local/salaj/romanasi/2023/1",
+   "short": "HCL Românași nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 1/2023 privind însușirea „Raport de evaluare a proprietății imobiliare teren intravilan cu clădire P+E din localitatea Românași, fosta moară” și scoaterea la vânzare prin licitație publică a imobilului",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93922",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-10-2023",
+   "path": "local/salaj/romanasi/2023/10",
+   "short": "HCL Românași nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 10/2023 privind aprobarea Caietului de sarcini, a cantităților de lucrări și a devizului general al investiției „Realizare gard și poartă acces la Primăria comunei Românași” și utilizarea sumei de 20.667,03 lei alocată investiției",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93931",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-11-2023",
+   "path": "local/salaj/romanasi/2023/11",
+   "short": "HCL Românași nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 11/2023 privind aprobarea Caietului de sarcini, a cantităților de lucrări și a devizului general al investiției „Realizare șanț betonat strada Deal în localitatea Românași” și utilizarea sumei de 28.277,04 lei alocată investiției",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93932",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-12-2023",
+   "path": "local/salaj/romanasi/2023/12",
+   "short": "HCL Românași nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 12/2023 privind alocarea de sume de bani din bugetul local în cadrul acțiunii de sprijinire a cultelor religioase de pe raza comunei Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93933",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-13-2023",
+   "path": "local/salaj/romanasi/2023/13",
+   "short": "HCL Românași nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 13/2023 privind stabilirea salariilor de bază pentru personalul din aparatul de specialitate al comunei Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93934",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-14-2023",
+   "path": "local/salaj/romanasi/2023/14",
+   "short": "HCL Românași nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 14/2023 privind rectificarea bugetului de venituri și cheltuieli a comunei Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128923",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-15-2023",
+   "path": "local/salaj/romanasi/2023/15",
+   "short": "HCL Românași nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 15/2023",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128924",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-16-2023",
+   "path": "local/salaj/romanasi/2023/16",
+   "short": "HCL Românași nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 16/2023 privind aprobarea finanțării unei activități nonprofit de interes local",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128925",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-17-2023",
+   "path": "local/salaj/romanasi/2023/17",
+   "short": "HCL Românași nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 17/2023 privind actualizarea datelor tehnice pentru imobilul înscris în CF nr. 50590 Românași, nr. cadastral 50590 în sensul diminuării suprafeței de la 2.500 mp, în acte, la suprafața măsurată de 1.140 mp și repoziționarea imobilului înscris în CF nr. 50590 Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128926",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-18-2023",
+   "path": "local/salaj/romanasi/2023/18",
+   "short": "HCL Românași nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 18/2023 privind aprobarea proiectului cu titlu „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A ȘCOLII GIMNAZIALE NR. 1 ROMÂNAȘI”",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128927",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-19-2023",
+   "path": "local/salaj/romanasi/2023/19",
+   "short": "HCL Românași nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 19/2023 privind aprobarea Caietului de sarcini, a cantităților de lucrări și a devizului general al investiției „Realizare parcare betonată pe strada Școlii (lângă biserica) în localitatea Românași” și utilizarea sumei de 155.301,33 lei alocată investiției",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128928",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-2-2023",
+   "path": "local/salaj/romanasi/2023/2",
+   "short": "HCL Românași nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 2/2023 privind aprobarea Planului anual de investiții publice pe anul 2023",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93923",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-20-2023",
+   "path": "local/salaj/romanasi/2023/20",
+   "short": "HCL Românași nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 20/2023 privind rectificarea bugetului de venituri și cheltuieli a comunei Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128929",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-21-2023",
+   "path": "local/salaj/romanasi/2023/21",
+   "short": "HCL Românași nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 21/2023 privind rectificarea bugetului de venituri și cheltuieli a comunei Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128937",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-22-2023",
+   "path": "local/salaj/romanasi/2023/22",
+   "short": "HCL Românași nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 22/2023",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128938",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-23-2023",
+   "path": "local/salaj/romanasi/2023/23",
+   "short": "HCL Românași nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 23/2023 privind modificarea, începând cu anul fiscal 2024, a nivelului valorilor impozabile, impozitelor, taxelor locale și a altor taxe asimilate acestora, amenzilor, prin indexarea cu rata inflației în procent de 13,8%",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128939",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-24-2023",
+   "path": "local/salaj/romanasi/2023/24",
+   "short": "HCL Românași nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 24/2023",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128940",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-25-2023",
+   "path": "local/salaj/romanasi/2023/25",
+   "short": "HCL Românași nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 25/2023 privind aderarea UAT „COMUNA ROMÂNAȘI” la Parteneriatul LEADER GAL SAMUS POROLISSUM",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128941",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-26-2023",
+   "path": "local/salaj/romanasi/2023/26",
+   "short": "HCL Românași nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 26/2023 privind aprobarea întocmirii Proiectului Tehnic și utilizarea sumelor necesare la obiectivul ”Proiectare Sistem de racordare la rețeaua de canalizare din comuna Românași, județul Sălaj (localitatea Pausa și Romita)",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128942",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-27-2023",
+   "path": "local/salaj/romanasi/2023/27",
+   "short": "HCL Românași nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 27/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico economici actualizați, a devizului general actualizat și a categoriilor de cheltuieli finanțate de la bugetul local al obiectivului de investiții „EXTINDERE REȚEA CANALIZARE ÎN LOCALITATEA CIUMĂRNA, COMUNA ROMÂNAȘI, JUDEȚUL SĂLAJ”",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128943",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-28-2023",
+   "path": "local/salaj/romanasi/2023/28",
+   "short": "HCL Românași nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 28/2023 privind aprobarea cantităților de lucrări și a devizului general al investiției „Reparații și modernizare strada La Țigani, Localitatea Păușa, Comuna Românași” și utilizarea sumei de 174.335 lei alocată investiției",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128944",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-29-2023",
+   "path": "local/salaj/romanasi/2023/29",
+   "short": "HCL Românași nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 29/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico economici actualizați, a devizului genelal actualizat și a categoriilor de cheltuieli finanțate de la bugetul local al obiectivului de investiții „CONSTRUIRE PODURI PESTE VALEA AGRIJULUI, ÎN COMUNA ROMÂNAȘI, JUDEȚUL SĂLAJ”",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128945",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-3-2023",
+   "path": "local/salaj/romanasi/2023/3",
+   "short": "HCL Românași nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 3/2023 privind planul de actiuni și lucrări de interes local pentru repartizarea orelor de muncă prestate de către persoanele beneficiare de sume acordate ca ajutor social",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93924",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-30-2023",
+   "path": "local/salaj/romanasi/2023/30",
+   "short": "HCL Românași nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 30/2023 privind cuprinderea în evidențele patrimoniale ale Comunei Românași, a bunurilor proprietate publică a Comunei Românași rezultate în urma lucrărilor de infrastructură de alimentare cu apă și de canalizare realizate pe raza UATC Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128946",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-31-2023",
+   "path": "local/salaj/romanasi/2023/31",
+   "short": "HCL Românași nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 31/2023",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128947",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-32-2023",
+   "path": "local/salaj/romanasi/2023/32",
+   "short": "HCL Românași nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 32/2023 privind rectificarea bugetului de venituri și cheltuieli a comunei Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128948",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-33-2023",
+   "path": "local/salaj/romanasi/2023/33",
+   "short": "HCL Românași nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 33/2023 privind aprobarea proiectului „Microbuze electrice pentru elevii din Sălaj” și încheierea acordului de parteneriat pentru depunerea acestuia spre finanțare în cadrul Planului Național de Redresare și Reziliență",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128949",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-34-2023",
+   "path": "local/salaj/romanasi/2023/34",
+   "short": "HCL Românași nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 34/2023 privind cuprinderea în evidențele patrimoniale ale Comunei Românași, a bunurilor proprietate publică a Comunei Românași rezultate în urma lucrărilor de infrastructură de alimentare cu apă și de canalizare realizate pe raza UATC Românași",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128950",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-35-2023",
+   "path": "local/salaj/romanasi/2023/35",
+   "short": "HCL Românași nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 35/2023",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/128951",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128951",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--romanasi-36-2023",
    "path": "local/salaj/romanasi/2023/36",
    "short": "HCL Românași nr. 36/2023",
@@ -58,6 +493,21 @@
      "from": "2023-11-16",
      "units": 1,
      "source_url": "https://emol.ro/romanasi-sj/registru-hcl/128959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-4-2023",
+   "path": "local/salaj/romanasi/2023/4",
+   "short": "HCL Românași nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 4/2023 privind acoperirea defenitivă a deficitului bugetar al secțiunii de dezvoltare din excedentul anului 2021 în vederea stabilirii execuției bugetului local 2022",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93925",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93925",
      "sha256": null
     }
    ]
@@ -213,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--romanasi-5-2023",
+   "path": "local/salaj/romanasi/2023/5",
+   "short": "HCL Românași nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 5/2023 privind adoptarea bugetului local pentru anul 2023",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93926",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93926",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--romanasi-50-2023",
    "path": "local/salaj/romanasi/2023/50",
    "short": "HCL Românași nr. 50/2023",
@@ -298,6 +763,66 @@
      "from": "2023-12-14",
      "units": 1,
      "source_url": "https://emol.ro/romanasi-sj/registru-hcl/133531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-6-2023",
+   "path": "local/salaj/romanasi/2023/6",
+   "short": "HCL Românași nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 6/2023 privind aprobarea investiției, proiectului tehnic și a indicatorilor tehnico-economici aferent proiectului Realizare bazin de înmagazinare a apei potabile în localitatea Păușa, comuna Românași, județul Sălaj, și aprobarea sumei de 652.765,81 lei necesară implementării",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93927",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-7-2023",
+   "path": "local/salaj/romanasi/2023/7",
+   "short": "HCL Românași nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 7/2023 privind aprobarea investiției și a indicatorilor tehnico-economici aferenți proiectului Amenajare Parc în localitatea Chichișa, Comuna Românași județul Sălaj, și a sumei de 265.162,82 necesară implementării",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93928",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-8-2023",
+   "path": "local/salaj/romanasi/2023/8",
+   "short": "HCL Românași nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 8/2023 privind aprobarea investiției și a indicatorilor tehnico-economici aferenți proiectului Amenajare Parc și împrejmuirea acestuia în localitatea Romita, Comuna Românași județul Sălaj, și a sumei de 459.742,15 necesar implementării",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93929",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--romanasi-9-2023",
+   "path": "local/salaj/romanasi/2023/9",
+   "short": "HCL Românași nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Românași nr. 9/2023 privind aprobarea investiției demolare și refacere gard la Școala Gimnazială nr.1 în localiteatea Românași, județul Sălaj și utilizarea sumei de 60.694,97 lei",
+   "url": "https://emol.ro/romanasi-sj/registru-hcl/93930",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/romanasi-sj/registru-hcl/93930",
      "sha256": null
     }
    ]

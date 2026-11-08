@@ -91,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-5-2021",
+"path": "local/prahova/magureni/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 5/2021",
+"short": "HCL Măgureni nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/40787",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--magureni-6-2021",
 "path": "local/prahova/magureni/2021/6",
 "kind": "local",
@@ -110,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-7-2021",
+"path": "local/prahova/magureni/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 7/2021 privind alegerea președintelui de ședință pentru lunile martie, aprilie și mai 2021",
+"short": "HCL Măgureni nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/40789",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -312,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-17-2021",
+"path": "local/prahova/magureni/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 17/2021 privind alegerea presedintelui de sedinta pentru lunile iunie, iulie si august 2021",
+"short": "HCL Măgureni nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/40820",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-18-2021",
 "path": "local/prahova/magureni/2021/18",
 "kind": "local",
@@ -419,6 +486,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-23-2021",
+"path": "local/prahova/magureni/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 23/2021 privind desemnarea reprezentantilor Consiliului Local in Consiliul de Administrație al Scolii Gimnaziale Comuna Magureni",
+"short": "HCL Măgureni nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/40826",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

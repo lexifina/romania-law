@@ -3,6 +3,36 @@
  "shard": "local/prahova/floresti/2025",
  "acts": [
   {
+   "slug": "hcl-prahova--floresti-1-2025",
+   "path": "local/prahova/floresti/2025/1",
+   "short": "HCL Florești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 1/2025 privind aprobarea Planului de actiuni / lucrari de interes local ce se vor efectua pe domeniul public sau privat al Comunei Floresti de catre persoanele beneficiare de venit minim de incluziune,conform prevederilor Legii nr.196/2016, pentru anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/188337",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/188337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-10-2025",
+   "path": "local/prahova/floresti/2025/10",
+   "short": "HCL Florești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Calinesti, tarlaua T 1, parcela A 7/1, cu nr.cadastral 26485 în suprafaţă de 1.111 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195074",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195074",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-100-2025",
    "path": "local/prahova/floresti/2025/100",
    "short": "HCL Florești nr. 100/2025",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-11-2025",
+   "path": "local/prahova/floresti/2025/11",
+   "short": "HCL Florești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 11/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T29, parcela Cc 1545 partial, cu nr.cadastral 28914 în suprafaţă de 545 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195075",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195075",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-110-2025",
    "path": "local/prahova/floresti/2025/110",
    "short": "HCL Florești nr. 110/2025",
@@ -273,6 +318,936 @@
    ]
   },
   {
+   "slug": "hcl-prahova--floresti-12-2025",
+   "path": "local/prahova/floresti/2025/12",
+   "short": "HCL Florești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 12/2025 privind atestarea apartenentei la domeniul privat al comunei Floresti a unor imobile",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195076",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-13-2025",
+   "path": "local/prahova/floresti/2025/13",
+   "short": "HCL Florești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 13/2025 privind dezmembrarea unui imobil teren in suprafata de 7.726 mp, avand Nr.Cad. 26475, inscris in C.F.nr.26475 situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T5, parcelele Cc 149, A 149/1, apartinand domeniului public al comunei Floresti, in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195077",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-14-2025",
+   "path": "local/prahova/floresti/2025/14",
+   "short": "HCL Florești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 14/2025 privind dezmembrarea unui imobil teren in suprafata de 7.515 mp, avand Nr.Cad. 26476, inscris in C.F.nr.26476 situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T5, parcela Cc 149 apartinand domeniului public al comunei Floresti, in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195078",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-15-2025",
+   "path": "local/prahova/floresti/2025/15",
+   "short": "HCL Florești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 15/2025 privind retragerea comunei Florești, județul Prahova din Asociația de Dezvoltare Intercomunitară Parteneriatul pentru “Managamentul Apei- Prahova” și mandatarea primarului comunei Florești ca reprezentant al Consiliului Local al comunei Florești pentru a vota în A.G.A Asociația de Dezvoltare Intercomunitară Parteneriatul pentru “Managamentul Apei- Prahova retragerea comunei Florești din asociație,respectiv din contractul de delegare de gestiune încheiat cu operatorul regional SC HIDRO PRAHOVA S.A",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195985",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-16-2025",
+   "path": "local/prahova/floresti/2025/16",
+   "short": "HCL Florești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 16/2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195986",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-17-2025",
+   "path": "local/prahova/floresti/2025/17",
+   "short": "HCL Florești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 17/2025 privind aprobarea bugetului local al comunei Floresti pe anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/197768",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/197768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-18-2025",
+   "path": "local/prahova/floresti/2025/18",
+   "short": "HCL Florești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 18/2025 privind aprobarea bilantului contabil al comunei Floresti, judetul Prahova pe anul 2024",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/197769",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/197769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-19-2025",
+   "path": "local/prahova/floresti/2025/19",
+   "short": "HCL Florești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 19/2025 privind utilizarea excedentului bugetului local din anul precedent pentru acoperirea temporara a golurilor de casa provenite din decalaje intre veniturile si cheltuielile sectiunilor de functionare in anul curent",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/197770",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/197770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-2-2025",
+   "path": "local/prahova/floresti/2025/2",
+   "short": "HCL Florești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 2/2025 privind aprobarea Strategiei locale de dezvoltare a serviciilor sociale in domeniul asistentei sociale si protectia copilului la nivelul comunei Floresti pentru perioada 2025-2028",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/188338",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/188338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-20-2025",
+   "path": "local/prahova/floresti/2025/20",
+   "short": "HCL Florești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 20/2025 privind adoptare măsuri pentru a asigura alimentarea cu apă și canalizare în comuna Florești",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/197771",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/197771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-21-2025",
+   "path": "local/prahova/floresti/2025/21",
+   "short": "HCL Florești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 21/2025 pentru stabilirea agentilor economici din Comuna Floresti care vor fi prinsi in Programul de aprovizionare cu produse alimentare si nealimentare ce urmeaza a fi distribuite rationalizat populatiei, in situatii deosebite stabilite de lege",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/197772",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/197772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-22-2025",
+   "path": "local/prahova/floresti/2025/22",
+   "short": "HCL Florești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 22/2025 privind rectificarea bugetului local al comunei Floresti pe anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/197967",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/197967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-23-2025",
+   "path": "local/prahova/floresti/2025/23",
+   "short": "HCL Florești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 23/2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/199626",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/199626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-24-2025",
+   "path": "local/prahova/floresti/2025/24",
+   "short": "HCL Florești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 24/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii „Valorificarea avantajelor digitalizării în beneficiul cetățenilor în comuna Florești, județul Prahova”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/203826",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/203826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-25-2025",
+   "path": "local/prahova/floresti/2025/25",
+   "short": "HCL Florești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 25/2025 privind atestarea apartenentei unui imobil la domeniul public al comunei Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/203827",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/203827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-26-2025",
+   "path": "local/prahova/floresti/2025/26",
+   "short": "HCL Florești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 26/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/203828",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/203828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-27-2025",
+   "path": "local/prahova/floresti/2025/27",
+   "short": "HCL Florești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 27/2025 privind aprobarea închirierii prin licitaţie publică a spatiului cu destinatia de cabinet medical situat in cadrul cladirii Dispensarului uman parter-C1 din Comuna Floresti,sat Floresti nr.224,judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205843",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-28-2025",
+   "path": "local/prahova/floresti/2025/28",
+   "short": "HCL Florești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 28/2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205844",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-29-2025",
+   "path": "local/prahova/floresti/2025/29",
+   "short": "HCL Florești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 29/2025 privind indexarea impozitelor si taxelor locale pentru anul 2026 cu rata inflatiei de 5,6% comunicata de Directia Judeteana de Statistica Prahovaconform adresei nr.575/07.02.2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205845",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-3-2025",
+   "path": "local/prahova/floresti/2025/3",
+   "short": "HCL Florești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 3/2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/188339",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/188339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-30-2025",
+   "path": "local/prahova/floresti/2025/30",
+   "short": "HCL Florești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 30/2025 privind acordarea unui stimulent financiar pentru nou-nascut",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205846",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-31-2025",
+   "path": "local/prahova/floresti/2025/31",
+   "short": "HCL Florești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 31/2025 privind acordarea stimulentului financiar pentru constituirea familiilor",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205847",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-32-2025",
+   "path": "local/prahova/floresti/2025/32",
+   "short": "HCL Florești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 32/2025 privind alocarea din bugetul local al Comunei Floresti a sumei de 30.650 lei in vederea achizitionarii de cadouri cu ocazia Zilei de 1 Iunie-Ziua Internationala a Copilului pentru prescolarii si elevii din cadrul unitatii cu personalitate juridica Scoala Gimnaziala Comuna Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205848",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-33-2025",
+   "path": "local/prahova/floresti/2025/33",
+   "short": "HCL Florești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 33/2025 privind stabilirea cuantumului alocatiei de hrana pentru beneficiarii serviciului social de zi - \"Cantina sociala Floresti”,comuna Floresti, judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205849",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-34-2025",
+   "path": "local/prahova/floresti/2025/34",
+   "short": "HCL Florești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 34/2025 privind acordarea unui sprijin financiar Bisericii Adventiste de Ziua a Saptea, Calinesti(Prahova)",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205850",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-35-2025",
+   "path": "local/prahova/floresti/2025/35",
+   "short": "HCL Florești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 35/2025 privind atestarea apartenentei la domeniul privat al comunei Floresti a unor imobile",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205851",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-36-2025",
+   "path": "local/prahova/floresti/2025/36",
+   "short": "HCL Florești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 36/2025 privind dezmembrarea unui imobil teren in suprafata de 403 mp, avand Nr.Cad. 26468, inscris in C.F.nr.26468 situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T5, parcela Cc 149 apartinand domeniului privat al comunei Floresti, in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205852",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-37-2025",
+   "path": "local/prahova/floresti/2025/37",
+   "short": "HCL Florești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 37/2025 privind dezmembrarea unui imobil teren in suprafata de 403 mp, avand Nr.Cad. 28526, inscris in C.F.nr.28526 situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T5, parcela Cc 149 apartinand domeniului privat al comunei Floresti, in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205853",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-38-2025",
+   "path": "local/prahova/floresti/2025/38",
+   "short": "HCL Florești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 38/2025 privind dezmembrarea unui imobil teren in suprafata de 7.314 mp, avand Nr.Cad. 28820, inscris in C.F.nr.28820, situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T6, parcela Cc 78 apartinand domeniului public al comunei Floresti, in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205854",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-39-2025",
+   "path": "local/prahova/floresti/2025/39",
+   "short": "HCL Florești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 39/2025 privind dezmembrarea unui imobil teren in suprafata de 17.118 mp, avand Nr.Cad. 26589, inscris in C.F.nr.26589, situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T8, parcelele Cc si P 181/1, apartinand domeniului privat al comunei Floresti, in 3 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205855",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-4-2025",
+   "path": "local/prahova/floresti/2025/4",
+   "short": "HCL Florești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 4/2025 privind implementarea proiectului “ DOTAREA PRIMARIEI COMUNEI FLORESTI CU UTILAJ-TRACTOR PENTRU TUNS IARBA”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/188340",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/188340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-40-2025",
+   "path": "local/prahova/floresti/2025/40",
+   "short": "HCL Florești nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 40/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205856",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-41-2025",
+   "path": "local/prahova/floresti/2025/41",
+   "short": "HCL Florești nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 41/2025 privind aprobarea Organigramei si a Statului de functii al Spitalului de Pneumoftiziologie Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205857",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-42-2025",
+   "path": "local/prahova/floresti/2025/42",
+   "short": "HCL Florești nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 42/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii „Amenajare și asfaltare Ds100, Comuna Floresti, Judetul Prahova”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205858",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-43-2025",
+   "path": "local/prahova/floresti/2025/43",
+   "short": "HCL Florești nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 43/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii “Extindere rețea de canalizare menajeră in zona alei Blocuri Vechi comuna Florești, județul Prahova”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205859",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-44-2025",
+   "path": "local/prahova/floresti/2025/44",
+   "short": "HCL Florești nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 44/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii “Extindere rețea de canalizare menajeră pe Ds 1279 , comuna Florești, județul Prahova”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205860",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-45-2025",
+   "path": "local/prahova/floresti/2025/45",
+   "short": "HCL Florești nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 45/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii “Inlocuire rețea de apă pe Ds 1279, comuna Florești, județul Prahova”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205861",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-46-2025",
+   "path": "local/prahova/floresti/2025/46",
+   "short": "HCL Florești nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 46/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii “Extindere rețea de iluminat public, in comuna Florești, sat Cap-Rosu, județul Prahova”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205862",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-47-2025",
+   "path": "local/prahova/floresti/2025/47",
+   "short": "HCL Florești nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 47/2025 privind rectificarea bugetului local al comunei Floresti pe anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/205863",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/205863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-48-2025",
+   "path": "local/prahova/floresti/2025/48",
+   "short": "HCL Florești nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 48/2025 privind aprobarea Statutului Comunei Floresti,Judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/208629",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/208629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-49-2025",
+   "path": "local/prahova/floresti/2025/49",
+   "short": "HCL Florești nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 49/2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/208630",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/208630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-5-2025",
+   "path": "local/prahova/floresti/2025/5",
+   "short": "HCL Florești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 5/2025 privind atestarea apartenentei la domeniul privat al comunei Floresti a unor imobile",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/188341",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/188341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-50-2025",
+   "path": "local/prahova/floresti/2025/50",
+   "short": "HCL Florești nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 50/2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213082",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-51-2025",
+   "path": "local/prahova/floresti/2025/51",
+   "short": "HCL Florești nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 51/2025 privind aprobarea unei sume de 225.750 lei în vederea organizării unei tabere școlare",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213083",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-52-2025",
+   "path": "local/prahova/floresti/2025/52",
+   "short": "HCL Florești nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 52/2025 privind acordarea unui sprijin financiar Parohiei Calinesti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213084",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-53-2025",
+   "path": "local/prahova/floresti/2025/53",
+   "short": "HCL Florești nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 53/2025 privind rectificarea bugetului local al comunei Floresti pe anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213085",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-54-2025",
+   "path": "local/prahova/floresti/2025/54",
+   "short": "HCL Florești nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 54/2025 privind modificarea Hotararii Consiliului Local Floresti nr.106/19.11.2012 privind atribuirea in folosinta gratuita catre GRUPUL DE ACTIUNE LOCALA ,,COLINELE PRAHOVEI,, a unui spatiu din imobilul situat in Comuna Floresti,sat Floresti,nr.604 A, Judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213086",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-55-2025",
+   "path": "local/prahova/floresti/2025/55",
+   "short": "HCL Florești nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 55/2025 privind atestarea apartenentei la domeniul privat al comunei Floresti a unui imobil",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213087",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-56-2025",
+   "path": "local/prahova/floresti/2025/56",
+   "short": "HCL Florești nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 56/2025 privind aprobarea Organigramei si a Statului de functii ale Spitalului de Pneumoftiziologie Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213088",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-57-2025",
+   "path": "local/prahova/floresti/2025/57",
+   "short": "HCL Florești nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 57/2025 privind aprobarea Regulamentului de Organizare și Funcţionare al Spitalului de Pneumoftiziologie Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213089",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-58-2025",
+   "path": "local/prahova/floresti/2025/58",
+   "short": "HCL Florești nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 58/2025 privind acordarea unui sprijin financiar Comunitatii Cultului Penticostal Biserica lui Dumnezeu Apostolica,Cultul Crestin Penticostal ,Biserica Penticostala Floresti,Judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213090",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-59-2025",
+   "path": "local/prahova/floresti/2025/59",
+   "short": "HCL Florești nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 59/2025 privind dezmembrarea unui imobil teren in suprafata de 2.295 mp, avand Nr.Cad. 26156, inscris in C.F.nr.26156 situat in intravilanul comunei Floresti, sat Novacesti judetul Prahova, Tarla T9, parcela A451 apartinand domeniului privat al comunei Floresti, in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/213091",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/213091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-6-2025",
+   "path": "local/prahova/floresti/2025/6",
+   "short": "HCL Florești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 6/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/188342",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/188342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-60-2025",
+   "path": "local/prahova/floresti/2025/60",
+   "short": "HCL Florești nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 60/2025 privind rectificarea bugetului local al comunei Floresti pe anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217555",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-61-2025",
+   "path": "local/prahova/floresti/2025/61",
+   "short": "HCL Florești nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 61/2025 privind dezmembrarea unui imobil teren in suprafata de 3.311 mp, avand Nr.Cad. 26368, inscris in C.F.nr.26368 situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T33, parcelele Cc 1645, A 1646, A 1647 apartinand domeniului privat al comunei Floresti, in 3 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217556",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-62-2025",
+   "path": "local/prahova/floresti/2025/62",
+   "short": "HCL Florești nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 62/2025 privind aprobarea alipirii unor imobile terenuri situate in comuna Floresti, sat Floresti, judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217557",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-63-2025",
+   "path": "local/prahova/floresti/2025/63",
+   "short": "HCL Florești nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 63/2025 privind aprobarea alipirii unor imobile terenuri situate in comuna Floresti, sat Floresti, judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217558",
+   "versions": [
+    {
+     "from": "2025-07-21",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-64-2025",
+   "path": "local/prahova/floresti/2025/64",
+   "short": "HCL Florești nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 64/2025 privind aprobarea alipirii unor imobile terenuri situate in comuna Floresti, sat Floresti, judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217559",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-65-2025",
+   "path": "local/prahova/floresti/2025/65",
+   "short": "HCL Florești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 65/2025 privind trecerea din domeniul privat al comunei Floresti in domeniul public al comunei Floresti a unui imobil teren",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217560",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-66-2025",
+   "path": "local/prahova/floresti/2025/66",
+   "short": "HCL Florești nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 66/2025 privind trecerea din domeniul privat al comunei Floresti in domeniul public al comunei Floresti a unui imobil teren",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217561",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-67-2025",
+   "path": "local/prahova/floresti/2025/67",
+   "short": "HCL Florești nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 67/2025 privind modificarea componentei nominale a Comisiei de specialitate nr.3 a Consiliului Local al comunei Floresti- Comisia juridica si de disciplina, protectia mediului si turism, agricultura",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217562",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-68-2025",
+   "path": "local/prahova/floresti/2025/68",
+   "short": "HCL Florești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 68/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217563",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217563",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--floresti-69-2025",
    "path": "local/prahova/floresti/2025/69",
    "short": "HCL Florești nr. 69/2025",
@@ -283,6 +1258,471 @@
      "from": "2025-07-29",
      "units": 1,
      "source_url": "https://emol.ro/floresti-ph/registru-hcl/217564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-7-2025",
+   "path": "local/prahova/floresti/2025/7",
+   "short": "HCL Florești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 7/2025 privind aprobarea listei de investitii pentru obiectivele in continuare pe anul 2025 cu finantare din bugetul local prin Programul National Anghel Saligny",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/188343",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/188343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-70-2025",
+   "path": "local/prahova/floresti/2025/70",
+   "short": "HCL Florești nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 70/2025 privind acordarea dreptului de acces cu titlu gratuit in favoarea Distributie Energie Electrica Romania(DEER) la instalatiile electrice si compartimentul de masura al postului de transformare ce urmeaza a fi amplasat pe un teren apartinand domeniului public al Comunei Floresti , Judetul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/217565",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/217565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-71-2025",
+   "path": "local/prahova/floresti/2025/71",
+   "short": "HCL Florești nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 71/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T28, parcelele A1543/5, A1541/6 cu nr.cadastral 29012 în suprafaţă de 400 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223207",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-72-2025",
+   "path": "local/prahova/floresti/2025/72",
+   "short": "HCL Florești nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 72/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T28, parcelele A1543/5, A1541/6 cu nr.cadastral 29013 în suprafaţă de 400 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223208",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-73-2025",
+   "path": "local/prahova/floresti/2025/73",
+   "short": "HCL Florești nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 73/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T28, parcelele A1543/5, A1541/6 cu nr.cadastral 29014 în suprafaţă de 400 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223209",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-74-2025",
+   "path": "local/prahova/floresti/2025/74",
+   "short": "HCL Florești nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 74/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T28, parcelele A1543/5, A1541/6 cu nr.cadastral 29015 în suprafaţă de 400 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223210",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-75-2025",
+   "path": "local/prahova/floresti/2025/75",
+   "short": "HCL Florești nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 75/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T28, parcelele A1543/5, A1541/6 cu nr.cadastral 29016 în suprafaţă de 400 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223211",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-76-2025",
+   "path": "local/prahova/floresti/2025/76",
+   "short": "HCL Florești nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 76/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T28, parcelele A1543/5, A1541/6 cu nr.cadastral 29018 în suprafaţă de 441 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223212",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-77-2025",
+   "path": "local/prahova/floresti/2025/77",
+   "short": "HCL Florești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 77/2025 privind rectificarea bugetului local al comunei Floresti pe anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223213",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-78-2025",
+   "path": "local/prahova/floresti/2025/78",
+   "short": "HCL Florești nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 78/2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223214",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-79-2025",
+   "path": "local/prahova/floresti/2025/79",
+   "short": "HCL Florești nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 79/2025 privind trecerea din domeniul privat al comunei Floresti in domeniul public al comunei Floresti a unui imobil teren",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223215",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-8-2025",
+   "path": "local/prahova/floresti/2025/8",
+   "short": "HCL Florești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 8/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T 12, parcela A 445, cu nr.cadastral 25623 în suprafaţă de 695 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195072",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-80-2025",
+   "path": "local/prahova/floresti/2025/80",
+   "short": "HCL Florești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 80/2025 privind atestarea apartenentei la domeniul privat al comunei Floresti a unui imobil",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223216",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-81-2025",
+   "path": "local/prahova/floresti/2025/81",
+   "short": "HCL Florești nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 81/2025 privind desemnarea reprezentanţilor Consiliului Local al comunei Floresti în Consiliul de Administraţie al Şcolii Gimnaziale, Comuna Floresti",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/223217",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/223217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-82-2025",
+   "path": "local/prahova/floresti/2025/82",
+   "short": "HCL Florești nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 82/2025 privind aprobarea achiziţionării unei autoutilitare categoria N1 second -hand, necesare pentru buna desfăşurare a activităţii instituţiei Primăriei comunei Floresti, judeţul Prahova",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/226749",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/226749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-83-2025",
+   "path": "local/prahova/floresti/2025/83",
+   "short": "HCL Florești nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 83/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii “Extindere rețea de canalizare menajeră zona Blocuri Noi, bloc B7, comuna Florești, județul Prahova”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/226750",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/226750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-84-2025",
+   "path": "local/prahova/floresti/2025/84",
+   "short": "HCL Florești nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 84/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii “Extindere rețea de canalizare menajeră zona Blocuri Vechi, bloc E112, comuna Florești, județul Prahova”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/226751",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/226751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-85-2025",
+   "path": "local/prahova/floresti/2025/85",
+   "short": "HCL Florești nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 85/2025 privind trecerea din domeniul privat al comunei Floresti in domeniul public al comunei Floresti a unui imobil teren",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/226752",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/226752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-86-2025",
+   "path": "local/prahova/floresti/2025/86",
+   "short": "HCL Florești nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 86/2025 privind implementarea proiectului “ Renovarea sediului Primariei din Comuna Floresti,sat Floresti,Judetul Prahova, prin inlocuire invelitoare,tamplarie exterioara,instalatii electrice si de incalzire si reparare sarpanta”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/226753",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/226753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-87-2025",
+   "path": "local/prahova/floresti/2025/87",
+   "short": "HCL Florești nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 87/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T30, parcela A 1581/2, cu nr.cadastral 26656 în suprafaţă de 589 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233139",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-88-2025",
+   "path": "local/prahova/floresti/2025/88",
+   "short": "HCL Florești nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 88/2025 privind rectificarea bugetului local al comunei Floresti pe anul 2025",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233140",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-89-2025",
+   "path": "local/prahova/floresti/2025/89",
+   "short": "HCL Florești nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 89/2025 privind dezmembrarea unui imobil teren in suprafata de 10.371 mp, avand Nr.Cad. 29065, inscris in C.F.nr.29065, situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T8, parcelele Cc si P 181/1, apartinand domeniului privat al comunei Floresti,in 3 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233141",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-9-2025",
+   "path": "local/prahova/floresti/2025/9",
+   "short": "HCL Florești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 9/2025 privind vânzarea prin licitaţie publică a terenului intravilan ce apartine domeniului privat al Comunei Floresti, Judetul Prahova situat in Comuna Floresti,sat Floresti, tarlaua T29, parcela Cc 1545, cu nr.cadastral 28955 în suprafaţă de 518 mp",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/195073",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/195073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-90-2025",
+   "path": "local/prahova/floresti/2025/90",
+   "short": "HCL Florești nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 90/2025 privind dezmembrarea unui imobil teren in suprafata de 3.531 mp, avand Nr.Cad. 29066, inscris in C.F.nr.29066, situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T8, parcela Cc 181/1, apartinand domeniului privat al comunei Floresti,in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233142",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-91-2025",
+   "path": "local/prahova/floresti/2025/91",
+   "short": "HCL Florești nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 91/2025 privind dezmembrarea unui imobil teren in suprafata de 3.216 mp, avand Nr.Cad. 29067, inscris in C.F.nr.29067, situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T8, parcela Cc 181/1, apartinand domeniului privat al comunei Floresti, in 3 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233143",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-92-2025",
+   "path": "local/prahova/floresti/2025/92",
+   "short": "HCL Florești nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 92/2025 privind dezmembrarea unui imobil teren in suprafata de 845 mp, avand Nr.Cad. 29044, inscris in C.F.nr.29044, situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T33, parcelele Cc 1645, A 1646, A 1647, apartinand domeniului privat al comunei Floresti,in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233144",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-93-2025",
+   "path": "local/prahova/floresti/2025/93",
+   "short": "HCL Florești nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 93/2025 privind dezmembrarea unui imobil teren in suprafata de 814 mp, avand Nr.Cad. 29045, inscris in C.F.nr.29045, situat in intravilanul comunei Floresti, sat Floresti, judetul Prahova, Tarla T33, parcelele Cc 1645, A 1646, A 1647, apartinand domeniului privat al comunei Floresti,in 2 loturi",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233145",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-94-2025",
+   "path": "local/prahova/floresti/2025/94",
+   "short": "HCL Florești nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 94/2025 privind atestarea apartenentei la domeniul privat al comunei Floresti a unui imobil",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233146",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-95-2025",
+   "path": "local/prahova/floresti/2025/95",
+   "short": "HCL Florești nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 95/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233147",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-96-2025",
+   "path": "local/prahova/floresti/2025/96",
+   "short": "HCL Florești nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 96/2025 privind atestarea apartenentei la domeniul privat al comunei Floresti a unui imobil",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233148",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--floresti-97-2025",
+   "path": "local/prahova/floresti/2025/97",
+   "short": "HCL Florești nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 97/2025 privind declararea ca fiind de utilitate publica de interes local a obiectivelor de investitii ce se vor realiza dupa aprobarea :P.U.Z.„EXTINDERE INTRAVILAN S=5981MP ZONA SPATII VERZI , ZONA GOSPODARIE COMUNALA, ZONA CAI DE COMUNICATI SI SCHIMBARE DESTINATIE TEREN INTRAVILAN DIN ZONA LOCUINTE IN ZONA SPATII VERZI, ZONA GOSPODARIE COMUNALA , ZONA INSTITUTII SI SERVICII SI ZONA CAI DE COMUNICATII I PENTRU AMENAJARE PARC, PARCARE SI EXTINDERE CIMITIR , REALIZARE TRAMA STRADALA SI FUNCTIUNI DE CULT (sST=28099MP)”",
+   "url": "https://emol.ro/floresti-ph/registru-hcl/233149",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-ph/registru-hcl/233149",
      "sha256": null
     }
    ]

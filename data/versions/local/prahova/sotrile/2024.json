@@ -3,6 +3,441 @@
  "shard": "local/prahova/sotrile/2024",
  "acts": [
   {
+   "slug": "hcl-prahova--sotrile-1-2024",
+   "path": "local/prahova/sotrile/2024/1",
+   "short": "HCL Șotrile nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 1/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142022",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-10-2024",
+   "path": "local/prahova/sotrile/2024/10",
+   "short": "HCL Șotrile nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 10/2024 privind alocarea de sume din bugetul local Parohiilor din comuna Șotrile, în anul 2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142031",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-11-2024",
+   "path": "local/prahova/sotrile/2024/11",
+   "short": "HCL Șotrile nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 11/2024 privind validarea dispoziției primarului comunei Șotrile nr. 311 din 27 decembrie 2023 privind aprobarea rectificarii bugetului local pentru anul 2023 și estimări pe anii 2024-2026",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142032",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-12-2024",
+   "path": "local/prahova/sotrile/2024/12",
+   "short": "HCL Șotrile nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 12/2024 privind validarea dispoziției primarului comunei Șotrile nr. 6 din 8 ianuarie 2024 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului sectiunii de functionare a bugetului local din anul 2023",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142033",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-13-2024",
+   "path": "local/prahova/sotrile/2024/13",
+   "short": "HCL Șotrile nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 13/2024 privind modificarea art.3, a Anexei 2 și Anexei 3 la Hotararea consiliului local nr 53 din 30 octombrie 2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Extindere rețea distribuție apă în Plaiul Cornului, Seciuri-comuna Șotrile”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142034",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-14-2024",
+   "path": "local/prahova/sotrile/2024/14",
+   "short": "HCL Șotrile nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 14/2024 privind aprobarea numărului maxim de posturi pentru asistenţii personali ai persoanelor cu handicap grav precum și numărul indemnizatiilor acordate persoanelor cu handicap grav pentru anul 2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/150156",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/150156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-15-2024",
+   "path": "local/prahova/sotrile/2024/15",
+   "short": "HCL Șotrile nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 15/2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/150157",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/150157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-16-2024",
+   "path": "local/prahova/sotrile/2024/16",
+   "short": "HCL Șotrile nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 16/2024 privind aprobarea modificării și completării organigramei și statului de funcții ale aparatului de specialitate al primarului comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/150158",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/150158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-17-2024",
+   "path": "local/prahova/sotrile/2024/17",
+   "short": "HCL Șotrile nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 17/2024 aprobarea indicatorilor tehnico-economici și a devizului general, actualizati dupa semnarea contractului de lucrari, pentru obiectivul de investiții „Extindere rețea distribuție apă în Plaiul Cornului, Seciuri-comuna Șotrile”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și aprobarea sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/152854",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/152854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-18-2024",
+   "path": "local/prahova/sotrile/2024/18",
+   "short": "HCL Șotrile nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 18/2024 privind validarea dispoziției primarului comunei Șotrile nr. 57 din 20 martie 2024 privind aprobarea rectificarii bugetului local pentru anul 2024 și estimări pe anii 2025-2027",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/158346",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/158346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-19-2024",
+   "path": "local/prahova/sotrile/2024/19",
+   "short": "HCL Șotrile nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 19/2024 privind aprobarea Procedurii privind formarea profesională a funcționarilor publici din aparatul de specialitate al primarului comunei Șotrile, pentru anul 2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/158347",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/158347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-2-2024",
+   "path": "local/prahova/sotrile/2024/2",
+   "short": "HCL Șotrile nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 2/2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142023",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-20-2024",
+   "path": "local/prahova/sotrile/2024/20",
+   "short": "HCL Șotrile nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 20/2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/158348",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/158348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-21-2024",
+   "path": "local/prahova/sotrile/2024/21",
+   "short": "HCL Șotrile nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 21/2024 privind aprobarea situatiilor financiare anuale ale comunei Sotrile pe anul 2023",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/158349",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/158349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-22-2024",
+   "path": "local/prahova/sotrile/2024/22",
+   "short": "HCL Șotrile nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 22/2024 aprobarea închiderii contului anual de executie a bugetului local la data de 31 decembrie 2023",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/158350",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/158350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-23-2024",
+   "path": "local/prahova/sotrile/2024/23",
+   "short": "HCL Șotrile nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 23/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Șotrile pentru anul 2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/158351",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/158351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-24-2024",
+   "path": "local/prahova/sotrile/2024/24",
+   "short": "HCL Șotrile nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 24/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/158352",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/158352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-25-2024",
+   "path": "local/prahova/sotrile/2024/25",
+   "short": "HCL Șotrile nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 25/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul I al anului 2024 şi stabilirea măsurilor pentru eficientizarea acestei activităţi, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/159696",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/159696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-26-2024",
+   "path": "local/prahova/sotrile/2024/26",
+   "short": "HCL Șotrile nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 26/2024 privind aprobarea majorarii cu 10% fata de nivelul acordat pentru luna decembrie 2023 a veniturilor salariale existente, ale funcționarilor publici și personalului contractual din cadrul aparatului de specialitate al Primarului Comunei Șotrile, în vederea punerii în aplicare a prevederilor Articolului II din Ordonanța de Urgență a Guvernului nr. 53/2024, începand cu data de 1 iunie 2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/159697",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/159697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-27-2024",
+   "path": "local/prahova/sotrile/2024/27",
+   "short": "HCL Șotrile nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 27/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul II al anului 2024 şi stabilirea măsurilor pentru eficientizarea acestei activităţi, inclusiv pentru soluționarea situațiilor particulare identificate la nivelul localității pe linia completării registrului agricol și care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/167425",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/167425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-28-2024",
+   "path": "local/prahova/sotrile/2024/28",
+   "short": "HCL Șotrile nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 28/2024 privind rectificarea bugetului local pentru anul 2024 si estimarile pentru anii 2025-2027",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/167426",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/167426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-29-2024",
+   "path": "local/prahova/sotrile/2024/29",
+   "short": "HCL Șotrile nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 29/2024 privind aprobarea tipului de suport alimentar ce se va acorda prescolarilor si elevilor Scolii Gimnaziale Comuna Sotrile , inclusa in cadrul Programului național „Masa Sanatoasa”pentru anul 2024 conform Hotărârii Guvernului nr.177/2024 privind repartizarea pe unitati/subdiviziuni administrativ-teritoriale si pe unitati de invatamant preuniversitar de stat a sumei, prevazuta in bugetul de stat pe anul 2024, pentru finantarea Programului national „Masa sanatoasa“",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/167427",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/167427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-3-2024",
+   "path": "local/prahova/sotrile/2024/3",
+   "short": "HCL Șotrile nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 3/2024 privind stabilirea situatiilor deosebite pentru care se acorda ajutoare de urgenta, ajutoare comunitare si ajutoare de înmormantare, familiilor și persoanelor care se află în situații de necesitate si aprobarea Regulamentului de acordare a acestora",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142024",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-30-2024",
+   "path": "local/prahova/sotrile/2024/30",
+   "short": "HCL Șotrile nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 30/2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/167428",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/167428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-31-2024",
+   "path": "local/prahova/sotrile/2024/31",
+   "short": "HCL Șotrile nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 31/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general, ca urmare a Actului aditional nr. 1 la Contractul de lucrari nr.1540 /07.03.2024, pentru obiectivul de investiții „Extindere rețea distribuție apă în Plaiul Cornului, Seciuri-comuna Șotrile”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și aprobarea sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/167429",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/167429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-32-2024",
+   "path": "local/prahova/sotrile/2024/32",
+   "short": "HCL Șotrile nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 32/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/171149",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/171149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-33-2024",
+   "path": "local/prahova/sotrile/2024/33",
+   "short": "HCL Șotrile nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 33/2024 privind rectificarea bugetului local pentru anul 2024 si estimarile pentru anii 2025-2027",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/171150",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/171150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-34-2024",
+   "path": "local/prahova/sotrile/2024/34",
+   "short": "HCL Șotrile nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 34/2024 privind aprobarea proiectului rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Șotrile pe anul școlar 2025-2026, în vederea emiterii avizului conform de către Inspectoratul Școlar Județean Prahova",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/171151",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/171151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-35-2024",
+   "path": "local/prahova/sotrile/2024/35",
+   "short": "HCL Șotrile nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 35/2024 privind aprobarea indicatorilor tehnico-economici și a devizului general, actualizat dupa semnarea contractului de lucrari, pentru obiectivul de “CONSOLIDARE, MODIFICARE ȘI EXTINDERE PRIMĂRIE ȘI POST POLIȚIE CORP – C1, CONSTRUIRE MAGAZIE DE LEMNE, SISTEMATIZARE PE VERTICALĂ ȘI ASIGURARE UTILITĂȚI; DESFIINȚARE CORP C2 (MAGAZIE LEMNE) ȘI CORP C3 (W.C.)”",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/171152",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/171152",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--sotrile-36-2024",
    "path": "local/prahova/sotrile/2024/36",
    "short": "HCL Șotrile nr. 36/2024",
@@ -13,6 +448,126 @@
      "from": "2024-10-08",
      "units": 1,
      "source_url": "https://emol.ro/sotrile-ph/registru-hcl/171153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-37-2024",
+   "path": "local/prahova/sotrile/2024/37",
+   "short": "HCL Șotrile nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 37/2024 privind desemnarea reprezentului Consiliului Local al Comunei Șotrile în Consiliul de administrație al Școlii Gimnaziale, Comuna Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/173863",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/173863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-38-2024",
+   "path": "local/prahova/sotrile/2024/38",
+   "short": "HCL Șotrile nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 38/2024 privind desemnarea unui consilier local in Comisia pentru prevenirea si eliminarea violentei, a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/173864",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/173864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-39-2024",
+   "path": "local/prahova/sotrile/2024/39",
+   "short": "HCL Șotrile nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 39/2024 privind desemnarea reprezentantului Consiliului Local al Comunei Șotrile în Comisia pentru evaluarea și asigurarea calității educației de la nivelul Școlii Gimnaziale, Comuna Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/173865",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/173865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-4-2024",
+   "path": "local/prahova/sotrile/2024/4",
+   "short": "HCL Șotrile nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 4/2024",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142025",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-40-2024",
+   "path": "local/prahova/sotrile/2024/40",
+   "short": "HCL Șotrile nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 40/2024 privind actualizarea indicatorilor tehnico-economici și a devizului general, ca urmare a Actului aditional nr. 2 la Contractul de lucrari nr.1540 /07.03.2024, pentru obiectivul de investiții „Extindere rețea distribuție apă în Plaiul Cornului, Seciuri-comuna Șotrile”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și aprobarea sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului - copie",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/173866",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/173866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-41-2024",
+   "path": "local/prahova/sotrile/2024/41",
+   "short": "HCL Șotrile nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 41/2024 privind achizitionarea serviciilor juridice de consultanţă, de asistenta şi de reprezentare a Unitatii Administrativ–Teritoriale Sotrile, pentru anul 2025",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/173867",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/173867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-42-2024",
+   "path": "local/prahova/sotrile/2024/42",
+   "short": "HCL Șotrile nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 42/2024 privind rectificarea bugetului local pentru anul 2024 si estimarile pentru anii 2025-2027",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/173868",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/173868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-43-2024",
+   "path": "local/prahova/sotrile/2024/43",
+   "short": "HCL Șotrile nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 43/2024 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/176411",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/176411",
      "sha256": null
     }
    ]
@@ -103,6 +658,21 @@
      "from": "2024-12-06",
      "units": 1,
      "source_url": "https://emol.ro/sotrile-ph/registru-hcl/179553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-5-2024",
+   "path": "local/prahova/sotrile/2024/5",
+   "short": "HCL Șotrile nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 5/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de la nivelul comunei Șotrile pe anul școlar 2024-2025",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142026",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142026",
      "sha256": null
     }
    ]
@@ -258,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--sotrile-6-2024",
+   "path": "local/prahova/sotrile/2024/6",
+   "short": "HCL Șotrile nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 6/2024 privind aprobarea utilizarii in anul 2024 a excedentului anual al bugetului local rezultat la incheierea exercitiului bugetar aferent anului 2023",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142027",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142027",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--sotrile-60-2024",
    "path": "local/prahova/sotrile/2024/60",
    "short": "HCL Șotrile nr. 60/2024",
@@ -313,6 +898,51 @@
      "from": "2024-12-18",
      "units": 1,
      "source_url": "https://emol.ro/sotrile-ph/registru-hcl/183321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-7-2024",
+   "path": "local/prahova/sotrile/2024/7",
+   "short": "HCL Șotrile nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 7/2024 privind aprobarea realizării activităṭii de urbanism şi amenajarea teritoriului prin Serviciul de amenajare a teritoriului şi urbanismului constituit în cadrul Filialei Judeṭene Prahova a Asociaṭiei Comunelor din România şi însuşirea Acordului de cooperare privind organizarea şi exercitarea activităṭii de amenajare a teritoriului şi urbanismului",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142028",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-8-2024",
+   "path": "local/prahova/sotrile/2024/8",
+   "short": "HCL Șotrile nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 8/2024 privind aprobarea bugetului local al comunei Șotrile pentru anul 2024 si estimarile pentru anii 2025-2027",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142029",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--sotrile-9-2024",
+   "path": "local/prahova/sotrile/2024/9",
+   "short": "HCL Șotrile nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șotrile nr. 9/2024 privind aprobarea regulamentului pentru decontarea contravalorii cheltuielilor de transport între localitatea de domiciliu/ reședință și localitatea unde se află locul de muncă al acestora pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului comunei Șotrile",
+   "url": "https://emol.ro/sotrile-ph/registru-hcl/142030",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sotrile-ph/registru-hcl/142030",
      "sha256": null
     }
    ]

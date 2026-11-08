@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-13-2022",
+   "path": "local/prahova/olari/2022/13",
+   "short": "HCL Olari nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 13/2022 privind aprobarea organigramei, a statului de funcţii si a numarului de personal al aparatului de specialitate al primarului comunei Olari, pentru anul 2022, a numarului de asistenti personali ai persoanelor cu handicap precum si a listei cu beneficiarii indemnizatiilor lunare pentru persoane cu handicap, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/63369",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/63369",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-14-2022",
    "path": "local/prahova/olari/2022/14",
    "short": "HCL Olari nr. 14/2022",
@@ -423,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--olari-5-2022",
+   "path": "local/prahova/olari/2022/5",
+   "short": "HCL Olari nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 5/2022 privind desemnarea consilierilor locali membri ai comisiei de evaluare a performantelor profesionale ale secretarului general al comunei",
+   "url": "https://emol.ro/olari-ph/registru-hcl/52614",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/52614",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--olari-6-2022",
    "path": "local/prahova/olari/2022/6",
    "short": "HCL Olari nr. 6/2022",
@@ -433,6 +463,21 @@
      "from": "2022-05-24",
      "units": 1,
      "source_url": "https://emol.ro/olari-ph/registru-hcl/61237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--olari-7-2022",
+   "path": "local/prahova/olari/2022/7",
+   "short": "HCL Olari nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Olari nr. 7/2022 privind aprobarea inchirierii, prin atribuire directa, a pajistilor aflate in proprietate privata a comunei Olari, judetul Prahova, initiat de primar;",
+   "url": "https://emol.ro/olari-ph/registru-hcl/61238",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://emol.ro/olari-ph/registru-hcl/61238",
      "sha256": null
     }
    ]

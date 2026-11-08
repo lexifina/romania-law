@@ -3,6 +3,72 @@
 "shard": "local/prahova/scorteni/2023",
 "acts": [
 {
+"slug": "hcl-prahova--scorteni-83-2023",
+"path": "local/prahova/scorteni/2023/83",
+"kind": "local",
+"year": "2023",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 83/2023 privind aprobarea contului de execuție a bugetului local si a bugetului instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local, la data de 30.09.2023",
+"short": "HCL Scorțeni nr. 83/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/126174",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-84-2023",
+"path": "local/prahova/scorteni/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 84/2023 privind rectificarea bugetului local al comunei Scorțeni și al bugetului instituțiilor finantate partial din venituri proprii și subvenții , pe anul 2023",
+"short": "HCL Scorțeni nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/126175",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-85-2023",
+"path": "local/prahova/scorteni/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 85/2023 privind aprobarea consumului lunar de combustibil pentru buldoexcavatorul din dotarea Primăriei Scorțeni, judetul Prahova",
+"short": "HCL Scorțeni nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/126176",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--scorteni-86-2023",
 "path": "local/prahova/scorteni/2023/86",
 "kind": "local",
@@ -22,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Scorțeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--scorteni-87-2023",
+"path": "local/prahova/scorteni/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scorțeni nr. 87/2023 privind aprobarea scoaterii definitive din circuitul agricol a suprafeței de 5200 mp, teren extravilan, categorie de folosință pășune, situat în comuna Scorteni, T.20, parcela 921/30, nr. cad.23657",
+"short": "HCL Scorțeni nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-06",
+"latest": "2023-11-06",
+"portal": "https://emol.ro/scorteni-ph/registru-hcl/126178",
+"council": "prahova/scorteni",
+"council_name": "Consiliul Local al Comunei Scorțeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

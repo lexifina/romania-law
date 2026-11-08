@@ -3,6 +3,21 @@
  "shard": "local/salaj/pericei/2020",
  "acts": [
   {
+   "slug": "hcl-salaj--pericei-1-2020",
+   "path": "local/salaj/pericei/2020/1",
+   "short": "HCL Pericei nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 1/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/3947",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/3947",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-10-2020",
    "path": "local/salaj/pericei/2020/10",
    "short": "HCL Pericei nr. 10/2020",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-12-2020",
+   "path": "local/salaj/pericei/2020/12",
+   "short": "HCL Pericei nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 12/2020 privind aprobarea achziționării serviciului de consulanță , asistență și reprezentare juridică pentru reprezentarea intereselor comunei Pericei, a Consilului Local și a d-lui primar în dosarele nr. 1633/84/2019 și 1634/84/2019 privind pe Bonțe Adrian-Ioan",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/3958",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/3958",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-13-2020",
    "path": "local/salaj/pericei/2020/13",
    "short": "HCL Pericei nr. 13/2020",
@@ -43,6 +73,21 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/3959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-14-2020",
+   "path": "local/salaj/pericei/2020/14",
+   "short": "HCL Pericei nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 14/2020",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/3960",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/3960",
      "sha256": null
     }
    ]
@@ -138,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-20-2020",
+   "path": "local/salaj/pericei/2020/20",
+   "short": "HCL Pericei nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 20/2020 privind aprobarea achiziționării serviciului de consultanță , asistență și reprezentare juridică pentru reprezentarea intereselor , Consilului Local Pericei, Comisia Locală de Fond Pericei , în dosarul nr. 1488/309/2019 privind pe SC SANDU DE LA PERICEI SRL, prin reprezentant legal Tătar Alexndru",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/3966",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/3966",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-21-2020",
    "path": "local/salaj/pericei/2020/21",
    "short": "HCL Pericei nr. 21/2020",
@@ -168,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-23-2020",
+   "path": "local/salaj/pericei/2020/23",
+   "short": "HCL Pericei nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 23/2020 privind alegerea președintelui de ședință pe perioada aprilie-iunie 2020",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/3969",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/3969",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-24-2020",
    "path": "local/salaj/pericei/2020/24",
    "short": "HCL Pericei nr. 24/2020",
@@ -178,6 +253,21 @@
      "from": "2020-03-31",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/3970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-25-2020",
+   "path": "local/salaj/pericei/2020/25",
+   "short": "HCL Pericei nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 25/2020 privind includerea în domeniul public al drumului Sub Vii",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/3971",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/3971",
      "sha256": null
     }
    ]
@@ -498,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-45-2020",
+   "path": "local/salaj/pericei/2020/45",
+   "short": "HCL Pericei nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 45/2020",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/17192",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/17192",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-46-2020",
    "path": "local/salaj/pericei/2020/46",
    "short": "HCL Pericei nr. 46/2020",
@@ -513,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--pericei-47-2020",
+   "path": "local/salaj/pericei/2020/47",
+   "short": "HCL Pericei nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 47/2020 privind alegerea președintelui de ședință la ședința extraordinară din data de 14.08.2020",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/17213",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/17213",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--pericei-48-2020",
    "path": "local/salaj/pericei/2020/48",
    "short": "HCL Pericei nr. 48/2020",
@@ -523,6 +643,21 @@
      "from": "2020-08-14",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/17214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-49-2020",
+   "path": "local/salaj/pericei/2020/49",
+   "short": "HCL Pericei nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 49/2020 privind aprobarea achiziționării serviciului de consultanță, asistență și reprezentarea juridică în dosarul nr. 790/84/2020 privind pe Bonțe Adrian-Ioan",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/17215",
+   "versions": [
+    {
+     "from": "2020-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/17215",
      "sha256": null
     }
    ]
@@ -628,6 +763,21 @@
      "from": "2020-09-18",
      "units": 1,
      "source_url": "https://emol.ro/pericei-sj/registru-hcl/17227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--pericei-56-2020",
+   "path": "local/salaj/pericei/2020/56",
+   "short": "HCL Pericei nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pericei nr. 56/2020 privind alegerea președintelui de ședință din data de 26.10.2020",
+   "url": "https://emol.ro/pericei-sj/registru-hcl/17236",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pericei-sj/registru-hcl/17236",
      "sha256": null
     }
    ]

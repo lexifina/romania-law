@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--vadu-sapat-26-2020",
+   "path": "local/prahova/vadu-sapat/2020/26",
+   "short": "HCL Vadu Săpat nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 26/2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16124",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16124",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--vadu-sapat-27-2020",
    "path": "local/prahova/vadu-sapat/2020/27",
    "short": "HCL Vadu Săpat nr. 27/2020",
@@ -283,6 +298,21 @@
      "from": "2020-07-23",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-28-2020",
+   "path": "local/prahova/vadu-sapat/2020/28",
+   "short": "HCL Vadu Săpat nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 28/2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/16126",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16126",
      "sha256": null
     }
    ]
@@ -628,6 +658,21 @@
      "from": "2020-12-22",
      "units": 1,
      "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/16371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--vadu-sapat-5-2020",
+   "path": "local/prahova/vadu-sapat/2020/5",
+   "short": "HCL Vadu Săpat nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vadu Săpat nr. 5/2020 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav și a numărului de indemnizații pentru persoane cu handicap grav, pe anul 2020",
+   "url": "https://emol.ro/vadusapat-ph/registru-hcl/2538",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/vadusapat-ph/registru-hcl/2538",
      "sha256": null
     }
    ]

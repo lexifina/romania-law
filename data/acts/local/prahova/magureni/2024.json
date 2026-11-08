@@ -135,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-prahova--magureni-7-2024",
+"path": "local/prahova/magureni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 7/2024 privind alegerea presedintelui de sedință pentru lunile martie, aprilie si mai 2024",
+"short": "HCL Măgureni nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/143735",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--magureni-8-2024",
+"path": "local/prahova/magureni/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 8/2024 privind aprobarea alocării din bugetul local a unei sume ce reprezintă cadouri oferite angajatelor cu ocazia zilei de 8 martie",
+"short": "HCL Măgureni nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/143736",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--magureni-9-2024",
 "path": "local/prahova/magureni/2024/9",
 "kind": "local",
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Măgureni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--magureni-10-2024",
+"path": "local/prahova/magureni/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măgureni nr. 10/2024 privind acceptarea unor donatii de teren în zona adiacentă a străzii Merticești",
+"short": "HCL Măgureni nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/magureni-ph/registru-hcl/154307",
+"council": "prahova/magureni",
+"council_name": "Consiliul Local al Comunei Măgureni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

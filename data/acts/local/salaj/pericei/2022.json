@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-3-2022",
+"path": "local/salaj/pericei/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 3/2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-26",
+"latest": "2022-01-26",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/48323",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-4-2022",
 "path": "local/salaj/pericei/2022/4",
 "kind": "local",
@@ -333,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-17-2022",
+"path": "local/salaj/pericei/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 17/2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-29",
+"latest": "2022-03-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/55346",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-18-2022",
 "path": "local/salaj/pericei/2022/18",
 "kind": "local",
@@ -352,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-19-2022",
+"path": "local/salaj/pericei/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 19/2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-29",
+"latest": "2022-03-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/55348",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -418,6 +484,50 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-23-2022",
+"path": "local/salaj/pericei/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 23/2022 privind modificarea HCL nr. 17/23.03.2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/59256",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-24-2022",
+"path": "local/salaj/pericei/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 24/2022 privind modificarea HCL nr. 19/29.03.2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie",
+"short": "HCL Pericei nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/59257",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--lipanesti-14-2026",
+   "path": "local/prahova/lipanesti/2026/14",
+   "short": "HCL Lipănești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Lipănești nr. 14/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--lipanesti-15-2026",
    "path": "local/prahova/lipanesti/2026/15",
    "short": "HCL Lipănești nr. 15/2026",

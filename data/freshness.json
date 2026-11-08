@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 523787,
+  "acts": 526787,
   "by_status": {
-   "current": 452563,
+   "current": 455563,
    "pending-change": 29438,
    "stale": 4595,
    "unverified": 37191,
    "source-unavailable": 0
   },
-  "verified_7d": 465975,
-  "verified_30d": 466018,
+  "verified_7d": 468975,
+  "verified_30d": 469018,
   "pct_verified_7d": 89.0,
   "pct_verified_30d": 89.0,
-  "pct_current": 86.4,
+  "pct_current": 86.5,
   "newest_verified": "2026-11-08",
   "oldest_verified": "2018-07-23"
  },
@@ -142,16 +142,16 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 366166,
+   "acts": 369166,
    "by_status": {
-    "current": 360073,
+    "current": 363073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 360031,
-   "verified_30d": 360073,
+   "verified_7d": 363031,
+   "verified_30d": 363073,
    "pct_verified_7d": 98.3,
    "pct_verified_30d": 98.3,
    "pct_current": 98.3,
@@ -569,16 +569,16 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 366166,
+   "acts": 369166,
    "by_status": {
-    "current": 360073,
+    "current": 363073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 360031,
-   "verified_30d": 360073,
+   "verified_7d": 363031,
+   "verified_30d": 363073,
    "pct_verified_7d": 98.3,
    "pct_verified_30d": 98.3,
    "pct_current": 98.3,
@@ -904,10 +904,10 @@
    "kinds": [
     "local"
    ],
-   "acts": 364190,
+   "acts": 367190,
    "last_successful_check": "2026-11-08",
    "unavailable_since": null,
-   "sites": 687,
+   "sites": 688,
    "sites_unavailable": 7,
    "pct_verified_7d": 98.9,
    "pct_verified_30d": 98.9
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 6927
+ "shards": 6940
 }

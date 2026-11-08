@@ -267,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-13-2021",
+"path": "local/prahova/rafov/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 13/2021 privind aprobarea decontarii navetei cadrelor didactice pentru lunile noiembrie si decembrie 2020",
+"short": "HCL Râfov nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-24",
+"latest": "2021-02-24",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/20382",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-14-2021",
 "path": "local/prahova/rafov/2021/14",
 "kind": "local",
@@ -333,6 +355,29 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-17-2021",
+"path": "local/prahova/rafov/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 17/2021",
+"short": "HCL Râfov nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/27013",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--rafov-18-2021",
 "path": "local/prahova/rafov/2021/18",
 "kind": "local",
@@ -352,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-19-2021",
+"path": "local/prahova/rafov/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 19/2021 privind decontarea navetei cadrelor didactice",
+"short": "HCL Râfov nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/27015",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -440,6 +507,50 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-24-2021",
+"path": "local/prahova/rafov/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 24/2021 privind reziliere contract inchiriere/concesionare islaz",
+"short": "HCL Râfov nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/27024",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-25-2021",
+"path": "local/prahova/rafov/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 25/2021 privind aprobare decontare naveta cadre didactice",
+"short": "HCL Râfov nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/27025",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -705,6 +816,50 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-38-2021",
+"path": "local/prahova/rafov/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 38/2021 privind decontare naveta cadre didactice pentru lunile martie si aprilie",
+"short": "HCL Râfov nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-17",
+"latest": "2021-05-17",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/27417",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-prahova--rafov-39-2021",
+"path": "local/prahova/rafov/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 39/2021 privind privind acordarea unui sprijin financiar parohiilor din comuna",
+"short": "HCL Râfov nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-17",
+"latest": "2021-05-17",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/27418",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1148,6 +1303,28 @@
 }
 },
 {
+"slug": "hcl-prahova--rafov-60-2021",
+"path": "local/prahova/rafov/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 60/2021 privind aprobarea decontarii navetei cadrelor didactice pentru lunile mai, iunie, iulie 2021",
+"short": "HCL Râfov nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-18",
+"latest": "2021-08-18",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/44666",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-prahova--rafov-61-2021",
 "path": "local/prahova/rafov/2021/61",
 "kind": "local",
@@ -1299,6 +1476,28 @@
 "council_name": "Consiliul Local al Comunei Râfov",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-prahova--rafov-68-2021",
+"path": "local/prahova/rafov/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Râfov nr. 68/2021 privind transferul dreptului de proprietate asupra imobilului-teren din proprietatea publica a Comunei Rafov, in proprietatea publica a Statului Roman , reprezentat de Ministerul Transporturilor , Infrastructurii si Telecomunicatiilor , prin Compania Nationala de Administrare a Infrastructurii Rutiere SA , cuprins in Coridorul de Expropriere al Lucrarii de Utilitate Publica de Interes National \" Autostrada Ploiesti-Buzau\"",
+"short": "HCL Râfov nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/rafov-ph/registru-hcl/48206",
+"council": "prahova/rafov",
+"council_name": "Consiliul Local al Comunei Râfov",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

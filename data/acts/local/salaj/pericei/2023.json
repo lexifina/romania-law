@@ -268,6 +268,29 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-13-2023",
+"path": "local/salaj/pericei/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 13/2023",
+"short": "HCL Pericei nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/97177",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-salaj--pericei-14-2023",
 "path": "local/salaj/pericei/2023/14",
 "kind": "local",
@@ -421,6 +444,28 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-21-2023",
+"path": "local/salaj/pericei/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 21/2023 privind constituirea comisiei pentru evaluarea performantelor profesionale individuale ale secretarului general al unitatii administrativ-teritoriale pentru anul 2022",
+"short": "HCL Pericei nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/97185",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -600,6 +645,28 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-30-2023",
+"path": "local/salaj/pericei/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 30/2023 privind modificarea HCL nr. 13 din 24.03.2023 privind aprobarea închirierii prin atribuire directă a pășunii comunale,",
+"short": "HCL Pericei nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/103924",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-31-2023",
 "path": "local/salaj/pericei/2023/31",
 "kind": "local",
@@ -708,6 +775,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--pericei-36-2023",
+"path": "local/salaj/pericei/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 36/2023 privind desemnarea unui consilier local ca membru în cadrul rețelei europene a aleșilor locali pentru programul ”Construim Europa împreună cu autoritățile locale”",
+"short": "HCL Pericei nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/104214",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -821,6 +910,28 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-42-2023",
+"path": "local/salaj/pericei/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 42/2023 privind aprobarea proiectului ” Microbuze electrice pentru elevii din Sălaj” și încheierea acordului de parteneriat pentru depunerea acestuia spre finanțare în cadrul Planului Național de Redresare și Reziliență",
+"short": "HCL Pericei nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-11",
+"latest": "2023-06-11",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/108494",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-43-2023",
 "path": "local/salaj/pericei/2023/43",
 "kind": "local",
@@ -931,6 +1042,50 @@
 }
 },
 {
+"slug": "hcl-salaj--pericei-48-2023",
+"path": "local/salaj/pericei/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 48/2023 privind aprobarea Protocolului de colaborare între comuna Pericei și Ministerul Muncii și Solidarității Sociale în vederea implementării, în colaborare, a proiectului ,,HUB de Servicii MMSS – SII MMSS”;",
+"short": "HCL Pericei nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/111550",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-49-2023",
+"path": "local/salaj/pericei/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 49/2023 privind aprobarea transmiterii a unui teren/imobil care este sediu a circumscripției sanitar-veterinare din proprietatea privată a statului român și administrarea Agenției Domeniului Statului în patrimoniul UAT Pericei;",
+"short": "HCL Pericei nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/111551",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-salaj--pericei-50-2023",
 "path": "local/salaj/pericei/2023/50",
 "kind": "local",
@@ -973,6 +1128,50 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-salaj--pericei-52-2023",
+"path": "local/salaj/pericei/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 52/2023 privind aprobarea Acordului de Parteneriat între Județul Sălaj, și Comuna Pericei, în vederea implementării, în parteneriat, a proiectului ”Realizarea, implementarea, utilizarea și administrarea sistemelor informatice de înaltă performanță, la nivelul județului Sălaj, dezvoltate și găzduite prin sistemul Cloud Regional Nord-Vest”",
+"short": "HCL Pericei nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/111554",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-salaj--pericei-53-2023",
+"path": "local/salaj/pericei/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 53/2023 privind aprobarea contractării unui împrumut în valoare de 1.500.000 lei, în conformitate cu prevederile art.1 din Ordonanța de Urgență a Guvernului nr.24/2023 privind unele măsuri fiscal-bugetare destinare acordării unor împrumuturi din Trezoreria Statului",
+"short": "HCL Pericei nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/111555",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1524,6 +1723,28 @@
 "council_name": "Consiliul Local al Comunei Pericei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-salaj--pericei-79-2023",
+"path": "local/salaj/pericei/2023/79",
+"kind": "local",
+"year": "2023",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pericei nr. 79/2023 privind aprobarea prelungirii duratei de execuție și implementare a contractului de finanțare a proiectului „Înființare centru pentru promovarea specificului tradițional în comuna Pericei”",
+"short": "HCL Pericei nr. 79/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-12",
+"latest": "2023-10-12",
+"portal": "https://emol.ro/pericei-sj/registru-hcl/124647",
+"council": "salaj/pericei",
+"council_name": "Consiliul Local al Comunei Pericei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

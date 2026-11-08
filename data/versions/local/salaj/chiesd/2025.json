@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-salaj--chiesd-10-2025",
+   "path": "local/salaj/chiesd/2025/10",
+   "short": "HCL Chieșd nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 10/2025 privind aprobarea bugetului proiectului actualizat PENTRU OBIECTIVULUI DE INVESTITII:,,INFIINTARE PARC FOTOVOLTAIC PENTRU CONSUMUL PROPRIU AL UAT CHIESD, JUDETUL SALAJ\" Fondul pentru modernizare in Romania Programul-cheie 1:Surse regenerabile de energie si stocarea energiei Sprijinirea investitiilor in noi capacitati de producere a energiei electrice produsa din surse regenerabile pentru autoconsum",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200861",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-11-2025",
+   "path": "local/salaj/chiesd/2025/11",
+   "short": "HCL Chieșd nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 11/2025 privind desemnarea reprezentantului Comunei CHIESD in relatia cu Ministerul Energiei PENTRU OBIECTIVULUI DE INVESTITII: ,,INFIINTARE PARC FOTOVOLTAIC PENTRU CONSUMUL PROPRIU AL UAT CHIESD, JUDETUL SALAJ\" Fondul pentru modernizare in Romania Programul-cheie 1: Surse regenerabile de energie si stocarea energiei Sprijinirea investitiilor in noi capacitati de producere a energiei electrice produsa din surse regenerabile pentru autoconsum",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200987",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-12-2025",
+   "path": "local/salaj/chiesd/2025/12",
+   "short": "HCL Chieșd nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 12/2025 privind desemnarea reprezentantului Comunei CHIESD in relatia cu Ministerul Energiei PENTRU OBIECTIVULUI DE INVESTITII: ,,INFIINTARE PARC FOTOVOLTAIC PENTRU CONSUMUL PROPRIU AL UAT CHIESD, JUDETUL SALAJ\" Fondul pentru modernizare in Romania Programul-cheie 1: Surse regenerabile de energie si stocarea energiei Sprijinirea investitiilor in noi capacitati de producere a energiei electrice produsa din surse regenerabile pentru autoconsum",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200997",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-13-2025",
+   "path": "local/salaj/chiesd/2025/13",
+   "short": "HCL Chieșd nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 13/2025 privind aprobarea contractului de comodat pentru darea în folosință gratuită a imobilelor, reprezentand TEREN DE FOTBAL și construcțiile anexe înscris in CF 51034 CHIEȘD, in favoarea Asociației Club Sportiv FC Chieșd",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200999",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200999",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-14-2025",
    "path": "local/salaj/chiesd/2025/14",
    "short": "HCL Chieșd nr. 14/2025",
@@ -33,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--chiesd-15-2025",
+   "path": "local/salaj/chiesd/2025/15",
+   "short": "HCL Chieșd nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 15/2025 privind aprobarea programului de actiune comunitară destinată prevenirii și combaterii riscului de sărăcie și excluziune socială în anul 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/201006",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201006",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-16-2025",
    "path": "local/salaj/chiesd/2025/16",
    "short": "HCL Chieșd nr. 16/2025",
@@ -43,6 +118,21 @@
      "from": "2025-03-26",
      "units": 1,
      "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-17-2025",
+   "path": "local/salaj/chiesd/2025/17",
+   "short": "HCL Chieșd nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 17/2025 privind aprobarea decontării navetei cadrelor didactice care îşi desfăşoară activitatea pe raza comunei Chieşd, judeţul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/201021",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201021",
      "sha256": null
     }
    ]
@@ -73,6 +163,366 @@
      "from": "2025-03-26",
      "units": 1,
      "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-2-2025",
+   "path": "local/salaj/chiesd/2025/2",
+   "short": "HCL Chieșd nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 2/2025 privind aprobarea Programului Anual al Achizițiilor Publice pe anul 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200782",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-20-2025",
+   "path": "local/salaj/chiesd/2025/20",
+   "short": "HCL Chieșd nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 20/2025 privind actualizarea Planului de analiză și acoperire a riscurilor la nivelul UAT Comuna Chieșd, judetul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/201029",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/201029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-21-2025",
+   "path": "local/salaj/chiesd/2025/21",
+   "short": "HCL Chieșd nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 21/2025 privind alegerea preşedintelui de şedinţă pentru perioada de mai -iulie 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248224",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-22-2025",
+   "path": "local/salaj/chiesd/2025/22",
+   "short": "HCL Chieșd nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 22/2025 privind aprobarea Devizului General actualizat și indicatorii tehnico-economici ai obiectivului de investiţii;,,EXTINDERE BAZA SPORTIVĂ, SAT CHIEȘD, COMUNA CHIEȘD, -FINALIZARE LUCRĂRI, JUDEȚUL SĂLAJ”, ca urmare a aplicării Ordonanței de Urgență nr.47/2022",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248225",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-23-2025",
+   "path": "local/salaj/chiesd/2025/23",
+   "short": "HCL Chieșd nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 23/2025 privind aprobarea Regulamentului de aplicare a normelor de gospodărire comunală pe teritoriul comunei Chieșd, județul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248227",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-24-2025",
+   "path": "local/salaj/chiesd/2025/24",
+   "short": "HCL Chieșd nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 24/2025 privind validarea Dispoziției nr. 87/24.04.2025 cu privire la rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248250",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-25-2025",
+   "path": "local/salaj/chiesd/2025/25",
+   "short": "HCL Chieșd nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 25/2025 privind aprobarea ajustării și a actualizării devizului general al proiectului “Îmbunătățirea actului de învățământ in Loc. Chieșd prin realizarea unei Sali de sport si prin modernizarea si dotarea scolii” –COD SMIS 124158”” si a cheltuielilor legate de proiect in scopul finalizării integrale",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248254",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-26-2025",
+   "path": "local/salaj/chiesd/2025/26",
+   "short": "HCL Chieșd nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 26/2025 privind aprobarea contractării unui împrumut în valoare de 2.476.009 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248255",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-27-2025",
+   "path": "local/salaj/chiesd/2025/27",
+   "short": "HCL Chieșd nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 27/2025 privind alegerea preşedintelui de şedinţă pentru perioada august -octombrie 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248259",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-28-2025",
+   "path": "local/salaj/chiesd/2025/28",
+   "short": "HCL Chieșd nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 28/2025 privind aprobarea cererii de suplimentare, a devizului general actualizat,pentru obiectivul de investitii „MODERNIZARE DRUMURI COMUNALE STRAZI SI TROTUARE IN COMUNA CHIESD JUDETUL SALAJ” in vederea depunerii cererii de suplimentare in cadrul Programului National de Investitii „ANGHEL SALIGNY”, precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului, aprobat pentru finanțare prin Programul național de investiții „ANGHEL SALIGNY”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248260",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-29-2025",
+   "path": "local/salaj/chiesd/2025/29",
+   "short": "HCL Chieșd nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 29/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248261",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-3-2025",
+   "path": "local/salaj/chiesd/2025/3",
+   "short": "HCL Chieșd nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 3/2025 privind aprobarea Planului de lucrari de interes local ce se vor efectua pe anul 2025, de către persoanele apte de muncă, beneficiare de ajutor social potrivit Legii 196/2016 privind venitul minim de incluziune",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200784",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-30-2025",
+   "path": "local/salaj/chiesd/2025/30",
+   "short": "HCL Chieșd nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 30/2025 privind aprobarea procesului verbal nr. 4685 din data de 30.12.2024 privind inventarierea obiectelor de inventar aparționând UAT Chieșd, aprobarea inventarului a bunurilor din domeniului public și privat al Comunei Chieșd",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248262",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-31-2025",
+   "path": "local/salaj/chiesd/2025/31",
+   "short": "HCL Chieșd nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 31/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248271",
+   "versions": [
+    {
+     "from": "2025-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-32-2025",
+   "path": "local/salaj/chiesd/2025/32",
+   "short": "HCL Chieșd nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 32/2025 privind constatarea prorogării valabilității a PLANULUI URBANISTIC GENERAL al comunei Chieșd, jud. Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248272",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-33-2025",
+   "path": "local/salaj/chiesd/2025/33",
+   "short": "HCL Chieșd nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 33/2025 privind aprobarea prelungirii implementării proiectului“Îmbunătățirea actului de învățământ in Loc. Chieșd prin realizarea unei Sali de sport si prin modernizarea si dotarea scolii” –COD SMIS 124158”” si a cheltuielilor legate de proiect in scopul finalizării integrale",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248273",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-34-2025",
+   "path": "local/salaj/chiesd/2025/34",
+   "short": "HCL Chieșd nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 34/2025 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248274",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-35-2025",
+   "path": "local/salaj/chiesd/2025/35",
+   "short": "HCL Chieșd nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 35/2025 privind implementarea proiectului „Dotarea cu utilaje pentru serviciul de salubrizare din cadrul Comunei Chieșd",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248275",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-36-2025",
+   "path": "local/salaj/chiesd/2025/36",
+   "short": "HCL Chieșd nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 36/2025 privind darea in folosință gratuită a microbuzului electric marca AVEURO TRANSIT, către Școala Gimnazială nr. 1 Chieșd, județul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248276",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-37-2025",
+   "path": "local/salaj/chiesd/2025/37",
+   "short": "HCL Chieșd nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 37/2025 privind actualizarea si aprobarea Devizului General pentru obiectivul de investitii ,,INFIINTARE PARC FOTOVOLTAIC PENTRU CONSUMUL PROPRIU AL UAT CHIEȘD, JUDETUL SĂLAJ\" Fondul pentru modernizare in Romania Programul-cheie 1: Surse regenerabile de energie si stocarea energiei Sprijinirea investitiilor in noi capacitati de producere a energiei electrice produsa din surse regenerabile pentru autoconsum",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248277",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-38-2025",
+   "path": "local/salaj/chiesd/2025/38",
+   "short": "HCL Chieșd nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 38/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248280",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-39-2025",
+   "path": "local/salaj/chiesd/2025/39",
+   "short": "HCL Chieșd nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 39/2025 privind emiterea acordului pentru includerea în Programul național de investiții \"Școli sigure și sănătoase\" a obiectivului de investiții „Construire școală generală în Colonia Sighetu Silvaniei nr. 637, comuna Chieșd, județul Sălaj și demolare clădire existentă C1”, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248281",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-4-2025",
+   "path": "local/salaj/chiesd/2025/4",
+   "short": "HCL Chieșd nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 4/2025 privind aprobarea planului de investiții pentru anul 2025 al Comunei CHIEȘD, aferent activelor date în administrare sau concesiune cu finanțare din Fondul Întreținere, Înlocuire, Dezvoltare",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200785",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-40-2025",
+   "path": "local/salaj/chiesd/2025/40",
+   "short": "HCL Chieșd nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 40/2025 privind implementarea proiectului ”IMPLEMENTARE SOLUȚII DE TIP SMART VILLAGE ÎN COMUNA CHIEȘD JUDEȚUL SĂLAJ”",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/248282",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248282",
      "sha256": null
     }
    ]
@@ -378,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-salaj--chiesd-6-2025",
+   "path": "local/salaj/chiesd/2025/6",
+   "short": "HCL Chieșd nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 6/2025 privind aprobarea susținerii financiare a Asociației Club Sportiv FC Chieșd, pentru anul competițional 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200837",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200837",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-salaj--chiesd-60-2025",
    "path": "local/salaj/chiesd/2025/60",
    "short": "HCL Chieșd nr. 60/2025",
@@ -388,6 +853,36 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/chiesd-sj/registru-hcl/248438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-7-2025",
+   "path": "local/salaj/chiesd/2025/7",
+   "short": "HCL Chieșd nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 7/2025 privind alegerea presedintelui de sedință pentru perioada februarie-aprilie 2025",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200846",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-salaj--chiesd-8-2025",
+   "path": "local/salaj/chiesd/2025/8",
+   "short": "HCL Chieșd nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Chieșd nr. 8/2025 privind aprobarea listei cu cantitățile de lucrări pe categorii pentru acțiunea de curățare și igienizare a obiectivului de investitii ,,Curățat și transportat gunoaie de pe râpă de la grajduri și redat terenul circuitului agricol”, sume care vor fi suportate din bugetul local al Comunei Chieșd, județul Sălaj",
+   "url": "https://emol.ro/chiesd-sj/registru-hcl/200860",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/chiesd-sj/registru-hcl/200860",
      "sha256": null
     }
    ]
