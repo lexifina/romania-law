@@ -1222,23 +1222,23 @@
   {
    "shard": "cnsc/2025",
    "kind": "cnsc",
-   "count": 19,
+   "count": 169,
    "acts": "data/acts/cnsc/2025.json",
    "list": "data/acts/cnsc/2025.md",
    "versions": "data/versions/cnsc/2025.json",
    "laws": "data/laws/cnsc/2025.csv",
-   "laws_count": 19,
+   "laws_count": 169,
    "sources": "data/sources/cnsc/2025.csv"
   },
   {
    "shard": "cnsc/2026",
    "kind": "cnsc",
-   "count": 2786,
+   "count": 2807,
    "acts": "data/acts/cnsc/2026.json",
    "list": "data/acts/cnsc/2026.md",
    "versions": "data/versions/cnsc/2026.json",
    "laws": "data/laws/cnsc/2026.csv",
-   "laws_count": 2786,
+   "laws_count": 2807,
    "sources": "data/sources/cnsc/2026.csv"
   },
   {

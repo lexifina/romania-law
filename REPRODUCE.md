@@ -23458,21 +23458,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 322936 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 336858 | |
+| 323107 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 337029 | |
 
-The build made 343377 commits:
+The build made 343548 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 323011 | first version of an act |
+| 323182 | first version of an act |
 | 13964 | one law on its in-force day |
 | 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-08.
 - 827 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 324056 laws in the record.
-- 688598 tags.
+- 324227 laws in the record.
+- 688940 tags.
 
 ## Dates
 
@@ -23484,7 +23484,7 @@ When a law gives no date of its own, the default rule applies: Constitu»õia Rom√
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `218255db0e7fb70401e9a29d222bcfd982dd340435260136cb539afbb4681edd` (4173277365 bytes).
+- Corpus: sha256 `af926b5a676b1f5e50f2d382633d086a3cd4373a4d56f8452a4a998369448581` (4187352448 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `f32298ed33e314d922f2bc4fa295f9b68ff643d6`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -23496,7 +23496,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (1147905 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (1148418 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -308280,6 +308280,156 @@ Model use at data-build time:
 - Decizia CNSC nr. 30/C9/4358 din 08.01.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 328/C6/4912 din 05.02.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 3415/C6/4186 din 22.10.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3788/C2/4530 din 12.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3789/C9/4404 din 12.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3790/C9/4601 din 12.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3791/C2/4828 din 12.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3793/C2/4773 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3794/C4/4705 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3795/C2/4005 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3796/C8/4533 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3797/C4/3175 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3798/C3/3157 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3799/C5/4626 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3800/C3/4543 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3801/C6/4308 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3802/C6/3567 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3803/C10/4741 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3804/C8/4547 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3805/C4/4758 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3808/C3/3089 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3809/C8/4497 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3810/C3/4799 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3811/C1/4831 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3812/C5/4579 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3813/C5/4097 din 15.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3815/C3/4279 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3816/C6/4380 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3817/C6/4008 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3818/C10/4589 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3819/C10/4584 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3820/C10/4746 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3821/C7/4619 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3822/C2/4592 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3823/C2/4416 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3824/C4/4646 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3825/C2/4261 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3826/C9/4488 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3827/C9/4319 din 16.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3828/C3/4797 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3829/C6/3844 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3830/C6/4701 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3831/C6/4759 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3832/C6/3993 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3833/C9/4768 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3834/C10/3598 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3835/C7/4387 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3836/C6/4803 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3838/C3/3250 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3839/C2/4762 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3840/C2/4184 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3841/C2/4267 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3842/C3/4723 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3843/C5/4447 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3845/C10/3071 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3846/C5/4125 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3847/C5/4027 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3848/C3/4890 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3849/C3/4511 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3850/C2/4968 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3851/C5/4929 din 17.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3852/C8/4288 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3853/C6/4366 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3854/C4/4132 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3855/C2/4789 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3856/C2/4339 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3857/C1/4895 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3858/C6/4677 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3860/C4/4849 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3861/C1/4792 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3862/C1/4967 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3863/C1/3923 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3864/C3/4754 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3865/C5/4200 din 18.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3867/C8/4807 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3868/C6/4731 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3869/C4/4811 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3870/C5/4784 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3871/C7/2938 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3872/C6/3385 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3873/C10/4541 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3874/C2/4348 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3875/C4/4028 din 19.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3876/C6/4171 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3877/C6/3956 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3878/C8/4131 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3879/C8/4676 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3880/C7/4943 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3881/C7/4893 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3882/C8/4772 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3883/C9/4647 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3884/C1/4508 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3885/C6/4090 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3886/C1/4798 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3888/C3/4606 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3889/C3/4365 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3890/C10/4903 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3891/C8/4727 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3892/C9/4457 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3893/C9/4569 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3894/C4/3056 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3896/C2/4331 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3897/C1/4247 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3898/C2/4699 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3899/C5/4495 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3900/C5/4734 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3901/C5/4552 din 22.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3902/C6/4640 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3903/C2/4161 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3904/C10/4861 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3905/C3/3775 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3906/C2/4554 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3907/C6/4673 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3908/C1/4443 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3909/C1/4432 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3912/C10/2478 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3913/C6/4983 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3914/C3/4470 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3915/C6/4036 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3916/C5/4829 din 23.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3917/C8/5031 din 24.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3918/C4/5053 din 24.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3919/C6/4205 din 24.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3920/C9/4478 din 24.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3921/C9/4625 din 24.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3922/C9/4954 din 24.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3923/C6/4335 din 24.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3924/C9/4406 din 24.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3926/C7/3167 din 29.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3927/C6/4587 din 29.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3928/C2/4684 din 29.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3929/C4/3052 din 29.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3934/C1/4634 din 29.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3935/C1/4725 din 29.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3936/C7/4947 din 29.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3939/C6/4490 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3940/C6/4832 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3941/C7/4678 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3942/C1/4598 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3943/C9/4925 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3944/C7/4745 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3945/C5/4810 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3946/C2/4671 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3947/C6/4540 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3949/C1/4649 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3950/C9/5000 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3951/C9/4593 din 30.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3952/C1/4610 din 31.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3953/C5/4694 din 31.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3954/C6/4808 din 31.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3955/C2/4719 din 31.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3957/C5/4969 din 31.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3958/C2/4981 din 31.12.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 401/C2/4278 din 11.02.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 46/C6/4140 din 12.01.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 53/C6/4423 din 12.01.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -308287,6 +308437,8 @@ Model use at data-build time:
 - Decizia CNSC nr. 913/C10/3384 din 25.03.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 934/C10/3653 din 26.03.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 99/C5/4879 din 15.01.2025: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 1/C7/3500 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 10/C1/4616 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 100/C8/4836 din 15.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1002/C10/763 din 01.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1003/C3/1023 din 01.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -308371,6 +308523,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1095/C5/1036 din 06.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1098/C2/477 din 06.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1099/C10/4345 din 06.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 11/C1/4774 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 110/C2/4186 din 16.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1101/C9/817 din 07.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1103/C6/439 din 07.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -308458,6 +308611,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1196/C10/219 din 16.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1197/C6/1120 din 16.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1198/C8/642 din 16.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 12/C3/2755 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1202/C2/624 din 16.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1203/C2/462 din 16.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1205/C6/1064 din 17.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -308545,6 +308699,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1296/C5/1082 din 24.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1298/C9/900 din 24.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1299/C6/504 din 24.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 13/C1/4778 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 130/C10/4916 din 19.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1300/C5/1471 din 06.11.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1301/C10/1393 din 24.04.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -308639,6 +308794,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1397/C10/1235 din 04.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1398/C2/982 din 04.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1399/C2/901 din 04.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 14/C5/4736 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1400/C2/1624 din 04.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1401/C9/1281 din 04.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1402/C6/795 din 05.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -308736,6 +308892,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1497/C2/674 din 12.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1498/C1/1070 din 12.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1499/C6/1713 din 12.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 15/C1/4721 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 150/C5/4939 din 20.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1500/C1/1309 din 12.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1501/C3/1730 din 12.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -308828,6 +308985,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1596/C9/1543 din 18.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1597/C3/1677 din 18.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1599/C2/612 din 19.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 16/C8/4889 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 160/C3/3346 din 21.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1600/C6/1058 din 19.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1601/C6/1846 din 19.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -308921,6 +309079,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1697/C3/1182 din 26.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1698/C10/1744 din 26.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1699/C3/1849 din 26.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 17/C3/4670 din 08.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 170/C2/112 din 22.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1700/C2/932 din 26.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1701/C2/1892 din 26.05.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -309017,6 +309176,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1797/C2/2005 din 03.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1798/C9/1532 din 03.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1799/C4/2032 din 03.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 18/C7/3417 din 08.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 180/C5/4806 din 22.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1800/C9/1644 din 03.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1801/C1/1776 din 03.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -309112,6 +309272,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 1897/C6/1607 din 11.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1898/C2/1047 din 11.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1899/C2/1307 din 11.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 19/C4/4915 din 08.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 190/C5/5102 din 23.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1900/C8/1863 din 11.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1901/C6/2223 din 12.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -309198,6 +309359,8 @@ Model use at data-build time:
 - Decizia CNSC nr. 1994/C6/1343 din 19.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1995/C10/5138 din 19.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 1999/C2/2049 din 19.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 2/C4/4418 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 20/C3/3266 din 08.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 200/C3/3610 din 26.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 2000/C9/2013 din 19.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 2001/C1/1072 din 19.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -309285,6 +309448,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 2096/C1/2549 din 30.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 2097/C7/1932 din 30.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 2099/C3/4962 din 30.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 21/C3/2977 din 08.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 210/C8/4920 din 27.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 2100/C3/2544 din 30.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 2101/C4/2540 din 30.06.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -310029,6 +310193,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 2996/C2/3669 din 16.09.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 2997/C8/3742 din 16.09.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 2998/C3/3749 din 16.09.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 3/C9/4695 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 300/C6/4953 din 03.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 3000/C3/3379 din 16.09.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 3001/C3/3680 din 16.09.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -310511,6 +310676,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 3971/C1/3668 din 14.09.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 398/C6/19 din 11.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 399/C2/5128 din 11.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 4/C3/2906 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 40/C5/5136 din 09.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 400/C8/5069 din 11.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 402/C10/384 din 11.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -310605,6 +310771,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 497/C1/17 din 20.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 498/C4/426 din 20.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 499/C2/363 din 20.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 5/C9/4479 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 50/C6/5118 din 12.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 500/C2/5056 din 20.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 501/C6/113 din 23.02.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -310698,6 +310865,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 597/C5/93 din 02.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 598/C9/627 din 03.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 599/C10/543 din 03.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 6/C8/4566 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 60/C5/4779 din 13.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 600/C10/5024 din 03.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 601/C2/5062 din 03.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -310793,6 +310961,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 696/C5/80 din 10.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 697/C9/137 din 10.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 698/C2/5169 din 10.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 7/C4/3903 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 70/C9/5061 din 13.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 700/C7/664 din 11.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 701/C9/694 din 11.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -310890,6 +311059,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 796/C6/282 din 18.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 798/C6/327 din 18.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 799/C5/936 din 18.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 8/C2/4913 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 80/C5/4714 din 13.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 800/C8/592 din 18.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 801/C3/950 din 18.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -310984,6 +311154,7 @@ Model use at data-build time:
 - Decizia CNSC nr. 897/C4/4332 din 25.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 898/C6/1039 din 25.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 899/C1/973 din 25.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Decizia CNSC nr. 9/C3/4114 din 05.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 90/C3/4830 din 14.01.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 900/C10/533 din 25.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia CNSC nr. 901/C6/224 din 25.03.2026: built by Lexifina's cnsc source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
