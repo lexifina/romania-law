@@ -363,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-31-2021",
+   "path": "local/calarasi/stefan-cel-mare/2021/31",
+   "short": "HCL Ștefan cel Mare nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 31/2021",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/35426",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/35426",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-32-2021",
    "path": "local/calarasi/stefan-cel-mare/2021/32",
    "short": "HCL Ștefan cel Mare nr. 32/2021",
@@ -478,6 +493,21 @@
      "from": "2021-08-31",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/35434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-4-2021",
+   "path": "local/calarasi/stefan-cel-mare/2021/4",
+   "short": "HCL Ștefan cel Mare nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 4/2021 privind aprobarea numărului și cuantumului burselor școlare pentru semestrul II al anului școlar 2020-2021",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/25461",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/25461",
      "sha256": null
     }
    ]
@@ -633,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-5-2021",
+   "path": "local/calarasi/stefan-cel-mare/2021/5",
+   "short": "HCL Ștefan cel Mare nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 5/2021 privind aprobarea Planului anual de acțiune pentru serviciile sociale",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/25462",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/25462",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-50-2021",
    "path": "local/calarasi/stefan-cel-mare/2021/50",
    "short": "HCL Ștefan cel Mare nr. 50/2021",
@@ -783,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-6-2021",
+   "path": "local/calarasi/stefan-cel-mare/2021/6",
+   "short": "HCL Ștefan cel Mare nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 6/2021 privind aprobarea trecerii din domeniul public în domeniul privat a imobilului ” Clădire sediu primărie și anexe” în vederea demolării",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/25463",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/25463",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-60-2021",
    "path": "local/calarasi/stefan-cel-mare/2021/60",
    "short": "HCL Ștefan cel Mare nr. 60/2021",
@@ -808,6 +868,36 @@
      "from": "2021-04-21",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/25464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-8-2021",
+   "path": "local/calarasi/stefan-cel-mare/2021/8",
+   "short": "HCL Ștefan cel Mare nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 8/2021",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/25465",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/25465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-9-2021",
+   "path": "local/calarasi/stefan-cel-mare/2021/9",
+   "short": "HCL Ștefan cel Mare nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 9/2021 privind aprobarea activității comisiei pentru probleme de apărare pe anul 2020 și a Planului de activitate al comisiei pentru probleme de apărare pe anul 2021",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/25466",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/25466",
      "sha256": null
     }
    ]

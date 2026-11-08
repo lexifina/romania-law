@@ -3,6 +3,21 @@
  "shard": "local/calarasi/vasilati/2026",
  "acts": [
   {
+   "slug": "hcl-calarasi--vasilati-1-2026",
+   "path": "local/calarasi/vasilati/2026/1",
+   "short": "HCL Vasilați nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 1/2026 privind alegerea Președintelui de ședință al Consiliului Local al comunei Vasilați pentru lunile februarie, martie și aprilie.2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/250398",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/250398",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-10-2026",
    "path": "local/calarasi/vasilati/2026/10",
    "short": "HCL Vasilați nr. 10/2026",
@@ -93,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--vasilati-16-2026",
+   "path": "local/calarasi/vasilati/2026/16",
+   "short": "HCL Vasilați nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 16/2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/259928",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/259928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-17-2026",
+   "path": "local/calarasi/vasilati/2026/17",
+   "short": "HCL Vasilați nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 17/2026 privind numirea persoanei care ţine Registrul de evidenţă a datoriei publice locale și Registrul de evidență a garanţiilor local",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/259929",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/259929",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-18-2026",
    "path": "local/calarasi/vasilati/2026/18",
    "short": "HCL Vasilați nr. 18/2026",
@@ -123,6 +168,96 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--vasilati-2-2026",
+   "path": "local/calarasi/vasilati/2026/2",
+   "short": "HCL Vasilați nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 2/2026 privind aprobarea unei cereri pentru atribuirea în folosință gratuită a unui teren pentru construirea de locuință proprietate personală",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/250399",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/250399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-20-2026",
+   "path": "local/calarasi/vasilati/2026/20",
+   "short": "HCL Vasilați nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 20/2026 privind inventarierea în domeniul privat al comunei Vasilați a unor imobile/terenuri situate în intravilanul comunei Vasilați, județul Călărași",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/259932",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/259932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-21-2026",
+   "path": "local/calarasi/vasilati/2026/21",
+   "short": "HCL Vasilați nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 21/2026 privind alegerea Președintelui de ședință al Consiliului Local al comunei Vasilați pentru lunile mai, iunie și iulie 2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/265303",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/265303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-22-2026",
+   "path": "local/calarasi/vasilati/2026/22",
+   "short": "HCL Vasilați nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 22/2026 privind aprobarea unei cereri pentru atribuirea în folosință gratuită a unui teren pentru construirea de locuință proprietate personală",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/265304",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/265304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-23-2026",
+   "path": "local/calarasi/vasilati/2026/23",
+   "short": "HCL Vasilați nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 23/2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/265305",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/265305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-24-2026",
+   "path": "local/calarasi/vasilati/2026/24",
+   "short": "HCL Vasilați nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 24/2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/265306",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/265306",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-25-2026",
    "path": "local/calarasi/vasilati/2026/25",
    "short": "HCL Vasilați nr. 25/2026",
@@ -133,6 +268,21 @@
      "from": "2026-05-14",
      "units": 1,
      "source_url": "https://emol.ro/vasilati-cl/registru-hcl/265307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-26-2026",
+   "path": "local/calarasi/vasilati/2026/26",
+   "short": "HCL Vasilați nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 26/2026 privind implementarea proiectului “Dezvoltare locală prin amenajarea unui parc în comuna Vasilați, județul Călărași”",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/265308",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/265308",
      "sha256": null
     }
    ]
@@ -168,6 +318,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--vasilati-29-2026",
+   "path": "local/calarasi/vasilati/2026/29",
+   "short": "HCL Vasilați nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 29/2026 privind actualizarea devizului general si a indicatorilor tehnico-economici pentru obiectivul de investiții: ”Asfaltare străzi in comuna Vasilați, județul Călărași”",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/265311",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/265311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-3-2026",
+   "path": "local/calarasi/vasilati/2026/3",
+   "short": "HCL Vasilați nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 3/2026 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pentru semestrul II al anului 2025",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/250400",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/250400",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-30-2026",
    "path": "local/calarasi/vasilati/2026/30",
    "short": "HCL Vasilați nr. 30/2026",
@@ -193,6 +373,111 @@
      "from": "2026-06-15",
      "units": 1,
      "source_url": "https://emol.ro/vasilati-cl/registru-hcl/269971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-32-2026",
+   "path": "local/calarasi/vasilati/2026/32",
+   "short": "HCL Vasilați nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 32/2026 privind aprobarea unui Plan Urbanistic Zonal",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/269972",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/269972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-33-2026",
+   "path": "local/calarasi/vasilati/2026/33",
+   "short": "HCL Vasilați nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 33/2026 privind scăderea din evidențele fiscale ale Primăriei Vasilați a unor sume, reprezentând amenzi contravenționale ale debitorilor decedați",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/269973",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/269973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-34-2026",
+   "path": "local/calarasi/vasilati/2026/34",
+   "short": "HCL Vasilați nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 34/2026 privind aprobarea devizului general pentru obiectivul de investiții: ”Asfaltare străzi in comuna Vasilați, județul Călărași”",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/273122",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/273122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-35-2026",
+   "path": "local/calarasi/vasilati/2026/35",
+   "short": "HCL Vasilați nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 35/2026 privind alegerea Președintelui de ședință al Consiliului Local al comunei Vasilați pentru lunile august, septembrie si octombrie 2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/281601",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/281601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-36-2026",
+   "path": "local/calarasi/vasilati/2026/36",
+   "short": "HCL Vasilați nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 36/2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/281602",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/281602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-37-2026",
+   "path": "local/calarasi/vasilati/2026/37",
+   "short": "HCL Vasilați nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 37/2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/281603",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/281603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-38-2026",
+   "path": "local/calarasi/vasilati/2026/38",
+   "short": "HCL Vasilați nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 38/2026 privind vânzarea prin licitație publică a unui teren în suprafață de 150 mp. situat in tarlaua nr. 8, parcela 169, 170, 171",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/281604",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/281604",
      "sha256": null
     }
    ]
@@ -228,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--vasilati-40-2026",
+   "path": "local/calarasi/vasilati/2026/40",
+   "short": "HCL Vasilați nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 40/2026 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pentru semestrul I al anului 2026",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/281606",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/281606",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--vasilati-41-2026",
    "path": "local/calarasi/vasilati/2026/41",
    "short": "HCL Vasilați nr. 41/2026",
@@ -238,6 +538,21 @@
      "from": "2026-08-10",
      "units": 1,
      "source_url": "https://emol.ro/vasilati-cl/registru-hcl/281607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-42-2026",
+   "path": "local/calarasi/vasilati/2026/42",
+   "short": "HCL Vasilați nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 42/2026 privind aprobarea înregistrării Comunei Vasilați în Sistemul Național Electronic de Plată online a taxelor și impozitelor utilizând cardul bancar (SNEP), implicit înrolarea în platforma Ghiseul.ro",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/288013",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/288013",
      "sha256": null
     }
    ]
@@ -598,6 +913,36 @@
      "from": "2026-02-13",
      "units": 1,
      "source_url": "https://emol.ro/vasilati-cl/registru-hcl/250404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-8-2026",
+   "path": "local/calarasi/vasilati/2026/8",
+   "short": "HCL Vasilați nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 8/2026 privind aprobarea scoaterii la licitație publică în vederea concesionării a unei suprafețe de teren aparținând domeniului privat al comunei Vasilați, având categoria de folosință arabil în izlaz, pentru producerea de energie electrică din surse regenerabile: capacități de producție a energiei solare",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/250405",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/250405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--vasilati-9-2026",
+   "path": "local/calarasi/vasilati/2026/9",
+   "short": "HCL Vasilați nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 9/2026 privind apartenența în domeniul privat al comunei Vasilați a unor imobile/terenuri situate în intravilanul comunei Vasilați, județul Călărași",
+   "url": "https://emol.ro/vasilati-cl/registru-hcl/256278",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/vasilati-cl/registru-hcl/256278",
      "sha256": null
     }
    ]

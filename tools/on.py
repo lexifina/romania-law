@@ -13,6 +13,10 @@ the source of truth: git cannot store dates before 1970, and reading the trailer
 in force on a day is the last commit on or before it that touches the act. Laws published but not yet in force live on
 the future branch, which is read for days after the newest commit on main. Merge commits are ignored.
 
+Drafts are not law. A draft act or bill (folder proiect/, commits labelled `Kind: draft`) has no In-force trailer, so
+this tool never returns one: the listing leaves drafts out, a draft asked for by name is refused, and a commit labelled
+`Kind: draft` is never read even if it touches an act's folder. A draft's README links the act it became, if any.
+
 Acts live in folders named by their official identifier (<kind>/<year>/<number>/, data/paths.json). Before the layout
 move each act's folder was named by its id; this tool reads both, so any day gives the right text. Standard library
 only.
@@ -92,14 +96,23 @@ def variants(path: str) -> list[str]:
     return [path]
 
 
+def is_draft(act: str) -> bool:
+    """A draft act or bill (proiect/<initiator>/<year>/<id>, id proiect-...): not law, never in force."""
+    act = act.strip('/')
+    if act.startswith(('proiect/', 'proiect-')) or paths().get(act, '').startswith('proiect/'):
+        return True
+    return act not in paths() and any(f.startswith('proiect/') for f in folders(act))
+
+
 def history(branch: str, *targets: str) -> list[tuple[str, str, str]]:
-    """(commit, in-force day, author) for every commit touching any of the paths, newest first."""
-    out = git('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an', branch,
-              '--', *targets)
+    """(commit, in-force day, author) for every commit touching any of the paths, newest first. Only commits with an
+    In-force trailer count, and never one labelled Kind: draft (a draft is not law)."""
+    out = git('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an%x09'
+              '%(trailers:key=Kind,valueonly,separator=)', branch, '--', *targets)
     rows = []
     for line in out.splitlines():
-        h, d, a = (line.split('\t') + ['', ''])[:3]
-        if d.strip():
+        h, d, a, k = (line.split('\t') + ['', '', ''])[:4]
+        if d.strip() and k.strip() != 'draft':
             rows.append((h, d.strip(), a))
     return rows
 
@@ -206,10 +219,15 @@ def main():
         acts = sorted(paths()) or sorted({p.split('/')[0] for p in git('ls-tree', '-r', '--name-only', 'main').split('\n')
                                          if '/' in p and p.split('/')[0] not in ('data', 'tools')})
         for act in acts:
+            if is_draft(act):  # drafts are not law: never listed as in force
+                continue
             hit = commit_on(day, act)
             print(f'{act}\t' + (f'{hit[1]}\t{hit[0][:10]}\t{hit[2]}' if hit else 'not in force yet'))
         return
     act = args[1]
+    if is_draft(act):
+        sys.exit(f'{act} is a draft (proiect), not law: it was never in force unless and until adopted. Its README.md '
+                 'says which act it became, if any; read that act instead.')
     hit = commit_on(day, act)
     if not hit:
         sys.exit(f'{act} is not in the record on {day}: it took effect later, or the name is wrong (see `python tools/on.py {day}`).')

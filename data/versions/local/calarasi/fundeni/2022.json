@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/fundeni/2022",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--fundeni-111-2022",
+   "path": "local/calarasi/fundeni/2022/111",
+   "short": "HCL Fundeni nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 111/2022",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-111-din-28.12.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-111-din-28.12.2022.pdf",
+     "sha256": "f0aafead31e073e7f19b4a24ee0194bda33e3a13d6492e9ad9dc0fa5c31b3368"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-113-2022",
+   "path": "local/calarasi/fundeni/2022/113",
+   "short": "HCL Fundeni nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 113/2022",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-113-din-28.12.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-113-din-28.12.2022.pdf",
+     "sha256": "9d036876a75da5d294126e0d2c879d53b22ba835edb5c8a4f02b1cc5c3b76b18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-114-2022",
+   "path": "local/calarasi/fundeni/2022/114",
+   "short": "HCL Fundeni nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 114/2022",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-114-din-28.12.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-114-din-28.12.2022.pdf",
+     "sha256": "491f29d6cda76a819343d4df25601d9ccc171da67efb33f6e3c415bf01672090"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-115-2022",
+   "path": "local/calarasi/fundeni/2022/115",
+   "short": "HCL Fundeni nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 115/2022",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-115-din-28.12.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-115-din-28.12.2022.pdf",
+     "sha256": "507d948cd29a4a4693f8f0eb7d8f458231cde61ba03a5478c1e38b4ae8433058"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--fundeni-116-2022",
+   "path": "local/calarasi/fundeni/2022/116",
+   "short": "HCL Fundeni nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Fundeni nr. 116/2022",
+   "url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-116-din-28.12.2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://primariafundeni.ro/wp-content/uploads/2023/11/HCL-nr-116-din-28.12.2022.pdf",
+     "sha256": "0fffe6f6e273b2d5d39551f358bda405a8d1229aea2e9961a13742676b58381c"
+    }
+   ]
+  }
+ ]
+}

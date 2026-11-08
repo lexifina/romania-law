@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-voda-14-2025",
+   "path": "local/calarasi/stefan-voda/2025/14",
+   "short": "HCL Ștefan Vodă nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 14/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/203585",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/203585",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-voda-15-2025",
    "path": "local/calarasi/stefan-voda/2025/15",
    "short": "HCL Ștefan Vodă nr. 15/2025",
@@ -88,6 +103,21 @@
      "from": "2025-04-29",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/203586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-16-2025",
+   "path": "local/calarasi/stefan-voda/2025/16",
+   "short": "HCL Ștefan Vodă nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 16/2025",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/210015",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/210015",
      "sha256": null
     }
    ]
@@ -148,6 +178,51 @@
      "from": "2025-01-23",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/186885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-20-2025",
+   "path": "local/calarasi/stefan-voda/2025/20",
+   "short": "HCL Ștefan Vodă nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 20/2025",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/210019",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/210019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-21-2025",
+   "path": "local/calarasi/stefan-voda/2025/21",
+   "short": "HCL Ștefan Vodă nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 21/2025 privind aprobarea concesionării suprafeței de 30000 mp teren intravilan, tarla 32, parcela 5, număr cadastral 5738",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/213611",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/213611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-22-2025",
+   "path": "local/calarasi/stefan-voda/2025/22",
+   "short": "HCL Ștefan Vodă nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 22/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/221710",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/221710",
      "sha256": null
     }
    ]
@@ -523,6 +598,36 @@
      "from": "2026-01-05",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/243834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-5-2025",
+   "path": "local/calarasi/stefan-voda/2025/5",
+   "short": "HCL Ștefan Vodă nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 5/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/191889",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/191889",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-6-2025",
+   "path": "local/calarasi/stefan-voda/2025/6",
+   "short": "HCL Ștefan Vodă nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 6/2025",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/199225",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/199225",
      "sha256": null
     }
    ]

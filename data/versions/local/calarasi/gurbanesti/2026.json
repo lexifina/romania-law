@@ -423,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--gurbanesti-5-2026",
+   "path": "local/calarasi/gurbanesti/2026/5",
+   "short": "HCL Gurbănești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 5/2026 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/268142",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/268142",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--gurbanesti-6-2026",
    "path": "local/calarasi/gurbanesti/2026/6",
    "short": "HCL Gurbănești nr. 6/2026",
@@ -433,6 +448,21 @@
      "from": "2026-05-13",
      "units": 1,
      "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/268143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-7-2026",
+   "path": "local/calarasi/gurbanesti/2026/7",
+   "short": "HCL Gurbănești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 7/2026",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/268147",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/268147",
      "sha256": null
     }
    ]

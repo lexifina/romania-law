@@ -3,6 +3,861 @@
  "shard": "local/calarasi/perisoru/2026",
  "acts": [
   {
+   "slug": "hcl-calarasi--perisoru-1-2026",
+   "path": "local/calarasi/perisoru/2026/1",
+   "short": "HCL Perișoru nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 1/2026 privind aprobarea achiziționării serviciilor de consultanță pentru elaborarea, depunerea și implementarea proiectului „Instalarea unui parc fotovoltaic pentru autoconsum în comuna Perișoru, județul Călărași”",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/245725",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/245725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-10-2026",
+   "path": "local/calarasi/perisoru/2026/10",
+   "short": "HCL Perișoru nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 10/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254604",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-11-2026",
+   "path": "local/calarasi/perisoru/2026/11",
+   "short": "HCL Perișoru nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 11/2026 privind prezentarea RAPORTULUI PRIMARULUI DE INFORMARE PRIVIND STAREA ECONOMICA, SOCIALA SI DE MEDIU A COMUNEI PERIȘORU, PE ANUL 2025",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254605",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-12-2026",
+   "path": "local/calarasi/perisoru/2026/12",
+   "short": "HCL Perișoru nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 12/2026 privind aprobarea contului de execuție al bugetului local si al bugetului din venituri proprii al comunei Perişoru la 31 decembrie 2025",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254606",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-13-2026",
+   "path": "local/calarasi/perisoru/2026/13",
+   "short": "HCL Perișoru nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 13/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254607",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-14-2026",
+   "path": "local/calarasi/perisoru/2026/14",
+   "short": "HCL Perișoru nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 14/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254608",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-15-2026",
+   "path": "local/calarasi/perisoru/2026/15",
+   "short": "HCL Perișoru nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 15/2026 privind aprobarea executării pe domeniul public al Comunei Perișoru, a lucrărilor necesare obiectivului : \"Racordare la rețeaua electrică Conac Pribegeanu, comuna Perișoru, județul Călărași\"",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254609",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-16-2026",
+   "path": "local/calarasi/perisoru/2026/16",
+   "short": "HCL Perișoru nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 16/2026 privind aprobarea cheltuielilor pentru transportul cadrelor didactice",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/259831",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/259831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-17-2026",
+   "path": "local/calarasi/perisoru/2026/17",
+   "short": "HCL Perișoru nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 17/2026 privind aprobarea Programului de Actiune Comunitara destinat prevenirii si combaterii riscului de saracie si excluziune sociala in randul beneficiarilor de venit minim de incluziune, pentru anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/259832",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/259832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-18-2026",
+   "path": "local/calarasi/perisoru/2026/18",
+   "short": "HCL Perișoru nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 18/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/259833",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/259833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-19-2026",
+   "path": "local/calarasi/perisoru/2026/19",
+   "short": "HCL Perișoru nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 19/2026 privind aprobarea numarului de asistenți personali ai persoanelor cu handicap grav pentru anul 2026, la nivelul comunei Perișoru, judetul Călărași",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/259834",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/259834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-2-2026",
+   "path": "local/calarasi/perisoru/2026/2",
+   "short": "HCL Perișoru nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 2/2026 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de pe raza comunei Perişoru pentru anul şcolar 2026 - 2027",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/245726",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/245726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-20-2026",
+   "path": "local/calarasi/perisoru/2026/20",
+   "short": "HCL Perișoru nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 20/2026 privind stabilirea coeficienților și salariilor de bază pentru salariații Serviciului \" CONSILIUL LOCAL PERIȘORU - SERVICIUL APĂ CANAL \" serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Perișoru, județul Călărași",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/259835",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/259835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-21-2026",
+   "path": "local/calarasi/perisoru/2026/21",
+   "short": "HCL Perișoru nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 21/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/259836",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/259836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-22-2026",
+   "path": "local/calarasi/perisoru/2026/22",
+   "short": "HCL Perișoru nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 22/2026 privind confirmarea validității Contractului de concesiune nr. 157/ 24.01.1997",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/259837",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/259837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-23-2026",
+   "path": "local/calarasi/perisoru/2026/23",
+   "short": "HCL Perișoru nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 23/2026 privind aprobarea cheltuielilor pentru transportul cadrelor didactice",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264400",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-24-2026",
+   "path": "local/calarasi/perisoru/2026/24",
+   "short": "HCL Perișoru nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 24/2026 privind reorganizarea aparatului de specialitate al primarului comunei Perișoru, aprobarea organigramei și a statului de funcții precum și aprobarea organigramei și a statului de funcții pentru instituțiile publice de interes local cu personalitate juridică de la nivelul comunei Perișoru, județul Călărași",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264401",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-25-2026",
+   "path": "local/calarasi/perisoru/2026/25",
+   "short": "HCL Perișoru nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 25/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264402",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-26-2026",
+   "path": "local/calarasi/perisoru/2026/26",
+   "short": "HCL Perișoru nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 26/2026 privind actualizarea Devizului general ca urmare a creșterii cotei standard de TVA de la 19% la 21% pentru obiectivul de investiții ” EXTINDERE REȚEA DE CANALIZARE ÎN COMUNA PERIȘORU, JUDEȚUL CĂLĂRAȘI” finanțat prin programul ANGHEL SALIGNY",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264403",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-27-2026",
+   "path": "local/calarasi/perisoru/2026/27",
+   "short": "HCL Perișoru nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 27/2026 privind aprobarea cotei corespunzătoare pierderilor de apă a sistemului de alimentare cu apa",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264404",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-28-2026",
+   "path": "local/calarasi/perisoru/2026/28",
+   "short": "HCL Perișoru nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 28/2026 privind modificarea si completarea “Hotararii Consiliului Local nr.16/10.03.2020 privind infiintarea si organizarea serviciului-CONSILIUL LOCAL PERISORU - SERVICIUL APA CANAL”, serviciu public de interes local, specializat, cu personalitate juridica, organizat in subordinea Consiliului Local al comunei Perisoru, judetul Calarasi",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264405",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-29-2026",
+   "path": "local/calarasi/perisoru/2026/29",
+   "short": "HCL Perișoru nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 29/2026 privind modificarea si completarea “Hotararii Consiliului Local nr.40/22.08.2023 privind darea in administrare a serviciului sistemului de alimentare cu apa si de canalizare ale comunei PERISORU judetul Calarasi catre serviciul “CONSILIUL LOCAL PERISORU -SERVICIUL APA CANAL\", serviciu public de interes local, specializat, cu personalitate juridica, organizat in subordinea consiliului local al comunei PERISORU, judetul CALARASI",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264406",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-3-2026",
+   "path": "local/calarasi/perisoru/2026/3",
+   "short": "HCL Perișoru nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 3/2026 privind aprobarea Programului anual de achizitii publice la nivelul comunei Perisoru, judetul Calarasi pe anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254597",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-30-2026",
+   "path": "local/calarasi/perisoru/2026/30",
+   "short": "HCL Perișoru nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 30/2026 privind plata din bugetul local al UAT - Comuna Perișoru Județul Călărași a procentului de 20% din suma eligibilă estimată a fi decontată în cursul anului 2026, pentru obiectivul de investiții „EXTINDERE REȚEA DE CANALIZARE ÎN COMUNA PERIȘORU, JUDEȚUL CĂLĂRAȘI”, finanțat prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264407",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-31-2026",
+   "path": "local/calarasi/perisoru/2026/31",
+   "short": "HCL Perișoru nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 31/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264408",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-32-2026",
+   "path": "local/calarasi/perisoru/2026/32",
+   "short": "HCL Perișoru nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 32/2026 privind solicitarea către Guvernul României, a aprobării transmiterii, cu titlu gratuit, din domeniul public al statului și în admnistrarea Regiei Naționale a Pădurilor, în domeniul public al Comunei Perișoru, a imobilului situat în extravilanul UAT Perișoru",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/264409",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/264409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-33-2026",
+   "path": "local/calarasi/perisoru/2026/33",
+   "short": "HCL Perișoru nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 33/2026 privind aprobarea bugetului de venituri si cheltuieli al Comunei Perisoru pe anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/266818",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/266818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-34-2026",
+   "path": "local/calarasi/perisoru/2026/34",
+   "short": "HCL Perișoru nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 34/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Perișoru pentru o perioada de trei luni mai - iulie 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/266819",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/266819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-35-2026",
+   "path": "local/calarasi/perisoru/2026/35",
+   "short": "HCL Perișoru nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 35/2026 privind aprobarea cheltuielilor pentru transportul cadrelor didactice",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/266820",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/266820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-36-2026",
+   "path": "local/calarasi/perisoru/2026/36",
+   "short": "HCL Perișoru nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 36/2026 privind aprobarea utilizării sumei de 2.300.000 lei din excedentul anual al bugetului local rezultat la încheierea exercițiului bugetar aferent anului 2025, pentru finanţarea cheltuielilor secţiunii de dezvoltare si utilizarea sumei de 2.300.000 lei pentru finantarea cheltuielior sectiunii de functionare a bugetului local pe anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/269050",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/269050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-37-2026",
+   "path": "local/calarasi/perisoru/2026/37",
+   "short": "HCL Perișoru nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 37/2026 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului comunei Perișoru",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/269051",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/269051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-38-2026",
+   "path": "local/calarasi/perisoru/2026/38",
+   "short": "HCL Perișoru nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 38/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/269052",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/269052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-39-2026",
+   "path": "local/calarasi/perisoru/2026/39",
+   "short": "HCL Perișoru nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 39/2026 privind aprobarea contului de execuție al bugetului local si al bugetului din venituri proprii al comunei Perişoru la 31 martie 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/269053",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/269053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-4-2026",
+   "path": "local/calarasi/perisoru/2026/4",
+   "short": "HCL Perișoru nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 4/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254598",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-40-2026",
+   "path": "local/calarasi/perisoru/2026/40",
+   "short": "HCL Perișoru nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 40/2026 privind trecerea unui teren din domeniul public al Comunei Perișoru în domeniul public al Statului Român, ca urmare a nerealizării investiției",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/269054",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/269054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-41-2026",
+   "path": "local/calarasi/perisoru/2026/41",
+   "short": "HCL Perișoru nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 41/2026 privind aprobarea Planului de analiza si acoperire a riscurilor pentru anul 2026 în comuna Perişoru, judeţul Călăraşi",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274622",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-42-2026",
+   "path": "local/calarasi/perisoru/2026/42",
+   "short": "HCL Perișoru nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 42/2026 privind aprobarea Planului de asigurare a resurselor umane , materiale si financiare necesare gestionarii situatiilor de urgenta, pe anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274623",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-43-2026",
+   "path": "local/calarasi/perisoru/2026/43",
+   "short": "HCL Perișoru nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 43/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274624",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-44-2026",
+   "path": "local/calarasi/perisoru/2026/44",
+   "short": "HCL Perișoru nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 44/2026 privind modificarea și completarea Hotărârii Consiliului Local Perisoru nr. 29 din 27.05.2025 privind modificarea și completarea Hotărârii Consiliului Local Perisoru nr.16 din 10.03.2020 privind înfiinţarea şi organizarea serviciului “CONSILIUL LOCAL PERISORU - SERVICIUL APĂ CANAL”, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Perişoru, judeţul Călăraşi",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274625",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-45-2026",
+   "path": "local/calarasi/perisoru/2026/45",
+   "short": "HCL Perișoru nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 45/2026 privind aprobarea cheltuielilor pentru transportul cadrelor didactice",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274626",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-46-2026",
+   "path": "local/calarasi/perisoru/2026/46",
+   "short": "HCL Perișoru nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 46/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274627",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-47-2026",
+   "path": "local/calarasi/perisoru/2026/47",
+   "short": "HCL Perișoru nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 47/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274628",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-48-2026",
+   "path": "local/calarasi/perisoru/2026/48",
+   "short": "HCL Perișoru nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 48/2026 privind aprobarea continuarii desfasurarii activitatii serviciul “CONSILIUL LOCAL PERISORU -SERVICIUL APA CANAL\"",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274629",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-49-2026",
+   "path": "local/calarasi/perisoru/2026/49",
+   "short": "HCL Perișoru nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 49/2026 privind aprobarea utilizării sumei de 2.000.000 lei din excedentul anual al bugetului local rezultat la încheierea exercițiului bugetar aferent anului 2025, pentru finanţarea cheltuielilor secţiunii de dezvoltare si utilizarea sumei de 2.000.000 lei pentru finantarea cheltuielior sectiunii de dezvoltare a bugetului local pe anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/274630",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/274630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-5-2026",
+   "path": "local/calarasi/perisoru/2026/5",
+   "short": "HCL Perișoru nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 5/2026 privind aprobarea dării în administrare gratuită Școlii gimnaziale nr. 1 Perișoru a unor bunuri aparținând domeniului privat al Comunei Perișoru achiziționate în cadrul proiectului „Dotarea cu mobilier, materiale didactice și echipamente digitale a Școlii Gimnaziale nr. 1 Perișoru \" – Școlii gimnaziale nr. 1 Perișoru inclusiv Grădinița cu program normal nr. 1 Perișoru, Componenta C15: Educație, Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254599",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-50-2026",
+   "path": "local/calarasi/perisoru/2026/50",
+   "short": "HCL Perișoru nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 50/2026 privind menținerea și actualizarea arondării Comunei Perișoru la Serviciul Public Comunitar Local de Evidență a Persoanelor Dragalina, județul Călărași",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/278970",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/278970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-51-2026",
+   "path": "local/calarasi/perisoru/2026/51",
+   "short": "HCL Perișoru nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 51/2026 privind aprobarea desfășurării de activități de jocuri de tip pariuri pe raza Comunei Perișoru, județul Călărași",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/280270",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/280270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-52-2026",
+   "path": "local/calarasi/perisoru/2026/52",
+   "short": "HCL Perișoru nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 52/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/280271",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/280271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-53-2026",
+   "path": "local/calarasi/perisoru/2026/53",
+   "short": "HCL Perișoru nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 53/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/280272",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/280272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-54-2026",
+   "path": "local/calarasi/perisoru/2026/54",
+   "short": "HCL Perișoru nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 54/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Perișoru pentru o perioada de trei luni august - octombrie 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/285153",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/285153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-55-2026",
+   "path": "local/calarasi/perisoru/2026/55",
+   "short": "HCL Perișoru nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 55/2026 privind aprobarea cheltuielilor pentru transportul cadrelor didactice",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/285154",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/285154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-56-2026",
+   "path": "local/calarasi/perisoru/2026/56",
+   "short": "HCL Perișoru nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 56/2026 privind validarea și însușirea Dispoziţiei Primarului Comunei Perișoru nr. 159 din 10 august 2026, privind rectificarea bugetului local de venituri și cheltuieli al Comunei Perișoru pentru anul 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/285155",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/285155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-57-2026",
+   "path": "local/calarasi/perisoru/2026/57",
+   "short": "HCL Perișoru nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 57/2026 privind modificarea și completarea Hotărârii Consiliului local Perișoru nr. 24 din 23 aprilie 2026 privind reorganizarea aparatului de specialitate al primarului comunei Perișoru, aprobarea organigramei și a statului de funcții precum și aprobarea organigramei și a statului de funcții pentru instituțiile publice de interes local cu personalitate juridică de la nivelul comunei Perișoru, județul Călărași",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/285156",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/285156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-58-2026",
+   "path": "local/calarasi/perisoru/2026/58",
+   "short": "HCL Perișoru nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 58/2026 privind aprobarea contului de execuție al bugetului local si al bugetului din venituri proprii al comunei Perişoru la 30 iunie 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/285157",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/285157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-59-2026",
+   "path": "local/calarasi/perisoru/2026/59",
+   "short": "HCL Perișoru nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 59/2026 privind aprobarea tarifului de colectare, transport și valorificare a deșeurilor textile practicat în ZONA 3 CĂLĂRAȘI și a tarifului total pentru colectarea și transportul deșeurilor menajere pentru utilizatorii casnici și non-casnici de pe raza comunei Perișoru",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/285158",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/285158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-6-2026",
+   "path": "local/calarasi/perisoru/2026/6",
+   "short": "HCL Perișoru nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 6/2026 privind constatarea oportunității aprobării inițierii demersurilor necesare înființării Grădiniței cu program prelungit \" Alice în țara minunilor\" în comuna Perișoru, județul Călărași",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254600",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-60-2026",
+   "path": "local/calarasi/perisoru/2026/60",
+   "short": "HCL Perișoru nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 60/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/285159",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/285159",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--perisoru-61-2026",
    "path": "local/calarasi/perisoru/2026/61",
    "short": "HCL Perișoru nr. 61/2026",
@@ -133,6 +988,21 @@
      "from": "2026-10-02",
      "units": 1,
      "source_url": "https://emol.ro/perisoru-cl/registru-hcl/288388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-7-2026",
+   "path": "local/calarasi/perisoru/2026/7",
+   "short": "HCL Perișoru nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 7/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Perișoru pentru o perioada de trei luni februarie - aprilie 2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254601",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254601",
      "sha256": null
     }
    ]
@@ -288,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--perisoru-8-2026",
+   "path": "local/calarasi/perisoru/2026/8",
+   "short": "HCL Perișoru nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 8/2026 privind aprobarea cheltuielilor pentru transportul cadrelor didactice",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254602",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254602",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--perisoru-80-2026",
    "path": "local/calarasi/perisoru/2026/80",
    "short": "HCL Perișoru nr. 80/2026",
@@ -298,6 +1183,21 @@
      "from": "2026-11-03",
      "units": 1,
      "source_url": "https://emol.ro/perisoru-cl/registru-hcl/297379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--perisoru-9-2026",
+   "path": "local/calarasi/perisoru/2026/9",
+   "short": "HCL Perișoru nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Perișoru nr. 9/2026",
+   "url": "https://emol.ro/perisoru-cl/registru-hcl/254603",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/perisoru-cl/registru-hcl/254603",
      "sha256": null
     }
    ]

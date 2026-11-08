@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-10-2026",
+   "path": "local/calarasi/sarulesti/2026/10",
+   "short": "HCL Sărulești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 10/2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/257335",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-11-2026",
+   "path": "local/calarasi/sarulesti/2026/11",
+   "short": "HCL Sărulești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 11/2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/257336",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-12-2026",
+   "path": "local/calarasi/sarulesti/2026/12",
+   "short": "HCL Sărulești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 12/2026 privind aprobarea Planului de acțiune locala pe anul 2026 privind incluziunea cetățenilor români aparținând minorității rome",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/257337",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257337",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-13-2026",
    "path": "local/calarasi/sarulesti/2026/13",
    "short": "HCL Sărulești nr. 13/2026",
@@ -58,6 +103,51 @@
      "from": "2026-03-11",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/258009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-16-2026",
+   "path": "local/calarasi/sarulesti/2026/16",
+   "short": "HCL Sărulești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 16/2026 privind revocarea Hotărârii Consiliului Local nr. 35/27.06.2025 privind numirea reprezentanților Consiliului Local în comisia de evaluare pentru concesionare, închiriere și vânzarea bunurilor imobile, din domeniul public și privat al comunei Sărulești, județul Călărași",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/286010",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/286010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-17-2026",
+   "path": "local/calarasi/sarulesti/2026/17",
+   "short": "HCL Sărulești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 17/2026 privind înființarea unui post contractual de îngrijitor cu atribuții administrative, în cadrul Compartimentului Cultură, al aparatului de specialitate al Primarului din Comuna Sărulești județul Călărași",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/286009",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/286009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-18-2026",
+   "path": "local/calarasi/sarulesti/2026/18",
+   "short": "HCL Sărulești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 18/2026 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Sărulești, ca urmare a publicării Ordonanței de Urgență nr.7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/285963",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/285963",
      "sha256": null
     }
    ]
@@ -123,6 +213,66 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-22-2026",
+   "path": "local/calarasi/sarulesti/2026/22",
+   "short": "HCL Sărulești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 22/2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/285977",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/285977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-23-2026",
+   "path": "local/calarasi/sarulesti/2026/23",
+   "short": "HCL Sărulești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 23/2026 privind suplimentarea numărului de posturi pentru asistenții personali, însoțitori ai persoanelor cu handicap grav începând cu luna mai 2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/285978",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/285978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-24-2026",
+   "path": "local/calarasi/sarulesti/2026/24",
+   "short": "HCL Sărulești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 24/2026 privind alegerea președintelui de ședință al Consiliului Local Sărulești pentru o perioadă de trei luni (mai 2026-iulie 2026)",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/285979",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/285979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-25-2026",
+   "path": "local/calarasi/sarulesti/2026/25",
+   "short": "HCL Sărulești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 25/2026 privind rectificarea bugetului local al comunei Sărulești județul Călărași pe anul 2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/285980",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/285980",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-26-2026",
    "path": "local/calarasi/sarulesti/2026/26",
    "short": "HCL Sărulești nr. 26/2026",
@@ -178,6 +328,21 @@
      "from": "2026-09-01",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/286006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-3-2026",
+   "path": "local/calarasi/sarulesti/2026/3",
+   "short": "HCL Sărulești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 3/2026 privind aprobarea Planului de actiuni sau de lucrari de interes local care urmeaza a fi prestate de catre beneficiarii de ajutor social in anul 2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/257291",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257291",
      "sha256": null
     }
    ]
@@ -438,6 +603,51 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-5-2026",
+   "path": "local/calarasi/sarulesti/2026/5",
+   "short": "HCL Sărulești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 5/2026 privind aprobarea Planului pentru asigurarea resurselor umane, materiale si financiare necesare gestionarii situațiilor de urgenta in anul 2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/257293",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-6-2026",
+   "path": "local/calarasi/sarulesti/2026/6",
+   "short": "HCL Sărulești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 6/2026 privind aprobarea raportului de activitate al asistenților personali desfașurat în semestrul II al anului 2025",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/257294",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-7-2026",
+   "path": "local/calarasi/sarulesti/2026/7",
+   "short": "HCL Sărulești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 7/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/257332",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257332",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-8-2026",
    "path": "local/calarasi/sarulesti/2026/8",
    "short": "HCL Sărulești nr. 8/2026",
@@ -448,6 +658,21 @@
      "from": "2026-03-06",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-9-2026",
+   "path": "local/calarasi/sarulesti/2026/9",
+   "short": "HCL Sărulești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 9/2026",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/257334",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/257334",
      "sha256": null
     }
    ]

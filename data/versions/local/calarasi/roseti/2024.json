@@ -3,6 +3,36 @@
  "shard": "local/calarasi/roseti/2024",
  "acts": [
   {
+   "slug": "hcl-calarasi--roseti-1-2024",
+   "path": "local/calarasi/roseti/2024/1",
+   "short": "HCL Roseți nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 1/2024 privind aprobarea execuției bugetare la trimestrul IV a bugetului local al comunei Roseți, județul Călărași în anul 2023",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141550",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-10-2024",
+   "path": "local/calarasi/roseti/2024/10",
+   "short": "HCL Roseți nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 10/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141559",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141559",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-100-2024",
    "path": "local/calarasi/roseti/2024/100",
    "short": "HCL Roseți nr. 100/2024",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-11-2024",
+   "path": "local/calarasi/roseti/2024/11",
+   "short": "HCL Roseți nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 11/2024 privind aprobarea decontarii cheltuielilor cu naveta, pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Roseți, județul Călărași precum și din cadrul instituțiilor publice de interes local (salariații din cadrul SCUPAAC Roseți)",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141560",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141560",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-110-2024",
    "path": "local/calarasi/roseti/2024/110",
    "short": "HCL Roseți nr. 110/2024",
@@ -198,6 +243,186 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-12-2024",
+   "path": "local/calarasi/roseti/2024/12",
+   "short": "HCL Roseți nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 12/2024 privind acordarea unui sprijin financiar din bugetul local al comunei Roseți unității de cult aparținând cultelor religioase recunoscute din România de pe raza comunei Roseți, județul Călărași- Parohia Roseți 1",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/147278",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/147278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-13-2024",
+   "path": "local/calarasi/roseti/2024/13",
+   "short": "HCL Roseți nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 13/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/147279",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/147279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-14-2024",
+   "path": "local/calarasi/roseti/2024/14",
+   "short": "HCL Roseți nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 14/2024 privind aprobare măsuri referitoare la structura organizatorică de la nivelul comunei Roseți pentru aparatul de specialitate al primarului comunei Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/147280",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/147280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-15-2024",
+   "path": "local/calarasi/roseti/2024/15",
+   "short": "HCL Roseți nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 15/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/147281",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/147281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-16-2024",
+   "path": "local/calarasi/roseti/2024/16",
+   "short": "HCL Roseți nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 16/2024 privind aprobarea închirierii unor suprafeţe din islazul comunei Roseţi, precum și aprobarea unor măsuri organizatorice în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/147282",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/147282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-17-2024",
+   "path": "local/calarasi/roseti/2024/17",
+   "short": "HCL Roseți nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 17/2024 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/147283",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/147283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-18-2024",
+   "path": "local/calarasi/roseti/2024/18",
+   "short": "HCL Roseți nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 18/2024 privind utilizare sumă din excedentul bugetului local pentru cheltuieli de dezvoltare precum și rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153310",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-19-2024",
+   "path": "local/calarasi/roseti/2024/19",
+   "short": "HCL Roseți nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 19/2024 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153317",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-2-2024",
+   "path": "local/calarasi/roseti/2024/2",
+   "short": "HCL Roseți nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 2/2024 privind analiza stadiului de înscriere a datelor în registrul agricol la trimestrul IV al anului 2023",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141551",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-20-2024",
+   "path": "local/calarasi/roseti/2024/20",
+   "short": "HCL Roseți nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 20/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153318",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-21-2024",
+   "path": "local/calarasi/roseti/2024/21",
+   "short": "HCL Roseți nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 21/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153319",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-22-2024",
+   "path": "local/calarasi/roseti/2024/22",
+   "short": "HCL Roseți nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 22/2024 privind încetarea contractului de inchiriere nr. 3928/07.04.2022 a suprafeței de 5 hectare islaz/pajiște din domeniul privat al comunei Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153320",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153320",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-23-2024",
    "path": "local/calarasi/roseti/2024/23",
    "short": "HCL Roseți nr. 23/2024",
@@ -208,6 +433,21 @@
      "from": "2024-04-22",
      "units": 1,
      "source_url": "https://emol.ro/roseti-cl/registru-hcl/153321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-24-2024",
+   "path": "local/calarasi/roseti/2024/24",
+   "short": "HCL Roseți nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 24/2024 privind încetarea contractului de inchiriere nr.3541/30.04.2014 a suprafeței de 10 hectare islaz/pajiște din domeniul privat al comunei Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153322",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153322",
      "sha256": null
     }
    ]
@@ -228,6 +468,141 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-26-2024",
+   "path": "local/calarasi/roseti/2024/26",
+   "short": "HCL Roseți nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 26/2024 privind predarea către Ministerul Dezvoltării, Lucrărilor Publice și Administrației prin Compania Națională de Investiții ‘’C.N.I’’ S.A a amplasamentului precum și asigurarea condițiilor necesare în vederea executării obiectivului de investiții ’’ Construire și dotare dispensar comunal, strada Parcului, nr. 26, sat Roseți, comuna Roseți, județul Călărași’’",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153923",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-27-2024",
+   "path": "local/calarasi/roseti/2024/27",
+   "short": "HCL Roseți nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 27/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153924",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-28-2024",
+   "path": "local/calarasi/roseti/2024/28",
+   "short": "HCL Roseți nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 28/2024 privind aprobarea studiului de fezabilitate actualizat precum și a indicatorilor tehnico-economici pentru obiectivul de investiţii “Construire şi Dotare Dispensar Comunal, str. Parcului, nr. 26, sat Roseţi, comuna Roseţi, Judeţul Călăraşi”",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153925",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-29-2024",
+   "path": "local/calarasi/roseti/2024/29",
+   "short": "HCL Roseți nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 29/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/153926",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/153926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-3-2024",
+   "path": "local/calarasi/roseti/2024/3",
+   "short": "HCL Roseți nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 3/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141552",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-30-2024",
+   "path": "local/calarasi/roseti/2024/30",
+   "short": "HCL Roseți nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 30/2024 privind analiza stadiului de înscriere a datelor în registrul agricol la trimestrul I al anului 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/155757",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/155757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-31-2024",
+   "path": "local/calarasi/roseti/2024/31",
+   "short": "HCL Roseți nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 31/2024 privind alegerea președintelui de ședință precum și a potențialului președinte de ședință pentru următoarele trei luni de zile",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/155758",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/155758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-32-2024",
+   "path": "local/calarasi/roseti/2024/32",
+   "short": "HCL Roseți nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 32/2024 privind aprobarea execuției bugetare la trimestrul I a bugetului local al comunei Roseți, județul Călărași în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/155759",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/155759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-33-2024",
+   "path": "local/calarasi/roseti/2024/33",
+   "short": "HCL Roseți nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 33/2024 privind utilizare sumă din excedent pentru cheltuieli de dezvoltare precum și rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/155760",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/155760",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-34-2024",
    "path": "local/calarasi/roseti/2024/34",
    "short": "HCL Roseți nr. 34/2024",
@@ -238,6 +613,156 @@
      "from": "2024-05-09",
      "units": 1,
      "source_url": "https://emol.ro/roseti-cl/registru-hcl/155761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-35-2024",
+   "path": "local/calarasi/roseti/2024/35",
+   "short": "HCL Roseți nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 35/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/155762",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/155762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-36-2024",
+   "path": "local/calarasi/roseti/2024/36",
+   "short": "HCL Roseți nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 36/2024 privind neaplicarea prevederilor art. XXIX din Legea nr. 296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare, Serviciului Comunal de Utilități Publice Alimentare cu Apă și Canalizare-SCUPAAC Roseți",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/155763",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/155763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-37-2024",
+   "path": "local/calarasi/roseti/2024/37",
+   "short": "HCL Roseți nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 37/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/155764",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/155764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-38-2024",
+   "path": "local/calarasi/roseti/2024/38",
+   "short": "HCL Roseți nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 38/2024 privind aprobare raport de evaluare pentru suprafața de pășune/islaz aparținând domeniului privat al comunei Roseți precum și aprobarea de măsuri organizatorice în vederea atribuirii directe/închirierii prin licitație publică crescătorilor de animale",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/155765",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/155765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-39-2024",
+   "path": "local/calarasi/roseti/2024/39",
+   "short": "HCL Roseți nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 39/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/158846",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/158846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-4-2024",
+   "path": "local/calarasi/roseti/2024/4",
+   "short": "HCL Roseți nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 4/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141553",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-40-2024",
+   "path": "local/calarasi/roseti/2024/40",
+   "short": "HCL Roseți nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 40/2024 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/158847",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/158847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-41-2024",
+   "path": "local/calarasi/roseti/2024/41",
+   "short": "HCL Roseți nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 41/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/158848",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/158848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-42-2024",
+   "path": "local/calarasi/roseti/2024/42",
+   "short": "HCL Roseți nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 42/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/158849",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/158849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-43-2024",
+   "path": "local/calarasi/roseti/2024/43",
+   "short": "HCL Roseți nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 43/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/158850",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/158850",
      "sha256": null
     }
    ]
@@ -273,6 +798,261 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-46-2024",
+   "path": "local/calarasi/roseti/2024/46",
+   "short": "HCL Roseți nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 46/2024 privind aprobarea actului adițional nr. 1 la contractul nr. 3934/07.04.2022 privind închiriere suprafață de pajiște/islaz, domeniu privat al comunei Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/158853",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/158853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-47-2024",
+   "path": "local/calarasi/roseti/2024/47",
+   "short": "HCL Roseți nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 47/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/158854",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/158854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-48-2024",
+   "path": "local/calarasi/roseti/2024/48",
+   "short": "HCL Roseți nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 48/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/159447",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/159447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-49-2024",
+   "path": "local/calarasi/roseti/2024/49",
+   "short": "HCL Roseți nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 49/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/161275",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/161275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-5-2024",
+   "path": "local/calarasi/roseti/2024/5",
+   "short": "HCL Roseți nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 5/2024 privind alegerea preşedintelui de şedinţă precum și a potențialului președinte de ședință pentru următoarele trei luni de zile",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141554",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-50-2024",
+   "path": "local/calarasi/roseti/2024/50",
+   "short": "HCL Roseți nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 50/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/161276",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/161276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-51-2024",
+   "path": "local/calarasi/roseti/2024/51",
+   "short": "HCL Roseți nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 51/2024 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/161277",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/161277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-52-2024",
+   "path": "local/calarasi/roseti/2024/52",
+   "short": "HCL Roseți nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 52/2024 privind aprobarea majorării salariului de bază al funcționarilor publici și personalului contractual din cadrul familiei ocupaționale „Administrație” din cadrul aparatului de specialitate al primarului Comunei Roseți precum și din cadrul instituțiilor publice cu personalitate juridică din subordinea Consiliului Local, începând cu luna iunie 2024, ca efect al aplicării Ordonanței de urgență a Guvernului nr. 53/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/161278",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/161278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-53-2024",
+   "path": "local/calarasi/roseti/2024/53",
+   "short": "HCL Roseți nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 53/2024 privind analiza stadiului de înscriere a datelor în registrul agricol la trimestrul II al anului 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/166227",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/166227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-54-2024",
+   "path": "local/calarasi/roseti/2024/54",
+   "short": "HCL Roseți nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 54/2024 privind alegerea preşedintelui de şedinţă precum și a potențialului președinte de ședință pentru următoarele trei luni de zile",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/166228",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/166228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-55-2024",
+   "path": "local/calarasi/roseti/2024/55",
+   "short": "HCL Roseți nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 55/2024 privind aprobarea execuției bugetare la trimestrul II a bugetului local al comunei Roseți, județul Călărași în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/166229",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/166229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-56-2024",
+   "path": "local/calarasi/roseti/2024/56",
+   "short": "HCL Roseți nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 56/2024 privind rectificarea bugetului local al comunei Roseți, județul Călărași în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/166230",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/166230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-57-2024",
+   "path": "local/calarasi/roseti/2024/57",
+   "short": "HCL Roseți nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 57/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/166231",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/166231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-58-2024",
+   "path": "local/calarasi/roseti/2024/58",
+   "short": "HCL Roseți nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 58/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/166232",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/166232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-59-2024",
+   "path": "local/calarasi/roseti/2024/59",
+   "short": "HCL Roseți nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 59/2024 privind atribuirea în folosință gratuită a unei suprafețe de teren din intravilanul comunei Roseți, conform Legii 15/2003 pentru construire locuință proprietate personală numiților STERE Ionela-Alina și STERE Ionuț-Gabriel",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/166233",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/166233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-6-2024",
+   "path": "local/calarasi/roseti/2024/6",
+   "short": "HCL Roseți nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 6/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141555",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-60-2024",
+   "path": "local/calarasi/roseti/2024/60",
+   "short": "HCL Roseți nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 60/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/166234",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/166234",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-61-2024",
    "path": "local/calarasi/roseti/2024/61",
    "short": "HCL Roseți nr. 61/2024",
@@ -283,6 +1063,291 @@
      "from": "2024-08-21",
      "units": 1,
      "source_url": "https://emol.ro/roseti-cl/registru-hcl/166241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-62-2024",
+   "path": "local/calarasi/roseti/2024/62",
+   "short": "HCL Roseți nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 62/2024 privind utilizare sume din excedentul bugetului local pentru cheltuieli ale secțiunii de dezvoltare precum și rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/170633",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/170633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-63-2024",
+   "path": "local/calarasi/roseti/2024/63",
+   "short": "HCL Roseți nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 63/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/170634",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/170634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-64-2024",
+   "path": "local/calarasi/roseti/2024/64",
+   "short": "HCL Roseți nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 64/2024 privind atribuirea în folosinţă gratuită a unei suprafeţe de teren din intravilanul comunei Roseţi, conform Legii 15/2003 pentru construire locuinţă proprietate personală numiților Echim Vlăduț-Valentin și Echim Georgiana-Alina",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/170635",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/170635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-65-2024",
+   "path": "local/calarasi/roseti/2024/65",
+   "short": "HCL Roseți nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 65/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/170636",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/170636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-66-2024",
+   "path": "local/calarasi/roseti/2024/66",
+   "short": "HCL Roseți nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 66/2024 privind virări de credite bugetare de la un capitol la altul și rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/170637",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/170637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-67-2024",
+   "path": "local/calarasi/roseti/2024/67",
+   "short": "HCL Roseți nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 67/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/172223",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/172223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-68-2024",
+   "path": "local/calarasi/roseti/2024/68",
+   "short": "HCL Roseți nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 68/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/172224",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/172224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-69-2024",
+   "path": "local/calarasi/roseti/2024/69",
+   "short": "HCL Roseți nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 69/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/172225",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/172225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-7-2024",
+   "path": "local/calarasi/roseti/2024/7",
+   "short": "HCL Roseți nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 7/2024 privind aprobarea bugetului de venituri și cheltuieli al comunei Roseți, județul Călărași pentru anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/141556",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/141556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-70-2024",
+   "path": "local/calarasi/roseti/2024/70",
+   "short": "HCL Roseți nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 70/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/172226",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/172226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-71-2024",
+   "path": "local/calarasi/roseti/2024/71",
+   "short": "HCL Roseți nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 71/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice din cadrul unităților de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/172227",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/172227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-72-2024",
+   "path": "local/calarasi/roseti/2024/72",
+   "short": "HCL Roseți nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 72/2024 privind aprobarea actualizării studiului de fezabilitate general, a indicatorilor tehnico-economici, a Proiectului tehnic(PTh) și a Detaliilor de execuție(D.D.E) precum și a devizului general, aferente obiectivului de investiții: ‘’Extindere rețea canalizare menajeră, racorduri la rețeaua de canalizare menajeră și extindere stație de epurare în comuna Roseți, județul Călărași’’ aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/172228",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/172228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-73-2024",
+   "path": "local/calarasi/roseti/2024/73",
+   "short": "HCL Roseți nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 73/2024 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/172229",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/172229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-74-2024",
+   "path": "local/calarasi/roseti/2024/74",
+   "short": "HCL Roseți nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 74/2024 privind alegerea preşedintelui de şedinţă precum și a potențialului președinte de ședință pentru perioada octombrie-decembrie 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/174319",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/174319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-75-2024",
+   "path": "local/calarasi/roseti/2024/75",
+   "short": "HCL Roseți nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 75/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Roseți, județul Călărași pe principalele domenii de activitate",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/174320",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/174320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-76-2024",
+   "path": "local/calarasi/roseti/2024/76",
+   "short": "HCL Roseți nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 76/2024 privind alegerea viceprimarului comunei Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/174326",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/174326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-77-2024",
+   "path": "local/calarasi/roseti/2024/77",
+   "short": "HCL Roseți nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 77/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176907",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-78-2024",
+   "path": "local/calarasi/roseti/2024/78",
+   "short": "HCL Roseți nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 78/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176908",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-79-2024",
+   "path": "local/calarasi/roseti/2024/79",
+   "short": "HCL Roseți nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 79/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176909",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176909",
      "sha256": null
     }
    ]
@@ -303,6 +1368,156 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-80-2024",
+   "path": "local/calarasi/roseti/2024/80",
+   "short": "HCL Roseți nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 80/2024 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice din cadrul unităților de învățământ din comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176910",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-81-2024",
+   "path": "local/calarasi/roseti/2024/81",
+   "short": "HCL Roseți nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 81/2024 privind aprobarea execuției bugetare la trimestrul III a bugetului local al comunei Roseți, județul Călărași în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176911",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-82-2024",
+   "path": "local/calarasi/roseti/2024/82",
+   "short": "HCL Roseți nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 82/2024 privind analiza stadiului de înscriere a datelor în registrul agricol la trimestrul II al anului 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176912",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-83-2024",
+   "path": "local/calarasi/roseti/2024/83",
+   "short": "HCL Roseți nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 83/2024 privind validarea dispoziției nr. 178/2024 privind rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176913",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-84-2024",
+   "path": "local/calarasi/roseti/2024/84",
+   "short": "HCL Roseți nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 84/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176914",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-85-2024",
+   "path": "local/calarasi/roseti/2024/85",
+   "short": "HCL Roseți nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 85/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Roseți",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/176915",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/176915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-86-2024",
+   "path": "local/calarasi/roseti/2024/86",
+   "short": "HCL Roseți nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 86/2024 privind aprobarea depunerii proiectului ” MODERNIZAREA SI EFICIENTIZAREA ILUMINATULUI PUBLIC ÎN COMUNA ROSEȚI, JUDEȚUL CĂLĂRAȘI”, în vederea finanțării acestuia în cadrul Programului privind cresterea eficientei energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/179195",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/179195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-87-2024",
+   "path": "local/calarasi/roseti/2024/87",
+   "short": "HCL Roseți nr. 87/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 87/2024 privind utilizare sume din excedentul bugetului local pentru cheltuieli ale secțiunii de dezvoltare precum și rectificarea bugetului local al comunei Roseți, județul Călărași local în anul 2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/179512",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/179512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-88-2024",
+   "path": "local/calarasi/roseti/2024/88",
+   "short": "HCL Roseți nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 88/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/182957",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/182957",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-89-2024",
+   "path": "local/calarasi/roseti/2024/89",
+   "short": "HCL Roseți nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 89/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/182958",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/182958",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-9-2024",
    "path": "local/calarasi/roseti/2024/9",
    "short": "HCL Roseți nr. 9/2024",
@@ -313,6 +1528,51 @@
      "from": "2024-02-09",
      "units": 1,
      "source_url": "https://emol.ro/roseti-cl/registru-hcl/141558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-90-2024",
+   "path": "local/calarasi/roseti/2024/90",
+   "short": "HCL Roseți nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 90/2024 privind atribuirea în folosinţă gratuită a unei suprafeţe de teren din intravilanul comunei Roseţi, conform Legii 15/2003 pentru construire locuinţă proprietate personală, numiților Petcu Marian-Mădălin și Petcu Ionela-Teodora",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/182959",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/182959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-91-2024",
+   "path": "local/calarasi/roseti/2024/91",
+   "short": "HCL Roseți nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 91/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/182960",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/182960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-92-2024",
+   "path": "local/calarasi/roseti/2024/92",
+   "short": "HCL Roseți nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 92/2024",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/182961",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/182961",
      "sha256": null
     }
    ]

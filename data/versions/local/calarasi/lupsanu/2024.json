@@ -3,6 +3,51 @@
  "shard": "local/calarasi/lupsanu/2024",
  "acts": [
   {
+   "slug": "hcl-calarasi--lupsanu-1-2024",
+   "path": "local/calarasi/lupsanu/2024/1",
+   "short": "HCL Lupșanu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 1/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144699",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-10-2024",
+   "path": "local/calarasi/lupsanu/2024/10",
+   "short": "HCL Lupșanu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 10/2024 privind aprobarea Bugetului Local pe anul 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144729",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-11-2024",
+   "path": "local/calarasi/lupsanu/2024/11",
+   "short": "HCL Lupșanu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 11/2024 privind aprobarea utilizării în 2024 a excedentului bugetar din 2023",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144730",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144730",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--lupsanu-12-2024",
    "path": "local/calarasi/lupsanu/2024/12",
    "short": "HCL Lupșanu nr. 12/2024",
@@ -78,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--lupsanu-17-2024",
+   "path": "local/calarasi/lupsanu/2024/17",
+   "short": "HCL Lupșanu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 17/2024 privind revocarea Hotărârii Consiliului Local al comunei Lupsanu nr. 54/01.11.2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Lupsanu, judeţul Calarasi, începând cu 1 noiembrie 2023",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/151100",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151100",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--lupsanu-18-2024",
    "path": "local/calarasi/lupsanu/2024/18",
    "short": "HCL Lupșanu nr. 18/2024",
@@ -103,6 +163,21 @@
      "from": "2024-03-29",
      "units": 1,
      "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-2-2024",
+   "path": "local/calarasi/lupsanu/2024/2",
+   "short": "HCL Lupșanu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 2/2024 privind aprobarea rețelei școlare pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144700",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144700",
      "sha256": null
     }
    ]
@@ -148,6 +223,21 @@
      "from": "2024-03-29",
      "units": 1,
      "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-23-2024",
+   "path": "local/calarasi/lupsanu/2024/23",
+   "short": "HCL Lupșanu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 23/2024 privind alegerea Preşedintelui de şedinţă pentru perioada aprilie-iunie 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/151106",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/151106",
      "sha256": null
     }
    ]
@@ -213,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--lupsanu-28-2024",
+   "path": "local/calarasi/lupsanu/2024/28",
+   "short": "HCL Lupșanu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 28/2024 privind aprobarea de către autoritățile deliberative a execuției bugetelor întocmite pe cele două secțiuni, cu excepția bugetului împrumuturilor interne și externe",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/165320",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/165320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-29-2024",
+   "path": "local/calarasi/lupsanu/2024/29",
+   "short": "HCL Lupșanu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 29/2024 privind acordarea ajutorului de inmormanatre in cazul decesului unei persoane fara venit, fara locuinta sau in cazul decesului unei persoane varstnice, în forma prezentată",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/165321",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/165321",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--lupsanu-3-2024",
    "path": "local/calarasi/lupsanu/2024/3",
    "short": "HCL Lupșanu nr. 3/2024",
@@ -223,6 +343,21 @@
      "from": "2024-01-31",
      "units": 1,
      "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-30-2024",
+   "path": "local/calarasi/lupsanu/2024/30",
+   "short": "HCL Lupșanu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 30/2024 privind înființarea Serviciului Voluntar pentru Situații de Urgență, aprobarea organigramei, regulamentului de organizare și funcționare și a componenței Serviciului Voluntar pentru Situații de Urgență al comunei Lupșanu, județul Călărași",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/165322",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/165322",
      "sha256": null
     }
    ]
@@ -358,6 +493,21 @@
      "from": "2024-09-30",
      "units": 1,
      "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/171731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-4-2024",
+   "path": "local/calarasi/lupsanu/2024/4",
+   "short": "HCL Lupșanu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 4/2024 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare SVSU",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144715",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144715",
      "sha256": null
     }
    ]
@@ -538,6 +688,66 @@
      "from": "2025-01-08",
      "units": 1,
      "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/184865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-6-2024",
+   "path": "local/calarasi/lupsanu/2024/6",
+   "short": "HCL Lupșanu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 6/2024 privind aprobarea Raportului pentru activitatea desfășurată de asistenții personali în semestrul II 2023",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144717",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-7-2024",
+   "path": "local/calarasi/lupsanu/2024/7",
+   "short": "HCL Lupșanu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 7/2024 privind aprobarea aderării la FLAG Valea Mostiștei",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144718",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-8-2024",
+   "path": "local/calarasi/lupsanu/2024/8",
+   "short": "HCL Lupșanu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 8/2024 privind aprobarea unui stâlp de electricitate pentru sistemul de irigații Lux Com",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144719",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-9-2024",
+   "path": "local/calarasi/lupsanu/2024/9",
+   "short": "HCL Lupșanu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 9/2024 privind aprobarea virării către DSVSA a sumei de 3000 lei pentru microcipare câini și pisici",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/144720",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/144720",
      "sha256": null
     }
    ]

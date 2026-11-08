@@ -387,7 +387,7 @@ def commits_by_act(repo: Path, branch: str, dirs: dict[str, list[str]]) -> dict[
     def take(rec: str):
         head, _, names = rec.partition('\n')
         h, _, d = head.partition('\t')
-        d = d.strip()
+        d = K.day_of(d)  # In-force, or a draft's Stage-day (a draft commit has no In-force trailer)
         if not d:
             return
         hit = set()
@@ -399,8 +399,8 @@ def commits_by_act(repo: Path, branch: str, dirs: dict[str, list[str]]) -> dict[
                     hit.add(want[p])
         for a in hit:
             rows[a].append((h, d))
-    p = subprocess.Popen(['git', 'log', '--no-merges', '--no-renames', '--name-only',
-                          '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)', branch], cwd=repo,
+    p = subprocess.Popen(['git', 'log', '--no-merges', '--no-renames', '--name-only', '--format=%x00%H%x09' + K.DAY_FORMAT,
+                          branch], cwd=repo,
                          stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, encoding='utf-8')
     buf: list[str] = []
     started = False

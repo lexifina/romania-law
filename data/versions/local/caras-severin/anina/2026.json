@@ -3,6 +3,36 @@
  "shard": "local/caras-severin/anina/2026",
  "acts": [
   {
+   "slug": "hcl-caras-severin--anina-1-2026",
+   "path": "local/caras-severin/anina/2026/1",
+   "short": "HCL Anina nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 1/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_1_15.01.2026.pdf",
+     "sha256": "835b6a88e29ac48855275be64f7662265a11dbfeab1ad0098bb3bc5a5a20f9b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-10-2026",
+   "path": "local/caras-severin/anina/2026/10",
+   "short": "HCL Anina nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 10/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_10_29.01.2026.pdf",
+     "sha256": "789ac53ecf0887d69e126a7344edf446a273490837e31bafec3cc7fb23701b32"
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--anina-100-2026",
    "path": "local/caras-severin/anina/2026/100",
    "short": "HCL Anina nr. 100/2026",
@@ -149,6 +179,21 @@
      "units": 1,
      "source_url": "https://www.primaria-anina.ro/hcl/hcl_109_30.07.2026.pdf",
      "sha256": "ef3aa5b113600364ce28b634f058491abc3a439c1144de41d67da2d2c67aaab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-11-2026",
+   "path": "local/caras-severin/anina/2026/11",
+   "short": "HCL Anina nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 11/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_11_29.01.2026.pdf",
+     "sha256": "d4e8aee75c9a51e1903e1426b83e88e21ad067451214eaa1e1bb3df868f02739"
     }
    ]
   },
@@ -303,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--anina-12-2026",
+   "path": "local/caras-severin/anina/2026/12",
+   "short": "HCL Anina nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 12/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_12_29.01.2026.pdf",
+     "sha256": "16bcc8a1c6211fda460bc4eef7774f0231f7f944857aba0ff188b5feec471341"
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--anina-120-2026",
    "path": "local/caras-severin/anina/2026/120",
    "short": "HCL Anina nr. 120/2026",
@@ -449,6 +509,21 @@
      "units": 1,
      "source_url": "https://www.primaria-anina.ro/hcl/hcl_129_10.09.2026.pdf",
      "sha256": "9d5114bf3cc3189315bd184d6089c3eae17d57b2a4e7507608bb72c99d47bb59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-13-2026",
+   "path": "local/caras-severin/anina/2026/13",
+   "short": "HCL Anina nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 13/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_13_29.01.2026.pdf",
+     "sha256": "4471ca3d70efca668a6df9af6b5ea94bc289db11346f35fbe9a1606e08d753c9"
     }
    ]
   },
@@ -603,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--anina-14-2026",
+   "path": "local/caras-severin/anina/2026/14",
+   "short": "HCL Anina nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 14/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_14_29.01.2026.pdf",
+     "sha256": "e6dc87304a8c52c782658339af6e41e94349e25b91dc0505d2b223bf39f65174"
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--anina-140-2026",
    "path": "local/caras-severin/anina/2026/140",
    "short": "HCL Anina nr. 140/2026",
@@ -629,6 +719,96 @@
      "units": 1,
      "source_url": "https://www.primaria-anina.ro/hcl/hcl_141_30.09.2026.pdf",
      "sha256": "a68771be16f6039adea2875bddcfe269f5a2b414d4b5fa1328458cfdfaa7f8f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-15-2026",
+   "path": "local/caras-severin/anina/2026/15",
+   "short": "HCL Anina nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 15/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_15_29.01.2026.pdf",
+     "sha256": "8a1d381f07d3637f229df4648b31f92b49fb82ce8cd217fd71482e16c626d22e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-16-2026",
+   "path": "local/caras-severin/anina/2026/16",
+   "short": "HCL Anina nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 16/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_16_29.01.2026.pdf",
+     "sha256": "190d642548d34e95253c3ad414730ce3a05de7ca25e8065100e9b045650db8f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-17-2026",
+   "path": "local/caras-severin/anina/2026/17",
+   "short": "HCL Anina nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 17/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_17_29.01.2026.pdf",
+     "sha256": "5be78a417e6371044f0e64dfac756a0d852483d78d8876ad0fec5ac73e7d93a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-18-2026",
+   "path": "local/caras-severin/anina/2026/18",
+   "short": "HCL Anina nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 18/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_18_29.01.2026.pdf",
+     "sha256": "b15282a47ef78ab9e1bfbb986125dc45a618a0a398c4cf21a621fb7b6973aeaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-19-2026",
+   "path": "local/caras-severin/anina/2026/19",
+   "short": "HCL Anina nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 19/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_19_26.02.2026.pdf",
+     "sha256": "081023bdf5f7e04ff0ba0584bc6ded8692fefe4bc05b04b7f5bc36f520b96434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-2-2026",
+   "path": "local/caras-severin/anina/2026/2",
+   "short": "HCL Anina nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 2/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_2_23.01.2026.pdf",
+     "sha256": "84c3d6da70cb8b64a097cf839f06392e6cb85d9be2e95862fdb6f5e84b2a71cb"
     }
    ]
   },
@@ -783,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--anina-3-2026",
+   "path": "local/caras-severin/anina/2026/3",
+   "short": "HCL Anina nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 3/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_3_29.01.2026.pdf",
+     "sha256": "5305b2e4a334e6f01044e71e484524aec008bb92c9adee2f6e880f3419cd7d36"
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--anina-30-2026",
    "path": "local/caras-severin/anina/2026/30",
    "short": "HCL Anina nr. 30/2026",
@@ -914,6 +1109,21 @@
      "units": 1,
      "source_url": "https://www.primaria-anina.ro/hcl/hcl_38_31.03.2026.pdf",
      "sha256": "8547ffad3ae5227d182d49abcd7e4fa6c7e4f8728e4f9bf07e35920785f01f02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-4-2026",
+   "path": "local/caras-severin/anina/2026/4",
+   "short": "HCL Anina nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 4/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_4_29.01.2026.pdf",
+     "sha256": "3e6c2d18b20c328d726900698b5c3aeb7b32797d377b254afab98c7dbb8e5d76"
     }
    ]
   },
@@ -1068,6 +1278,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--anina-5-2026",
+   "path": "local/caras-severin/anina/2026/5",
+   "short": "HCL Anina nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 5/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_5_29.01.2026.pdf",
+     "sha256": "ac8784c43c061bc77aaf350df3c46ffa7bf056520299c722d19ff8a295cc015e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--anina-50-2026",
    "path": "local/caras-severin/anina/2026/50",
    "short": "HCL Anina nr. 50/2026",
@@ -1214,6 +1439,21 @@
      "units": 1,
      "source_url": "https://www.primaria-anina.ro/hcl/hcl_59_30.04.2026.pdf",
      "sha256": "4e0003c58d1270bf1d00a574924dd50b1a481356cc64a29a84e04a33e81785e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-6-2026",
+   "path": "local/caras-severin/anina/2026/6",
+   "short": "HCL Anina nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 6/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_6_29.01.2026.pdf",
+     "sha256": "647eaa1641fc425d0eef1da0bfb0de49238343c8ea79bb3ee23376fe00a26f7b"
     }
    ]
   },
@@ -1368,6 +1608,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--anina-7-2026",
+   "path": "local/caras-severin/anina/2026/7",
+   "short": "HCL Anina nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 7/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_7_29.01.2026.pdf",
+     "sha256": "f82fce98bb814f88619ff9dc95c314c23ff166c0b4166d9635ffe45701b833ae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--anina-70-2026",
    "path": "local/caras-severin/anina/2026/70",
    "short": "HCL Anina nr. 70/2026",
@@ -1518,6 +1773,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--anina-8-2026",
+   "path": "local/caras-severin/anina/2026/8",
+   "short": "HCL Anina nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 8/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_8_29.01.2026.pdf",
+     "sha256": "23191633aeafb522dda354ae2ae2521ed355e21fc5713758b1ffa4d3d5739635"
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--anina-80-2026",
    "path": "local/caras-severin/anina/2026/80",
    "short": "HCL Anina nr. 80/2026",
@@ -1664,6 +1934,21 @@
      "units": 1,
      "source_url": "https://www.primaria-anina.ro/hcl/hcl_89_16.07.2026.pdf",
      "sha256": "cc8b2c81653be2cdd88568b1be19c5e510f7af86039cce2e8e864147fe5504a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--anina-9-2026",
+   "path": "local/caras-severin/anina/2026/9",
+   "short": "HCL Anina nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Anina nr. 9/2026",
+   "url": "https://www.primaria-anina.ro/hcl.htm",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://www.primaria-anina.ro/hcl/hcl_9_29.01.2026.pdf",
+     "sha256": "541354a82d676a3defaeebfbed6733c230a060598944653ccee5cf21f313897a"
     }
    ]
   },

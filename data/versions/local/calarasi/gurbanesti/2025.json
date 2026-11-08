@@ -3,6 +3,96 @@
  "shard": "local/calarasi/gurbanesti/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--gurbanesti-1-2025",
+   "path": "local/calarasi/gurbanesti/2025/1",
+   "short": "HCL Gurbănești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 1/2025 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare a bugetului local pe anul 2024",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207183",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-10-2025",
+   "path": "local/calarasi/gurbanesti/2025/10",
+   "short": "HCL Gurbănești nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 10/2025 privind aprobarea decontării transportului cadrelor didactice pentru luna februarie 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224297",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-11-2025",
+   "path": "local/calarasi/gurbanesti/2025/11",
+   "short": "HCL Gurbănești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 11/2025 privind aprobarea numărului de posturii finanțate din bugetul local, la nivelul aparatului de specialitate al Primarului Comunei Gurbănești, pentru anul 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224298",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-12-2025",
+   "path": "local/calarasi/gurbanesti/2025/12",
+   "short": "HCL Gurbănești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 12/2025 privind aprobarea bugetului local al comunei Gurbănești, județul Călărași, pe anul 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224299",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-13-2025",
+   "path": "local/calarasi/gurbanesti/2025/13",
+   "short": "HCL Gurbănești nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 13/2025 privind aprobarea bugetului Școlii Gimnaziale nr. 1 Gurbănești, județul Călărași, pentru anul 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224300",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-14-2025",
+   "path": "local/calarasi/gurbanesti/2025/14",
+   "short": "HCL Gurbănești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 14/2025 privind utilizarea în anul 2025 a excedentului bugetar înregistrat în contul de închiriere a exercițiului bugetar la 31.12.2024",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224301",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224301",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--gurbanesti-15-2025",
    "path": "local/calarasi/gurbanesti/2025/15",
    "short": "HCL Gurbănești nr. 15/2025",
@@ -18,6 +108,96 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--gurbanesti-16-2025",
+   "path": "local/calarasi/gurbanesti/2025/16",
+   "short": "HCL Gurbănești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 16/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224308",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-17-2025",
+   "path": "local/calarasi/gurbanesti/2025/17",
+   "short": "HCL Gurbănești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 17/2025 privind aprobarea decontării transportului cadrelor didactice pentru luna martie 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224309",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-18-2025",
+   "path": "local/calarasi/gurbanesti/2025/18",
+   "short": "HCL Gurbănești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 18/2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224310",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-19-2025",
+   "path": "local/calarasi/gurbanesti/2025/19",
+   "short": "HCL Gurbănești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 19/2025 privind aprobarea contului de încheiere a exercițiului bugetar pe trimestrul I-2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224311",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-2-2025",
+   "path": "local/calarasi/gurbanesti/2025/2",
+   "short": "HCL Gurbănești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 2/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207191",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-20-2025",
+   "path": "local/calarasi/gurbanesti/2025/20",
+   "short": "HCL Gurbănești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 20/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224312",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224312",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--gurbanesti-21-2025",
    "path": "local/calarasi/gurbanesti/2025/21",
    "short": "HCL Gurbănești nr. 21/2025",
@@ -28,6 +208,261 @@
      "from": "2025-09-10",
      "units": 1,
      "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-22-2025",
+   "path": "local/calarasi/gurbanesti/2025/22",
+   "short": "HCL Gurbănești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 22/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224324",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-23-2025",
+   "path": "local/calarasi/gurbanesti/2025/23",
+   "short": "HCL Gurbănești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 23/2025 privind aprobarea decontării transportului cadrelor didactice din cadrul Școlii Gimnaziale nr. 1 Gurbănești, comuna Gurbănești, pentru luna aprilie 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224326",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-24-2025",
+   "path": "local/calarasi/gurbanesti/2025/24",
+   "short": "HCL Gurbănești nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 24/2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224327",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-25-2025",
+   "path": "local/calarasi/gurbanesti/2025/25",
+   "short": "HCL Gurbănești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 25/2025 privind darea în folosință unităților de învățământ de pe raza comunei Gurbănești a unor bunuri aparținând domeniului privat al unității administrativ-teritoriale achiziționate în cadrul proiectului „DOTAREA CU MOBILIER, MATERIALE DIDACTICE ȘI ECHIPAMENTE DIGITALE A UNITĂȚILOR DE ÎNVĂȚĂMÂNT PREUNIVERSITAR ȘI A UNITĂȚILOR CONEXE DIN COMUNA GURBĂNEȘTI, JUDEȚUL CĂLĂRAȘI”",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224328",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-26-2025",
+   "path": "local/calarasi/gurbanesti/2025/26",
+   "short": "HCL Gurbănești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 26/2025 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Gurbănești, în luna mai a anului 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224329",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-27-2025",
+   "path": "local/calarasi/gurbanesti/2025/27",
+   "short": "HCL Gurbănești nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 27/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224330",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-28-2025",
+   "path": "local/calarasi/gurbanesti/2025/28",
+   "short": "HCL Gurbănești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 28/2025 privind aprobarea decontării transportului cadrelor didactice din cadrul Școlii Gimnaziale nr. 1 Gurbănești, comuna Gurbănești, pentru luna mai 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224335",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-29-2025",
+   "path": "local/calarasi/gurbanesti/2025/29",
+   "short": "HCL Gurbănești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 29/2025 privind analiza stadiului de înscriere a datelor în registrul agricol pentru anul 2024 și stabilirea măsurilor pentru eficientizarea acestei activități pentru perioada următoare",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224336",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-3-2025",
+   "path": "local/calarasi/gurbanesti/2025/3",
+   "short": "HCL Gurbănești nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 3/2025 privind modificarea componenței comisiilor de specialitate ale Consiliului Local Gurbănești, respectiv Comisia juridică și de disciplină și Comisia de învățământ, sănătate și familie, activități social-culturale, Culte, muncă și protecție copii tineret și sport",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207192",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-30-2025",
+   "path": "local/calarasi/gurbanesti/2025/30",
+   "short": "HCL Gurbănești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 30/2025 privind aprobarea criteriilor pentru acordarea unor ajutoare de urgență și ajutoare comunitare la nivelul aparatului de specialitate al primarului comunei Gurbănești, județul Călărași",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224337",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-31-2025",
+   "path": "local/calarasi/gurbanesti/2025/31",
+   "short": "HCL Gurbănești nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 31/2025 privind aprobarea Dispoziției nr. 52 privind rectificarea bugetului local pe anul 2025, emisă de Primarul comunei Gurbănești la data de 13.06.2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224338",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-32-2025",
+   "path": "local/calarasi/gurbanesti/2025/32",
+   "short": "HCL Gurbănești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 32/2025 privind aprobarea raportului privind activitatea asistenților personali desfășurată în semestrul I al anului 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224339",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-33-2025",
+   "path": "local/calarasi/gurbanesti/2025/33",
+   "short": "HCL Gurbănești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 33/2025 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224373",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-34-2025",
+   "path": "local/calarasi/gurbanesti/2025/34",
+   "short": "HCL Gurbănești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 34/2025 privind aprobarea decontării transportului cadrelor didactice din cadrul Școlii Gimnaziale nr. 1 Gurbănești, comuna Gurbănești, pentru luna iunie 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224374",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-35-2025",
+   "path": "local/calarasi/gurbanesti/2025/35",
+   "short": "HCL Gurbănești nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 35/2025 privind aprobarea Cudului Etic al funcționarilor publici și al personalului contractual din cadrul Primăriei Comunei Gurbănești, județul Călărași",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224375",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-36-2025",
+   "path": "local/calarasi/gurbanesti/2025/36",
+   "short": "HCL Gurbănești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 36/2025 privind aprobarea încheierii unui Contract de Asistență juridică pentru reprezentarea intereselor comunei Gurbănești în fața instanțelor judecătorești și/sau a unor instituții",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224376",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-37-2025",
+   "path": "local/calarasi/gurbanesti/2025/37",
+   "short": "HCL Gurbănești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 37/2025 privind rectificarea bugetului local pe anul 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/224377",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224377",
      "sha256": null
     }
    ]
@@ -58,6 +493,21 @@
      "from": "2025-09-10",
      "units": 1,
      "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/224379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-4-2025",
+   "path": "local/calarasi/gurbanesti/2025/4",
+   "short": "HCL Gurbănești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 4/2025 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2025 pentru persoanele majore, apte de muncă, care beneficiază de venitul minim de incluziune",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207193",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207193",
      "sha256": null
     }
    ]
@@ -213,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--gurbanesti-5-2025",
+   "path": "local/calarasi/gurbanesti/2025/5",
+   "short": "HCL Gurbănești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 5/2025 privind aprobarea decontării transportului cadrelor didactice pentru luna decembrie 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207194",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207194",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--gurbanesti-50-2025",
    "path": "local/calarasi/gurbanesti/2025/50",
    "short": "HCL Gurbănești nr. 50/2025",
@@ -343,6 +808,66 @@
      "from": "2026-03-05",
      "units": 1,
      "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/257162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-6-2025",
+   "path": "local/calarasi/gurbanesti/2025/6",
+   "short": "HCL Gurbănești nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 6/2025 privind stabilirea nivelului de salarizare al funcționarilor publici și al personalului contractual din cadrul Primăriei comunei Gurbănești-județ Călărași, începând cu luna Ianuarie 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207195",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-7-2025",
+   "path": "local/calarasi/gurbanesti/2025/7",
+   "short": "HCL Gurbănești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 7/2025 privind aprobarea decontării transportului cadrelor didactice pentru luna ianuarie 2025",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207196",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-8-2025",
+   "path": "local/calarasi/gurbanesti/2025/8",
+   "short": "HCL Gurbănești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 8/2025 privind aderarea comunei Gurbănești la Asociația Comunelor din România",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207197",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--gurbanesti-9-2025",
+   "path": "local/calarasi/gurbanesti/2025/9",
+   "short": "HCL Gurbănești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 9/2025 privind aprobarea contului de încheiere a exercițiului bugetar pe trimestrul IV-2024",
+   "url": "https://emol.ro/gurbanesti-cl/registru-hcl/207198",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/gurbanesti-cl/registru-hcl/207198",
      "sha256": null
     }
    ]

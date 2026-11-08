@@ -3,6 +3,138 @@
 "shard": "local/calarasi/ulmu/2022",
 "acts": [
 {
+"slug": "hcl-calarasi--ulmu-1-2022",
+"path": "local/calarasi/ulmu/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 1/2022 privind acoperirea definitiva a deficitului bugetar pe anul 2021 a sectiunii de dezvoltare Sursa ,,A'' din excedentul bugetului local",
+"short": "HCL Ulmu nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60558",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-2-2022",
+"path": "local/calarasi/ulmu/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 2/2022 privind alegerea preşedintelui de şedinţă al Consiliului Local Ulmu pentru o perioadă de trei luni (februarie - aprilie 2022)",
+"short": "HCL Ulmu nr. 2/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60559",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-3-2022",
+"path": "local/calarasi/ulmu/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 3/2022 privind aprobarea Planului anual de acţiuni pentru repartizarea orelor de muncă către beneficiarii de ajutor social",
+"short": "HCL Ulmu nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60560",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-4-2022",
+"path": "local/calarasi/ulmu/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 4/2022 privind analiza stadiului de inscriere a datelor in registrul agricol pentru anul 2021 si stabilirea masurilor pentru eficientizarea acestei activitati",
+"short": "HCL Ulmu nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60561",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-5-2022",
+"path": "local/calarasi/ulmu/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 5/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru luna decembrie 2021",
+"short": "HCL Ulmu nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60562",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-6-2022",
+"path": "local/calarasi/ulmu/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 6/2022 privind schimbarea destinatiei imobilului in suprafa de 50 mp. si sprafata de curte aferenta de 150 mp. din imobilul apartinand domeniului public al comunei Ulmu, judetul Calarasi, din spatiu Camin Cultural in Gradinita cu Program Normal nr. 1 Ulmu",
+"short": "HCL Ulmu nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60563",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-7-2022",
 "path": "local/calarasi/ulmu/2022/7",
 "kind": "local",
@@ -22,6 +154,228 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-8-2022",
+"path": "local/calarasi/ulmu/2022/8",
+"kind": "local",
+"year": "2022",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 8/2022 privind aprobarea contului de executie bugetara incheiat la data de 31 decembrie 2021",
+"short": "HCL Ulmu nr. 8/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60569",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-9-2022",
+"path": "local/calarasi/ulmu/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 9/2022 privind aprobarea bugetului local pe anul 2022",
+"short": "HCL Ulmu nr. 9/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60570",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-10-2022",
+"path": "local/calarasi/ulmu/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 10/2022 privind utilizarea excedentului bugetului local pe anul 2022",
+"short": "HCL Ulmu nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60571",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-11-2022",
+"path": "local/calarasi/ulmu/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 11/2022",
+"short": "HCL Ulmu nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60572",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-12-2022",
+"path": "local/calarasi/ulmu/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 12/2022 privind desemnare repezentantului Consiliului Local al comunei Ulmu ca membru in comisia de evaluare a probei de interviu la concursul pentru ocuparea functiei de director la Scoala Gimnaziala nr. 1 Ulmu",
+"short": "HCL Ulmu nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60573",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-13-2022",
+"path": "local/calarasi/ulmu/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 13/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru lunile inauarie si februarie 2022",
+"short": "HCL Ulmu nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60591",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-14-2022",
+"path": "local/calarasi/ulmu/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 14/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Ulmu nr. 14/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60592",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-15-2022",
+"path": "local/calarasi/ulmu/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 15/2022 privind utilizarea excedentului bugetului local pe anul 2022",
+"short": "HCL Ulmu nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60593",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-16-2022",
+"path": "local/calarasi/ulmu/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 16/2022 privind aprobarea tipului de suport alimentar acordat elevilor Școlii Gimnaziale Nr. 1 Ulmu, atât pentru nivelul primar cât și pentru nivelul gimnazial, în cadrul Programului - pilot de acordare a unui suport alimentar pentru preşcolarii şi elevii din 150 de unităţi de învăţământ preuniversitar de stat",
+"short": "HCL Ulmu nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60594",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-17-2022",
+"path": "local/calarasi/ulmu/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 17/2022",
+"short": "HCL Ulmu nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60595",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -92,6 +446,139 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-21-2022",
+"path": "local/calarasi/ulmu/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 21/2022 privind aprobarea conturilor anuale de executie- 2021",
+"short": "HCL Ulmu nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60600",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-22-2022",
+"path": "local/calarasi/ulmu/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 22/2022 privind alegerea preşedintelui de şedinţă al Consiliului Local Ulmu pentru o perioadă de trei luni (mai - august 2022)",
+"short": "HCL Ulmu nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60601",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-23-2022",
+"path": "local/calarasi/ulmu/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 23/2022 privind aprobarea taxei de inchiriere a utilajului tractor cu remorca aflat in patrimoniul comunei Ulmu, judetul Calarasi",
+"short": "HCL Ulmu nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60602",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-24-2022",
+"path": "local/calarasi/ulmu/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 24/2022 privind stabilirea impozitelor si taxelor locale pentru anul 2023",
+"short": "HCL Ulmu nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60603",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-25-2022",
+"path": "local/calarasi/ulmu/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 25/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Ulmu nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60604",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-26-2022",
+"path": "local/calarasi/ulmu/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 26/2022",
+"short": "HCL Ulmu nr. 26/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/60605",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-27-2022",
 "path": "local/calarasi/ulmu/2022/27",
 "kind": "local",
@@ -114,6 +601,160 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-28-2022",
+"path": "local/calarasi/ulmu/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 28/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru lunile martie si aprilie 2022",
+"short": "HCL Ulmu nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/62678",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-29-2022",
+"path": "local/calarasi/ulmu/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 29/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Ulmu nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/62679",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-30-2022",
+"path": "local/calarasi/ulmu/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 30/2022 privind modificarea si aprobarea organigramei si a statului de funcţii al aparatului de specialitate a Primarului comunei Ulmu, judetul Calarasi",
+"short": "HCL Ulmu nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/62680",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-31-2022",
+"path": "local/calarasi/ulmu/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 31/2022 privind aprobarea depunerii cererii de finantare a proiectului „CRESTEREA EFICIENTEI ENERGETICE LA DISPENSARUL COMUNEI ULMU, JUDETUL CALARASI”",
+"short": "HCL Ulmu nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/65908",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-32-2022",
+"path": "local/calarasi/ulmu/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 32/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru luna mai 2022",
+"short": "HCL Ulmu nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/65909",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-33-2022",
+"path": "local/calarasi/ulmu/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 33/2022 privind aprobarea Strategiei de dezvoltare locală a Comunei Ulmu pentru perioada 2022 - 2027 și în orizontul anului 2030",
+"short": "HCL Ulmu nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/65910",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-34-2022",
+"path": "local/calarasi/ulmu/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 34/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Ulmu nr. 34/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/65911",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-35-2022",
 "path": "local/calarasi/ulmu/2022/35",
 "kind": "local",
@@ -133,6 +774,28 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-36-2022",
+"path": "local/calarasi/ulmu/2022/36",
+"kind": "local",
+"year": "2022",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 36/2022 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce îşi desfăşoară activitatea in cadrul Scolii Gimnaziale nr.1 Ulmu pentru lunile iunie si iulie 2022",
+"short": "HCL Ulmu nr. 36/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-08",
+"latest": "2022-09-08",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/70905",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -199,6 +862,28 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-40-2022",
+"path": "local/calarasi/ulmu/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 40/2022 privind rectificarea bugetului local pe anul 2022",
+"short": "HCL Ulmu nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-12",
+"latest": "2022-10-12",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/75371",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

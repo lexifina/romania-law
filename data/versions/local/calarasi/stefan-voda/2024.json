@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-voda-13-2024",
+   "path": "local/calarasi/stefan-voda/2024/13",
+   "short": "HCL Ștefan Vodă nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 13/2024",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/148606",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/148606",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-voda-14-2024",
    "path": "local/calarasi/stefan-voda/2024/14",
    "short": "HCL Ștefan Vodă nr. 14/2024",
@@ -88,6 +103,21 @@
      "from": "2024-03-29",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/148608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-16-2024",
+   "path": "local/calarasi/stefan-voda/2024/16",
+   "short": "HCL Ștefan Vodă nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 16/2024 privind desemnarea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/148609",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/148609",
      "sha256": null
     }
    ]
@@ -258,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-voda-27-2024",
+   "path": "local/calarasi/stefan-voda/2024/27",
+   "short": "HCL Ștefan Vodă nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 27/2024 privind desemnarea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/160404",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/160404",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-voda-28-2024",
    "path": "local/calarasi/stefan-voda/2024/28",
    "short": "HCL Ștefan Vodă nr. 28/2024",
@@ -268,6 +313,21 @@
      "from": "2024-08-02",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/160405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-29-2024",
+   "path": "local/calarasi/stefan-voda/2024/29",
+   "short": "HCL Ștefan Vodă nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 29/2024 privind darea în folosință gratuită a 35,2 mp din imobilul situat pe strada Viorelelor, nr. 73bis societății Dornacor Invest SRL, concesionar al serviciului public de distribuție a gazelor naturale din comuna Ștefan Vodă",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/160406",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/160406",
      "sha256": null
     }
    ]
@@ -358,6 +418,21 @@
      "from": "2024-09-12",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/167594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-35-2024",
+   "path": "local/calarasi/stefan-voda/2024/35",
+   "short": "HCL Ștefan Vodă nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 35/2024 privind desemnarea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/170179",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/170179",
      "sha256": null
     }
    ]

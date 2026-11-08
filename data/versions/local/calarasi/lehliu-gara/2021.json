@@ -3,6 +3,21 @@
  "shard": "local/calarasi/lehliu-gara/2021",
  "acts": [
   {
+   "slug": "hcl-calarasi--lehliu-gara-10-2021",
+   "path": "local/calarasi/lehliu-gara/2021/10",
+   "short": "HCL Lehliu Gară nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 10/2021 pentru situatii de urgenta Lehliu – Gara, urmare incidentei de peste 7,5 la 1000 de locuitori",
+   "url": "https://www.primarialehliugara.ro/page/40/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/Hotararea-nr.-10-din-20.10.2021-a-Comitetului-local-pentru-situatii-de-urgenta-Lehliu-Gara-urmare-incidentei-de-peste-75-la-1000-de-locuitori.pdf",
+     "sha256": "a58b125b76adb5578c506320019c67f5fd33f478486205681dacc8d89a600107"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--lehliu-gara-11-2021",
    "path": "local/calarasi/lehliu-gara/2021/11",
    "short": "HCL Lehliu Gară nr. 11/2021",
@@ -14,6 +29,156 @@
      "units": 1,
      "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/Hotararea-nr.-11-din-25.10.2021-privind-unele-masuri-in-domeniul-sanatatii-pubile-in-orasul-Lehliu-Gara.pdf",
      "sha256": "390fb17738c8c2cd38afb1e94a101adc21ce0f2c624b48faf4091c25a318bdf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-117-2021",
+   "path": "local/calarasi/lehliu-gara/2021/117",
+   "short": "HCL Lehliu Gară nr. 117/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 117/2021",
+   "url": "https://www.primarialehliugara.ro/page/41/",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/Hotararea-nr_-117-din-28_09_2021-a-CJSU-Calarasi.pdf",
+     "sha256": "97372c5ea6a05729fbfd025f5a1e7e03e40f7c5c96b92de3dc9f9adb95562a0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-12-2021",
+   "path": "local/calarasi/lehliu-gara/2021/12",
+   "short": "HCL Lehliu Gară nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 12/2021",
+   "url": "https://www.primarialehliugara.ro/page/40/",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/hotararea-nr.-12-din-26.10.2021-a-CLSU-Lehliu-Gara.pdf",
+     "sha256": "d1f5b2e2a4ed2a9c17b91253b7534dc45894aa317c7744cf624edfaebd8dd5dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-138-2021",
+   "path": "local/calarasi/lehliu-gara/2021/138",
+   "short": "HCL Lehliu Gară nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 138/2021 privind stabilirea unor masuri in domeniul sanatati publice in localitatile din judetul Calarasi",
+   "url": "https://www.primarialehliugara.ro/page/41/",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/Hotararea-nr.-138-din-15.10.2021-a-CJSU-Calarasi-privind-stabilirea-unor-masuri-in-domeniul-sanatati-publice-in-localitatile-din-judetul-Calarasi.pdf",
+     "sha256": "25a8ff664be5562e1103ac2e123cbc9b60ce9a949d36df6989c0972dc71aee0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-143-2021",
+   "path": "local/calarasi/lehliu-gara/2021/143",
+   "short": "HCL Lehliu Gară nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 143/2021 privind stabilirea unor masuri in domeniulsanatatii publice in localitatiledin judetul Calarsi",
+   "url": "https://www.primarialehliugara.ro/page/40/",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/Hotararea-nr.-143-din-19.10.2021-a-CJSU-Calarasi-privind-stabilirea-unor-masuri-in-domeniulsanatatii-publice-in-localitatiledin-judetul-Calarsi.pdf",
+     "sha256": "9899a0e3a753a52686775a4f6b3fa69e43111ee1ff43f7903d865556ac2451b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-149-2021",
+   "path": "local/calarasi/lehliu-gara/2021/149",
+   "short": "HCL Lehliu Gară nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 149/2021",
+   "url": "https://www.primarialehliugara.ro/page/40/",
+   "versions": [
+    {
+     "from": "2021-10-24",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/Hotararea-nr.-149-din-24.10.2021-a-CJSU-Calarasi.pdf",
+     "sha256": "f8e3cbeaf560f840f5b10d201dc1240866f91969abc905bca4186dc75ad27458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-152-2021",
+   "path": "local/calarasi/lehliu-gara/2021/152",
+   "short": "HCL Lehliu Gară nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 152/2021",
+   "url": "https://www.primarialehliugara.ro/page/40/",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/10/Hotararea-nr.-152-din-25.10.2021-a-CJSU.pdf",
+     "sha256": "4410a992164c89dc4cc7ef315cefc01ceab4243ea64ed37161f637583d0a913b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-305-2021",
+   "path": "local/calarasi/lehliu-gara/2021/305",
+   "short": "HCL Lehliu Gară nr. 305/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 305/2021",
+   "url": "https://www.primarialehliugara.ro/page/42/",
+   "versions": [
+    {
+     "from": "2021-07-23",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/07/Adresa-nr_-305_23_07_2021_Primaria-Lehliu-Gara.pdf",
+     "sha256": "dd1b059510d37b16f0c685ab12b3651357edc9d102bcf933fa81f3747bd39437"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-89-2021",
+   "path": "local/calarasi/lehliu-gara/2021/89",
+   "short": "HCL Lehliu Gară nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 89/2021",
+   "url": "https://www.primarialehliugara.ro/page/43/",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/06/Hotararea-nr-89-29.06.2021.pdf",
+     "sha256": "08708f9f1d5eb482d456d085976fbd289ada00b489d9d4da470f6f272da7a47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-92-2021",
+   "path": "local/calarasi/lehliu-gara/2021/92",
+   "short": "HCL Lehliu Gară nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 92/2021 pentru Situaţii de Urgenţă",
+   "url": "https://www.primarialehliugara.ro/page/42/",
+   "versions": [
+    {
+     "from": "2021-07-10",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/07/Hotarare-92-10.07.2021-Comitetul-Jude%C5%A3ean-pentru-Situa%C5%A3ii-de-Urgen%C5%A3%C4%83.pdf",
+     "sha256": "15c1d09cd20466f030d2c65d25964ecb8b64eef4f183e7937b869c5d2c9fa6a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-98-2021",
+   "path": "local/calarasi/lehliu-gara/2021/98",
+   "short": "HCL Lehliu Gară nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 98/2021 pentru Situaţii de Urgenţă",
+   "url": "https://www.primarialehliugara.ro/page/42/",
+   "versions": [
+    {
+     "from": "2021-07-10",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2021/08/Hot-98-09.08.2021-Hotarare-92-10.07.2021-Comitetul-Jude%C5%A3ean-pentru-Situa%C5%A3ii-de-Urgen%C5%A3%C4%83.pdf",
+     "sha256": "fa897e5b9a7e2a4d24e7934cbd34ecc08ce0493080b61639cc8acc5b82bd56af"
     }
    ]
   }

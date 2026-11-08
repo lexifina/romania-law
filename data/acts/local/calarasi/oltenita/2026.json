@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/calarasi/oltenita/2026",
+"acts": [
+{
+"slug": "hcl-calarasi--oltenita-7-2026",
+"path": "local/calarasi/oltenita/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 7/2026",
+"short": "HCL Oltenița nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": null,
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--oltenita-117-2026",
+"path": "local/calarasi/oltenita/2026/117",
+"kind": "local",
+"year": "2026",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 117/2026",
+"short": "HCL Oltenița nr. 117/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2026/",
+"council": "calarasi/oltenita",
+"council_name": "Consiliul Local al Municipiului Oltenița",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

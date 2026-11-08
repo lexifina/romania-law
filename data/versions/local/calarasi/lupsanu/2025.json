@@ -3,6 +3,456 @@
  "shard": "local/calarasi/lupsanu/2025",
  "acts": [
   {
+   "slug": "hcl-calarasi--lupsanu-1-2025",
+   "path": "local/calarasi/lupsanu/2025/1",
+   "short": "HCL Lupșanu nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 1/2025 privind acoperirea deficitului bugetar al Bugetului Local la sfârșitul exercițiului bugetar al anului 2024 sursa A - Secțiunea Dezvoltare",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/186200",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/186200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-10-2025",
+   "path": "local/calarasi/lupsanu/2025/10",
+   "short": "HCL Lupșanu nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 10/2025 privind aprobarea raportului de activitate desfășurată de asistenții personali ai persoanelor cu handicap grav pe semestrul 2 anul 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/194229",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/194229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-11-2025",
+   "path": "local/calarasi/lupsanu/2025/11",
+   "short": "HCL Lupșanu nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 11/2025 PROIECT DE HOTĂRÂRE PRIVIND APROBAREA BUGETULUI LOCAL PE ANUL 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/201107",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/201107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-12-2025",
+   "path": "local/calarasi/lupsanu/2025/12",
+   "short": "HCL Lupșanu nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 12/2025 PROIECT DE HOTĂRÂRE PRIVIND APROBAREA UTILIZĂRII EXECEDENTULUI BUGETAR DIN ANII ANTERIORI – SURSA A",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/201108",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/201108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-13-2025",
+   "path": "local/calarasi/lupsanu/2025/13",
+   "short": "HCL Lupșanu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 13/2025 PROIECT DE HOTĂRÂRE PRIVIND APROBAREA PLANULUI ANUAL DE ACȚIUNE PRIVIND SERVICIILE SOCIALE ADMINISTRATE ȘI FINANȚATE DIN BUGETUL CONSILIULUI LOCAL AL COMUNEI LUPȘANU PENTRU ANUL 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/201109",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/201109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-14-2025",
+   "path": "local/calarasi/lupsanu/2025/14",
+   "short": "HCL Lupșanu nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 14/2025 privind APROBAREA REGULAMENTULUI DE STABILIRE SI INCASARE A TAXEI DE SALUBRIZARE",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/201110",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/201110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-15-2025",
+   "path": "local/calarasi/lupsanu/2025/15",
+   "short": "HCL Lupșanu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 15/2025 privind ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU PERIOADA MAI-IULIE 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/203880",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/203880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-16-2025",
+   "path": "local/calarasi/lupsanu/2025/16",
+   "short": "HCL Lupșanu nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 16/2025 privind MODIFICAREA BUGETULUI LOCAL SURSA A - ANUL 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/203881",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/203881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-17-2025",
+   "path": "local/calarasi/lupsanu/2025/17",
+   "short": "HCL Lupșanu nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 17/2025 privind APROBAREA SITUAŢIILOR DEOSEBITE PENTRU ACORDAREA UNOR AJUTOARE DE URGENŢĂ",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/203882",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/203882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-18-2025",
+   "path": "local/calarasi/lupsanu/2025/18",
+   "short": "HCL Lupșanu nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 18/2025 privind APROBAREA VALORILOR IMPOZABILE, IMPOZITELE, TAXELE LOCALE SI AMENZILE APLICABILE IN ANUL 2026 IN COMUNA LUPSANU",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/203883",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/203883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-19-2025",
+   "path": "local/calarasi/lupsanu/2025/19",
+   "short": "HCL Lupșanu nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 19/2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/203884",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/203884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-2-2025",
+   "path": "local/calarasi/lupsanu/2025/2",
+   "short": "HCL Lupșanu nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 2/2025 privind alegerea Președintelui de ședință pentru perioada februarie-aprilie 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/186201",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/186201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-20-2025",
+   "path": "local/calarasi/lupsanu/2025/20",
+   "short": "HCL Lupșanu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 20/2025 privind APROBAREA MODIFICĂRII ORGANIGRAMEI ȘI STATULUI DE FUNCȚII, PENTRU APARATUL DE SPECIALITATE AL PRIMARULUI",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/203885",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/203885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-21-2025",
+   "path": "local/calarasi/lupsanu/2025/21",
+   "short": "HCL Lupșanu nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 21/2025 privind APROBAREA REVIZUIRII SUMEI ALOCATE CRUCII ROȘII CĂLĂRAȘI LA SUMA DE 10.000 LEI PE AN",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/203886",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/203886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-22-2025",
+   "path": "local/calarasi/lupsanu/2025/22",
+   "short": "HCL Lupșanu nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 22/2025 privind APROBAREA REACTUALIZĂRII PLANULUI URBANISTIC GENERAL ȘI REGULAMENTULUI LOCAL DE URBANISM, COMUNA LUPȘANU JUDEȚUL CĂLĂRAȘI",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/203887",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/203887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-23-2025",
+   "path": "local/calarasi/lupsanu/2025/23",
+   "short": "HCL Lupșanu nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 23/2025 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/208191",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/208191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-24-2025",
+   "path": "local/calarasi/lupsanu/2025/24",
+   "short": "HCL Lupșanu nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 24/2025 PRIVIND APROBAREA PLANULUI PENTRU ASIGURAREA CU RESURSE UMANE NECESARE GESTIONARII SITUAȚIILOR DE URGENȚĂ PE ANUL 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/208192",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/208192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-25-2025",
+   "path": "local/calarasi/lupsanu/2025/25",
+   "short": "HCL Lupșanu nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 25/2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/208193",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/208193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-26-2025",
+   "path": "local/calarasi/lupsanu/2025/26",
+   "short": "HCL Lupșanu nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 26/2025 privind APROBAREA MODIFICĂRII ORGANIGRAMEI ȘI STATULUI DE FUNCȚII, PENTRU APARATUL DE SPECIALITATE AL PRIMARULUI",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/217153",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/217153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-27-2025",
+   "path": "local/calarasi/lupsanu/2025/27",
+   "short": "HCL Lupșanu nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 27/2025 privind APROBAREA STABILIRII ȘI SANCȚIONĂRII FAPTELOR CE CONSTITUIE CONTRAVENȚII PE RAZA ADMINISTRATIV TERITORIALĂ A COMUNEI LUPȘANU JUDEȚUL CĂLĂRAȘI",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/217154",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/217154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-28-2025",
+   "path": "local/calarasi/lupsanu/2025/28",
+   "short": "HCL Lupșanu nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 28/2025 privind APROBAREA PROIECTULUI DE INVESTIȚII PRIVIND EFICIENTIZAREA ENERGETICĂ PENTRU ȘCOALA GIMNAZIALĂ NR. 1 RADU VODĂ ȘI GRĂDINIȚA CU PROGRM NORMAL NR 2 RADU VODĂ",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/217155",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/217155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-29-2025",
+   "path": "local/calarasi/lupsanu/2025/29",
+   "short": "HCL Lupșanu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 29/2025 privind APROBAREA ADERĂRII COMUNEI LUPȘANU LA TERITORIUL ELIGIBIL AL ZONEI PESCĂREȘTI VALEA MOSTISTEI REPREZENTATĂ DE ASOCIAȚIA GRUPUL DE ACȚIUNE LOCALĂ PENTRU ACVACULTURA DIN VALEA MOSTIȘTEI",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/217156",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/217156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-3-2025",
+   "path": "local/calarasi/lupsanu/2025/3",
+   "short": "HCL Lupșanu nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 3/2025 PRIVIND STABILIREA SALARIILOR DE BAZA PENTRU FUNCȚIONARII PUBLICI ȘI PERSONALUL CONTRACTUAL DIN APARATUL DE SPECIALITATE AL PRIMARULUI COMUNEI LUPȘANU",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/189906",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/189906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-30-2025",
+   "path": "local/calarasi/lupsanu/2025/30",
+   "short": "HCL Lupșanu nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 30/2025 privind ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ PENTRU PERIOADA AUGUST-OCTOMBRIE 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/217157",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/217157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-31-2025",
+   "path": "local/calarasi/lupsanu/2025/31",
+   "short": "HCL Lupșanu nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 31/2025 privind MODIFICAREA ORGANIGRAMEI ȘI STATULUI DE FUNCȚII, INCLUDEREA ÎN ORGANIGRAMĂ A 16 POSTURI DE ASISTENȚI PERSONALI AI PERSOANELOR CU HANDICAP GRAV PRECUM ȘI CORECTAREA COEFICIENȚILOR DE IERARHIZARE A SALARIILOR PENTRU APARATUL DE SPECIALITATE DIN SUBORDINEA PRIMARULUI",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/223837",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/223837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-32-2025",
+   "path": "local/calarasi/lupsanu/2025/32",
+   "short": "HCL Lupșanu nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 32/2025 privind APROBARE RAPORTULUI ASISTENȚILOR PERSONALI, SEMESTRUL I AL ANULUI 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/223838",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/223838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-33-2025",
+   "path": "local/calarasi/lupsanu/2025/33",
+   "short": "HCL Lupșanu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 33/2025 privind RECTIFICAREA BUGETULUI LOCAL PE ANUL 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/223839",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/223839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-34-2025",
+   "path": "local/calarasi/lupsanu/2025/34",
+   "short": "HCL Lupșanu nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 34/2025 privind APROBAREA REGULAMENTULUI REFERITOR LA PROCEDURA DE ÎNREGISTRARE ȘI EVIDENȚĂ A VEHICULELOR CARE NU SUNT SUPUSE ÎNMATRICULĂRII",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/223840",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/223840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-35-2025",
+   "path": "local/calarasi/lupsanu/2025/35",
+   "short": "HCL Lupșanu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 35/2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/223841",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/223841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-36-2025",
+   "path": "local/calarasi/lupsanu/2025/36",
+   "short": "HCL Lupșanu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 36/2025 PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ NOIEMBRIE 2025-IANUARIE 2026",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/229133",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/229133",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--lupsanu-37-2025",
    "path": "local/calarasi/lupsanu/2025/37",
    "short": "HCL Lupșanu nr. 37/2025",
@@ -43,6 +493,21 @@
      "from": "2025-10-20",
      "units": 1,
      "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/229136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-4-2025",
+   "path": "local/calarasi/lupsanu/2025/4",
+   "short": "HCL Lupșanu nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 4/2025 PRIVIND DECLARAREA DE UTILITATE PUBLICĂ A OBIECTIVELOR DE INVESTIȚIE DE INTERES LOCAL, PRIVIND AMPLASAREA UNUI PARC FOTOVOLTAIC SITUAT ÎN EXTRAVILANUL COMUNEI LUPȘANU, SAT LUPȘANU, TARLAUA 59/2, PARCELA 2, JUD. CĂLĂRAȘI, CU SUPRAFATA TOTALA DE 30.000 MP , IDENTIFICAT CU NR. CADASTRAL 20238, PENTRU PROIECTUL ,,SPRIJINIREA INVESTIȚIILOR ÎN NOI CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE PRODUSĂ DIN SURSE REGENERABILE PENTRU AUTOCONSUM,,",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/189907",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/189907",
      "sha256": null
     }
    ]
@@ -198,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--lupsanu-5-2025",
+   "path": "local/calarasi/lupsanu/2025/5",
+   "short": "HCL Lupșanu nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 5/2025 APROBAREA PLANULUI DE ANALIZA SI ACOPERIRE A RISCURILOR AL COMUNEI LUPȘANU PENTRU ANUL 2025",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/189908",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/189908",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--lupsanu-50-2025",
    "path": "local/calarasi/lupsanu/2025/50",
    "short": "HCL Lupșanu nr. 50/2025",
@@ -298,6 +778,36 @@
      "from": "2026-01-14",
      "units": 1,
      "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/243863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-6-2025",
+   "path": "local/calarasi/lupsanu/2025/6",
+   "short": "HCL Lupșanu nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 6/2025 privind aprobarea contului de execuție bugetară pe trimestrul IV al anului 2024",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/194225",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/194225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lupsanu-7-2025",
+   "path": "local/calarasi/lupsanu/2025/7",
+   "short": "HCL Lupșanu nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupșanu nr. 7/2025 privind aprobarea normelor interne pentru orgnizarea și desfășurarea procedurilor de achiziții publice pentru atribuirea contractelor ce au ca obiect servicii prevăzute în anexa 2 la legea nr. 98/2016, care au valoare mai mica decât cea prevăzută la art. 7, alin(1), litera d)",
+   "url": "https://emol.ro/lupsanu-cl/registru-hcl/194226",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupsanu-cl/registru-hcl/194226",
      "sha256": null
     }
    ]

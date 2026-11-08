@@ -333,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-13-2022",
+   "path": "local/calarasi/sarulesti/2022/13",
+   "short": "HCL Sărulești nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 13/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68723",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68723",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-14-2022",
    "path": "local/calarasi/sarulesti/2022/14",
    "short": "HCL Sărulești nr. 14/2022",
@@ -343,6 +358,21 @@
      "from": "2022-08-30",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-15-2022",
+   "path": "local/calarasi/sarulesti/2022/15",
+   "short": "HCL Sărulești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 15/2022 privind desemnarea reprezentantului Consiliului Local al comunei Sărulesti și membru supleant în comisia de concurs pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat sesiunea ianuarie-aprilie -2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68725",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68725",
      "sha256": null
     }
    ]
@@ -363,6 +393,81 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-17-2022",
+   "path": "local/calarasi/sarulesti/2022/17",
+   "short": "HCL Sărulești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 17/2022 privind aprobarea vânzari prin licitaţie publică a terenului in suprafata de 510 mp proprietate private a com. Sarulesti, judetul Calarasi,situat în Tarlaua 13, Parcela 323, inscris in Cartea Funciara nr. 23773 SARULESTI",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68727",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-18-2022",
+   "path": "local/calarasi/sarulesti/2022/18",
+   "short": "HCL Sărulești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 18/2022 privind apartenența la domeniul privat al comunei Sărulesti, județul Călăras, a terenului intravilan în suprafață de 6070 mp și a construcților cu destinația rezevor apa și camera pompe , situate în intravilanul, comunei Sărulesti, sat Sărulesti –Gara, CV 2 , P 24 si 25",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68728",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-19-2022",
+   "path": "local/calarasi/sarulesti/2022/19",
+   "short": "HCL Sărulești nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 19/2022 privind apartenența la domeniul privat al comunei Sărulesti a terenului cu categorie de folosință arabil curtii constructi situat în comuna Sărulesti, sat Sărulesti –Gara, Cv 2 , P. 26/1 in suprafata de 2193 mp",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68729",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68729",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-2-2022",
+   "path": "local/calarasi/sarulesti/2022/2",
+   "short": "HCL Sărulești nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 2/2022 privind aprobarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68629",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-20-2022",
+   "path": "local/calarasi/sarulesti/2022/20",
+   "short": "HCL Sărulești nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 20/2022 privind aprobarea demersurilor pentru evaluarea terenului aferent Blocului nr 1 din Comuna Sărulesti , sat Sărulesti –Gara, in vederea vânzării cotelor indivize de teren aferent apartamentelor",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68730",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68730",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-21-2022",
    "path": "local/calarasi/sarulesti/2022/21",
    "short": "HCL Sărulești nr. 21/2022",
@@ -373,6 +478,21 @@
      "from": "2022-08-30",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-22-2022",
+   "path": "local/calarasi/sarulesti/2022/22",
+   "short": "HCL Sărulești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 22/2022 privind apartenența la domeniul privat a terenului arabil extravilan cu categoria de folosință neproductiv în suprafață de 132.000 mp,înscris in CF nr.26783",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68732",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68732",
      "sha256": null
     }
    ]
@@ -438,6 +558,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-27-2022",
+   "path": "local/calarasi/sarulesti/2022/27",
+   "short": "HCL Sărulești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 27/2022 privind apartenența la domeniul privat al comunei Sărulesti, a terenului intravilan în suprafață de 500 mp , cu categoria de folosință curtii construcți , situat în Cv 6, P 95/1, sat Sărulesti –Gara, comuna Sărulesti",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68740",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-28-2022",
+   "path": "local/calarasi/sarulesti/2022/28",
+   "short": "HCL Sărulești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 28/2022 privind trecerea din domeniul public al comunei Sărulesti în domeniul privat al comunei Sărulesti a terenului intravilan în suprafață de 3743 mp ,situat în sat Sărulesti , Cv 30 , P. 736 cu destinația cimitir",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68741",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68741",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-29-2022",
    "path": "local/calarasi/sarulesti/2022/29",
    "short": "HCL Sărulești nr. 29/2022",
@@ -453,6 +603,51 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-3-2022",
+   "path": "local/calarasi/sarulesti/2022/3",
+   "short": "HCL Sărulești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 3/2022 privind insusirea Analizei stadiului de inscriere a datelor in Registrul agricol pe trimestrul I al anului 2021 si aprobarea Programului de masuri pentru eficientizarea inscrierii datelor in Registrul agricol",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68630",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-30-2022",
+   "path": "local/calarasi/sarulesti/2022/30",
+   "short": "HCL Sărulești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 30/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68743",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68743",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-31-2022",
+   "path": "local/calarasi/sarulesti/2022/31",
+   "short": "HCL Sărulești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 31/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68744",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68744",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-32-2022",
    "path": "local/calarasi/sarulesti/2022/32",
    "short": "HCL Sărulești nr. 32/2022",
@@ -463,6 +658,51 @@
      "from": "2022-08-30",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-33-2022",
+   "path": "local/calarasi/sarulesti/2022/33",
+   "short": "HCL Sărulești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 33/2022 privind aprobarea depunerii proiectului,, LUCRARI DE CREȘTERE A EFICIENȚEI ENERGETICE-ȘCOALA SĂRULESTI,COMUNA SĂRULESTI,JUDEȚUL CĂLĂRAȘI la Ministerul Dezvoltării, Lucrarilor Publice și Administrației prin Planul Național de Redresarea și Reziliență. -PNRR-COMPONENTA C5 –VALULU RENOVARII-AXA 2-SCHEMA DE GRANTURI PENTRU EFICIENȚA ENERGETICA ȘI REZILIENTA ÎN CLADIRI PUBLICE-OPERAȚIUNEA B 2:RENOVAREA ENERGETICA MODERATA SAU APROFUNDATA A CLADIRILOR PUBLICE",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68749",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-34-2022",
+   "path": "local/calarasi/sarulesti/2022/34",
+   "short": "HCL Sărulești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 34/2022 privind aprobarea depunerii proiectului,, LUCRARI DE CREȘTERE A EFICIENȚEI ENERGETICE-ȘCOALA SOLACOLU ,COMUNA SĂRULESTI,JUDEȚUL CĂLĂRAȘI la Ministerul Dezvoltării, Lucrarilor Publice și Administrației prin Planul Național de Redresarea și Reziliență. -PNRR-COMPONENTA C5 –VALULU RENOVARII-AXA 2-SCHEMA DE GRANTURI PENTRU EFICIENȚA ENERGETICA ȘI REZILIENTA ÎN CLADIRI PUBLICE-OPERAȚIUNEA B 2:RENOVAREA ENERGETICA MODERATA SAU APROFUNDATA A CLADIRILOR PUBLICE",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68750",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-35-2022",
+   "path": "local/calarasi/sarulesti/2022/35",
+   "short": "HCL Sărulești nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 35/2022 privind aprobarea depunerii proiectului,, LUCRARI DE CONSOLIDARE SEISMICĂ ȘI DE CREȘTERE A EFICIENȚEI ENERGETICE PENTRU SEDIUL PRIMARIEI SĂRULESTI, SAT SĂRULESTI – GARĂ, COMUNA SĂRULESTI, JUDETUL CĂLĂRASI,, -PNRR-COMPONENTA C5 –VALULU RENOVARII-AXA 2-SCHEMA DE GRANTURI PENTRU EFICIENȚA ENERGETICA ȘI REZILIENTA ÎN CLADIRI PUBLICE-OPERAȚIUNEA B 2:RENOVAREA ENERGETICA MODERATA SAU APROFUNDATA A CLADIRILOR PUBLICE",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68751",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68751",
      "sha256": null
     }
    ]
@@ -543,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-40-2022",
+   "path": "local/calarasi/sarulesti/2022/40",
+   "short": "HCL Sărulești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 40/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68757",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68757",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-41-2022",
    "path": "local/calarasi/sarulesti/2022/41",
    "short": "HCL Sărulești nr. 41/2022",
@@ -558,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-42-2022",
+   "path": "local/calarasi/sarulesti/2022/42",
+   "short": "HCL Sărulești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 42/2022 privind apartenenta la domeniul privat al comunei Sărulesti, a teren intravilanul cu categoria de folosință arabil, sutuat în sat Măgureni, comuna Sărulesti, Cv 1, P 1 suprafata de 899 mp",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68759",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68759",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-43-2022",
    "path": "local/calarasi/sarulesti/2022/43",
    "short": "HCL Sărulești nr. 43/2022",
@@ -568,6 +838,21 @@
      "from": "2022-08-30",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-44-2022",
+   "path": "local/calarasi/sarulesti/2022/44",
+   "short": "HCL Sărulești nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 44/2022 privind apartenenta la domeniul privat al comunei Sarulesti a terenului extravilan in suprafață de 1000 mp situat in T 6/3 , P. 81/2, inscris in CF 25736",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68761",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68761",
      "sha256": null
     }
    ]
@@ -663,6 +948,66 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--sarulesti-50-2022",
+   "path": "local/calarasi/sarulesti/2022/50",
+   "short": "HCL Sărulești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 50/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68767",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-51-2022",
+   "path": "local/calarasi/sarulesti/2022/51",
+   "short": "HCL Sărulești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 51/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68768",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-52-2022",
+   "path": "local/calarasi/sarulesti/2022/52",
+   "short": "HCL Sărulești nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 52/2022 privind revocarea Hotârări Consiliului Local nr. 101/23.12.2021",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68769",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-53-2022",
+   "path": "local/calarasi/sarulesti/2022/53",
+   "short": "HCL Sărulești nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 53/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68770",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68770",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--sarulesti-54-2022",
    "path": "local/calarasi/sarulesti/2022/54",
    "short": "HCL Sărulești nr. 54/2022",
@@ -673,6 +1018,36 @@
      "from": "2022-08-30",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-55-2022",
+   "path": "local/calarasi/sarulesti/2022/55",
+   "short": "HCL Sărulești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 55/2022 privind apartenenta la domeniul privat al comunei a cinci loturi de teren situate in intravilanul comunei Sarulesti și a unui lot de teren aflat în extravilanul comunei Sarulesti",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68810",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-56-2022",
+   "path": "local/calarasi/sarulesti/2022/56",
+   "short": "HCL Sărulești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 56/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68811",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68811",
      "sha256": null
     }
    ]
@@ -703,6 +1078,651 @@
      "from": "2022-08-30",
      "units": 1,
      "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-59-2022",
+   "path": "local/calarasi/sarulesti/2022/59",
+   "short": "HCL Sărulești nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 59/2022 privind aprobarea noilor indicatori tehnico-economici actualizați conform Legii176/2022, pentru obiectul de investiții ,,EXTINDERE SI MODERMIZARE REȚEA DE ALIMENTARE CU APA ÎN COMUNA SARULESTI, JUDEȚUL CĂLĂRASI,,",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68974",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-6-2022",
+   "path": "local/calarasi/sarulesti/2022/6",
+   "short": "HCL Sărulești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 6/2022 privind revocarea Hotârări Comisie Locale nr. 20/25.05.2021",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68633",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-60-2022",
+   "path": "local/calarasi/sarulesti/2022/60",
+   "short": "HCL Sărulești nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 60/2022 privind aprobarea noilor indicatori tehnico-economici conform Legii nr. 176/2022,pentru obiectivul de investiții ,, ÎNFIINTARE REȚEA CANALIZARE ȘI STAȚIE DE EPURARE BIOLOGICĂ ÎN COMUNA SĂRULESTI, JUDEȚUL CĂLĂRAȘI",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68975",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-61-2022",
+   "path": "local/calarasi/sarulesti/2022/61",
+   "short": "HCL Sărulești nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 61/2022 privind aprobarea Actului adițional întocmit in baza OUG nr.47/2022 pentru obiectivul de investiții ,, ÎNFIINTARE REȚEA CANALIZARE ȘI STAȚIE DE EPURARE BIOLOGICA ÎN COMUNA SĂRULESTI ,JUDEȚUL CĂLĂRAȘI,,",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68976",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-62-2022",
+   "path": "local/calarasi/sarulesti/2022/62",
+   "short": "HCL Sărulești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 62/2022 privind aprobarea Actului adițional întocmit in baza OUG nr.47/2022 , pentru obiectul de investiții ,,EXTINDERE SI MODERMIZARE REȚEA DE ALIMENTARE CU APA ÎN COMUNA SARULESTI, JUDETUL CĂLĂRASI,,",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68977",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-63-2022",
+   "path": "local/calarasi/sarulesti/2022/63",
+   "short": "HCL Sărulești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 63/2022 privind rectificarea bugetului comunei Sărulești pe anul 2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68980",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-64-2022",
+   "path": "local/calarasi/sarulesti/2022/64",
+   "short": "HCL Sărulești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 64/2022 privind aprobarea Contului de executie la 30.06.2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68981",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-65-2022",
+   "path": "local/calarasi/sarulesti/2022/65",
+   "short": "HCL Sărulești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 65/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68982",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-66-2022",
+   "path": "local/calarasi/sarulesti/2022/66",
+   "short": "HCL Sărulești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 66/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68983",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-67-2022",
+   "path": "local/calarasi/sarulesti/2022/67",
+   "short": "HCL Sărulești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 67/2022 privind apartenenta la domeniul privat al comunei a terenului cu suprafata de 660 mp situat în intravilanul comunei Sărulesti, sat Sarulesti-Gara, str.Gigore Ureche, Cv 1/1. P27",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68984",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-68-2022",
+   "path": "local/calarasi/sarulesti/2022/68",
+   "short": "HCL Sărulești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 68/2022 privind apartenența la domeniul privat al comunei Sărulesti a terenului arabil intravilan cu suprafața de 293 mp situat în intravilanul comunei Sărulesti, sat Măgureni, Cv 11. P. 20/1",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68985",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68985",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-69-2022",
+   "path": "local/calarasi/sarulesti/2022/69",
+   "short": "HCL Sărulești nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 69/2022 privind aprobarea Raportului de evaluare a terenului extravilan cu destinația neproductiv în suprafață de 2503 mp- lot 2 , înscris în CF 28011 situat în comuna Sărulesti , jud Călărasi",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68986",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-7-2022",
+   "path": "local/calarasi/sarulesti/2022/7",
+   "short": "HCL Sărulești nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 7/2022 privind aprobarea încheieri a unui contract de comodat cu ST LUKAS CLINIC SRL a unui spațiu cu suprafața utilă de 15,8 mp .din cladirea Dispensarului Săndulița",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68634",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-70-2022",
+   "path": "local/calarasi/sarulesti/2022/70",
+   "short": "HCL Sărulești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 70/2022 privind aprobarea Raportului de evaluare a terenului extravilan cu destinația neproductiv în suprafață de 3659 mp- lot 3, înscris în CF 28012 situat în comuna Sărulesti, jud Călărasi",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68987",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-71-2022",
+   "path": "local/calarasi/sarulesti/2022/71",
+   "short": "HCL Sărulești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 71/2022 privind suplimentarea numărului de posturi pentru asistenţii personali, însoţitori ai persoanelor cu handicap grav și a indemnizațiilor de însoțitor ai persoanelor cu handicap grav începând cu luna august 2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68988",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-72-2022",
+   "path": "local/calarasi/sarulesti/2022/72",
+   "short": "HCL Sărulești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 72/2022 privind aprobarea transferului mijlocului fix “microbuz pentru transportul scolar” din gestiunea comunei Sarulesti, Judetul Calarasi, in gestiunea Scolii Gimnaziale nr.1 Sarulesti Gara, comuna Sarulesti, Judetul Calarasi",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68989",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-73-2022",
+   "path": "local/calarasi/sarulesti/2022/73",
+   "short": "HCL Sărulești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 73/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75365",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-74-2022",
+   "path": "local/calarasi/sarulesti/2022/74",
+   "short": "HCL Sărulești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 74/2022 privind desemnarea reprezentantului Consiliului Local al comunei Sărulesti și membru supleant în comisia de concurs pentru ocuparea funcțiilor de director adjunct din unitățile de învățământ preuniversitar de stat sesiunea iunie –octombrie -2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75366",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-75-2022",
+   "path": "local/calarasi/sarulesti/2022/75",
+   "short": "HCL Sărulești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 75/2022 privind insusirea Analizei stadiului de inscriere a datelor in Registrul agricol pe trimestrul III al anului 2021 si aprobarea Programului de masuri pentru eficientizarea inscrierii datelor in Registrul agricol",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75367",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-76-2022",
+   "path": "local/calarasi/sarulesti/2022/76",
+   "short": "HCL Sărulești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 76/2022 privind vânzarea prin licitaţie publică a terenului extravilan cu destinația neproductiv în suprafață de 2503 mp,lot 2, situat in com. Sarulesti, judetul Calarasi, intabulat in Cartea Funciara nr. 28011",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75368",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-77-2022",
+   "path": "local/calarasi/sarulesti/2022/77",
+   "short": "HCL Sărulești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 77/2022 privind vânzarea prin licitaţie publică a terenului extravilan cu destinația neproductiv în suprafață de 3650 mp,lot 3, situat in com. Sarulesti, judetul Calarasi, intabulat in Cartea Funciara nr. 28012",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75369",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-78-2022",
+   "path": "local/calarasi/sarulesti/2022/78",
+   "short": "HCL Sărulești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 78/2022 privind apartenenta la domeniul public al comunei Sarulesti a terenului cu categoria de folosință curtii constructii, situat in satul Solacolu, Tarlaua 57, Parcela 1/1în suprafață de 6250 mp",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75370",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-79-2022",
+   "path": "local/calarasi/sarulesti/2022/79",
+   "short": "HCL Sărulești nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 79/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați si a devizului general actualizat pentru obiectivul de investitii,,MODERNIZARE DRUMURI DC 24 IN COMUNA SARULESTI, JUDEȚUL CĂLĂRAȘI, aprobat pentru finanțarea prin Programul național de investiții ANGHEL SALIGNY, precum si a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75374",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-8-2022",
+   "path": "local/calarasi/sarulesti/2022/8",
+   "short": "HCL Sărulești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 8/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68635",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-80-2022",
+   "path": "local/calarasi/sarulesti/2022/80",
+   "short": "HCL Sărulești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 80/2022 privind rectificarea bugetului comunei Sărulești pe anul 2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75375",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-81-2022",
+   "path": "local/calarasi/sarulesti/2022/81",
+   "short": "HCL Sărulești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 81/2022 privind rectificarea bugetului comunei Sărulești pe anul 2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75390",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-82-2022",
+   "path": "local/calarasi/sarulesti/2022/82",
+   "short": "HCL Sărulești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 82/2022 privind apartenența la domeniul public al comunei Sărulesti a terenului cu categorie de folosință neproductiv situat în comuna Sărulesti, sat Săndulița, Cv 7 , P225/1 in suprafata de 40 mp",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75391",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-83-2022",
+   "path": "local/calarasi/sarulesti/2022/83",
+   "short": "HCL Sărulești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 83/2022 privind aprobarea tarifelor diferentiate pentru serviciul de salubrizare in Comuna Sarulesti, judetul Calarasi, incepand cu 01.08.2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75392",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-84-2022",
+   "path": "local/calarasi/sarulesti/2022/84",
+   "short": "HCL Sărulești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 84/2022 privind respingerea notificari nr.730/08.09.2022 de încetare de comunacord a contractului de achiziție publică de lucrari nr. 209/19.11.2018 privind realizarea obiectivului de investiții,EXTINDERE SI MODERNIZAREA REȚEA DE ALIMENTARE CU APA IN COMUNA SARULESTI , JUDETUL CALARASI",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75393",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-85-2022",
+   "path": "local/calarasi/sarulesti/2022/85",
+   "short": "HCL Sărulești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 85/2022 privind respingerea notificări nr.731/08.09.2022 de încetare de comun acord a Contractului de achizitie publică de lucrari nr. 212/22.11.2018 privind realizarea obiectivului de investiții,,ÎNFIINTARE RETEA CANALIZARE SI STATIE DE EPURARE BIOLOGICĂ ÎN COMUNA SĂRULESTI, JUDETUL CĂLĂRASI",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75394",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-86-2022",
+   "path": "local/calarasi/sarulesti/2022/86",
+   "short": "HCL Sărulești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 86/2022 privind aprobarea necesității și oportunității realizarii obiectivului de investiții „Înființarea teren sport multifuncțional în sat Solacolu, Comuna Sarulesti, judetul Calarasi",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75429",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75429",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-87-2022",
+   "path": "local/calarasi/sarulesti/2022/87",
+   "short": "HCL Sărulești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 87/2022 privind aprobarea necesității și oportunității realizarii obiectivului de investiții „Lucrări de reabilitare Școala Solacoul, comuna Sărulesti, judetul Călărasi",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75430",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-88-2022",
+   "path": "local/calarasi/sarulesti/2022/88",
+   "short": "HCL Sărulești nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 88/2022 privind rectificarea bugetului comunei Sărulești pe anul 2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75431",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-89-2022",
+   "path": "local/calarasi/sarulesti/2022/89",
+   "short": "HCL Sărulești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 89/2022 privind aprobarea noilor indicatori tehnico-economici actualizați conform Legii176/2022, pentru obiectul de investiții ,,EXTINDERE SI MODERMIZARE REȚEA DE ALIMENTARE CU APA ÎN COMUNA SARULESTI, JUDEȚUL CĂLĂRASI",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75432",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-9-2022",
+   "path": "local/calarasi/sarulesti/2022/9",
+   "short": "HCL Sărulești nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 9/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/68636",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/68636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-90-2022",
+   "path": "local/calarasi/sarulesti/2022/90",
+   "short": "HCL Sărulești nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 90/2022 privind aprobarea noilor indicatori tehnico-economici conform Legii nr. 176/2022,pentru obiectivul de investiții ,, ÎNFIINTARE REȚEA CANALIZARE ȘI STAȚIE DE EPURARE BIOLOGICĂ ÎN COMUNA SĂRULESTI, JUDEȚUL CĂLĂRAȘI",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/75433",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/75433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-91-2022",
+   "path": "local/calarasi/sarulesti/2022/91",
+   "short": "HCL Sărulești nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 91/2022 privind rectificarea bugetului pe anul 2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/80601",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/80601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-92-2022",
+   "path": "local/calarasi/sarulesti/2022/92",
+   "short": "HCL Sărulești nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 92/2022 privind aprobarea indicatoriilor tehnico-economici pentru obiectivul de investiții „INFIINTARE TEREN SPORT MULTIFUNCTIONAL ÎN SAT SOLACOLU, COMUNA SĂRULESTI, JUDEȚUL CĂLĂRAȘI”",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/80603",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/80603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-93-2022",
+   "path": "local/calarasi/sarulesti/2022/93",
+   "short": "HCL Sărulești nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 93/2022 privind aprobarea documentație si indicatori tehnico economici pentru obiectivul de investiții „Lucrări de reabilitare Școala Solacoul, comuna Sărulesti, judetul Călărasi",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/80604",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/80604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-94-2022",
+   "path": "local/calarasi/sarulesti/2022/94",
+   "short": "HCL Sărulești nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 94/2022 privind aprobarea contului de execuție la data de 30.09.2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/80602",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/80602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-95-2022",
+   "path": "local/calarasi/sarulesti/2022/95",
+   "short": "HCL Sărulești nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 95/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/80605",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/80605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-96-2022",
+   "path": "local/calarasi/sarulesti/2022/96",
+   "short": "HCL Sărulești nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 96/2022",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/80606",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/80606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--sarulesti-97-2022",
+   "path": "local/calarasi/sarulesti/2022/97",
+   "short": "HCL Sărulești nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 97/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/85438",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/85438",
      "sha256": null
     }
    ]

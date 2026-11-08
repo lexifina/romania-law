@@ -483,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-39-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/39",
+   "short": "HCL Ștefan cel Mare nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 39/2022 privind aprobarea închirierii terenurilor arabile din izlazul comunal aflat în proprietatea privată a comunei Ștefan cel Mare, județul Călărași",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/70367",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/70367",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-4-2022",
    "path": "local/calarasi/stefan-cel-mare/2022/4",
    "short": "HCL Ștefan cel Mare nr. 4/2022",
@@ -493,6 +508,36 @@
      "from": "2022-01-31",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/51783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-40-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/40",
+   "short": "HCL Ștefan cel Mare nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 40/2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/70368",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/70368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-41-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/41",
+   "short": "HCL Ștefan cel Mare nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 41/2022 privind decontarea cheltuielilor de transport pentru personalul din aparatul de specialitate al primarului comunei Ștefan cel Mare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/70369",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/70369",
      "sha256": null
     }
    ]
@@ -538,6 +583,36 @@
      "from": "2022-08-31",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/72037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-45-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/45",
+   "short": "HCL Ștefan cel Mare nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 45/2022 privind reînnoirea mandatului membrilor consiliului de administraţie al SC ECO SCUP SRL",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/72038",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/72038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-46-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/46",
+   "short": "HCL Ștefan cel Mare nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 46/2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/72039",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/72039",
      "sha256": null
     }
    ]
@@ -703,6 +778,36 @@
      "from": "2022-11-14",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/79319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-57-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/57",
+   "short": "HCL Ștefan cel Mare nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 57/2022 privind vânzarea fară licitație publică(directă) a unui teren proprietate privată a comunei Ștefan cel Mare, județul Călărași înscris în cartea funciară 21216",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/79320",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/79320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-58-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/58",
+   "short": "HCL Ștefan cel Mare nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 58/2022 privind vânzarea prin licitație publică a unui teren proprietate privată a comunei Ștefan cel Mare, județul Călărași înscris în Cartea Funciară 20831",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/79321",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/79321",
      "sha256": null
     }
    ]

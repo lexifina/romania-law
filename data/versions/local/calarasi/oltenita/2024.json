@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/oltenita/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--oltenita-41-2024",
+   "path": "local/calarasi/oltenita/2024/41",
+   "short": "HCL Oltenița nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 41/2024 privind închirierea, prin licitație publică, a unui bun imobil, în suprafață de 11 mp, situat în municipiul Oltenița, județul Călărași, Bd. Mărășești, nr. 26 F, cu destinația “spațiu comercial” Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/15/41-Hotarare-privind-inchirierea-prin-licitatie-publica-a-unui-bun-imobil-in-suprafata-de-11-mp-s.pdf",
+     "sha256": "25112880e60104cc6ecf06916e326182d8f9cf46ec8816ed3c9d90dcd2c21c33"
+    }
+   ]
+  }
+ ]
+}

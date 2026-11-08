@@ -123,6 +123,66 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-17-2026",
+   "path": "local/calarasi/stefan-cel-mare/2026/17",
+   "short": "HCL Ștefan cel Mare nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 17/2026 privind aprobarea menținerii nivelului contribuției lunare pentru beneficiarii serviciului de îngrijire persoane vârstnice la domiciliu",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/268663",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/268663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-18-2026",
+   "path": "local/calarasi/stefan-cel-mare/2026/18",
+   "short": "HCL Ștefan cel Mare nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 18/2026 privind alegerea președintelui de ședință pentru perioada iunie – august 2026",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/268664",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/268664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-19-2026",
+   "path": "local/calarasi/stefan-cel-mare/2026/19",
+   "short": "HCL Ștefan cel Mare nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 19/2026 privind aprobarea încheierii unui act de vânzare-cumpărare a unui teren proprietate privată a comunei Ștefan cel Mare, Călărași, vândut prin licitație publică, înscris în Cartea Funciară nr. 20961",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/274359",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/274359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-2-2026",
+   "path": "local/calarasi/stefan-cel-mare/2026/2",
+   "short": "HCL Ștefan cel Mare nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 2/2026 privind stabilirea tipului de suport alimentar precum şi modalitatea de distribuire a acestuia elevilor şi preşcolarilor în cadrul unităților de învățământ din comună",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247511",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247511",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-20-2026",
    "path": "local/calarasi/stefan-cel-mare/2026/20",
    "short": "HCL Ștefan cel Mare nr. 20/2026",
@@ -198,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-25-2026",
+   "path": "local/calarasi/stefan-cel-mare/2026/25",
+   "short": "HCL Ștefan cel Mare nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 25/2026 privind alegerea președintelui de ședință pentru ședința din 31 iulie 2026",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/282119",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/282119",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-26-2026",
    "path": "local/calarasi/stefan-cel-mare/2026/26",
    "short": "HCL Ștefan cel Mare nr. 26/2026",
@@ -253,6 +328,21 @@
      "from": "2026-08-11",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/282123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-3-2026",
+   "path": "local/calarasi/stefan-cel-mare/2026/3",
+   "short": "HCL Ștefan cel Mare nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 3/2026",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/247512",
+   "versions": [
+    {
+     "from": "2026-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/247512",
      "sha256": null
     }
    ]
@@ -408,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-4-2026",
+   "path": "local/calarasi/stefan-cel-mare/2026/4",
+   "short": "HCL Ștefan cel Mare nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 4/2026 privind alegerea președintelui de ședință pentru perioada martie – mai 2026",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/262607",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/262607",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-40-2026",
    "path": "local/calarasi/stefan-cel-mare/2026/40",
    "short": "HCL Ștefan cel Mare nr. 40/2026",
@@ -523,6 +628,21 @@
      "from": "2026-10-22",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/296987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-5-2026",
+   "path": "local/calarasi/stefan-cel-mare/2026/5",
+   "short": "HCL Ștefan cel Mare nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 5/2026",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/262608",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/262608",
      "sha256": null
     }
    ]

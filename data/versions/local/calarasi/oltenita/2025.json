@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--oltenita-112-2025",
+   "path": "local/calarasi/oltenita/2025/112",
+   "short": "HCL Oltenița nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 112/2025 pentru aprobarea Devizului General actualizat la finalizarea lucrărilor de execuție la obiectivul de investiții ,,Creșterea eficienței energetice a clădirilor C2-C7 ale Spitalului Municipal Oltenița, județul Călărași Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-NR.-112.pdf",
+     "sha256": "4006b6a2b5de3577b40d19b2d8ef1dae10e6dfbf5f1bab8e267f9362a51d2a16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-113-2025",
+   "path": "local/calarasi/oltenita/2025/113",
+   "short": "HCL Oltenița nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 113/2025 privind stabilirea titularului unui contract de închiriere locuință din municipiului Oltenița Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-NR.-113.pdf",
+     "sha256": "bc3f88429976f61cee3022fdd7302d4e532d1042e88f81281bdb2c07af86454b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-117-2025",
+   "path": "local/calarasi/oltenita/2025/117",
+   "short": "HCL Oltenița nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 117/2025 privind transformarea unor posturi în statul de funcții al Spitalului Municipal Oltenița Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-NR.-117.pdf",
+     "sha256": "bf9bd1f9e976611cb2c038978fe15b435193becb3a25d26b7e5098d78f01a377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-155-2025",
+   "path": "local/calarasi/oltenita/2025/155",
+   "short": "HCL Oltenița nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 155/2025 pentru înlocuirea unui membru în Comisia de specialitate a Consiliului local al Municipiului Oltenița pentru învățământ, cultură, sănătate, protecție socială, activitate sportivă și agrement Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-NR.-155.pdf",
+     "sha256": "a6003ca4057055b0ba83d003ba8b711e463aacd37d433c6eca3548e385897dd8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--oltenita-157-2025",
    "path": "local/calarasi/oltenita/2025/157",
    "short": "HCL Oltenița nr. 157/2025",
@@ -33,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--oltenita-211-2025",
+   "path": "local/calarasi/oltenita/2025/211",
+   "short": "HCL Oltenița nr. 211/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 211/2025 pentru abrogarea Hotărârii nr. 94/21.07.2022 a Consiliului local al municipiului Oltenița privind stabilirea locației în care vor fi amplasate temporar tarabe pentru comercializarea de produse agroalimentare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/211.pdf",
+     "sha256": "768274d32afc1ef6838f96aa2625624d93e5d6599d21edb15305365765ffcba4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--oltenita-42-2025",
    "path": "local/calarasi/oltenita/2025/42",
    "short": "HCL Oltenița nr. 42/2025",
@@ -44,6 +119,21 @@
      "units": 1,
      "source_url": "https://primariaoltenita.ro/storage/formidable/17/42.pdf",
      "sha256": "0bbec85c8a7f60b82f741eea9734e9b512f366088c5b774a7b5ded383f68eb15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-47-2025",
+   "path": "local/calarasi/oltenita/2025/47",
+   "short": "HCL Oltenița nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 47/2025 pentru aprobarea indicatorilor tehnico-economici, a anexei privind descrierea sumară a investiției și a devizului general ale obiectivului de investiții „Construire locuințe sociale și de necesitate în conformitate cu Legea locuinței nr. 114/1996”",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/47.pdf",
+     "sha256": "081d5f80744b4f41b3dd0d2c06bd107ba37f8b28fa81f11dfb04e6777a85e6e2"
     }
    ]
   },
@@ -104,6 +194,21 @@
      "units": 1,
      "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-92.pdf",
      "sha256": "6dc7e63429859436cb45635c26dfd1341e94cc4ba47f12232f3f1639bac4d638"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--oltenita-97-2025",
+   "path": "local/calarasi/oltenita/2025/97",
+   "short": "HCL Oltenița nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Oltenița nr. 97/2025 privind completarea Anexei la HCL nr. 8/30.01.2020 pentru stabilirea salariilor de baza pentru functionarii publici si personalul contractual din cadrul familiei ocupationale “Administrate” din cadrul aparatuui de specialitate al Primarului Municipiului Oltenita Vizualizare",
+   "url": "https://primariaoltenita.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/registrul-hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://primariaoltenita.ro/storage/formidable/17/HOTARAREA-97.pdf",
+     "sha256": "27d0073ca2c1e51abf13826e392ce64dd80cfb75c7090e7cb5c5d04697c7c348"
     }
    ]
   }

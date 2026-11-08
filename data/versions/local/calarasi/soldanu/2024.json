@@ -3,6 +3,546 @@
  "shard": "local/calarasi/soldanu/2024",
  "acts": [
   {
+   "slug": "hcl-calarasi--soldanu-1-2024",
+   "path": "local/calarasi/soldanu/2024/1",
+   "short": "HCL Șoldanu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 1/2024 privind aprobarea alegerii Președintelui de şedinţă al Consiliului Local al Comunei Șoldanu pentru ședința ordinară a Consiliului Local al Comunei Șoldanu din 30 ianuarie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/141167",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/141167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-10-2024",
+   "path": "local/calarasi/soldanu/2024/10",
+   "short": "HCL Șoldanu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 10/2024 privind aprobarea actualizării Nomenclaturii stradale a Comunei Șoldanu, Județul Călărași, în februarie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/145803",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/145803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-11-2024",
+   "path": "local/calarasi/soldanu/2024/11",
+   "short": "HCL Șoldanu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 11/2024 privind aprobarea modificării Hotărârii Consiliului Local al Comunei Șoldanu nr. 18 din 30.03.2022 privind aprobarea cofinanțării investițiilor din „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Călăraşi și Ialomița, în perioada 2014-2020”, aferente Comunei Șoldanu, Județul Călărași",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/145804",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/145804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-12-2024",
+   "path": "local/calarasi/soldanu/2024/12",
+   "short": "HCL Șoldanu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 12/2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/145805",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/145805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-13-2024",
+   "path": "local/calarasi/soldanu/2024/13",
+   "short": "HCL Șoldanu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 13/2024 privind aprobarea rectificării bugetului local pe anul 2024 al Comunei Șoldanu, în martie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/149639",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/149639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-14-2024",
+   "path": "local/calarasi/soldanu/2024/14",
+   "short": "HCL Șoldanu nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 14/2024 privind aprobarea utilizării excedentului bugetar pe anul 2023 al Comunei Șoldanu pentru finanțarea în cursul anului 2024 a unei investiții și asigurarea finanțării Programului privind casarea autovehiculelor uzate",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/149640",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/149640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-15-2024",
+   "path": "local/calarasi/soldanu/2024/15",
+   "short": "HCL Șoldanu nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 15/2024 privind aprobarea actualizării Planului de analiză și acoperire a riscurilor al Comunei Șoldanu, Județul Călăraşi, în martie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/149641",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/149641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-16-2024",
+   "path": "local/calarasi/soldanu/2024/16",
+   "short": "HCL Șoldanu nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 16/2024 privind aprobarea revocării Hotărârii Consiliului local al Comunei Șoldanu nr. 61 din 24.11.2023 privind stabilirea salariilor de bază pentru funcțiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Șoldanu, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/149642",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/149642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-17-2024",
+   "path": "local/calarasi/soldanu/2024/17",
+   "short": "HCL Șoldanu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 17/2024 privind aprobarea participării Comunei Șoldanu în cadrul Proiectului „Modernizarea rețelei de biblioteci pentru a deveni hub-uri de dezvoltare a competențelor digitale, din cadrul Planului Național de Redresare și Reziliență (PNRR) – hub Comuna Mărăcineni, Județul Buzău”",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/150755",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/150755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-18-2024",
+   "path": "local/calarasi/soldanu/2024/18",
+   "short": "HCL Șoldanu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 18/2024 privind aprobarea alegerii Președintelui de şedinţă al Consiliului Local al Comunei Șoldanu pentru lunile aprilie, mai și iunie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/150756",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/150756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-19-2024",
+   "path": "local/calarasi/soldanu/2024/19",
+   "short": "HCL Șoldanu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 19/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul I al anului 2024 şi stabilirea măsurilor pentru eficientizarea acestei activităţi la Comuna Șoldanu, Judeţul Călăraşi",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/154115",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/154115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-2-2024",
+   "path": "local/calarasi/soldanu/2024/2",
+   "short": "HCL Șoldanu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 2/2024 privind aprobarea modalității de decontare a contravalorii cheltuielilor de transport pentru personalul din cadrul aparatului de specialitate al Primarului Comunei Șoldanu",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/141168",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/141168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-20-2024",
+   "path": "local/calarasi/soldanu/2024/20",
+   "short": "HCL Șoldanu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 20/2024 privind aprobarea indexării cu rata inflației a impozitelor și taxelor locale pentru anul fiscal 2025",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/154116",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/154116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-21-2024",
+   "path": "local/calarasi/soldanu/2024/21",
+   "short": "HCL Șoldanu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 21/2024 privind aprobarea utilizării excedentului bugetar pe anul 2023 al Comunei Șoldanu pentru finanțarea în cursul anului 2024 a unei investiții",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/154117",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/154117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-22-2024",
+   "path": "local/calarasi/soldanu/2024/22",
+   "short": "HCL Șoldanu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 22/2024 privind aprobarea rectificării bugetului local pe anul 2024 al Comunei Șoldanu, în mai 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/156906",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/156906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-23-2024",
+   "path": "local/calarasi/soldanu/2024/23",
+   "short": "HCL Șoldanu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 23/2024 privind aprobarea utilizării excedentului bugetar pe anul 2023 al Comunei Șoldanu pentru finanțarea în cursul anului 2024 a unor cheltuieli de natura investițiilor",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/156907",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/156907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-24-2024",
+   "path": "local/calarasi/soldanu/2024/24",
+   "short": "HCL Șoldanu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 24/2024 privind aprobarea Organigramei resurselor umane de la nivelul Comunei Șoldanu şi Statului de funcții al Primăriei Comunei Șoldanu, în aprilie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/158395",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/158395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-25-2024",
+   "path": "local/calarasi/soldanu/2024/25",
+   "short": "HCL Șoldanu nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 25/2024 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al Comunei Șoldanu, în trimestrul I al anului fiscal 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/158396",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/158396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-26-2024",
+   "path": "local/calarasi/soldanu/2024/26",
+   "short": "HCL Șoldanu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 26/2024 privind stabilirea unor măsuri pentru aplicarea Programului național „Masa sănătoasă” la Comuna Șoldanu în anul fiscal 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/158397",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/158397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-27-2024",
+   "path": "local/calarasi/soldanu/2024/27",
+   "short": "HCL Șoldanu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 27/2024 privind aprobarea alegerii Președintelui de şedinţă al Consiliului Local al Comunei Șoldanu pentru ședința ordinară a Consiliului Local al Comunei Șoldanu din 27 iunie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/160820",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/160820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-28-2024",
+   "path": "local/calarasi/soldanu/2024/28",
+   "short": "HCL Șoldanu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 28/2024 privind aprobarea majorării salariului de bază al funcționarilor publici și personalului contractual din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al primarului Comunei Șoldanu, începând cu luna iunie 2024, ca efect al aplicării Ordonanței de urgență a Guvernului nr. 53/2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/160821",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/160821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-29-2024",
+   "path": "local/calarasi/soldanu/2024/29",
+   "short": "HCL Șoldanu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 29/2024 privind aprobarea alegerii Președintelui de şedinţă al Consiliului Local al Comunei Șoldanu pentru lunile iulie, august și septembrie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/160822",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/160822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-3-2024",
+   "path": "local/calarasi/soldanu/2024/3",
+   "short": "HCL Șoldanu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 3/2024 privind aprobarea Planului de acțiuni sau de lucrări de interes local pe anul 2024 al Primăriei Comunei Șoldanu, privind repartizarea orelor de muncă pentru persoanele apte de muncă beneficiare de venit minim de incluziune",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/141169",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/141169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-30-2024",
+   "path": "local/calarasi/soldanu/2024/30",
+   "short": "HCL Șoldanu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 30/2024 privind aprobarea rectificării bugetului local pe anul 2024 al Comunei Șoldanu, în iunie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/160823",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/160823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-31-2024",
+   "path": "local/calarasi/soldanu/2024/31",
+   "short": "HCL Șoldanu nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 31/2024 privind aprobarea rectificării bugetului local pe anul 2024 al Comunei Șoldanu, în iulie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/162989",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/162989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-32-2024",
+   "path": "local/calarasi/soldanu/2024/32",
+   "short": "HCL Șoldanu nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 32/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul al II-lea al anului 2024 şi stabilirea măsurilor pentru eficientizarea acestei activităţi la Comuna Șoldanu, Judeţul Călăraşi",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/167152",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/167152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-33-2024",
+   "path": "local/calarasi/soldanu/2024/33",
+   "short": "HCL Șoldanu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 33/2024 privind aprobarea rectificării bugetului local pe anul 2024 al Comunei Șoldanu, în august 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/167153",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/167153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-34-2024",
+   "path": "local/calarasi/soldanu/2024/34",
+   "short": "HCL Șoldanu nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 34/2024 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al Comunei Șoldanu, în trimestrul al II-lea al anului fiscal 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/167154",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/167154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-35-2024",
+   "path": "local/calarasi/soldanu/2024/35",
+   "short": "HCL Șoldanu nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 35/2024 privind aprobarea utilizării excedentului bugetar pe anul 2023 al Comunei Șoldanu pentru finanțarea în cursul anului 2024 a unor cheltuieli de natura investițiilor pentru extinderea rețelei de distribuție a energiei electrice",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/167155",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/167155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-36-2024",
+   "path": "local/calarasi/soldanu/2024/36",
+   "short": "HCL Șoldanu nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 36/2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/167156",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/167156",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-37-2024",
+   "path": "local/calarasi/soldanu/2024/37",
+   "short": "HCL Șoldanu nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 37/2024 privind aprobarea acordării unui mandat special reprezentantului Comunei Șoldanu în Adunarea Generală a Asociaților din cadrul Asociației de Dezvoltare Intercomunitară „ECOMANAGEMENT SALUBRIS” Călăraşi, în vederea exercitării votului privind aprobarea diminuării tarifelor aferente prestării serviciului de salubritate în Zona 2 Oltenița",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/170499",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/170499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-38-2024",
+   "path": "local/calarasi/soldanu/2024/38",
+   "short": "HCL Șoldanu nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 38/2024 privind aprobarea rectificării bugetului local pe anul 2024 al Comunei Șoldanu, în septembrie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/170500",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/170500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-39-2024",
+   "path": "local/calarasi/soldanu/2024/39",
+   "short": "HCL Șoldanu nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 39/2024 privind aprobarea alegerii Președintelui de şedinţă al Consiliului Local al Comunei Șoldanu pentru lunile octombrie și noiembrie 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/170501",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/170501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-4-2024",
+   "path": "local/calarasi/soldanu/2024/4",
+   "short": "HCL Șoldanu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 4/2024 privind aprobarea modului de organizare a pazei bunurilor publice şi ale cetățenilor, în cadrul Comunei Șoldanu, Judeţul Călărași, pentru anul 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/141170",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/141170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-40-2024",
+   "path": "local/calarasi/soldanu/2024/40",
+   "short": "HCL Șoldanu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 40/2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/172554",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/172554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-41-2024",
+   "path": "local/calarasi/soldanu/2024/41",
+   "short": "HCL Șoldanu nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 41/2024 privind aprobarea alegerii Viceprimarului Comunei Șoldanu, Județul Călăraşi",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/172555",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/172555",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--soldanu-42-2024",
    "path": "local/calarasi/soldanu/2024/42",
    "short": "HCL Șoldanu nr. 42/2024",
@@ -118,6 +658,21 @@
      "from": "2024-12-05",
      "units": 1,
      "source_url": "https://emol.ro/soldanu-cl/registru-hcl/179236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-5-2024",
+   "path": "local/calarasi/soldanu/2024/5",
+   "short": "HCL Șoldanu nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 5/2024 privind aprobarea Planului anual de acțiune privind serviciile sociale acordate la nivelul compartimentului asistență socială al Primăriei Comunei Șoldanu, Judeţul Călăraşi, în anul 2024",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/141171",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/141171",
      "sha256": null
     }
    ]
@@ -273,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--soldanu-6-2024",
+   "path": "local/calarasi/soldanu/2024/6",
+   "short": "HCL Șoldanu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 6/2024 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru trimestrul al IV-lea al anului 2023 şi stabilirea măsurilor pentru eficientizarea acestei activităţi la comuna Șoldanu",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/141172",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/141172",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--soldanu-60-2024",
    "path": "local/calarasi/soldanu/2024/60",
    "short": "HCL Șoldanu nr. 60/2024",
@@ -298,6 +868,51 @@
      "from": "2024-12-24",
      "units": 1,
      "source_url": "https://emol.ro/soldanu-cl/registru-hcl/185024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-7-2024",
+   "path": "local/calarasi/soldanu/2024/7",
+   "short": "HCL Șoldanu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 7/2024 privind aprobarea bugetului local pe anul 2024 al Comunei Șoldanu și estimări pentru anii 2025-2027",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/142165",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/142165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-8-2024",
+   "path": "local/calarasi/soldanu/2024/8",
+   "short": "HCL Șoldanu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 8/2024 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2023 al Comunei Șoldanu, Județul Călărași",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/145801",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/145801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--soldanu-9-2024",
+   "path": "local/calarasi/soldanu/2024/9",
+   "short": "HCL Șoldanu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 9/2024 privind aprobarea utilizării excedentului bugetar pe anul 2023 al Comunei Șoldanu, Județul Călărași",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/145802",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/145802",
      "sha256": null
     }
    ]

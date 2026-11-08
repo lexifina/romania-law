@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/calarasi/independenta/2022",
+"acts": [
+{
+"slug": "hcl-calarasi--independenta-29-2022",
+"path": "local/calarasi/independenta/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Independența nr. 29/2022",
+"short": "HCL Independența nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-12",
+"latest": "2022-05-12",
+"portal": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.29-ddin-30.07.2024.pdf",
+"council": "calarasi/independenta",
+"council_name": "Consiliul Local al Comunei Independența",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--independenta-41-2022",
+"path": "local/calarasi/independenta/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Independența nr. 41/2022",
+"short": "HCL Independența nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-22",
+"latest": "2022-07-22",
+"portal": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.41-din-05-din-05.12.2024.pdf",
+"council": "calarasi/independenta",
+"council_name": "Consiliul Local al Comunei Independența",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--independenta-55-2022",
+"path": "local/calarasi/independenta/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Independența nr. 55/2022",
+"short": "HCL Independența nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-09",
+"latest": "2022-11-09",
+"portal": "https://primariaindependenta.ro/wp-content/uploads/2023/11/HOTARAREA-Nr.55-din-09.11.223.pdf",
+"council": "calarasi/independenta",
+"council_name": "Consiliul Local al Comunei Independența",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

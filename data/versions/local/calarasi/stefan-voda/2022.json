@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-voda-13-2022",
+   "path": "local/calarasi/stefan-voda/2022/13",
+   "short": "HCL Ștefan Vodă nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 13/2022 privind desemnarea reprezentantului consiliului local în comisia de evaluare pentru ocuparea funcției de director al Școlii Gimnaziale nr. 1 Ștefan Vodă",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/52735",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/52735",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-voda-14-2022",
    "path": "local/calarasi/stefan-voda/2022/14",
    "short": "HCL Ștefan Vodă nr. 14/2022",
@@ -103,6 +118,21 @@
      "from": "2022-03-09",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/53657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-17-2022",
+   "path": "local/calarasi/stefan-voda/2022/17",
+   "short": "HCL Ștefan Vodă nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 17/2022 privind desemnarea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/55048",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/55048",
      "sha256": null
     }
    ]
@@ -363,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-voda-33-2022",
+   "path": "local/calarasi/stefan-voda/2022/33",
+   "short": "HCL Ștefan Vodă nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 33/2022 privind desemnarea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/64979",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/64979",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-voda-34-2022",
    "path": "local/calarasi/stefan-voda/2022/34",
    "short": "HCL Ștefan Vodă nr. 34/2022",
@@ -523,6 +568,21 @@
      "from": "2022-10-18",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/69751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-44-2022",
+   "path": "local/calarasi/stefan-voda/2022/44",
+   "short": "HCL Ștefan Vodă nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 44/2022 privind desemnarea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/71446",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/71446",
      "sha256": null
     }
    ]

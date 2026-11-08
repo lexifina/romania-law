@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 453391,
+  "acts": 456391,
   "by_status": {
-   "current": 383678,
+   "current": 386678,
    "pending-change": 29438,
    "stale": 4595,
    "unverified": 35680,
    "source-unavailable": 0
   },
-  "verified_7d": 397090,
-  "verified_30d": 397133,
-  "pct_verified_7d": 87.6,
-  "pct_verified_30d": 87.6,
-  "pct_current": 84.6,
+  "verified_7d": 400090,
+  "verified_30d": 400133,
+  "pct_verified_7d": 87.7,
+  "pct_verified_30d": 87.7,
+  "pct_current": 84.7,
   "newest_verified": "2026-11-08",
   "oldest_verified": "2018-07-23"
  },
@@ -142,16 +142,16 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 297166,
+   "acts": 300166,
    "by_status": {
-    "current": 291188,
+    "current": 294188,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3422,
     "source-unavailable": 0
    },
-   "verified_7d": 291146,
-   "verified_30d": 291188,
+   "verified_7d": 294146,
+   "verified_30d": 294188,
    "pct_verified_7d": 98.0,
    "pct_verified_30d": 98.0,
    "pct_current": 98.0,
@@ -569,16 +569,16 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 297166,
+   "acts": 300166,
    "by_status": {
-    "current": 291188,
+    "current": 294188,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3422,
     "source-unavailable": 0
    },
-   "verified_7d": 291146,
-   "verified_30d": 291188,
+   "verified_7d": 294146,
+   "verified_30d": 294188,
    "pct_verified_7d": 98.0,
    "pct_verified_30d": 98.0,
    "pct_current": 98.0,
@@ -904,13 +904,13 @@
    "kinds": [
     "local"
    ],
-   "acts": 295188,
+   "acts": 298188,
    "last_successful_check": "2026-11-08",
    "unavailable_since": null,
-   "sites": 656,
+   "sites": 661,
    "sites_unavailable": 8,
    "pct_verified_7d": 98.6,
-   "pct_verified_30d": 98.6
+   "pct_verified_30d": 98.7
   },
   {
    "source": "Court decisions (Portalul legislativ)",
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 6650
+ "shards": 6670
 }

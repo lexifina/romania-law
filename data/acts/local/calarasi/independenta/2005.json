@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/calarasi/independenta/2005",
+"acts": [
+{
+"slug": "hcl-calarasi--independenta-52-2005",
+"path": "local/calarasi/independenta/2005/52",
+"kind": "local",
+"year": "2005",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Independența nr. 52/2005",
+"short": "HCL Independența nr. 52/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-12-16",
+"latest": "2005-12-16",
+"portal": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-nr.52-din-16.12.2005.pdf",
+"council": "calarasi/independenta",
+"council_name": "Consiliul Local al Comunei Independența",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

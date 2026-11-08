@@ -91,6 +91,51 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-voda-5-2025",
+"path": "local/calarasi/stefan-voda/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 5/2025 privind alegerea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/191889",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-6-2025",
+"path": "local/calarasi/stefan-voda/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 6/2025",
+"short": "HCL Ștefan Vodă nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-08",
+"latest": "2025-04-08",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/199225",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-7-2025",
 "path": "local/calarasi/stefan-voda/2025/7",
 "kind": "local",
@@ -245,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-voda-14-2025",
+"path": "local/calarasi/stefan-voda/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 14/2025 privind alegerea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/203585",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-15-2025",
 "path": "local/calarasi/stefan-voda/2025/15",
 "kind": "local",
@@ -264,6 +331,29 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-16-2025",
+"path": "local/calarasi/stefan-voda/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 16/2025",
+"short": "HCL Ștefan Vodă nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/210015",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -330,6 +420,73 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-20-2025",
+"path": "local/calarasi/stefan-voda/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 20/2025",
+"short": "HCL Ștefan Vodă nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-10",
+"latest": "2025-06-10",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/210019",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-21-2025",
+"path": "local/calarasi/stefan-voda/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 21/2025 privind aprobarea concesionării suprafeței de 30000 mp teren intravilan, tarla 32, parcela 5, număr cadastral 5738",
+"short": "HCL Ștefan Vodă nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-09",
+"latest": "2025-07-09",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/213611",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-22-2025",
+"path": "local/calarasi/stefan-voda/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 22/2025 privind alegerea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/221710",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

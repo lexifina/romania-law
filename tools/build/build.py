@@ -476,6 +476,12 @@ def validate(c: dict) -> list[str]:
         for l in act.get('earlier_laws', []):
             if l not in laws:
                 errs.append(f'act {s}: earlier law {l!r} is not a law key')
+        if act.get('draft') is not None:
+            # a draft is never credited to a law (its commits carry Kind: draft and no In-force trailer)
+            if not isinstance(act['draft'], dict) or not act['draft'].get('initiator'):
+                errs.append(f'act {s}: a draft needs draft.initiator')
+            if act.get('first_law') or act.get('earlier_laws') or any(v.get('credits') for v in act.get('versions', [])):
+                errs.append(f'act {s}: a draft is credited to no law (first_law, earlier_laws, credits)')
         vs = act.get('versions', [])
         if not vs:
             errs.append(f'act {s}: no versions')
@@ -532,6 +538,17 @@ def plan(c: dict) -> list[dict]:
         first = vs[0]
         commits.append({'day': first['from'], 'rank': 0, 'sort': act['slug'], 'kind': 'start', 'act': act,
                         'version': first})
+        if act.get('draft'):
+            # A draft act or bill (proiect/): one commit per published stage, credited to its initiator, never to a
+            # law, and with no In-force trailer (draft_message). Its words were never in force.
+            for vi, (prev, cur) in enumerate(zip(vs, vs[1:]), start=1):
+                sd = sum(1 for j in range(1, vi + 1) if vs[j]['from'] == cur['from'] and vs[j].get('same_day'))
+                pu, cu = prev['units'], cur['units']
+                changed = sorted(k for k in set(pu) | set(cu) if pu.get(k, {}).get('text') != cu.get(k, {}).get('text'))
+                if changed:  # a commit that touches no file of the folder would be invisible to every reader
+                    commits.append({'day': cur['from'], 'k': sd, 'rank': 1, 'sort': act['slug'], 'kind': 'draft',
+                                    'parts': [{'act': act, 'prev': prev, 'cur': cur, 'keys': changed, 'also': {}}]})
+            continue
         for vi, (prev, cur) in enumerate(zip(vs, vs[1:]), start=1):
             sd = sum(1 for j in range(1, vi + 1) if vs[j]['from'] == cur['from'] and vs[j].get('same_day'))
             pu, cu = prev['units'], cur['units']
@@ -650,10 +667,49 @@ def pre_1970(day: str) -> list[str]:
             'before it. The day the change took effect is in the In-force trailer, which tools/on.py reads.', '']
 
 
+# ---------------------------------------------------------------- drafts (proiect/), 2026-11-08
+# A draft act in public consultation (Legea nr. 52/2003) or a bill in Parliament is not law. Its commits carry
+# `Kind: draft` and NO In-force trailer, so no reader of the law in force (tools/on.py, the freshness files, the laws
+# lists) ever takes text from them. Each commit is one published stage (posted for consultation, registered, adopted by
+# a chamber, sent for promulgation ...), dated on the day that stage was published; the day is in `Stage-day:`, which
+# only the builder's own read-back (append.py, check_repo.py) reads. The author is the initiator: the ministry, the
+# Government, or the members of Parliament as a body; never a private person. Never "as enacted".
+DRAFT_NOTICE = ('Proiect / draft — not law. This text was never in force unless and until adopted; see the act it '
+                'became.')
+
+
+def draft_message(c: dict, act: dict, prev: dict | None, cur: dict, keys: list[str] | None
+                  ) -> tuple[tuple[str, str], list[str], list[str]]:
+    d = act['draft']
+    day = cur['from']
+    stage = ' '.join(str(cur.get('stage') or 'published').split())
+    author = (d['initiator'], law_email(c, act['slug']))
+    msg = [short_subject(f'{act["short"]}: {stage} (draft, not law)'), '', *wrap(DRAFT_NOTICE), '',
+           *wrap(f'{act["title"]}: the draft as published on {day}, at this stage: {stage}. It has no In-force '
+                 'trailer: no reader of the law in force takes text from this commit.'), '']
+    if prev is not None and keys:
+        labels = [unit_label(cur['units'].get(k) or prev['units'][k]) for k in keys]
+        msg += wrap('Files: ' + ', '.join(labels)) + ['']
+    if d.get('became_label'):
+        msg += wrap(f'The draft later became {d["became_label"]}; that act is the law, from its own in-force day.') + ['']
+    if cur.get('note'):
+        msg += [*wrap(cur['note']), '']
+    trailers = ['Kind: draft', f'Draft: {act["short"]}', f'Stage: {stage}', f'Stage-day: {day}',
+                f'Initiator: {d["initiator"]}']
+    if d.get('became_label'):
+        trailers.append(f'Became: {d["became_label"]}')
+    trailers += [f'Act: {act["short"]}', f'Provisions: {len(cur["units"])}']
+    if cur.get('source_url'):
+        trailers.append(f'Source: {cur["source_url"]}')
+    return author, msg, trailers
+
+
 def start_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[str]]:
     act, v = x['act'], x['version']
     pub = act.get('publisher') or c['country']['publisher']
     labels = []
+    if act.get('draft'):
+        return draft_message(c, act, None, v, None)
     if act.get('first_law'):
         key = act['first_law']
         law = c['laws'][key]
@@ -683,6 +739,9 @@ def start_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[st
 def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[str]]:
     day = x['day']
     parts = x['parts']
+    if x['kind'] == 'draft':
+        p = parts[0]
+        return draft_message(c, p['act'], p['prev'], p['cur'], p['keys'])
     # An act may name its own publisher (its text comes from a different source than the country's); a commit that
     # spans acts with different publishers uses the country's.
     pubs = {json.dumps(p['act'].get('publisher') or c['country']['publisher'], sort_keys=True) for p in parts}
@@ -774,6 +833,10 @@ def check_trailers(trailers: list[str]):
         k, sep, v = t.partition(': ')
         if not sep or not re.fullmatch(r'[A-Za-z][A-Za-z0-9-]*', k) or '\n' in v:
             raise CorpusError(f'bad trailer {t!r}: keys must be ASCII and values one line')
+    keys = [t.partition(': ')[0] for t in trailers]
+    if 'Kind: draft' in trailers and ('In-force' in keys or 'Stage-day' not in keys):
+        # a draft dressed as law would be read as the law in force: never written
+        raise CorpusError(f'a draft commit must carry Stage-day and no In-force trailer: {trailers}')
 
 
 # ---------------------------------------------------------------- dates
@@ -926,6 +989,45 @@ def write_history(repo: Path, c: dict, docs_date: str, commits: list[dict]) -> t
 
 # ---------------------------------------------------------------- documentation commit
 
+def draft_readme(a: dict, where: str, folder_of: dict[str, str]) -> str:
+    """A draft's README: the notice first, then the act it became (linked when it is here), its stages and files."""
+    d = a['draft']
+    esc = lambda s: str(s or '').replace('|', '/')  # noqa: E731
+    rows = [f'**{DRAFT_NOTICE}**', '', f'# {a["title"]}', '']
+    became = d.get('became')
+    if became and became in folder_of:
+        up = '../' * len(where.split('/'))
+        rows += [f'**Became:** [{d.get("became_label") or became}]({up}{folder_of[became]}/) (`{became}`): that act is '
+                 'the law, from its own in-force day; read it with `python tools/on.py <day> ' + became + '`.', '']
+    elif became:
+        rows += [f'**Became:** {d.get("became_label") or became} (`{became}`), not in this repository yet.', '']
+    else:
+        rows += ['**Became:** no adopted act is recorded for this draft.', '']
+    vs = a['versions']
+    rows += [f'{a["short"]} · initiator: {d["initiator"]} · {len(vs)} published stages, {vs[0]["from"]} to '
+             f'{vs[-1]["from"]}' + (f' · <{a["url"]}>' if a.get('url') else ''), '']
+    for k, v in d.get('facts') or []:
+        rows.append(f'- {k}: {v}')
+    if d.get('facts'):
+        rows.append('')
+    rows += ['## Stages', '', 'Each stage is one commit (`Kind: draft`, no `In-force:` trailer), dated on the day it was '
+             'published. Tag `' + a['slug'] + '/<day>` is the draft as it stood after that stage.', '',
+             '| Day | Stage |', '| --- | --- |']
+    rows += [f'| {v["from"]} | {esc(v.get("stage"))} |' for v in vs]
+    units = vs[-1]['units']
+    rows += ['', '## Files', '', '| File | What |', '| --- | --- |']
+    for k in sorted(units):
+        rows.append(f'| [{k}.md]({k}.md) | {esc(units[k]["label"])} |')
+    if a.get('status_note'):
+        rows += ['', a['status_note']]
+    rows += ['', f'Draft id: `{a["slug"]}`. `tools/on.py` never returns a draft: it reads only commits with an '
+             '`In-force:` trailer.']
+    dec = [n for n in map(public_note, a.get('_decisions', [])) if n]
+    if dec:
+        rows += ['', '## Decisions made by hand', ''] + [f'- {n}' for n in dec]
+    return '\n'.join(rows) + '\n'
+
+
 def tables(c: dict, log: list[dict]) -> dict[str, str]:
     out = {}
     buf = io.StringIO()
@@ -957,7 +1059,14 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
         wr.writerow([e['day'], e['kind'], e['law'] or '', ' '.join(e['acts']), e['units'], e['branch']])
     out['data/commits.csv'] = buf.getvalue()
     on_main = None
+    folder_of = None  # {act id: folder}, made once, only when a draft names the act it became
     for a in c['acts']:
+        if a.get('draft'):
+            if folder_of is None:
+                folder_of = {x['slug']: x.get('path') or x['slug'] for x in c['acts'] if not x.get('draft')}
+            where = a.get('path') or a['slug']
+            out[f'{where}/README.md'] = draft_readme(a, where, folder_of)
+            continue
         counts: dict[str, int] = {}
         last: dict[str, str] = {}
         for prev, cur in zip(a['versions'], a['versions'][1:]):

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/calarasi/lehliu-gara/2017",
+"acts": [
+{
+"slug": "hcl-calarasi--lehliu-gara-35-2017",
+"path": "local/calarasi/lehliu-gara/2017/35",
+"kind": "local",
+"year": "2017",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 35/2017",
+"short": "HCL Lehliu Gară nr. 35/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-05-29",
+"latest": "2017-05-29",
+"portal": "https://www.primarialehliugara.ro/documents/hcl_nr_35_din_29-05-2017_cu_privire_la_alegerea_viceprimarului/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--lehliu-gara-53-2017",
+"path": "local/calarasi/lehliu-gara/2017/53",
+"kind": "local",
+"year": "2017",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 53/2017",
+"short": "HCL Lehliu Gară nr. 53/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-26",
+"latest": "2017-07-26",
+"portal": "https://www.primarialehliugara.ro/documents/hcl_nr_53_26-07-2017_evenimentul_nunta_de_aur/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--lehliu-gara-55-2017",
+"path": "local/calarasi/lehliu-gara/2017/55",
+"kind": "local",
+"year": "2017",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 55/2017",
+"short": "HCL Lehliu Gară nr. 55/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-07-26",
+"latest": "2017-07-26",
+"portal": "https://www.primarialehliugara.ro/documents/tabel-salarii-hcl-nr-55-din-26-iulie-2017/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

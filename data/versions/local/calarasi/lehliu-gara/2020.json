@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/lehliu-gara/2020",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--lehliu-gara-10-2020",
+   "path": "local/calarasi/lehliu-gara/2020/10",
+   "short": "HCL Lehliu Gară nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 10/2020",
+   "url": "https://www.primarialehliugara.ro/document-category/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2020/05/H.C.L.-nr.-10-din-20.02.2020-privind-repartizarea-excedentului-bugetar-al-orasului-Lehliu-Gara.pdf",
+     "sha256": "45992ddec1da96208b7242aef4aae766c2ab8f20f0fdadb15402f2a2df3dec7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-5-2020",
+   "path": "local/calarasi/lehliu-gara/2020/5",
+   "short": "HCL Lehliu Gară nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 5/2020",
+   "url": "https://www.primarialehliugara.ro/document-category/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2020/05/HCL-nr-5-din-31.01.2020-mentinerea-salariilor-de-baza-ale-fct.-publici-si-a-pers.-contractual-din-ap.-de-specialitate-al-primarului-si-a-serv.-publice-fara-pers.-juridica-din-subd.-Cons.-Local.pdf",
+     "sha256": "fd3a2c987c8a43d1ff5a25f4f03a4c9319376ad614cdde236d5d08fc1abf605a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-54-2020",
+   "path": "local/calarasi/lehliu-gara/2020/54",
+   "short": "HCL Lehliu Gară nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 54/2020",
+   "url": "https://www.primarialehliugara.ro/page/48/",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2020/10/Hotararea-nr_-54-din-13_10_2020-OBLIGATIVITATE-PURTARE-MASC%C4%82-DE-C%C4%82TRE-TOATE-PERSOANELE-CU-V%C4%82RSTA-PESTE-5-ANI-1.pdf",
+     "sha256": "b3674d5100c150af7198569acf36ff122681bc11f6c21ca7a9edb7c48e0aa4b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-83-2020",
+   "path": "local/calarasi/lehliu-gara/2020/83",
+   "short": "HCL Lehliu Gară nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 83/2020 pentru Situatii de Urgenta Calarasi",
+   "url": "https://www.primarialehliugara.ro/page/47/",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2020/11/Hotarare-83-pe-26.11.2020-Comitetul-Judetean-pentru-Situatii-de-Urgenta-Calarasi.pdf",
+     "sha256": "14cd1a08eb57623d1741c737b2a65872c4c365205b8e2bc503c510d8153b72f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-9-2020",
+   "path": "local/calarasi/lehliu-gara/2020/9",
+   "short": "HCL Lehliu Gară nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 9/2020",
+   "url": "https://www.primarialehliugara.ro/document-category/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2020/05/H.C.L.-nr.-9-din-20.02.2020.pdf",
+     "sha256": "efeea3b79162525a354d89bc2a971292e6d6196b6005907c2a1ed433cdabcfa0"
+    }
+   ]
+  }
+ ]
+}

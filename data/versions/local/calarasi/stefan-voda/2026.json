@@ -3,6 +3,21 @@
  "shard": "local/calarasi/stefan-voda/2026",
  "acts": [
   {
+   "slug": "hcl-calarasi--stefan-voda-1-2026",
+   "path": "local/calarasi/stefan-voda/2026/1",
+   "short": "HCL Ștefan Vodă nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 1/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/248664",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/248664",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-voda-10-2026",
    "path": "local/calarasi/stefan-voda/2026/10",
    "short": "HCL Ștefan Vodă nr. 10/2026",
@@ -13,6 +28,21 @@
      "from": "2026-04-30",
      "units": 1,
      "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/264348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-11-2026",
+   "path": "local/calarasi/stefan-voda/2026/11",
+   "short": "HCL Ștefan Vodă nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 11/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/264349",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/264349",
      "sha256": null
     }
    ]

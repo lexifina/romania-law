@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-cel-mare-4-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 4/2020 privind închirierea unor suprafețe de teren din domeniul privat al comunei Ștefan cel Mare",
+"short": "HCL Ștefan cel Mare nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-23",
+"latest": "2020-01-23",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/1025",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-cel-mare-5-2020",
 "path": "local/calarasi/stefan-cel-mare/2020/5",
 "kind": "local",
@@ -313,6 +335,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-cel-mare-16-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 16/2020 privind alegerea preşedintelui și a potențialului președinte de şedinţă al Consiliului Local Ștefan cel Mare pentru iunie - august 2020",
+"short": "HCL Ștefan cel Mare nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-04",
+"latest": "2020-06-04",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18936",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-cel-mare-17-2020",
 "path": "local/calarasi/stefan-cel-mare/2020/17",
 "kind": "local",
@@ -423,6 +467,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-cel-mare-22-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 22/2020 privind aprobarea propunerii de schimbare de destinaţie a unei clădiri proprietate privată situată pe un teren concesionat, proprietatea comunei",
+"short": "HCL Ștefan cel Mare nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-17",
+"latest": "2020-07-17",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18942",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-cel-mare-23-2020",
 "path": "local/calarasi/stefan-cel-mare/2020/23",
 "kind": "local",
@@ -464,6 +530,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan cel Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-25-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 25/2020 privind aprobarea trecerii din domeniul public al comunei Ștefan cel Mare în domeniul privat al acesteia a imobilului \"Casa specialistului\" în vederea demolării",
+"short": "HCL Ștefan cel Mare nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-17",
+"latest": "2020-07-17",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18945",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -575,6 +663,165 @@
 "council_name": "Consiliul Local al Comunei Ștefan cel Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-31-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 31/2020 privind modificarea suprafețelor pentru unele străzi din inventarului bunurilor care aparţin domeniului public al comunei Ştefan cel Mare, judeţul Călăraşi",
+"short": "HCL Ștefan cel Mare nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-29",
+"latest": "2020-07-29",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18951",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-32-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 32/2020",
+"short": "HCL Ștefan cel Mare nr. 32/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-29",
+"latest": "2020-07-29",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18952",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-33-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/33",
+"kind": "local",
+"year": "2020",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 33/2020",
+"short": "HCL Ștefan cel Mare nr. 33/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-29",
+"latest": "2020-07-29",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18953",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-34-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 34/2020",
+"short": "HCL Ștefan cel Mare nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-29",
+"latest": "2020-07-29",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18954",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-35-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 35/2020",
+"short": "HCL Ștefan cel Mare nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-29",
+"latest": "2020-07-29",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18955",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-36-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 36/2020",
+"short": "HCL Ștefan cel Mare nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-29",
+"latest": "2020-07-29",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18956",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-cel-mare-37-2020",
+"path": "local/calarasi/stefan-cel-mare/2020/37",
+"kind": "local",
+"year": "2020",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 37/2020 privind aprobarea utilizării din contul de excedent al anilor anteriori a sumei de 222 000 lei pentru finanțarea cheltuielilor de personal ale asistenților personali și indemnizațiile persoanelor cu handicap pe lunile iulie și august 2020",
+"short": "HCL Ștefan cel Mare nr. 37/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-17",
+"latest": "2020-08-17",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/18957",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

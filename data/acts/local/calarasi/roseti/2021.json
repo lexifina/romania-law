@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-2-2021",
+"path": "local/calarasi/roseti/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 2/2021",
+"short": "HCL Roseți nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/24509",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-3-2021",
 "path": "local/calarasi/roseti/2021/3",
 "kind": "local",
@@ -44,6 +67,28 @@
 "council_name": "Consiliul Local al Comunei Roseți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-4-2021",
+"path": "local/calarasi/roseti/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 4/2021 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Roseți nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/24511",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-7-2021",
+"path": "local/calarasi/roseti/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 7/2021 privind aprobarea situației juridice a imobilului teren intravilan cu număr cadastral 1102, situat în comuna Roseți, județul Călărași, precum și dezmebrarea în două loturi a acestuia",
+"short": "HCL Roseți nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/24517",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-8-2021",
 "path": "local/calarasi/roseti/2021/8",
 "kind": "local",
@@ -110,6 +177,50 @@
 "council_name": "Consiliul Local al Comunei Roseți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-9-2021",
+"path": "local/calarasi/roseti/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 9/2021 privind analiza stadiului de înscriere a datelor în registrul agricol la trimestrul I al anului 2021",
+"short": "HCL Roseți nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-29",
+"latest": "2021-03-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/24538",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-10-2021",
+"path": "local/calarasi/roseti/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 10/2021 privind atribuirea în folosință gratuită a unei suprafețe de teren din intravilanul comunei Roseți, conform Legii 15/2003, pentru construire locuințe proprietate personală",
+"short": "HCL Roseți nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-29",
+"latest": "2021-03-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/24539",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +290,116 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-14-2021",
+"path": "local/calarasi/roseti/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 14/2021 privind aprobare act adițional la contractul de închiriere islaz/pajiște nr. 344/30.04.2014",
+"short": "HCL Roseți nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/28520",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-15-2021",
+"path": "local/calarasi/roseti/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 15/2021 privind aprobare act adițional la contractele de închiriere islaz nr.3455/30.04.2014 și nr.4406/06.06.2017",
+"short": "HCL Roseți nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/28521",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-16-2021",
+"path": "local/calarasi/roseti/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 16/2021 privind aprobare act adițional la contractul de închiriere islaz/pajiște nr. 3454/30.04.2014",
+"short": "HCL Roseți nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/28522",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-17-2021",
+"path": "local/calarasi/roseti/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 17/2021 privind aprobare act adițional la contractul de închiriere islaz/pajiște nr. 3036/02.05.2018",
+"short": "HCL Roseți nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/28523",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-18-2021",
+"path": "local/calarasi/roseti/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 18/2021 privind alegerea președintelui de ședință",
+"short": "HCL Roseți nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/28524",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-19-2021",
 "path": "local/calarasi/roseti/2021/19",
 "kind": "local",
@@ -198,6 +419,50 @@
 "council_name": "Consiliul Local al Comunei Roseți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-20-2021",
+"path": "local/calarasi/roseti/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 20/2021 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/28526",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-21-2021",
+"path": "local/calarasi/roseti/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 21/2021 privind aprobarea finanțării Asociației Club Sportiv Roseți",
+"short": "HCL Roseți nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/28527",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -246,6 +511,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-24-2021",
+"path": "local/calarasi/roseti/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 24/2021 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-25",
+"latest": "2021-05-25",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/28530",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-25-2021",
 "path": "local/calarasi/roseti/2021/25",
 "kind": "local",
@@ -265,6 +552,50 @@
 "council_name": "Consiliul Local al Comunei Roseți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-26-2021",
+"path": "local/calarasi/roseti/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 26/2021 privind aprobarea organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Roseți precum și a instituțiilor publice de interes local cu personalitate juridică de la nivelul comunei Roseți, județul Călărași pe anul 2021",
+"short": "HCL Roseți nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/30864",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-27-2021",
+"path": "local/calarasi/roseti/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 27/2021 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/30865",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -335,6 +666,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-31-2021",
+"path": "local/calarasi/roseti/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 31/2021 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Roseți nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/31438",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-32-2021",
+"path": "local/calarasi/roseti/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 32/2021 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/31439",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-33-2021",
 "path": "local/calarasi/roseti/2021/33",
 "kind": "local",
@@ -401,6 +776,94 @@
 }
 },
 {
+"slug": "hcl-calarasi--roseti-36-2021",
+"path": "local/calarasi/roseti/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 36/2021 privind aprobarea solicitării de prelungire a scrisorii de garanţie de la F.G.C.R-IFN S.A, în vederea implementarii proiectului ,, Extindere rețea de canalizare menajeră și Modernizarea Gospodăriei de apă, înființare două foraje și reabilitare rețea distribuție apă, sat Roseți, comuna Roseţi, judeţul Călăraşi”",
+"short": "HCL Roseți nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-16",
+"latest": "2021-08-16",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/32663",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-37-2021",
+"path": "local/calarasi/roseti/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 37/2021 privind aprobarea documentației PUZ și a Regulamentului Local aferent -Amenajare spații servicii auto și comerț-, în comuna Roseți, județul Călărași, str. C.A.Rosetti, nr. 1U, tarla 59/2, parcela 8, nr. cadastral 22535 (lot.nr.1), nr. cadastral 22536 (lot nr.2)",
+"short": "HCL Roseți nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/33629",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-38-2021",
+"path": "local/calarasi/roseti/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 38/2021 privind aprobarea noilor indicatori tehnico economici precum și analiza instituțională aferente obiectivului de investiție ”Înființare sistem de distribuție gaze naturale în localitatea Roseți, județul Călărași",
+"short": "HCL Roseți nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/33630",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-39-2021",
+"path": "local/calarasi/roseti/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 39/2021 privind aprobarea documentației PUZ și a Regulamentului Local aferent -CONSTRUIRE LOCUINȚE PENTRU TINERI-LOTIZARE, comuna Roseți, județul Călărași, tarla 52, parcela 224 nr. cadastral 5924, nr. cadastral 6183",
+"short": "HCL Roseți nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/36781",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--roseti-40-2021",
 "path": "local/calarasi/roseti/2021/40",
 "kind": "local",
@@ -420,6 +883,118 @@
 "council_name": "Consiliul Local al Comunei Roseți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-41-2021",
+"path": "local/calarasi/roseti/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 41/2021 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/36783",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-42-2021",
+"path": "local/calarasi/roseti/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 42/2021",
+"short": "HCL Roseți nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/36784",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-43-2021",
+"path": "local/calarasi/roseti/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 43/2021",
+"short": "HCL Roseți nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/36785",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-44-2021",
+"path": "local/calarasi/roseti/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 44/2021 privind rectificarea bugetului local al comunei Roseți, județul Călărași",
+"short": "HCL Roseți nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/39498",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-45-2021",
+"path": "local/calarasi/roseti/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 45/2021 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice de la unitățile de învățământ din comuna Roseți, județul Călărași",
+"short": "HCL Roseți nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/39499",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

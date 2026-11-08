@@ -47,6 +47,72 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-3-2021",
+"path": "local/calarasi/vasilati/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 3/2021 privind desemnarea reprezentanților consiliului local Vasilați în consiliul de administrație al școlii ,,Constantin Brâncoveanu''",
+"short": "HCL Vasilați nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/19374",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-4-2021",
+"path": "local/calarasi/vasilati/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 4/2021 privind desemnarea reprezentantului consiliului local Vasilați în Comisia pentru Evaluarea și Asigurarea Calității a școlii ,,Constantin Brâncoveanu''",
+"short": "HCL Vasilați nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/19375",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-5-2021",
+"path": "local/calarasi/vasilati/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 5/2021 privind desemnarea reprezentantului consiliului local Vasilați în Comisia pentru prevenirea și combaterea violentei în mediul școlar, a școlii „ Constantin Brâncoveanu” comuna Vasilați, județul Călărași",
+"short": "HCL Vasilați nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/19376",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-6-2021",
 "path": "local/calarasi/vasilati/2021/6",
 "kind": "local",
@@ -66,6 +132,29 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-7-2021",
+"path": "local/calarasi/vasilati/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 7/2021",
+"short": "HCL Vasilați nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/19378",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -110,6 +199,28 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-10-2021",
+"path": "local/calarasi/vasilati/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 10/2021 privind însușirea unui raport de evaluare teren și vânzarea directă a unui teren intravilan din proprietatea privată a comunei Vasilați, județul Călărași",
+"short": "HCL Vasilați nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/19407",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-15-2021",
+"path": "local/calarasi/vasilati/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 15/2021 privind aprobarea unei cereri pentru atribuirea in folosinta gratuita a unui teren pentru construirea de locuinta proprietate personala",
+"short": "HCL Vasilați nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-30",
+"latest": "2021-03-30",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/24775",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +423,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-20-2021",
+"path": "local/calarasi/vasilati/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 20/2021 privind aprobarea protocolului de colaborare realizat in parteneriat intre organizatia non-profit, neguvernamentala Asociatia Act For Tomorrow si comuna Vasilati, judetul Calarasi",
+"short": "HCL Vasilați nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/24779",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-21-2021",
 "path": "local/calarasi/vasilati/2021/21",
 "kind": "local",
@@ -332,6 +487,28 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-23-2021",
+"path": "local/calarasi/vasilati/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 23/2021 privind aprobarea darii in folosinta gratuita a unei suprafete de teren din domeniul public al comunei Vasilati catre TELEKOM ROMANIA MOBILE COMMUNICATIONS",
+"short": "HCL Vasilați nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-10",
+"latest": "2021-05-10",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/24783",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -401,6 +578,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-27-2021",
+"path": "local/calarasi/vasilati/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 27/2021",
+"short": "HCL Vasilați nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/28291",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-28-2021",
 "path": "local/calarasi/vasilati/2021/28",
 "kind": "local",
@@ -420,6 +620,50 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-29-2021",
+"path": "local/calarasi/vasilati/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 29/2021 privind aprobarea unei cereri pentru atribuirea în folosință gratuita a unui teren pentru construirea de locuință proprietate personală",
+"short": "HCL Vasilați nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/28293",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-30-2021",
+"path": "local/calarasi/vasilati/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 30/2021 privind desemnarea și mandatarea reprezentantului comunei Vasilați în vederea exercitării atribuțiilor în Adunarea Generala a Asociației de Dezvoltare Intercomunitară de Utilitatăți Publice pentru Serviciul de Salubrizare ”ECOMANAGEMENT SALUBRIS”",
+"short": "HCL Vasilați nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/28294",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -443,6 +687,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-32-2021",
+"path": "local/calarasi/vasilati/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 32/2021 privind aprobarea unei cereri pentru atribuirea în folosință gratuită a unui teren pentru construirea de locuință proprietate personală",
+"short": "HCL Vasilați nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/28296",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

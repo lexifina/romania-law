@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Sărulești nr. 69/2022 privind aprobarea Raportului de evaluare a terenului extravilan cu destinația neproductiv în suprafață de 2503 mp- lot 2 , înscris în CF 28011 situat în comuna Sărulesti , jud Călărasi
+
+HCL Sărulești nr. 69/2022 · 1 versions, from 2022-08-30 (latest in force: 2022-08-30) · <https://emol.ro/sarulesti-cl/registru-hcl/68986>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-calarasi--sarulesti-69-2022` (tags `hcl-calarasi--sarulesti-69-2022/<day>`; `python tools/on.py <day> hcl-calarasi--sarulesti-69-2022`).
+
+## Decisions made by hand
+
+- HCL Sărulești nr. 69/2022: listed from Consiliul Local al Comunei Sărulești (emol.ro); an individual decision: metadata only.
+- HCL Sărulești nr. 69/2022: dated from 30 August 2022, the day the council's register gives it as published (adopted 26 July 2022).
+- HCL Sărulești nr. 69/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

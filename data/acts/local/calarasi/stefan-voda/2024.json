@@ -268,6 +268,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-voda-13-2024",
+"path": "local/calarasi/stefan-voda/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 13/2024",
+"short": "HCL Ștefan Vodă nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/148606",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-14-2024",
 "path": "local/calarasi/stefan-voda/2024/14",
 "kind": "local",
@@ -309,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-16-2024",
+"path": "local/calarasi/stefan-voda/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 16/2024 privind desemnarea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-20",
+"latest": "2024-03-20",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/148609",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -532,6 +577,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--stefan-voda-27-2024",
+"path": "local/calarasi/stefan-voda/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 27/2024 privind desemnarea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/160404",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--stefan-voda-28-2024",
 "path": "local/calarasi/stefan-voda/2024/28",
 "kind": "local",
@@ -551,6 +618,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-29-2024",
+"path": "local/calarasi/stefan-voda/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 29/2024 privind darea în folosință gratuită a 35,2 mp din imobilul situat pe strada Viorelelor, nr. 73bis societății Dornacor Invest SRL, concesionar al serviciului public de distribuție a gazelor naturale din comuna Ștefan Vodă",
+"short": "HCL Ștefan Vodă nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/160406",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -662,6 +751,28 @@
 "council_name": "Consiliul Local al Comunei Ștefan Vodă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--stefan-voda-35-2024",
+"path": "local/calarasi/stefan-voda/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 35/2024 privind desemnarea președintelui de ședință",
+"short": "HCL Ștefan Vodă nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-02",
+"latest": "2024-10-02",
+"portal": "https://emol.ro/stefanvoda-cl/registru-hcl/170179",
+"council": "calarasi/stefan-voda",
+"council_name": "Consiliul Local al Comunei Ștefan Vodă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

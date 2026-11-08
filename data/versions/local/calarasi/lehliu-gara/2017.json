@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/lehliu-gara/2017",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--lehliu-gara-35-2017",
+   "path": "local/calarasi/lehliu-gara/2017/35",
+   "short": "HCL Lehliu Gară nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 35/2017",
+   "url": "https://www.primarialehliugara.ro/documents/hcl_nr_35_din_29-05-2017_cu_privire_la_alegerea_viceprimarului/",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2019/06/HCL_nr_35_din_29.05.2017_cu_privire_la_alegerea_viceprimarului.pdf",
+     "sha256": "48b90a9e32ba668cb9724ae96b1eb6998cfa43dbb5663183a7957f5b4269ed03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-53-2017",
+   "path": "local/calarasi/lehliu-gara/2017/53",
+   "short": "HCL Lehliu Gară nr. 53/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 53/2017",
+   "url": "https://www.primarialehliugara.ro/documents/hcl_nr_53_26-07-2017_evenimentul_nunta_de_aur/",
+   "versions": [
+    {
+     "from": "2017-07-26",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2019/06/HCL_Nr_53_26.07.2017_evenimentul_Nunta_de_Aur.pdf",
+     "sha256": "e6bdf7df6724979cdb4e439e040b0d0b7ec22a6bbab3dfcfcb7e0829e3c1dd4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--lehliu-gara-55-2017",
+   "path": "local/calarasi/lehliu-gara/2017/55",
+   "short": "HCL Lehliu Gară nr. 55/2017",
+   "title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 55/2017",
+   "url": "https://www.primarialehliugara.ro/documents/tabel-salarii-hcl-nr-55-din-26-iulie-2017/",
+   "versions": [
+    {
+     "from": "2017-07-26",
+     "units": 1,
+     "source_url": "https://www.primarialehliugara.ro/wp-content/uploads/2019/06/TABEL-SALARII-HCL-NR.55-DIN-26-IULIE-2017.pdf",
+     "sha256": "0014a00c29710b1add5c9f844ade3df1aefaa7301a28f0bf2fbf31f57e1e08db"
+    }
+   ]
+  }
+ ]
+}

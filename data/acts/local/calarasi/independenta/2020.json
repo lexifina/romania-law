@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/calarasi/independenta/2020",
+"acts": [
+{
+"slug": "hcl-calarasi--independenta-18-2020",
+"path": "local/calarasi/independenta/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Independența nr. 18/2020",
+"short": "HCL Independența nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-03",
+"latest": "2020-04-03",
+"portal": "https://primariaindependenta.ro/wp-content/uploads/2022/04/HOTARAREA-Nr.18-din-03.04.202.pdf",
+"council": "calarasi/independenta",
+"council_name": "Consiliul Local al Comunei Independența",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,94 @@
 "shard": "local/calarasi/sarulesti/2024",
 "acts": [
 {
+"slug": "hcl-calarasi--sarulesti-1-2024",
+"path": "local/calarasi/sarulesti/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 1/2024 privind aprobarea acoperirii definitive a deficitului bugetar al comunei Sarulesti pe anul 2023",
+"short": "HCL Sărulești nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143824",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-2-2024",
+"path": "local/calarasi/sarulesti/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 2/2024 privind aprobarea bugetului local al comunei Sărulesti, judetul Călărasi pe anul 2024",
+"short": "HCL Sărulești nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143873",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-3-2024",
+"path": "local/calarasi/sarulesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 3/2024 privind aprobarea Contului de executie la 31.12.2023",
+"short": "HCL Sărulești nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143874",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-4-2024",
+"path": "local/calarasi/sarulesti/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 4/2024 privind aprobarea dezmembrării terenului intravilan cu categoria de folosință curti construcții în suprafață de 3074 mp, situat in comuna Sărulesti, sat Sărulesti-Gara, CV 3, P.37/2 înscris in CF nr.24431 în trei loturi",
+"short": "HCL Sărulești nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143875",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-5-2024",
 "path": "local/calarasi/sarulesti/2024/5",
 "kind": "local",
@@ -47,6 +135,184 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-7-2024",
+"path": "local/calarasi/sarulesti/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 7/2024 privind aprobarea Planului pentru asigurarea resurselor umane, materiale si financiare necesare gestionarii situațiilor de urgenta in anul 2024",
+"short": "HCL Sărulești nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143878",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-8-2024",
+"path": "local/calarasi/sarulesti/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 8/2024",
+"short": "HCL Sărulești nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143879",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-9-2024",
+"path": "local/calarasi/sarulesti/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 9/2024 privind suplimentarea numărului de posturi pentru asistenţii personali, însoţitori ai persoanelor cu handicap grav și a indemnizațiilor de însoțitor ai persoanelor cu handicap grav începând cu luna februarie 2024",
+"short": "HCL Sărulești nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143880",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-10-2024",
+"path": "local/calarasi/sarulesti/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 10/2024",
+"short": "HCL Sărulești nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143881",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-11-2024",
+"path": "local/calarasi/sarulesti/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 11/2024 privind aprobarea Reguleamentul pentru modalitațile de decontare a cheltuielilor de transport pentru funcționarii publici si personalul contractual din cadrul aparatului de specialitate al Primarului comunei Sarulesti, judetul Călărasi, începand cu 01.01.2024",
+"short": "HCL Sărulești nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143882",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-12-2024",
+"path": "local/calarasi/sarulesti/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 12/2024 privind alegerea președintelui de ședință",
+"short": "HCL Sărulești nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143883",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-13-2024",
+"path": "local/calarasi/sarulesti/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 13/2024 privind rectificarea bugetului local al comunei Sărulesti pe anul 2024-Secțiunea Funcționare",
+"short": "HCL Sărulești nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143884",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-14-2024",
+"path": "local/calarasi/sarulesti/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 14/2024 privind aprobarea utilizarii de sume din excedentului anului 2023 pentru Sectiunea dezvoltare",
+"short": "HCL Sărulești nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143885",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-15-2024",
 "path": "local/calarasi/sarulesti/2024/15",
 "kind": "local",
@@ -66,6 +332,50 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-16-2024",
+"path": "local/calarasi/sarulesti/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 16/2024 privind aprobarea Strategiei de dezvoltare a serviciilor sociale pentru perioada 2022 – 2027, aprobarea Planului local de acțiune privind incluziunea cetățenilor români aparținând minorității rome pentru perioada 2022-2027 si constituirea grupului de lucru local de actiune privind incluziunea minoritatii rome",
+"short": "HCL Sărulești nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143887",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-17-2024",
+"path": "local/calarasi/sarulesti/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 17/2024 privind aprobarea obiectivului de investiții „Reabilitare Gădinița Sarulesti - Sat, comuna Sărulesti, judetul Călărasi,",
+"short": "HCL Sărulești nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-20",
+"latest": "2024-02-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/143888",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +401,492 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-19-2024",
+"path": "local/calarasi/sarulesti/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 19/2024 privind rectificarea bugetului local al comunei Sărulesti pe anul 2024-Secțiunea Funcționare",
+"short": "HCL Sărulești nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-15",
+"latest": "2024-04-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/152738",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-20-2024",
+"path": "local/calarasi/sarulesti/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 20/2024 privind aprobarea utilizarii de sume din excedentului anului 2023 pentru Sectiunea dezvoltare",
+"short": "HCL Sărulești nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-15",
+"latest": "2024-04-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/152739",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-21-2024",
+"path": "local/calarasi/sarulesti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 21/2024 privind aprobarea documentatiei si indicatorii tehnico- economici privind obiectivul de investiții ,,Reabilitare Grădinița Sarulesti - Sat, comuna Sărulesti, judetul Călărasi,",
+"short": "HCL Sărulești nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-15",
+"latest": "2024-04-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/152740",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-22-2024",
+"path": "local/calarasi/sarulesti/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 22/2024",
+"short": "HCL Sărulești nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-15",
+"latest": "2024-04-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/152741",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-23-2024",
+"path": "local/calarasi/sarulesti/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 23/2024 privind aprobarea continorii Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 450 de unități de învățământ preuniversitar de stat, la nivelul Școlii Gimnaziale nr 1 Sarulesti Gara din comuna Sărulesti, județul Călărași",
+"short": "HCL Sărulești nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-15",
+"latest": "2024-04-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/152742",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-24-2024",
+"path": "local/calarasi/sarulesti/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 24/2024 privind aprobarea participării unității administrativ-teritoriale Sărulesti, judetul Călărasi în cadrul Proiectului „MODERNIZAREA REȚELEI DE BIBLIOTECI PENTRU A DEVENI HUB-URI DE DEZVOLTARE A COMPETENȚELOR DIGITALE, DIN CADRUL PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ (PNRR) – HUB COMUNA MĂRĂCINENI, JUDEȚUL BUZĂU”",
+"short": "HCL Sărulești nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-15",
+"latest": "2024-04-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/152749",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-25-2024",
+"path": "local/calarasi/sarulesti/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 25/2024 privind rectificarea bugetului local al comunei Sărulesti pe anul 2024",
+"short": "HCL Sărulești nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158921",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-26-2024",
+"path": "local/calarasi/sarulesti/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 26/2024 privind aprobarea Contului de executie la 29.03.2024",
+"short": "HCL Sărulești nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158922",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-27-2024",
+"path": "local/calarasi/sarulesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 27/2024 privind aprobarea Organigramei si a Ştatului de funcţii al aparatului de specialitate al primarului comunei Sarulesti, judetul Călăraşi",
+"short": "HCL Sărulești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158923",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-28-2024",
+"path": "local/calarasi/sarulesti/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 28/2024 privind revocarea HCL nr. 87/09.11.2023 (privind modificarea coeficienților de ierarhizare ale funcționarilor publici si personalului contractual din Anexa nr 1 la HCL nr. 30/27.04.2023 începând cu luna noiembrie 2023)",
+"short": "HCL Sărulești nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158924",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-29-2024",
+"path": "local/calarasi/sarulesti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 29/2024 privind revocarea HCL nr. 88/09.11.2023 (privind modificarea coeficienților de ierarhizare ale funcționarilor publici si personalului contractual din Anexa nr 1 la HCL nr. 30/27.04.2023 începând cu 01.01.2024",
+"short": "HCL Sărulești nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158925",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-30-2024",
+"path": "local/calarasi/sarulesti/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 30/2024 privind revocarea HCL nr. 89/09.11.2023 (privind stabilirea salariilor de baza pentru funcționari publici si personalul contractual din cadrul aparatului de specialitate al primarului Comunei Sarulesti , judetul Călărasi incepând cu 01.01.2024)",
+"short": "HCL Sărulești nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158926",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-31-2024",
+"path": "local/calarasi/sarulesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 31/2024 privind revocarea HCL nr. 90/09.11.2023 (privind stabilirea salariilor de baza pentru funcționari publici si personalul contractual din cadrul aparatului de specialitate al primarului Comunei Sarulesti , judetul Călărasi incepând cu luna noiembrie)",
+"short": "HCL Sărulești nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158927",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-32-2024",
+"path": "local/calarasi/sarulesti/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 32/2024",
+"short": "HCL Sărulești nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158928",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-33-2024",
+"path": "local/calarasi/sarulesti/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 33/2024 privind majorarea cu până la 10 % a indemnizațiilor si salarilor persoanelor plătite din fonduri publice, incepând cu luna iunie 2024, față de nivelul acordat pentru luna decembrie 2023",
+"short": "HCL Sărulești nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158929",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-34-2024",
+"path": "local/calarasi/sarulesti/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 34/2024 privind aprobarea indicatorii tehnico- economici pentru actualizarea Planului Urbanistic General(PUG) si a Regulamentului Local de Urbanism (RLU) comunei Sarulesti, judetul Călărasi",
+"short": "HCL Sărulești nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158930",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-35-2024",
+"path": "local/calarasi/sarulesti/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 35/2024 privind atribuirea denumiri de strada Lacul Benga a drumului situat în Comuna Sarulesti, judetul Călărasi",
+"short": "HCL Sărulești nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158931",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-36-2024",
+"path": "local/calarasi/sarulesti/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 36/2024 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale pe anul 2025",
+"short": "HCL Sărulești nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158932",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-37-2024",
+"path": "local/calarasi/sarulesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 37/2024 privind alegerea președintelui de ședință",
+"short": "HCL Sărulești nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158944",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-38-2024",
+"path": "local/calarasi/sarulesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 38/2024 privind rectificarea bugetului local al comunei Sărulesti pe anul 2024",
+"short": "HCL Sărulești nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158945",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-39-2024",
+"path": "local/calarasi/sarulesti/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 39/2024 privind aprobarea utilizarii de sume din excedentului anului 2023",
+"short": "HCL Sărulești nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158946",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-40-2024",
+"path": "local/calarasi/sarulesti/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 40/2024 privind aprobarea utilizarii sumelor din excedentul anului 2023 al Scolii Gimnaziale nr. 1 Sarulesti – Gara",
+"short": "HCL Sărulești nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158947",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-41-2024",
 "path": "local/calarasi/sarulesti/2024/41",
 "kind": "local",
@@ -110,6 +906,182 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-42-2024",
+"path": "local/calarasi/sarulesti/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 42/2024 privind aprobarea dezmembrării terenului arabil extravilan în suprafață de 9.047 mp,situat in comuna Sărulesti, sat Sărulesti-Gara, T.9/3, P.11 înscris in CF nr.25278 în noua loturi",
+"short": "HCL Sărulești nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158949",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-43-2024",
+"path": "local/calarasi/sarulesti/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 43/2024 privind aprobarea noilor indicatorii tehnico-economici si financiari ca urmare a finalizari achiitiilor publice aferente obiectivului de investitii ,,MODERNIZARE DRUMURI DC 24 IN COMUNA SARULESTI, JUDEȚUL CĂLĂRAȘI,",
+"short": "HCL Sărulești nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/158950",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-44-2024",
+"path": "local/calarasi/sarulesti/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 44/2024 privind rectificarea bugetului local al comunei Sărulesti pe anul 2024",
+"short": "HCL Sărulești nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/161303",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-45-2024",
+"path": "local/calarasi/sarulesti/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 45/2024 privind majorarea cu până la 10 % a salarilor persoanelor plătite din fonduri publice, începând cu luna iunie 2024, față de nivelul acordat pentru luna decembrie 2023",
+"short": "HCL Sărulești nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-03",
+"latest": "2024-07-03",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/161304",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-46-2024",
+"path": "local/calarasi/sarulesti/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 46/2024 privind rectificarea bugetului local al comunei Sărulesti pe anul 2024",
+"short": "HCL Sărulești nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/165372",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-47-2024",
+"path": "local/calarasi/sarulesti/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 47/2024 privind rectificarea bugetului local al comunei Sărulesti pe anul 2024",
+"short": "HCL Sărulești nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/165387",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-48-2024",
+"path": "local/calarasi/sarulesti/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 48/2024 privind aprobarea Contului de executie la 30.06.2024",
+"short": "HCL Sărulești nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/165388",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-49-2024",
+"path": "local/calarasi/sarulesti/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 49/2024 privind înființarea Serviciului Voluntar pentru Situații de Urgență, aprobarea organigramei și a componentei Serviciului Voluntar pentru Situații de Urgență al comunei Sărulești, județul Călărași",
+"short": "HCL Sărulești nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/165389",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +1151,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-53-2024",
+"path": "local/calarasi/sarulesti/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 53/2024 privind aprobarea noilor indicatorii tehnico-economici ca urmare a finalizări procedurii de achizitie publică aferente obiectivului de investitii ,,EXTINDERE si MODERNIZARE RETEA DE ALIMENTARE CU APA IN COMUNA SARULESTI, JUDETUL CĂLĂRAȘI",
+"short": "HCL Sărulești nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/172783",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-54-2024",
 "path": "local/calarasi/sarulesti/2024/54",
 "kind": "local",
@@ -223,6 +1217,72 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-56-2024",
+"path": "local/calarasi/sarulesti/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 56/2024 privind alegerea președintelui de ședință",
+"short": "HCL Sărulești nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/172791",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-57-2024",
+"path": "local/calarasi/sarulesti/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 57/2024 privind rectificarea bugetului local al comunei Sărulesti pe anul 2024",
+"short": "HCL Sărulești nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/172792",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-58-2024",
+"path": "local/calarasi/sarulesti/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 58/2024 privind aprobarea utilizării de sume din excedentul anului 2023",
+"short": "HCL Sărulești nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/172793",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-59-2024",
 "path": "local/calarasi/sarulesti/2024/59",
 "kind": "local",
@@ -242,6 +1302,50 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-60-2024",
+"path": "local/calarasi/sarulesti/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 60/2024 privind trecerea la domeniul privat al comunei Sărulesti, a terenurilor intravilane cu categorie de folosință arabil, situate în sat Sărulesti, comuna Sărulesti, judetul Călărasi",
+"short": "HCL Sărulești nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/172795",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-61-2024",
+"path": "local/calarasi/sarulesti/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 61/2024 privind rectificarea bugetului comunei Sărulești pe anul 2024",
+"short": "HCL Sărulești nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/172796",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -311,6 +1415,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-65-2024",
+"path": "local/calarasi/sarulesti/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 65/2024 privind rectificarea bugetului local al comunei Sărulești pe anul 2024",
+"short": "HCL Sărulești nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/172800",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-66-2024",
+"path": "local/calarasi/sarulesti/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 66/2024 privind aprobarea Contului de executie la 30.09.2024",
+"short": "HCL Sărulești nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-15",
+"latest": "2024-10-15",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/172801",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-67-2024",
 "path": "local/calarasi/sarulesti/2024/67",
 "kind": "local",
@@ -330,6 +1478,50 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-68-2024",
+"path": "local/calarasi/sarulesti/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 68/2024 privind alegerea presedintelui de sedinta",
+"short": "HCL Sărulești nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/177678",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-69-2024",
+"path": "local/calarasi/sarulesti/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 69/2024 privind alegerea Viceprimarului comunei Sarulesti, judetul Calarasi",
+"short": "HCL Sărulești nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/177679",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

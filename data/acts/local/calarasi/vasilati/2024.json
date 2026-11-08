@@ -91,6 +91,52 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-5-2024",
+"path": "local/calarasi/vasilati/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 5/2024",
+"short": "HCL Vasilați nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/145847",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-6-2024",
+"path": "local/calarasi/vasilati/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 6/2024",
+"short": "HCL Vasilați nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/145848",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-7-2024",
 "path": "local/calarasi/vasilati/2024/7",
 "kind": "local",
@@ -110,6 +156,51 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-8-2024",
+"path": "local/calarasi/vasilati/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 8/2024",
+"short": "HCL Vasilați nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/145850",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-9-2024",
+"path": "local/calarasi/vasilati/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 9/2024 privind aprobarea unei cereri pentru atribuirea în folosință gratuită a unui teren pentru construirea de locuință proprietate personală",
+"short": "HCL Vasilați nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-13",
+"latest": "2024-03-13",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/145851",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +245,28 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-12-2024",
+"path": "local/calarasi/vasilati/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 12/2024 privind aprobarea tipului de suport alimentar, acordat preșcolarilor și elevilor din cadrul Școlii Gimnaziale ”Constantin Brâncoveanu” Vasilați, în cadrul Programului național ” Masă sănătoasă”",
+"short": "HCL Vasilați nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-10",
+"latest": "2024-04-10",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/150651",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +336,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-16-2024",
+"path": "local/calarasi/vasilati/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 16/2024 privind aprobarea indicatorilor tehnico - economici ai obiectivului de investiții ”Elaborare Plan Urbanistic General și Regulamentul Local de Urbanism al comunei Vasilați, județul Călărași”",
+"short": "HCL Vasilați nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-14",
+"latest": "2024-05-14",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/154768",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-17-2024",
 "path": "local/calarasi/vasilati/2024/17",
 "kind": "local",
@@ -245,6 +380,51 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-18-2024",
+"path": "local/calarasi/vasilati/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 18/2024 privind transformarea a două posturi de funcționar public din cadrul aparatului de specialitate al primarului comunei Vasilați, ca urmare a finalizării perioadelor de stagiu ale unor funcționari publici",
+"short": "HCL Vasilați nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-07",
+"latest": "2024-06-07",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/157404",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-19-2024",
+"path": "local/calarasi/vasilati/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 19/2024",
+"short": "HCL Vasilați nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-07",
+"latest": "2024-06-07",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/157405",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-20-2024",
 "path": "local/calarasi/vasilati/2024/20",
 "kind": "local",
@@ -264,6 +444,29 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-21-2024",
+"path": "local/calarasi/vasilati/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 21/2024",
+"short": "HCL Vasilați nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-07",
+"latest": "2024-06-07",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/157407",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -333,6 +536,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-25-2024",
+"path": "local/calarasi/vasilati/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 25/2024",
+"short": "HCL Vasilați nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-08",
+"latest": "2024-07-08",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/160568",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-26-2024",
 "path": "local/calarasi/vasilati/2024/26",
 "kind": "local",
@@ -352,6 +578,28 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-27-2024",
+"path": "local/calarasi/vasilati/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 27/2024 privind aprobarea unei cereri pentru atribuirea în folosință gratuită a unui teren pentru construirea de locuință proprietate personală",
+"short": "HCL Vasilați nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-27",
+"latest": "2024-09-27",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/164358",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -399,6 +647,52 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-30-2024",
+"path": "local/calarasi/vasilati/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 30/2024",
+"short": "HCL Vasilați nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/166453",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-31-2024",
+"path": "local/calarasi/vasilati/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 31/2024",
+"short": "HCL Vasilați nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/166454",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-32-2024",
 "path": "local/calarasi/vasilati/2024/32",
 "kind": "local",
@@ -418,6 +712,28 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-33-2024",
+"path": "local/calarasi/vasilati/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 33/2024 privind scăderea din evidențele fiscale ale Primăriei Vasilați a unor sume, reprezentând amenzi contravenționale ale debitorilor decedați",
+"short": "HCL Vasilați nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/166456",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

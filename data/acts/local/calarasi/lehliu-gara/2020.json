@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/calarasi/lehliu-gara/2020",
+"acts": [
+{
+"slug": "hcl-calarasi--lehliu-gara-5-2020",
+"path": "local/calarasi/lehliu-gara/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 5/2020",
+"short": "HCL Lehliu Gară nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://www.primarialehliugara.ro/document-category/hotarari-2020/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--lehliu-gara-9-2020",
+"path": "local/calarasi/lehliu-gara/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 9/2020",
+"short": "HCL Lehliu Gară nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://www.primarialehliugara.ro/document-category/hotarari-2020/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--lehliu-gara-10-2020",
+"path": "local/calarasi/lehliu-gara/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 10/2020",
+"short": "HCL Lehliu Gară nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://www.primarialehliugara.ro/document-category/hotarari-2020/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--lehliu-gara-54-2020",
+"path": "local/calarasi/lehliu-gara/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 54/2020",
+"short": "HCL Lehliu Gară nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-13",
+"latest": "2020-10-13",
+"portal": "https://www.primarialehliugara.ro/page/48/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--lehliu-gara-83-2020",
+"path": "local/calarasi/lehliu-gara/2020/83",
+"kind": "local",
+"year": "2020",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 83/2020 pentru Situatii de Urgenta Calarasi",
+"short": "HCL Lehliu Gară nr. 83/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.primarialehliugara.ro/page/47/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

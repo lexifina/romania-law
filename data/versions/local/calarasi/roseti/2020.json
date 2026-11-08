@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-16-2020",
+   "path": "local/calarasi/roseti/2020/16",
+   "short": "HCL Roseți nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 16/2020 privind aprobarea unei suprafeţe de islaz, domeniu privat al comunei Roseţi, în vederea închirierii în anul 2020",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/973",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/973",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-17-2020",
    "path": "local/calarasi/roseti/2020/17",
    "short": "HCL Roseți nr. 17/2020",
@@ -118,6 +133,21 @@
      "from": "2020-03-26",
      "units": 1,
      "source_url": "https://emol.ro/roseti-cl/registru-hcl/974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-18-2020",
+   "path": "local/calarasi/roseti/2020/18",
+   "short": "HCL Roseți nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 18/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/975",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/975",
      "sha256": null
     }
    ]
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-20-2020",
+   "path": "local/calarasi/roseti/2020/20",
+   "short": "HCL Roseți nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 20/2020 privind atribuirea în folosinţă gratuită a unei suprafeţe de teren din intravilanul comunei Roseţi, conform Legii 15/2003, pentru construire locuinţe proprietate personală",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/977",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/977",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-21-2020",
    "path": "local/calarasi/roseti/2020/21",
    "short": "HCL Roseți nr. 21/2020",
@@ -178,6 +223,66 @@
      "from": "2020-03-26",
      "units": 1,
      "source_url": "https://emol.ro/roseti-cl/registru-hcl/979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-23-2020",
+   "path": "local/calarasi/roseti/2020/23",
+   "short": "HCL Roseți nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 23/2020 privind aprobare act adițional la contractul de închiriere nr. 3446/30.04.2014 a unei suprafeţe de islaz, domeniu privat al comunei Roseţi",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/980",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-24-2020",
+   "path": "local/calarasi/roseti/2020/24",
+   "short": "HCL Roseți nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 24/2020 privind aprobare act adițional la contractul de închiriere nr. 3434/30.04.2014 a unei suprafeţe de islaz, domeniu privat al comunei Roseţi",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/981",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-25-2020",
+   "path": "local/calarasi/roseti/2020/25",
+   "short": "HCL Roseți nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 25/2020 privind aprobare act adițional la contractul de închiriere nr. 3443/30.04.2014 a unei suprafeţe de islaz, domeniu privat al comunei Roseţi",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/982",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-26-2020",
+   "path": "local/calarasi/roseti/2020/26",
+   "short": "HCL Roseți nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 26/2020 privind aprobare raport de evaluare pentru suprafața de 2,5 hectare islaz aparținând domeniului privat al comunei Roseți- zona Castel în vederea închirierii prin licitație precum și aprobarea de măsuri organizatorice aferente",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/983",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/983",
      "sha256": null
     }
    ]
@@ -348,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-37-2020",
+   "path": "local/calarasi/roseti/2020/37",
+   "short": "HCL Roseți nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 37/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/24383",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/24383",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-38-2020",
    "path": "local/calarasi/roseti/2020/38",
    "short": "HCL Roseți nr. 38/2020",
@@ -373,6 +493,21 @@
      "from": "2020-07-29",
      "units": 1,
      "source_url": "https://emol.ro/roseti-cl/registru-hcl/24389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-4-2020",
+   "path": "local/calarasi/roseti/2020/4",
+   "short": "HCL Roseți nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 4/2020",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/961",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/961",
      "sha256": null
     }
    ]
@@ -528,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--roseti-5-2020",
+   "path": "local/calarasi/roseti/2020/5",
+   "short": "HCL Roseți nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 5/2020 privind atribuirea în folosinţă gratuită a unor suprafeţe de teren din intravilanul comunei Roseţi, conform Legii 15/2003, pentru construire locuinţe proprietate personală",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/962",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/962",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--roseti-50-2020",
    "path": "local/calarasi/roseti/2020/50",
    "short": "HCL Roseți nr. 50/2020",
@@ -553,6 +703,36 @@
      "from": "2020-09-21",
      "units": 1,
      "source_url": "https://emol.ro/roseti-cl/registru-hcl/24439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-52-2020",
+   "path": "local/calarasi/roseti/2020/52",
+   "short": "HCL Roseți nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 52/2020 privind retragere drept de folosinţă gratuită pentru suprafețe de teren destinate construirii de locuințe și acordate în baza Legii nr. 15/2003",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/24440",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/24440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-53-2020",
+   "path": "local/calarasi/roseti/2020/53",
+   "short": "HCL Roseți nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 53/2020",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/24443",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/24443",
      "sha256": null
     }
    ]

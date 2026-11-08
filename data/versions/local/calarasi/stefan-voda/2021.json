@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-voda-2-2021",
+   "path": "local/calarasi/stefan-voda/2021/2",
+   "short": "HCL Ștefan Vodă nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 2/2021 privind modificarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Comunei Ștefan Vodă",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/28247",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/28247",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-voda-20-2021",
    "path": "local/calarasi/stefan-voda/2021/20",
    "short": "HCL Ștefan Vodă nr. 20/2021",

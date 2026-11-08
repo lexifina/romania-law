@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-10-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/10",
+   "short": "HCL Ștefan cel Mare nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 10/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/94300",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/94300",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-11-2023",
    "path": "local/calarasi/stefan-cel-mare/2023/11",
    "short": "HCL Ștefan cel Mare nr. 11/2023",
@@ -28,6 +43,21 @@
      "from": "2023-02-27",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/94301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-12-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/12",
+   "short": "HCL Ștefan cel Mare nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 12/2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/94302",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/94302",
      "sha256": null
     }
    ]
@@ -58,6 +88,36 @@
      "from": "2023-03-29",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/100893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-15-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/15",
+   "short": "HCL Ștefan cel Mare nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 15/2023 privind înființarea serviciului public de alimentare cu apă și de canalizare al comunei Ștefan cel Mare, județul Călărași",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/100894",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/100894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-16-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/16",
+   "short": "HCL Ștefan cel Mare nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 16/2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/100895",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/100895",
      "sha256": null
     }
    ]
@@ -138,6 +198,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-21-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/21",
+   "short": "HCL Ștefan cel Mare nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 21/2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/103986",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/103986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-22-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/22",
+   "short": "HCL Ștefan cel Mare nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 22/2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/103987",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/103987",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-23-2023",
    "path": "local/calarasi/stefan-cel-mare/2023/23",
    "short": "HCL Ștefan cel Mare nr. 23/2023",
@@ -148,6 +238,21 @@
      "from": "2023-05-03",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/104009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-24-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/24",
+   "short": "HCL Ștefan cel Mare nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 24/2023 privind participarea comunei Ștefan cel Mare, județul Călărași la parteneriatul LEADER cu denumirea ASOCIAȚIA GRUPUL DE ACȚIUNE LOCALĂ BĂRĂGANUL DE SUD-EST",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/109666",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/109666",
      "sha256": null
     }
    ]
@@ -168,6 +273,36 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-26-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/26",
+   "short": "HCL Ștefan cel Mare nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 26/2023 privind aprobarea contractării unui împrumut în valoare de 1 024 000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/109668",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/109668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-27-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/27",
+   "short": "HCL Ștefan cel Mare nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 27/2023 privind alegerea preşedintelui și a potențialului președinte de şedinţă al Consiliului local Ștefan cel Mare pentru perioada iunie - iulie 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/109669",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/109669",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-28-2023",
    "path": "local/calarasi/stefan-cel-mare/2023/28",
    "short": "HCL Ștefan cel Mare nr. 28/2023",
@@ -178,6 +313,21 @@
      "from": "2023-06-26",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/112099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-29-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/29",
+   "short": "HCL Ștefan cel Mare nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 29/2023 privind aprobarea prelungirii cu cinci ani a contractului nr. 326/25.I.2022 încheiat între comuna Ștefan cel Mare, județul Călărași și societatea U-ENERGY S.R.L",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/112100",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/112100",
      "sha256": null
     }
    ]
@@ -243,6 +393,81 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-33-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/33",
+   "short": "HCL Ștefan cel Mare nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 33/2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/112104",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/112104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-34-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/34",
+   "short": "HCL Ștefan cel Mare nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 34/2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/112105",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/112105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-35-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/35",
+   "short": "HCL Ștefan cel Mare nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 35/2023 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Ștefan cel Mare la data de 30 iunie 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/115745",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/115745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-36-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/36",
+   "short": "HCL Ștefan cel Mare nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 36/2023 privind aprobarea utilizării din contul de excedent al anilor anteriori a unor sume de bani pentru secțiunea de dezvoltare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/115746",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/115746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-37-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/37",
+   "short": "HCL Ștefan cel Mare nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 37/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/115747",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/115747",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-38-2023",
    "path": "local/calarasi/stefan-cel-mare/2023/38",
    "short": "HCL Ștefan cel Mare nr. 38/2023",
@@ -253,6 +478,21 @@
      "from": "2023-07-24",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/115748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-39-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/39",
+   "short": "HCL Ștefan cel Mare nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 39/2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/115749",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/115749",
      "sha256": null
     }
    ]
@@ -303,6 +543,66 @@
    ]
   },
   {
+   "slug": "hcl-calarasi--stefan-cel-mare-42-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/42",
+   "short": "HCL Ștefan cel Mare nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 42/2023 privind alegerea preşedintelui și a potențialului președinte de şedinţă al Consiliului local Ștefan cel Mare pentru perioada septembrie - noiembrie 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125087",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-43-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/43",
+   "short": "HCL Ștefan cel Mare nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 43/2023 privind aprobarea închirierii prin licitație piublică a unui imobil, clădire și teren, situat pe izlazul comunal aflat în proprietatea privată a comunei Ștefan cel Mare, județul Călărași",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125088",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-44-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/44",
+   "short": "HCL Ștefan cel Mare nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 44/2023 privind vânzarea prin licitație publică a unui teren proprietate privată a comunei Ștefan cel Mare, județul Călărași înscris în Cartea Funciară 20831",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125089",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-45-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/45",
+   "short": "HCL Ștefan cel Mare nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 45/2023 privind aprobarea închirierii terenurilor arabile din izlazul comunal aflat în proprietatea privată a comunei Ștefan cel Mare, județul Călărași",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125090",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125090",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-calarasi--stefan-cel-mare-46-2023",
    "path": "local/calarasi/stefan-cel-mare/2023/46",
    "short": "HCL Ștefan cel Mare nr. 46/2023",
@@ -313,6 +613,36 @@
      "from": "2023-09-28",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-47-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/47",
+   "short": "HCL Ștefan cel Mare nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 47/2023 pentru validarea Dispoziției primarului comunei nr. 189 din 8 septembrie 2023 privind majorarea bugetului local pe anul 2023 cu sumele pentru finanțarea cheltuielilor de personal ale asistenților personali și indemnizații persoane cu hanicap primite de la bugetul de stat",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125092",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-48-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/48",
+   "short": "HCL Ștefan cel Mare nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 48/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125093",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125093",
      "sha256": null
     }
    ]
@@ -343,6 +673,96 @@
      "from": "2023-01-31",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/89885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-50-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/50",
+   "short": "HCL Ștefan cel Mare nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 50/2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125095",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-51-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/51",
+   "short": "HCL Ștefan cel Mare nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 51/2023 privind aprobarea contractului de delegare a gestiunii serviciului de alimentare cu apă și canalizare și a caietul de sarcini pentru delegarea de gestiune a serviciului public de alimentare cu apă potabilă și canalizare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125096",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-52-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/52",
+   "short": "HCL Ștefan cel Mare nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 52/2023 privind acordarea unui mandat special reprezentantului legal al comunei Ștefan cel Mare pentru a vota, în Adunarea Generală a Asociaţiei de Dezvoltare Intercomunitară Ecomanagement Salubris, proiectul de hotărâre privind aprobarea modificării tarifului de colectare și transport al deșeurilor practicate în zona 3 Călărași ca urmare a majorării tarifelor de depozitare, sortare și compostare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/125097",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/125097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-53-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/53",
+   "short": "HCL Ștefan cel Mare nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 53/2023 privind aprobarea exercițiului financiar la 30 septembrie 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/127328",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/127328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-54-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/54",
+   "short": "HCL Ștefan cel Mare nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 54/2023 privind rectificarea bugetului local pe anul 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/127329",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/127329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-55-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/55",
+   "short": "HCL Ștefan cel Mare nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 55/2023 privind aprobarea prelungirii, până la 31 octombrie 2024, a Scrisorii de garanție pentru restituirea avansului nr. 59 din 6 iulie 2021, pentru Contractul de finanțare nerambursabilă nr. C1920072S218181207724/05.02.2021, din partea Fondului Naţional de Garantare a Creditelor pentru IMM",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/127330",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/127330",
      "sha256": null
     }
    ]
@@ -703,6 +1123,21 @@
      "from": "2023-01-31",
      "units": 1,
      "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/89888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-9-2023",
+   "path": "local/calarasi/stefan-cel-mare/2023/9",
+   "short": "HCL Ștefan cel Mare nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 9/2023 privind alegerea preşedintelui și a potențialului președinte de şedinţă al Consiliului local Ștefan cel Mare pentru perioada februarie - aprilie 2023",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/89889",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/89889",
      "sha256": null
     }
    ]

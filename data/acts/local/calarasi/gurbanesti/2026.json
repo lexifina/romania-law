@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--gurbanesti-5-2026",
+"path": "local/calarasi/gurbanesti/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 5/2026 privind alegerea Președintelui de ședință",
+"short": "HCL Gurbănești nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/268142",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--gurbanesti-6-2026",
 "path": "local/calarasi/gurbanesti/2026/6",
 "kind": "local",
@@ -111,6 +133,29 @@
 "council_name": "Consiliul Local al Comunei Gurbănești",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--gurbanesti-7-2026",
+"path": "local/calarasi/gurbanesti/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurbănești nr. 7/2026",
+"short": "HCL Gurbănești nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-13",
+"latest": "2026-05-13",
+"portal": "https://emol.ro/gurbanesti-cl/registru-hcl/268147",
+"council": "calarasi/gurbanesti",
+"council_name": "Consiliul Local al Comunei Gurbănești",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

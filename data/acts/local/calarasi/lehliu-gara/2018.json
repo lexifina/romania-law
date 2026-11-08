@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/calarasi/lehliu-gara/2018",
+"acts": [
+{
+"slug": "hcl-calarasi--lehliu-gara-40-2018",
+"path": "local/calarasi/lehliu-gara/2018/40",
+"kind": "local",
+"year": "2018",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Lehliu Gară nr. 40/2018",
+"short": "HCL Lehliu Gară nr. 40/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://www.primarialehliugara.ro/document-category/hotarari-2019/",
+"council": "calarasi/lehliu-gara",
+"council_name": "Consiliul Local al Orașului Lehliu Gară",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

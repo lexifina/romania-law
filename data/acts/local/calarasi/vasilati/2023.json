@@ -180,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-9-2023",
+"path": "local/calarasi/vasilati/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 9/2023 privind aprobarea protocolului de colaborare între Ministerul Muncii și Solidarității Sociale (MMSS) și comuna Vasilați, județul Călărași, privind implementarea proiectului ”HUB DE SERVICII MMSS - SII MMSS”, Cod MySmis 130963/Regiunea București Ilfov",
+"short": "HCL Vasilați nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/88385",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-10-2023",
 "path": "local/calarasi/vasilati/2023/10",
 "kind": "local",
@@ -243,6 +265,51 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-13-2023",
+"path": "local/calarasi/vasilati/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 13/2023 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pentru semestrul II al anului 2022",
+"short": "HCL Vasilați nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/90305",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-14-2023",
+"path": "local/calarasi/vasilati/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 14/2023",
+"short": "HCL Vasilați nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/90306",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -467,6 +534,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-25-2023",
+"path": "local/calarasi/vasilati/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 25/2023 privind aprobarea Acordului de parteneriat pentru depunerea proiectului ”Microbuze electrice pentru elevii județului Călărași” în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație",
+"short": "HCL Vasilați nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/107323",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-26-2023",
 "path": "local/calarasi/vasilati/2023/26",
 "kind": "local",
@@ -556,6 +645,140 @@
 }
 },
 {
+"slug": "hcl-calarasi--vasilati-30-2023",
+"path": "local/calarasi/vasilati/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 30/2023 privind aprobarea cumpărării imobilului - casă și teren curți construcții intravilan, situat în strada Gării, nr.14, sat Vasilați, comuna Vasilați, județul Călărași",
+"short": "HCL Vasilați nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/111118",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-31-2023",
+"path": "local/calarasi/vasilati/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 31/2023 privind aprobarea executării pe domeniul public al comunei Vasilați a lucrărilor proiectului ”Modernizare rețele electrice de distribuție pentru creșterea capacității și siguranței în alimentarea cu energie electrică a consumatorilor din localitățile Budești, Frumușani, Vasilați, Gălbinași, Plătărești și Fundeni, județul Călărași",
+"short": "HCL Vasilați nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/111119",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-32-2023",
+"path": "local/calarasi/vasilati/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 32/2023",
+"short": "HCL Vasilați nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/114547",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-33-2023",
+"path": "local/calarasi/vasilati/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 33/2023 privind vânzarea prin licitație publică a unui teren în suprafață de 1293 mp. situat în tarlaua 11, parcela 340/4, lot.1, sat Popești, comuna Vasilați, județul Călărași",
+"short": "HCL Vasilați nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/114548",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-34-2023",
+"path": "local/calarasi/vasilati/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 34/2023 privind vânzarea prin licitație publică a unui teren în suprafață de 1000 mp. situat în tarlaua 11, parcela 340/4, lot.2, sat Popești, comuna Vasilați, județul Călărași",
+"short": "HCL Vasilați nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/114549",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-35-2023",
+"path": "local/calarasi/vasilati/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 35/2023",
+"short": "HCL Vasilați nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/114550",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--vasilati-36-2023",
 "path": "local/calarasi/vasilati/2023/36",
 "kind": "local",
@@ -597,6 +820,50 @@
 "council_name": "Consiliul Local al Comunei Vasilați",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-38-2023",
+"path": "local/calarasi/vasilati/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 38/2023 privind transformarea a două posturi de funcționar public din cadrul aparatului de specialitate al primarului comunei Vasilați, ca urmare a finalizării perioadelor de stagiu ale unor funcționari publici",
+"short": "HCL Vasilați nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/116838",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--vasilati-39-2023",
+"path": "local/calarasi/vasilati/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vasilați nr. 39/2023 privind analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul II al anului 2023 și stabilirea măsurilor pentru eficientizarea activității",
+"short": "HCL Vasilați nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/vasilati-cl/registru-hcl/116839",
+"council": "calarasi/vasilati",
+"council_name": "Consiliul Local al Comunei Vasilați",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

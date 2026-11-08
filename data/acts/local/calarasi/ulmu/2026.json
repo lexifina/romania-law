@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-2-2026",
+"path": "local/calarasi/ulmu/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 2/2026 privind alegerea președintelui de ședință al Consiliului Local Ulmu pentru o perioadă de trei luni (februarie-aprilie 2026)",
+"short": "HCL Ulmu nr. 2/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/253190",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-3-2026",
 "path": "local/calarasi/ulmu/2026/3",
 "kind": "local",
@@ -70,6 +92,29 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-5-2026",
+"path": "local/calarasi/ulmu/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 5/2026",
+"short": "HCL Ulmu nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/257577",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-6-2026",
 "path": "local/calarasi/ulmu/2026/6",
 "kind": "local",
@@ -89,6 +134,50 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-7-2026",
+"path": "local/calarasi/ulmu/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 7/2026 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce își desfășoară activitatea în cadrul Școlii Gimnaziale nr.1 Ulmu pentru lunile decembrie 2025 și ianuarie 2026",
+"short": "HCL Ulmu nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/257581",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-8-2026",
+"path": "local/calarasi/ulmu/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 8/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV privind anul 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+"short": "HCL Ulmu nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/257582",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -114,6 +203,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-10-2026",
+"path": "local/calarasi/ulmu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 10/2026 privind reorganizarea aparatului de specialitate a Primarului comunei Ulmu, județul Călărași",
+"short": "HCL Ulmu nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-28",
+"latest": "2026-04-28",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/264855",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-11-2026",
 "path": "local/calarasi/ulmu/2026/11",
 "kind": "local",
@@ -136,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--ulmu-12-2026",
+"path": "local/calarasi/ulmu/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 12/2026 privind aprobarea bugetului local al Scolii Gimnaziale nr.1 Ulmu, pentru anul 2026",
+"short": "HCL Ulmu nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275046",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--ulmu-13-2026",
 "path": "local/calarasi/ulmu/2026/13",
 "kind": "local",
@@ -155,6 +288,72 @@
 "council_name": "Consiliul Local al Comunei Ulmu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-14-2026",
+"path": "local/calarasi/ulmu/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 14/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Ulmu pentru o perioadă de trei luni (mai – iulie 2026)",
+"short": "HCL Ulmu nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275063",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-15-2026",
+"path": "local/calarasi/ulmu/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 15/2026 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul I privind anul 2026 si stabilirea masurilor pentru eficientizarea acestei activitati",
+"short": "HCL Ulmu nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275064",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-16-2026",
+"path": "local/calarasi/ulmu/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 16/2026 privind aprobarea documentatiei in vederea vanzarii suprafetei de 6.414 mp. teren extravilan",
+"short": "HCL Ulmu nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275065",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

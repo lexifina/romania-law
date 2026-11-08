@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/sohatu/2021",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--sohatu-3-2021",
+   "path": "local/calarasi/sohatu/2021/3",
+   "short": "HCL Sohatu nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sohatu nr. 3/2021 privind oproboreo Plonului de ocliunisou luctdi de interes locol pentru onul2021, conlom Leqii nr.416/2001",
+   "url": "https://primariasohatu.ro/wp-content/uploads/2021/10/HCL_3_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://primariasohatu.ro/wp-content/uploads/2021/10/HCL_3_2021.pdf",
+     "sha256": "58e52a161089651db13be680f9dc5acf4eeaf1f0449987cb6a4e81f11dacb996"
+    }
+   ]
+  }
+ ]
+}

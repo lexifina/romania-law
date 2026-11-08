@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-2-2021",
+"path": "local/calarasi/sarulesti/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 2/2021",
+"short": "HCL Sărulești nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-07",
+"latest": "2021-01-07",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26127",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-3-2021",
+"path": "local/calarasi/sarulesti/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 3/2021 privind alegerea președintelui de ședință",
+"short": "HCL Sărulești nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26147",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-4-2021",
 "path": "local/calarasi/sarulesti/2021/4",
 "kind": "local",
@@ -88,6 +133,73 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-7-2021",
+"path": "local/calarasi/sarulesti/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 7/2021 privind apartenența la domeniul privat al comunei a 4 loturi de teren situate în intravilanul comunei Sărulești și a unui lot de teren situat în extravilanul comunei Sărulești",
+"short": "HCL Sărulești nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26151",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-8-2021",
+"path": "local/calarasi/sarulesti/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 8/2021 privind modificarea organigramei și a statutului de funcții al aparatului de specialitate al primarului comunei Sărulești, județul Călarași",
+"short": "HCL Sărulești nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26152",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-9-2021",
+"path": "local/calarasi/sarulesti/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 9/2021",
+"short": "HCL Sărulești nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26162",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -202,6 +314,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-15-2021",
+"path": "local/calarasi/sarulesti/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 15/2021 privind modificarea preambulului HCL nr.11/13.04.2021 privind aprobarea bugetului local pe anul 2021",
+"short": "HCL Sărulești nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32575",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-16-2021",
 "path": "local/calarasi/sarulesti/2021/16",
 "kind": "local",
@@ -221,6 +355,28 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-17-2021",
+"path": "local/calarasi/sarulesti/2021/17",
+"kind": "local",
+"year": "2021",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 17/2021 privind alegerea președintelui de ședință",
+"short": "HCL Sărulești nr. 17/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-25",
+"latest": "2021-05-25",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32577",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -265,6 +421,74 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-20-2021",
+"path": "local/calarasi/sarulesti/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 20/2021 privind atribuirea în folosință gratuită a unui loc de casă în suprafață de 446 mp lui Dumitrache Gabriela-Adriana",
+"short": "HCL Sărulești nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-25",
+"latest": "2021-05-25",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32580",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-21-2021",
+"path": "local/calarasi/sarulesti/2021/21",
+"kind": "local",
+"year": "2021",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 21/2021",
+"short": "HCL Sărulești nr. 21/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-25",
+"latest": "2021-05-25",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32581",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-22-2021",
+"path": "local/calarasi/sarulesti/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 22/2021",
+"short": "HCL Sărulești nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-25",
+"latest": "2021-05-25",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32582",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -400,6 +624,94 @@
 }
 },
 {
+"slug": "hcl-calarasi--sarulesti-29-2021",
+"path": "local/calarasi/sarulesti/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 29/2021 privind atribuirea în folosință gratuită a unui loc de casă în suprafața de 500 mp lui Militaru Cristian-Gabriel",
+"short": "HCL Sărulești nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32589",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-30-2021",
+"path": "local/calarasi/sarulesti/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 30/2021 privind atribuirea în folosință gratuită a unui loc de casă în suprafață de 500 mp lui Neagu Maria-Ramona",
+"short": "HCL Sărulești nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32590",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-31-2021",
+"path": "local/calarasi/sarulesti/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 31/2021 privind atribuirea în folosință gratuită a unui loc de casă în suprafață de 648 mp lui Trif Ana-Maria",
+"short": "HCL Sărulești nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32591",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-32-2021",
+"path": "local/calarasi/sarulesti/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 32/2021 privind atribuirea în folosință gratuită a unui loc de casă în suprafață de 1000 mp lui Preda Viorel-Adrian",
+"short": "HCL Sărulești nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32592",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--sarulesti-33-2021",
 "path": "local/calarasi/sarulesti/2021/33",
 "kind": "local",
@@ -485,6 +797,28 @@
 "council_name": "Consiliul Local al Comunei Sărulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-37-2021",
+"path": "local/calarasi/sarulesti/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 37/2021 privind vânzarea prin licitație publică a imobilului situat în Comuna Sărulești, județul Călărași, T 3/2, P2, compus din suprafața de 11 453 mp. teren curți construcții și a doua construcții C1-393 mp. și C2-457 mp CF 23329 Sărulești",
+"short": "HCL Sărulești nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/32597",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

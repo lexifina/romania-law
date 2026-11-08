@@ -5,7 +5,8 @@
 1. Every version of every act, read back from git on the day it took effect (choosing the commit by its In-force
    trailer, as tools/on.py does), matches the corpus file by file; and on the day before, the act still reads as the
    version before it. That second check is what catches a change committed on the wrong day.
-2. Every commit's trailers parse with git (`%(trailers)`), and every law commit has an In-force trailer.
+2. Every commit's trailers parse with git (`%(trailers)`), and every law commit has an In-force trailer; a draft
+   commit (`Kind: draft`, proiect/) has a Stage-day trailer and never an In-force one.
 3. Health: no merge commits on main, commit dates never go backwards along main, nothing dated after now.
 With --write, the result goes to verification.json next to corpus.json; build.py prints it into REPRODUCE.md.
 """
@@ -66,9 +67,22 @@ class Cat:
         self.p.wait()
 
 
+# The day each commit serves: its In-force trailer; for a draft (Kind: draft, proiect/: never law, no In-force
+# trailer) its Stage-day, the day that stage was published. Only the builder's read-back reads Stage-day; tools/on.py
+# reads In-force alone, so it never returns a draft.
+DAY_FORMAT = ('%(trailers:key=In-force,valueonly,separator=)%x1f%(trailers:key=Kind,valueonly,separator=)%x1f'
+              '%(trailers:key=Stage-day,valueonly,separator=)')
+
+
+def day_of(field: str) -> str:
+    """The day from a DAY_FORMAT field: a draft's Stage-day (never an In-force it should not carry), else In-force."""
+    in_force, kind, stage_day = (field.split('\x1f') + ['', ''])[:3]
+    return stage_day.strip() if kind.strip() == 'draft' else in_force.strip()
+
+
 def commits_by_act(repo: Path, branch: str, act: str) -> list[tuple[str, str]]:
-    out = git(repo, 'log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', branch, '--', act)
-    return [(h, d.strip()) for h, d in (l.split('\t', 1) for l in out.splitlines()) if d.strip()]
+    out = git(repo, 'log', '--no-merges', '--format=%H%x09' + DAY_FORMAT, branch, '--', act)
+    return [(h, day_of(d)) for h, d in (l.split('\t', 1) for l in out.splitlines()) if day_of(d)]
 
 
 def act_dirs(repo: Path, slugs: list[str], ref: str = 'main') -> dict[str, list[str]]:
@@ -91,12 +105,12 @@ def all_commits_by_act(repo: Path, branch: str, acts) -> dict[str, list[tuple[st
     rows: dict[str, list[tuple[str, str]]] = {a: [] for a in dirs}
     # Read as git writes it, one commit at a time: the whole history's file names are hundreds of MB.
     recs = git_split(repo, '\x00', 'log', '--no-merges', '--no-renames', '--name-only',
-                     '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)', branch)
+                     '--format=%x00%H%x09' + DAY_FORMAT, branch)
     next(recs)  # what comes before the first record
     for rec in recs:
         head, _, names = rec.partition('\n')
         h, _, d = head.partition('\t')
-        d = d.strip()
+        d = day_of(d)
         if not d:
             continue
         hit = set()
@@ -244,9 +258,14 @@ def check(repo: Path, corpus: Path) -> dict:
         h, an, tr = rec.split('\x1f')
         if an == 'Lexifina':
             continue
-        keys = [t.split(':', 1)[0] for t in tr.split('\x1e') if t]
+        pairs = [t.split(':', 1) for t in tr.split('\x1e') if t]
+        keys = [p[0] for p in pairs]
         if not keys:
             trailer_errors += 1
+        elif any(p[0] == 'Kind' and len(p) > 1 and p[1].strip() == 'draft' for p in pairs):
+            # a draft (proiect/) is not law: Stage-day, and never an In-force trailer (that would serve it as law)
+            if 'In-force' in keys or 'Stage-day' not in keys:
+                trailer_errors += 1
         elif 'In-force' not in keys:
             missing_in_force += 1
     merges = int(git(repo, 'rev-list', '--merges', '--count', 'main').strip())

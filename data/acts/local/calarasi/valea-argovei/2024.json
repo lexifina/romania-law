@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-calarasi--valea-argovei-3-2024",
+"path": "local/calarasi/valea-argovei/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 3/2024 privind decontarea navetei pentru cadrele didactice pentru luna decembrie 2023",
+"short": "HCL Valea Argovei nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-14",
+"latest": "2024-02-14",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/141691",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-4-2024",
+"path": "local/calarasi/valea-argovei/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 4/2024 privind desemnarea membrilor care vor face parte din comisia de evaluare a performanţelor profesionale individuale ale secretarului general al unităţii administrativ-teritoriale",
+"short": "HCL Valea Argovei nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-14",
+"latest": "2024-02-14",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/141692",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-5-2024",
 "path": "local/calarasi/valea-argovei/2024/5",
 "kind": "local",
@@ -113,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--valea-argovei-8-2024",
+"path": "local/calarasi/valea-argovei/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 8/2024 privind decontarea navetei pentru cadrele didactice pentru luna ianuarie 2024",
+"short": "HCL Valea Argovei nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/142732",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-9-2024",
 "path": "local/calarasi/valea-argovei/2024/9",
 "kind": "local",
@@ -176,6 +242,120 @@
 "council_name": "Consiliul Local al Comunei Valea Argovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-12-2024",
+"path": "local/calarasi/valea-argovei/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 12/2024 privind decontarea navetei pentru personalul din cadrul aparatului de specialitate al primarului comunei Valea Argovei pentru anul 2024",
+"short": "HCL Valea Argovei nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/146118",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-13-2024",
+"path": "local/calarasi/valea-argovei/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 13/2024",
+"short": "HCL Valea Argovei nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/146119",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-14-2024",
+"path": "local/calarasi/valea-argovei/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 14/2024",
+"short": "HCL Valea Argovei nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/146120",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-15-2024",
+"path": "local/calarasi/valea-argovei/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 15/2024",
+"short": "HCL Valea Argovei nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/146121",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-16-2024",
+"path": "local/calarasi/valea-argovei/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 16/2024",
+"short": "HCL Valea Argovei nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-04",
+"latest": "2024-03-04",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/146122",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -311,6 +491,120 @@
 }
 },
 {
+"slug": "hcl-calarasi--valea-argovei-23-2024",
+"path": "local/calarasi/valea-argovei/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 23/2024 privind decontarea navetei pentru cadrele didactice pentru lunile februarie- martie 2024",
+"short": "HCL Valea Argovei nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-13",
+"latest": "2024-05-13",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/155897",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-24-2024",
+"path": "local/calarasi/valea-argovei/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 24/2024",
+"short": "HCL Valea Argovei nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-13",
+"latest": "2024-05-13",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/155898",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-25-2024",
+"path": "local/calarasi/valea-argovei/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 25/2024",
+"short": "HCL Valea Argovei nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-13",
+"latest": "2024-05-13",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/155899",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-26-2024",
+"path": "local/calarasi/valea-argovei/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 26/2024",
+"short": "HCL Valea Argovei nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-13",
+"latest": "2024-05-13",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/155900",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-27-2024",
+"path": "local/calarasi/valea-argovei/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 27/2024",
+"short": "HCL Valea Argovei nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-13",
+"latest": "2024-05-13",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/155901",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-28-2024",
 "path": "local/calarasi/valea-argovei/2024/28",
 "kind": "local",
@@ -355,6 +649,121 @@
 }
 },
 {
+"slug": "hcl-calarasi--valea-argovei-30-2024",
+"path": "local/calarasi/valea-argovei/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 30/2024",
+"short": "HCL Valea Argovei nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-03",
+"latest": "2024-06-03",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/156536",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-31-2024",
+"path": "local/calarasi/valea-argovei/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 31/2024",
+"short": "HCL Valea Argovei nr. 31/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-03",
+"latest": "2024-06-03",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/156537",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-32-2024",
+"path": "local/calarasi/valea-argovei/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 32/2024",
+"short": "HCL Valea Argovei nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-03",
+"latest": "2024-06-03",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/156538",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-33-2024",
+"path": "local/calarasi/valea-argovei/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 33/2024",
+"short": "HCL Valea Argovei nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-03",
+"latest": "2024-06-03",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/156539",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-34-2024",
+"path": "local/calarasi/valea-argovei/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 34/2024",
+"short": "HCL Valea Argovei nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-03",
+"latest": "2024-06-03",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/156540",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-35-2024",
 "path": "local/calarasi/valea-argovei/2024/35",
 "kind": "local",
@@ -374,6 +783,51 @@
 "council_name": "Consiliul Local al Comunei Valea Argovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-36-2024",
+"path": "local/calarasi/valea-argovei/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 36/2024 privind decontarea navetei pentru cadrele didactice pentru luna aprilie 2024",
+"short": "HCL Valea Argovei nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-06",
+"latest": "2024-06-06",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/157433",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-37-2024",
+"path": "local/calarasi/valea-argovei/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 37/2024",
+"short": "HCL Valea Argovei nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-06",
+"latest": "2024-06-06",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/157434",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -487,6 +941,28 @@
 }
 },
 {
+"slug": "hcl-calarasi--valea-argovei-43-2024",
+"path": "local/calarasi/valea-argovei/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 43/2024 privind decontarea navetei pentru cadrele didactice",
+"short": "HCL Valea Argovei nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-09",
+"latest": "2024-07-09",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/160609",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-calarasi--valea-argovei-44-2024",
 "path": "local/calarasi/valea-argovei/2024/44",
 "kind": "local",
@@ -551,6 +1027,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-47-2024",
+"path": "local/calarasi/valea-argovei/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 47/2024 privind decontarea navetei pentru cadrele didactice pe luna iunie 2024",
+"short": "HCL Valea Argovei nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-02",
+"latest": "2024-08-02",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/163242",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -639,6 +1137,72 @@
 "council_name": "Consiliul Local al Comunei Valea Argovei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-52-2024",
+"path": "local/calarasi/valea-argovei/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 52/2024 privind decontarea navetei pentru cadrele didactice pe luna iulie 2024",
+"short": "HCL Valea Argovei nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/167701",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-53-2024",
+"path": "local/calarasi/valea-argovei/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 53/2024 privind concesionarea directă a unor spații cu destinație de cabinet medicale către societatea Dr. Irimescu S.R.L",
+"short": "HCL Valea Argovei nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-25",
+"latest": "2024-09-25",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/169654",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-calarasi--valea-argovei-54-2024",
+"path": "local/calarasi/valea-argovei/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 54/2024 privind numirea reprezentanților Consiliului Local al Comunei Valea Argovei în Consiliul de Administrație al Școlii Gimnaziale nr.1 Valea Argovei și în Comisia de Evaluare și Asigurare a Calității",
+"short": "HCL Valea Argovei nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://emol.ro/valeaargovei-cl/registru-hcl/169655",
+"council": "calarasi/valea-argovei",
+"council_name": "Consiliul Local al Comunei Valea Argovei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
