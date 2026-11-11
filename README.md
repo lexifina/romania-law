@@ -81,6 +81,14 @@ Checked against the official sources: 2026-11-08; 89% of acts verified in the la
 - Not included: chapter and section headings, the portal's editorial notes, and annexes printed as facsimiles.
 - Every version is read back from git on its in-force day and must match the source; results are in `REPRODUCE.md`.
 
+## Ecosystem
+
+Projects built on this repository by other people. They are independent of Lexifina; errors in the legal texts are still reported here.
+
+- **[Textdelege](https://textdelege.ro)**: a reading interface for the Constituția and 20 codes. For each article it shows every version with the period it applied, the act behind each paragraph, word-by-word comparisons between versions, the law as it stood on any date, and the CCR and ÎCCJ decisions on the article. It is refreshed daily from this repository, and every page links the file and commit it was built from. By [@bogdantoma27](https://github.com/bogdantoma27).
+
+Built something on this data? Open an issue and it can be listed here.
+
 ## Personal data
 
 Official acts are republished as the Monitorul Oficial printed them, including the names of the persons they concern. CNPs, home addresses and dates of birth are removed, and decisions about criminal matters are metadata only. Anyone named can ask for a correction or removal via [lexifina.com](https://lexifina.com).
