@@ -14,8 +14,9 @@ The aim: every source a Romanian lawyer or citizen needs, in one git history. La
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Romanian law in this repository: acts, changes as commits, article files, court rulings, official texts read and years of history; changes by the year they took effect; and the plan by part, published and collected" src="data/effort-light.svg" width="880">
+<img alt="Romanian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
+
 
 ### See it in use: the Romania MCP
 
