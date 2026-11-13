@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Dreptul României ca istoric git</text>
-<rect x="502.4" y="24.5" width="163" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="584.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">situația la 4 nov. 2026</text>
-<rect x="673.6" y="24.5" width="182" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="764.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">stare: modificare pendinte</text>
+<rect x="542.9" y="24.5" width="144" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="614.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">situația la 4 nov. 2026</text>
+<rect x="694.8" y="24.5" width="161" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="775.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">stare: modificare pendinte</text>
 <rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
 <text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">31.674</text>
 <text x="40.0" y="106" font-size="12" fill="#9198a1">acte normative</text>
@@ -153,7 +153,7 @@
 <rect x="830.71" y="200.5" width="3.70" height="130.0" rx="1.5" fill="#2ea043"><title>2025: modificări intrate în vigoare: 69.333</title></rect>
 <text x="832.6" y="194.5" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">69.333 în 2025</text>
 <rect x="835.33" y="210.2" width="3.70" height="120.3" rx="1.5" fill="#2ea043"><title>2026: modificări intrate în vigoare: 64.150</title></rect>
-<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">Modificări datate după ziua intrării în vigoare: 578.166; fără dată de intrare în vigoare: 49.101; cu dată de intrare în vigoare imposibilă (înainte de 1200), neafișate: 4. Tip de istoric: in-force.</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1" textLength="799" lengthAdjust="spacingAndGlyphs">Modificări datate după ziua intrării în vigoare: 578.166; fără dată de intrare în vigoare: 49.101; cu dată de intrare în vigoare imposibilă (înainte de 1200), neafișate: 4. Tip de istoric: in-force.</text>
 <rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
 <text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Completitudine față de sursele oficiale la 12 nov. 2026</text>
 <text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Constituția</text>
@@ -191,5 +191,5 @@
 <text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">Corpusurile țării în global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">acte naționale: 1</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">1</text>
-<text x="24" y="736" font-size="11.5" fill="#9198a1">lexifina/romania-law la c00da13, generat la 2026-11-13. Fără commit-urile de documentație. Domeniu: 31674 acts, 50158 dated versions from 1865-12-01 to 2026-11-03</text>
+<text x="24" y="736" font-size="11.5" fill="#9198a1" textLength="832" lengthAdjust="spacingAndGlyphs">lexifina/romania-law la c00da13, generat la 2026-11-13. Fără commit-urile de documentație. Domeniu: 31674 acts, 50158 dated versions from 1865-12-01 to 2026-11-03</text>
 </svg>
