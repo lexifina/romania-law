@@ -1,103 +1,114 @@
-# Romania: law history in git
+# România: istoria dreptului în git
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Romania's national law, which global-law reads at `romania/national/acts/`.
+**Română** · [English](README.en.md)
 
-The aim: every source a Romanian lawyer or citizen needs, in one git history. Laws and their full histories, case law, secondary legislation, local acts and more: the [plan](PLAN.md) lists every part, with its progress.
+Face parte din [lexifina/global-law](https://github.com/lexifina/global-law), o singură istorie git pentru dreptul tuturor țărilor: acesta este dreptul național al României, pe care global-law îl citește la `romania/national/acts/`.
 
-**Scope**
-- Rebuilt Romanian law from the official texts as one git history: the Constitution, the codes and tens of thousands of laws, ordinances and Government decisions, with secondary legislation, local acts, treaties and EU law.
-- Linked Constitutional Court and High Court rulings to the articles they concern, with the ECHR's judgments against Romania and the EU Court of Justice's decisions concerning Romania.
+Scopul: toate sursele de care are nevoie un jurist sau un cetățean român, într-o singură istorie git. Legile cu întreaga lor istorie, jurisprudența, legislația secundară, actele locale și altele: [planul](PLAN.md) enumeră fiecare parte, cu stadiul ei.
 
-**Use**
-- The official portal shows one version of an act at a time. Here, how a provision changed, or what it said on a given date, is one `git log` or `git blame`.
-- Everything can be searched, compared and reused: the texts are official, and our work is public domain (CC0).
+**Conținut**
+- Dreptul românesc reconstituit din textele oficiale ca o singură istorie git: Constituția, codurile și zeci de mii de legi, ordonanțe și hotărâri ale Guvernului, împreună cu legislația secundară, actele locale, tratatele și dreptul Uniunii Europene.
+- Deciziile Curții Constituționale și ale Înaltei Curți de Casație și Justiție, legate de articolele la care se referă, împreună cu hotărârile CEDO pronunțate împotriva României și deciziile Curții de Justiție a Uniunii Europene privitoare la România.
+
+**Utilizare**
+- Portalul oficial arată o singură versiune a unui act la un moment dat. Aici, felul în care s-a modificat o dispoziție sau ce prevedea ea la o anumită dată se află cu un singur `git log` sau `git blame`.
+- Totul poate fi căutat, comparat și reutilizat: textele sunt oficiale, iar munca noastră este în domeniul public (CC0).
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Romanian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/ro/effort-dark.svg">
+<img alt="Legislația României în acest depozit: ce conține, modificările pe anul intrării în vigoare, completitudinea față de sursele oficiale și corectitudinea conținutului" src="data/ro/effort-light.svg" width="880">
 </picture>
 
 
-### See it in use: the Romania MCP
+### Exemplu de utilizare: serverul MCP pentru România
 
 https://github.com/user-attachments/assets/3f47ad88-f514-4765-97e3-ff67ed8f79b4
 
-An AI assistant answering a question about Romanian law through the MCP: the answer cites the exact article and version in this repository, with the official links.
+Un asistent AI răspunde la o întrebare despre dreptul românesc prin serverul MCP: răspunsul citează articolul și versiunea exacte din acest depozit, cu linkurile oficiale.
 
-### Romanian law, drawn
+### Dreptul românesc, în grafice
 
-![The government writes four acts for every law Parliament passes](https://raw.githubusercontent.com/lexifina/global-law/main/visualisations/stills/romanian-law-drawn-01-the-government-writes-four-acts-for-every-law-parl.png)
+![Guvernul emite patru acte pentru fiecare lege adoptată de Parlament](https://raw.githubusercontent.com/lexifina/global-law/main/visualisations/stills/romanian-law-drawn-01-the-government-writes-four-acts-for-every-law-parl.png)
 
-One of thirty charts drawn from this repository; see [visualisations/](visualisations/) for the rest.
+Unul dintre cele treizeci de grafice realizate pe baza acestui depozit; celelalte se află în [visualisations/](visualisations/).
 
-## Layout
+## Structură
 
-| Where | What |
+| Unde | Ce conține |
 | --- | --- |
-| `constitutie/1991/`, `lege/`, `oug/`, `og/`, `hg/` | the Constitution, laws (with the codes: Codul civil is `lege/2009/287/`), ordinances and Government decisions, by year and number |
-| `ordin/`, `norma/`, `regulament/`… | ministerial orders and authority norms |
-| `local/` | local council decisions, by council and year |
-| `ue/`, `tratat/`, `anexa/`, `profesii/` | EU law in Romanian, treaties, official annexes, the legal professions' rules |
-| `jurisprudenta/` | court decisions: `ccr/`, `iccj/`, `cedo/`, `cjue/` |
-| `proiect/` | drafts and bills, **not law**: draft acts put to public consultation and bills in Parliament, by initiator and year |
-| `<act>/art-NNN.md` · `<act>/README.md` | one article per file (one paragraph per line) · the act's versions and notes |
-| [ACTS.md](ACTS.md) · `data/` · `tools/` | the act list · tables and indexes ([DATA.md](DATA.md)) · the tools below |
+| `constitutie/1991/`, `lege/`, `oug/`, `og/`, `hg/` | Constituția, legile (inclusiv codurile: Codul civil este `lege/2009/287/`), ordonanțele și hotărârile Guvernului, pe an și număr |
+| `ordin/`, `norma/`, `regulament/`… | ordinele miniștrilor și normele autorităților |
+| `local/` | hotărârile consiliilor locale, pe consiliu și an |
+| `ue/`, `tratat/`, `anexa/`, `profesii/` | dreptul Uniunii Europene în limba română, tratatele, anexele oficiale, regulile profesiilor juridice |
+| `jurisprudenta/` | hotărârile instanțelor: `ccr/`, `iccj/`, `cedo/`, `cjue/` |
+| `proiect/` | proiecte și propuneri legislative, **nu sunt lege**: proiecte de acte supuse consultării publice și propuneri legislative aflate în Parlament, pe inițiator și an |
+| `<act>/art-NNN.md` · `<act>/README.md` | un articol pe fișier (un alineat pe rând) · versiunile și notele actului |
+| [ACTS.md](ACTS.md) · `data/` · `tools/` | lista actelor · tabele și indexuri ([DATA.md](DATA.md)) · instrumentele de mai jos |
 
-[AGENTS.md](AGENTS.md) explains how a program or an AI agent should query the repository.
+[AGENTS.md](AGENTS.md) explică modul în care un program sau un agent AI trebuie să interogheze depozitul.
 
-## Use it
+## Cum se folosește
 
-| Question | Command |
+| Întrebare | Comandă |
 | --- | --- |
-| What did art. 1112 of the Codul civil say on 18 October 2014? | `python tools/on.py 2014-10-18 lege/2009/287 1112` |
-| Which act wrote each paragraph of art. 336 of the Codul penal? | `git blame lege/2009/286/art-336.md` |
-| Every change to an article, word by word | `git log --follow -p --word-diff lege/2009/286/art-297.md` |
-| Everything one act changed | `git show law/legea-200-2023` |
-| Is the Codul civil here current? | `python tools/freshness.py codul-civil` |
+| Ce prevedea art. 1112 din Codul civil la 18 octombrie 2014? | `python tools/on.py 2014-10-18 lege/2009/287 1112` |
+| Ce act a redactat fiecare alineat al art. 336 din Codul penal? | `git blame lege/2009/286/art-336.md` |
+| Fiecare modificare a unui articol, cuvânt cu cuvânt | `git log --follow -p --word-diff lege/2009/286/art-297.md` |
+| Tot ce a modificat un act | `git show law/legea-200-2023` |
+| Este la zi Codul civil de aici? | `python tools/freshness.py codul-civil` |
 
-Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer.
+Citiți datele cu instrumentele, nu cu `git rev-list --before`: acestea aleg fiecare versiune după trailerul ei `In-force:`.
 
-## Data, case law and sources
+## Date, jurisprudență și surse
 
-- **Tables:** act lists and indexes, links between acts, the bills behind each law, EU transposition, and practical tables (which court covers each locality, court fees, deadlines, legal aid, minimum wage, legal interest). All are listed in [DATA.md](DATA.md).
-- **Case law:** Constitutional Court and High Court (RIL and HP) decisions as published in the Monitorul Oficial, ECHR judgments against Romania, and EU Court of Justice decisions concerning Romania (operative part). Each decision is one commit; a Constitutional Court finding that struck a text is a separate commit in that act's history.
-- **Sources:** the Ministry of Justice's legislative portal, archived copies of it, Parliament, the EU Publications Office and the issuing authorities ([DATA.md](DATA.md#sources)).
+- **Tabele:** liste și indexuri ale actelor, legăturile dintre acte, proiectele din spatele fiecărei legi, transpunerea dreptului Uniunii Europene și tabele practice (instanța competentă pentru fiecare localitate, taxele judiciare de timbru, termenele, ajutorul public judiciar, salariul minim, dobânda legală). Toate sunt enumerate în [DATA.md](DATA.md).
+- **Jurisprudență:** deciziile Curții Constituționale și ale Înaltei Curți de Casație și Justiție (RIL și HP) așa cum au fost publicate în Monitorul Oficial, hotărârile CEDO pronunțate împotriva României și deciziile Curții de Justiție a Uniunii Europene privitoare la România (dispozitivul). Fiecare decizie este un commit; o decizie a Curții Constituționale care a constatat neconstituționalitatea unui text este un commit separat în istoria actului respectiv.
+- **Surse:** portalul legislativ al Ministerului Justiției, copiile arhivate ale acestuia, Parlamentul, Oficiul pentru Publicații al Uniunii Europene și autoritățile emitente ([DATA.md](DATA.md#sources)).
 
-## How current is it
+## Cât de actualizat este
 
-Every version names the official page it was read from, so every act can be checked against its source.
+Fiecare versiune indică pagina oficială din care a fost citită, astfel încât fiecare act poate fi verificat față de sursa sa.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-08; 89% of acts verified in the last 7 days, 89% in the last 30 ([data/freshness.json](data/freshness.json)).
+Verificat față de sursele oficiale: 2026-11-08; 89% dintre acte verificate în ultimele 7 zile, 89% în ultimele 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
-`python tools/freshness.py <act>` gives an act's status, its last check and the official link. The pipeline is monitored around the clock, and [data/status.json](data/status.json) (hourly) says whether updates are running and which official sources are answering. Statuses and fields: [DATA.md](DATA.md#freshness).
+`python tools/freshness.py <act>` indică starea unui act, ultima sa verificare și linkul oficial. Fluxul de actualizare este monitorizat permanent, iar [data/status.json](data/status.json) (actualizat din oră în oră) arată dacă actualizările funcționează și care surse oficiale răspund. Stările și câmpurile: [DATA.md](DATA.md#freshness).
 
-## Dates, authors and limits
+## Datare, autori și limite
 
-- Each commit is dated on the day the change took effect; the author is the act that made it, the committer Lexifina.
-- Drafts and bills in `proiect/` are not law and were never in force unless and until adopted. Their commits are labelled `Kind: draft`, carry no `In-force:` trailer and are dated on the day each stage was published; the author is the initiator (a ministry, the Government, or the members of Parliament as a body). `tools/on.py` never returns them, and each draft's README links the act it became.
-- An act's latest version is the newest consolidated form held, so later amendments may be missing; acts marked `amended, not consolidated` hold the act as published and name the amending acts.
-- Only the Monitorul Oficial, Part I is authoritative (for EU acts, the Official Journal of the EU).
-- Not included: chapter and section headings, the portal's editorial notes, and annexes printed as facsimiles.
-- Every version is read back from git on its in-force day and must match the source; results are in `REPRODUCE.md`.
+- Fiecare commit poartă data zilei în care modificarea a intrat în vigoare; autorul este actul care a făcut-o, iar committerul este Lexifina.
+- Proiectele și propunerile legislative din `proiect/` nu sunt lege și nu au fost niciodată în vigoare, decât dacă și din momentul în care sunt adoptate. Commiturile lor sunt marcate `Kind: draft`, nu au trailerul `In-force:` și poartă data zilei în care a fost publicată fiecare etapă; autorul este inițiatorul (un minister, Guvernul sau parlamentarii, în ansamblu). `tools/on.py` nu le returnează niciodată, iar README-ul fiecărui proiect trimite la actul în care a devenit.
+- Cea mai recentă versiune a unui act este cea mai nouă formă consolidată deținută, deci este posibil să lipsească modificări ulterioare; actele marcate `amended, not consolidated` (modificat, neconsolidat) conțin actul așa cum a fost publicat și indică actele de modificare.
+- Numai Monitorul Oficial, Partea I, este autentic (pentru actele Uniunii Europene, Jurnalul Oficial al Uniunii Europene).
+- Nu sunt incluse: titlurile capitolelor și secțiunilor, notele editoriale ale portalului și anexele tipărite în facsimil.
+- Fiecare versiune este recitită din git în ziua intrării ei în vigoare și trebuie să coincidă cu sursa; rezultatele sunt în `REPRODUCE.md`.
 
-## Ecosystem
+## Ecosistem
 
-Projects built on this repository by other people. They are independent of Lexifina; errors in the legal texts are still reported here.
+Proiecte construite de alte persoane pe baza acestui depozit. Ele sunt independente de Lexifina; erorile din textele juridice se semnalează tot aici.
 
-- **[Textdelege](https://textdelege.ro)**: a reading interface for the Constituția and 20 codes. For each article it shows every version with the period it applied, the act behind each paragraph, word-by-word comparisons between versions, the law as it stood on any date, and the CCR and ÎCCJ decisions on the article. It is refreshed daily from this repository, and every page links the file and commit it was built from. By [@bogdantoma27](https://github.com/bogdantoma27).
+- **[Textdelege](https://textdelege.ro)**: o interfață de lectură pentru Constituția și 20 de coduri. Pentru fiecare articol arată fiecare versiune cu perioada în care s-a aplicat, actul din spatele fiecărui alineat, comparații cuvânt cu cuvânt între versiuni, legea așa cum era la orice dată, precum și deciziile CCR și ÎCCJ privitoare la articol. Este actualizată zilnic din acest depozit, iar fiecare pagină trimite la fișierul și commitul din care a fost generată. Autor: [@bogdantoma27](https://github.com/bogdantoma27).
 
-Built something on this data? Open an issue and it can be listed here.
+Ați construit ceva pe baza acestor date? Deschideți un issue și proiectul poate fi inclus aici.
 
-## Personal data
+## Date cu caracter personal
 
-Official acts are republished as the Monitorul Oficial printed them, including the names of the persons they concern. CNPs, home addresses and dates of birth are removed, and decisions about criminal matters are metadata only. Anyone named can ask for a correction or removal via [lexifina.com](https://lexifina.com).
+Actele oficiale sunt republicate așa cum le-a tipărit Monitorul Oficial, inclusiv cu numele persoanelor la care se referă. CNP-urile, adresele de domiciliu și datele nașterii sunt eliminate, iar din hotărârile în materie penală sunt păstrate doar metadatele. Orice persoană menționată poate cere o rectificare sau o eliminare prin [lexifina.com](https://lexifina.com).
 
-## Licence
+## Licență
 
-The legal texts are official texts of Romanian normative acts (Sursa: Portalul legislativ al Ministerului Justiției, https://legislatie.just.ro), excluded from copyright by Legea nr. 8/1996, art. 9 lit. b. The EU texts are © European Union, reused under Commission Decision 2011/833/EU. Lexifina's arrangement, tables, commit messages and tools are in the public domain (CC0), as set out in `LICENSE`. This repository is not legal advice and not an official publication.
+Textele juridice sunt texte oficiale ale actelor normative românești (Sursa: Portalul legislativ al Ministerului Justiției, https://legislatie.just.ro), care nu beneficiază de protecția dreptului de autor potrivit Legii nr. 8/1996, art. 9 lit. b. Textele Uniunii Europene sunt © Uniunea Europeană, reutilizate în temeiul Deciziei 2011/833/UE a Comisiei. Organizarea, tabelele, mesajele de commit și instrumentele realizate de Lexifina sunt în domeniul public (CC0), conform `LICENSE`. Acest depozit nu constituie consultanță juridică și nu este o publicație oficială.
 
-## În limba română
+Aceasta este o traducere a versiunii în engleză ([README.en.md](README.en.md)); dacă diferă, prevalează versiunea în engleză.
 
-Istoria dreptului românesc în git: un fișier pentru fiecare articol și un commit pentru fiecare modificare, datat în ziua intrării ei în vigoare și semnat de actul care a făcut-o. Lista actelor este în [ACTS.md](ACTS.md); textul în vigoare la o dată: `python tools/on.py 2014-10-18 lege/2009/287 1112`. Sursa: Portalul legislativ al Ministerului Justiției (legislatie.just.ro). Niciun model de inteligență artificială nu a scris text juridic.
+## Mai multe
+
+Din depozitul [lexifina/global-law](https://github.com/lexifina/global-law) (pagini în engleză):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toate funcțiile și ce trebuie să suporte fiecare corpus (`git blame`, `law.py`, instrumente MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): întrebări și răspunsuri · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): propunerea de modificări · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serverul MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): cum a fost construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): cât de actualizat este fiecare corpus · [Monitorizare](https://github.com/lexifina/global-law/tree/main/monitoring): dacă actualizările funcționează · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): cum este urmărită fiecare sursă oficială pentru modificări
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): cât de rapide sunt instrumentele, măsurat
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): grafice și legături în dreptul întregii lumi
+- [Vulnerabilități](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erori în actele normative așa cum au fost publicate
