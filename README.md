@@ -47,7 +47,7 @@ Unul dintre cele treizeci de grafice realizate pe baza acestui depozit; celelalt
 
 [AGENTS.md](AGENTS.md) explică modul în care un program sau un agent AI trebuie să interogheze depozitul.
 
-## Cum se folosește
+## Întrebări ca comenzi git
 
 | Întrebare | Comandă |
 | --- | --- |
@@ -58,6 +58,14 @@ Unul dintre cele treizeci de grafice realizate pe baza acestui depozit; celelalt
 | Este la zi Codul civil de aici? | `python tools/freshness.py codul-civil` |
 
 Citiți datele cu instrumentele, nu cu `git rev-list --before`: acestea aleg fiecare versiune după trailerul ei `In-force:`.
+
+**Sau întrebați în cuvinte obișnuite.** Aceleași date sunt gratuite și fără git, fără cont și fără cheie:
+
+- **[Întrebați Claude despre legislația României](https://global-law.lexifina.com/v1/try_claude?country=romania&q=what%20does%20the%20Labour%20Code%20%28Codul%20muncii%2C%20Legea%20nr.%2053%2F2003%29%20say%20about%20annual%20leave%20%28concediu%20de%20odihn%C4%83%29%20today%2C%20and%20how%20has%20its%20art.%20145%20changed%20since%202011%3F%20Quote%20only%20the%20words%20that%20changed%2C%20name%20the%20law%20that%20changed%20them%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: un clic deschide Claude cu prima întrebare pregătită (concediul de odihnă în Codul muncii și cum s-a modificat).
+- **[Întrebați ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=romania&q=what%20does%20the%20Labour%20Code%20%28Codul%20muncii%2C%20Legea%20nr.%2053%2F2003%29%20say%20about%20annual%20leave%20%28concediu%20de%20odihn%C4%83%29%20today%2C%20and%20how%20has%20its%20art.%20145%20changed%20since%202011%3F%20Quote%20only%20the%20words%20that%20changed%2C%20name%20the%20law%20that%20changed%20them%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: aceeași întrebare în ChatGPT.
+- **[Apelați API-ul în browser](https://global-law.lexifina.com/v1/search_law?query=concediu+de+odihn%C4%83&jurisdictions=romania)**: căutare în legislația României după „concediu de odihnă”, răspuns în JSON. Fără cheie, 5 apeluri pe minut; [toate instrumentele](https://global-law.lexifina.com/v1), [chei și documentație](https://lexifina.com/api).
+
+Asistenții citesc datele prin conectorul gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`); prima dată, conversația oferă linkul care îl adaugă. Întrebați în română, cu sau fără diacritice, sau în engleză.
 
 ## Date, jurisprudență și surse
 

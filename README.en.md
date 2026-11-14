@@ -47,7 +47,7 @@ One of thirty charts drawn from this repository; see [visualisations/](visualisa
 
 [AGENTS.md](AGENTS.md) explains how a program or an AI agent should query the repository.
 
-## Use it
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -58,6 +58,14 @@ One of thirty charts drawn from this repository; see [visualisations/](visualisa
 | Is the Codul civil here current? | `python tools/freshness.py codul-civil` |
 
 Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer.
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Romanian law](https://global-law.lexifina.com/v1/try_claude?country=romania&q=what%20does%20the%20Labour%20Code%20%28Codul%20muncii%2C%20Legea%20nr.%2053%2F2003%29%20say%20about%20annual%20leave%20%28concediu%20de%20odihn%C4%83%29%20today%2C%20and%20how%20has%20its%20art.%20145%20changed%20since%202011%3F%20Quote%20only%20the%20words%20that%20changed%2C%20name%20the%20law%20that%20changed%20them%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (annual leave in the Labour Code, and how it has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=romania&q=what%20does%20the%20Labour%20Code%20%28Codul%20muncii%2C%20Legea%20nr.%2053%2F2003%29%20say%20about%20annual%20leave%20%28concediu%20de%20odihn%C4%83%29%20today%2C%20and%20how%20has%20its%20art.%20145%20changed%20since%202011%3F%20Quote%20only%20the%20words%20that%20changed%2C%20name%20the%20law%20that%20changed%20them%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=concediu+de+odihn%C4%83&jurisdictions=romania)**: Romanian law searched for "concediu de odihnă", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. Ask in Romanian, with or without diacritics, or in English.
 
 ## Data, case law and sources
 
