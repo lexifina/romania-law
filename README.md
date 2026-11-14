@@ -56,10 +56,6 @@ Fiecare modificare este atribuită actului care a făcut-o, așa cum îl numesc 
 
 ## Cât de actualizat este
 
-<!-- freshness-summary -->
-Verificat față de sursele oficiale: 2026-11-08; 89% dintre acte verificate în ultimele 7 zile, 89% în ultimele 30 ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
-
 `python tools/freshness.py <act>` arată starea unui act, ultima sa verificare față de sursa oficială și linkul oficial; [data/status.json](data/status.json), actualizat din oră în oră, arată dacă actualizările funcționează și care surse oficiale răspund ([DATA.md](DATA.md#freshness)).
 
 ## Cum se verifică

@@ -56,10 +56,6 @@ Each change is credited to the act that made it, as the portal's amendment notes
 
 ## How current it is
 
-<!-- freshness-summary -->
-Checked against the official sources: 2026-11-08; 89% of acts verified in the last 7 days, 89% in the last 30 ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
-
 `python tools/freshness.py <act>` gives an act's status, its last check against the official source and its official link; [data/status.json](data/status.json), refreshed every hour, says whether updates are running and which official sources are answering ([DATA.md](DATA.md#freshness)).
 
 ## How it is checked
