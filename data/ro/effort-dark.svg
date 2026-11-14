@@ -1,194 +1,194 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Dreptul României ca istoric git</text>
-<rect x="542.9" y="24.5" width="144" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="614.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">situația la 4 nov. 2026</text>
-<rect x="694.8" y="24.5" width="161" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="775.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">stare: modificare pendinte</text>
-<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">31.674</text>
-<text x="40.0" y="106" font-size="12" fill="#9198a1">acte normative</text>
-<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
-<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">627.271</text>
-<text x="206.4" y="106" font-size="12" fill="#9198a1">modificări, ca commit-uri</text>
-<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
-<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1.831.784</text>
-<text x="372.8" y="106" font-size="12" fill="#9198a1">fișiere de dispoziții</text>
-<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
-<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">568.064</text>
-<text x="539.2" y="106" font-size="12" fill="#9198a1">autori: legi și editori</text>
-<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
-<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1863–2026</text>
-<text x="705.6" y="106" font-size="12" fill="#9198a1">ani de istoric</text>
-<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Modificări pe anul intrării în vigoare</text>
-<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
-<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
-<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#9198a1">20.000</text>
-<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">40.000</text>
-<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#9198a1">60.000</text>
-<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">80.000</text>
-<rect x="80.96" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1863: modificări intrate în vigoare: 1</title></rect>
-<rect x="85.59" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1864: modificări intrate în vigoare: 2</title></rect>
-<rect x="90.22" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1865: modificări intrate în vigoare: 2</title></rect>
-<rect x="155.01" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1879: modificări intrate în vigoare: 2</title></rect>
-<text x="161.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1880</text>
-<rect x="192.04" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1887: modificări intrate în vigoare: 3</title></rect>
-<rect x="252.20" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1900: modificări intrate în vigoare: 1</title></rect>
-<text x="254.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1900</text>
-<rect x="279.97" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1906: modificări intrate în vigoare: 1</title></rect>
-<rect x="307.74" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1912: modificări intrate în vigoare: 2</title></rect>
-<rect x="312.37" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1913: modificări intrate în vigoare: 1</title></rect>
-<rect x="330.88" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1917: modificări intrate în vigoare: 1</title></rect>
-<rect x="335.51" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1918: modificări intrate în vigoare: 3</title></rect>
-<text x="346.6" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1920</text>
-<rect x="349.39" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1921: modificări intrate în vigoare: 13</title></rect>
-<rect x="358.65" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1923: modificări intrate în vigoare: 5</title></rect>
-<rect x="363.27" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1924: modificări intrate în vigoare: 2</title></rect>
-<rect x="367.90" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1925: modificări intrate în vigoare: 4</title></rect>
-<rect x="372.53" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1926: modificări intrate în vigoare: 1</title></rect>
-<rect x="377.16" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1927: modificări intrate în vigoare: 6</title></rect>
-<rect x="381.79" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1928: modificări intrate în vigoare: 1</title></rect>
-<rect x="391.04" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1930: modificări intrate în vigoare: 36</title></rect>
-<rect x="395.67" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1931: modificări intrate în vigoare: 25</title></rect>
-<rect x="400.30" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1932: modificări intrate în vigoare: 2</title></rect>
-<rect x="404.93" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1933: modificări intrate în vigoare: 2</title></rect>
-<rect x="409.55" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1934: modificări intrate în vigoare: 4</title></rect>
-<rect x="418.81" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1936: modificări intrate în vigoare: 2</title></rect>
-<rect x="423.44" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1937: modificări intrate în vigoare: 10</title></rect>
-<rect x="428.07" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1938: modificări intrate în vigoare: 42</title></rect>
-<rect x="437.32" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1940: modificări intrate în vigoare: 16</title></rect>
-<text x="439.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1940</text>
-<rect x="441.95" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1941: modificări intrate în vigoare: 9</title></rect>
-<rect x="451.21" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1943: modificări intrate în vigoare: 3</title></rect>
-<rect x="455.83" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1944: modificări intrate în vigoare: 6</title></rect>
-<rect x="460.46" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1945: modificări intrate în vigoare: 14</title></rect>
-<rect x="465.09" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1946: modificări intrate în vigoare: 5</title></rect>
-<rect x="469.72" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1947: modificări intrate în vigoare: 14</title></rect>
-<rect x="474.35" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1948: modificări intrate în vigoare: 64</title></rect>
-<rect x="478.97" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1949: modificări intrate în vigoare: 86</title></rect>
-<rect x="483.60" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1950: modificări intrate în vigoare: 26</title></rect>
-<rect x="488.23" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1951: modificări intrate în vigoare: 9</title></rect>
-<rect x="492.86" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1952: modificări intrate în vigoare: 10</title></rect>
-<rect x="497.49" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1953: modificări intrate în vigoare: 21</title></rect>
-<rect x="502.12" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1954: modificări intrate în vigoare: 16</title></rect>
-<rect x="506.74" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1955: modificări intrate în vigoare: 8</title></rect>
-<rect x="511.37" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1956: modificări intrate în vigoare: 9</title></rect>
-<rect x="516.00" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1957: modificări intrate în vigoare: 13</title></rect>
-<rect x="520.63" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1958: modificări intrate în vigoare: 17</title></rect>
-<rect x="525.26" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1959: modificări intrate în vigoare: 14</title></rect>
-<rect x="529.88" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1960: modificări intrate în vigoare: 19</title></rect>
-<text x="531.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1960</text>
-<rect x="534.51" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1961: modificări intrate în vigoare: 7</title></rect>
-<rect x="539.14" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1962: modificări intrate în vigoare: 5</title></rect>
-<rect x="543.77" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1963: modificări intrate în vigoare: 27</title></rect>
-<rect x="548.40" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1964: modificări intrate în vigoare: 32</title></rect>
-<rect x="553.02" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1965: modificări intrate în vigoare: 11</title></rect>
-<rect x="557.65" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1966: modificări intrate în vigoare: 18</title></rect>
-<rect x="562.28" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1967: modificări intrate în vigoare: 28</title></rect>
-<rect x="566.91" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1968: modificări intrate în vigoare: 62</title></rect>
-<rect x="571.54" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1969: modificări intrate în vigoare: 76</title></rect>
-<rect x="576.16" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1970: modificări intrate în vigoare: 50</title></rect>
-<rect x="580.79" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1971: modificări intrate în vigoare: 117</title></rect>
-<rect x="585.42" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1972: modificări intrate în vigoare: 80</title></rect>
-<rect x="590.05" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1973: modificări intrate în vigoare: 68</title></rect>
-<rect x="594.68" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1974: modificări intrate în vigoare: 71</title></rect>
-<rect x="599.30" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1975: modificări intrate în vigoare: 58</title></rect>
-<rect x="603.93" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1976: modificări intrate în vigoare: 89</title></rect>
-<rect x="608.56" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1977: modificări intrate în vigoare: 65</title></rect>
-<rect x="613.19" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1978: modificări intrate în vigoare: 61</title></rect>
-<rect x="617.82" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1979: modificări intrate în vigoare: 52</title></rect>
-<rect x="622.44" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1980: modificări intrate în vigoare: 57</title></rect>
-<text x="624.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1980</text>
-<rect x="627.07" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1981: modificări intrate în vigoare: 49</title></rect>
-<rect x="631.70" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1982: modificări intrate în vigoare: 87</title></rect>
-<rect x="636.33" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1983: modificări intrate în vigoare: 59</title></rect>
-<rect x="640.96" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1984: modificări intrate în vigoare: 49</title></rect>
-<rect x="645.58" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1985: modificări intrate în vigoare: 48</title></rect>
-<rect x="650.21" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1986: modificări intrate în vigoare: 62</title></rect>
-<rect x="654.84" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1987: modificări intrate în vigoare: 54</title></rect>
-<rect x="659.47" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1988: modificări intrate în vigoare: 72</title></rect>
-<rect x="664.10" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1989: modificări intrate în vigoare: 124</title></rect>
-<rect x="668.73" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1990: modificări intrate în vigoare: 523</title></rect>
-<rect x="673.35" y="329.0" width="3.70" height="1.5" rx="1.5" fill="#2ea043"><title>1991: modificări intrate în vigoare: 775</title></rect>
-<rect x="677.98" y="328.1" width="3.70" height="2.4" rx="1.5" fill="#2ea043"><title>1992: modificări intrate în vigoare: 1.298</title></rect>
-<rect x="682.61" y="328.2" width="3.70" height="2.3" rx="1.5" fill="#2ea043"><title>1993: modificări intrate în vigoare: 1.201</title></rect>
-<rect x="687.24" y="327.8" width="3.70" height="2.7" rx="1.5" fill="#2ea043"><title>1994: modificări intrate în vigoare: 1.465</title></rect>
-<rect x="691.87" y="327.5" width="3.70" height="3.0" rx="1.5" fill="#2ea043"><title>1995: modificări intrate în vigoare: 1.582</title></rect>
-<rect x="696.49" y="326.3" width="3.70" height="4.2" rx="1.5" fill="#2ea043"><title>1996: modificări intrate în vigoare: 2.262</title></rect>
-<rect x="701.12" y="326.2" width="3.70" height="4.3" rx="1.5" fill="#2ea043"><title>1997: modificări intrate în vigoare: 2.313</title></rect>
-<rect x="705.75" y="325.3" width="3.70" height="5.2" rx="1.5" fill="#2ea043"><title>1998: modificări intrate în vigoare: 2.748</title></rect>
-<rect x="710.38" y="325.0" width="3.70" height="5.5" rx="1.5" fill="#2ea043"><title>1999: modificări intrate în vigoare: 2.930</title></rect>
-<rect x="715.01" y="323.9" width="3.70" height="6.6" rx="1.5" fill="#2ea043"><title>2000: modificări intrate în vigoare: 3.513</title></rect>
-<text x="716.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
-<rect x="719.63" y="322.3" width="3.70" height="8.2" rx="1.5" fill="#2ea043"><title>2001: modificări intrate în vigoare: 4.358</title></rect>
-<rect x="724.26" y="320.4" width="3.70" height="10.1" rx="1.5" fill="#2ea043"><title>2002: modificări intrate în vigoare: 5.399</title></rect>
-<rect x="728.89" y="319.3" width="3.70" height="11.2" rx="1.5" fill="#2ea043"><title>2003: modificări intrate în vigoare: 5.964</title></rect>
-<rect x="733.52" y="316.0" width="3.70" height="14.5" rx="1.5" fill="#2ea043"><title>2004: modificări intrate în vigoare: 7.749</title></rect>
-<rect x="738.15" y="317.2" width="3.70" height="13.3" rx="1.5" fill="#2ea043"><title>2005: modificări intrate în vigoare: 7.106</title></rect>
-<rect x="742.77" y="316.1" width="3.70" height="14.4" rx="1.5" fill="#2ea043"><title>2006: modificări intrate în vigoare: 7.671</title></rect>
-<rect x="747.40" y="314.7" width="3.70" height="15.8" rx="1.5" fill="#2ea043"><title>2007: modificări intrate în vigoare: 8.402</title></rect>
-<rect x="752.03" y="313.4" width="3.70" height="17.1" rx="1.5" fill="#2ea043"><title>2008: modificări intrate în vigoare: 9.145</title></rect>
-<rect x="756.66" y="312.9" width="3.70" height="17.6" rx="1.5" fill="#2ea043"><title>2009: modificări intrate în vigoare: 9.364</title></rect>
-<rect x="761.29" y="313.7" width="3.70" height="16.8" rx="1.5" fill="#2ea043"><title>2010: modificări intrate în vigoare: 8.969</title></rect>
-<rect x="765.91" y="311.9" width="3.70" height="18.6" rx="1.5" fill="#2ea043"><title>2011: modificări intrate în vigoare: 9.907</title></rect>
-<rect x="770.54" y="313.9" width="3.70" height="16.6" rx="1.5" fill="#2ea043"><title>2012: modificări intrate în vigoare: 8.840</title></rect>
-<rect x="775.17" y="312.1" width="3.70" height="18.4" rx="1.5" fill="#2ea043"><title>2013: modificări intrate în vigoare: 9.797</title></rect>
-<rect x="779.80" y="311.0" width="3.70" height="19.5" rx="1.5" fill="#2ea043"><title>2014: modificări intrate în vigoare: 10.378</title></rect>
-<rect x="784.43" y="311.4" width="3.70" height="19.1" rx="1.5" fill="#2ea043"><title>2015: modificări intrate în vigoare: 10.169</title></rect>
-<rect x="789.05" y="307.9" width="3.70" height="22.6" rx="1.5" fill="#2ea043"><title>2016: modificări intrate în vigoare: 12.079</title></rect>
-<rect x="793.68" y="305.8" width="3.70" height="24.7" rx="1.5" fill="#2ea043"><title>2017: modificări intrate în vigoare: 13.196</title></rect>
-<rect x="798.31" y="302.5" width="3.70" height="28.0" rx="1.5" fill="#2ea043"><title>2018: modificări intrate în vigoare: 14.907</title></rect>
-<rect x="802.94" y="304.2" width="3.70" height="26.3" rx="1.5" fill="#2ea043"><title>2019: modificări intrate în vigoare: 14.017</title></rect>
-<rect x="807.57" y="274.9" width="3.70" height="55.6" rx="1.5" fill="#2ea043"><title>2020: modificări intrate în vigoare: 29.649</title></rect>
-<text x="809.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
-<rect x="812.19" y="251.1" width="3.70" height="79.4" rx="1.5" fill="#2ea043"><title>2021: modificări intrate în vigoare: 42.340</title></rect>
-<rect x="816.82" y="241.4" width="3.70" height="89.1" rx="1.5" fill="#2ea043"><title>2022: modificări intrate în vigoare: 47.498</title></rect>
-<rect x="821.45" y="214.5" width="3.70" height="116.0" rx="1.5" fill="#2ea043"><title>2023: modificări intrate în vigoare: 61.854</title></rect>
-<rect x="826.08" y="212.1" width="3.70" height="118.4" rx="1.5" fill="#2ea043"><title>2024: modificări intrate în vigoare: 63.124</title></rect>
-<rect x="830.71" y="200.5" width="3.70" height="130.0" rx="1.5" fill="#2ea043"><title>2025: modificări intrate în vigoare: 69.333</title></rect>
-<text x="832.6" y="194.5" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">69.333 în 2025</text>
-<rect x="835.33" y="210.2" width="3.70" height="120.3" rx="1.5" fill="#2ea043"><title>2026: modificări intrate în vigoare: 64.150</title></rect>
-<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1" textLength="799" lengthAdjust="spacingAndGlyphs">Modificări datate după ziua intrării în vigoare: 578.166; fără dată de intrare în vigoare: 49.101; cu dată de intrare în vigoare imposibilă (înainte de 1200), neafișate: 4.</text>
-<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Completitudine față de sursele oficiale la 12 nov. 2026</text>
-<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Constituția</text>
-<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">inclusă în depozit</text>
-<g><title>Constituția: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">Coduri principale</text>
-<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">ponderea codurilor esențiale incluse</text>
-<g><title>Coduri principale: 100 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">Legislație națională</text>
-<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">acte incluse din totalul oficial</text>
-<g><title>Legislație națională: 100 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Legislație regională</text>
-<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">fără unități cu putere legislativă</text>
-<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">nu se aplică</text>
-<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">Jurisprudență</text>
-<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">instanțe supreme incluse</text>
-<g><title>Jurisprudență: 75 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="692.0" y="479.5" width="68.6" height="8" rx="4" fill="#d29922"/></g>
-<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">75 %</text>
-<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Corectitudinea conținutului</text>
-<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Cu dată de intrare în vigoare</text>
-<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">ponderea modificărilor</text>
-<g><title>Cu dată de intrare în vigoare: 92 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="84.3" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">92 %</text>
-<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Modificări cu sursă oficială</text>
-<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">rând Source sau link în commit</text>
-<g><title>Modificări cu sursă oficială: 99,2 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="90.8" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">99,2 %</text>
-<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">Corpusurile țării în global-law</text>
-<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">acte naționale: 1</text>
-<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">1</text>
-<text x="456.0" y="648.5" font-size="13" fill="#f0f6fc">Verificat față de sursa oficială</text>
-<text x="456.0" y="664.5" font-size="11.5" fill="#9198a1">Portalul legislativ (Ministerul Justiției)</text>
-<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">4 nov. 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="803" viewBox="0 0 880 803" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>@font-face{font-family:'Manrope';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'JetBrains Mono';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}</style>
+<defs><linearGradient id="yg-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3fbf7f"/><stop offset="1" stop-color="#3fbf7f" stop-opacity="0.35"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#0c120f" stroke="#26332c"/>
+<rect x="707.4" y="27" width="144.6" height="24" rx="12" fill="#141c18"/>
+<text x="779.7" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#93a69b">situația la 4 nov. 2026</text>
+<text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e9f2ec">Dreptul României ca istoric git</text>
+<rect x="28" y="70" width="824" height="72" rx="8" fill="#141c18"/>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">31.674</text>
+<text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">acte normative</text>
+<line x1="157.0" y1="86" x2="157.0" y2="126" stroke="#26332c"/>
+<text x="173.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">627.271</text>
+<text x="173.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">modificări, ca commit-uri</text>
+<line x1="343.7" y1="86" x2="343.7" y2="126" stroke="#26332c"/>
+<text x="359.7" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1.831.784</text>
+<text x="359.7" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">fișiere de dispoziții</text>
+<line x1="511.4" y1="86" x2="511.4" y2="126" stroke="#26332c"/>
+<text x="527.4" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">568.064</text>
+<text x="527.4" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">autori: legi și editori</text>
+<line x1="685.9" y1="86" x2="685.9" y2="126" stroke="#26332c"/>
+<text x="701.9" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1863–2026</text>
+<text x="701.9" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">ani de istoric</text>
+<rect x="28" y="160" width="824" height="236" rx="8" fill="#141c18"/>
+<text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Modificări pe anul intrării în vigoare</text>
+<line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#1f2a24"/>
+<text x="82" y="350.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">0</text>
+<line x1="90" y1="311.5" x2="834" y2="311.5" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="315.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">20.000</text>
+<line x1="90" y1="277.0" x2="834" y2="277.0" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="281.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">40.000</text>
+<line x1="90" y1="242.5" x2="834" y2="242.5" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="246.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">60.000</text>
+<line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">80.000</text>
+<rect x="90.40" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1863: modificări intrate în vigoare: 1</title></rect>
+<rect x="94.94" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1864: modificări intrate în vigoare: 2</title></rect>
+<rect x="99.47" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1865: modificări intrate în vigoare: 2</title></rect>
+<rect x="162.99" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1879: modificări intrate în vigoare: 2</title></rect>
+<text x="169.4" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1880</text>
+<rect x="199.28" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1887: modificări intrate în vigoare: 3</title></rect>
+<rect x="258.25" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1900: modificări intrate în vigoare: 1</title></rect>
+<text x="260.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1900</text>
+<rect x="285.47" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1906: modificări intrate în vigoare: 1</title></rect>
+<rect x="312.69" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1912: modificări intrate în vigoare: 2</title></rect>
+<rect x="317.23" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1913: modificări intrate în vigoare: 1</title></rect>
+<rect x="335.38" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1917: modificări intrate în vigoare: 1</title></rect>
+<rect x="339.91" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1918: modificări intrate în vigoare: 3</title></rect>
+<text x="350.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1920</text>
+<rect x="353.52" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1921: modificări intrate în vigoare: 13</title></rect>
+<rect x="362.60" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1923: modificări intrate în vigoare: 5</title></rect>
+<rect x="367.13" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1924: modificări intrate în vigoare: 2</title></rect>
+<rect x="371.67" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1925: modificări intrate în vigoare: 4</title></rect>
+<rect x="376.20" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1926: modificări intrate în vigoare: 1</title></rect>
+<rect x="380.74" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1927: modificări intrate în vigoare: 6</title></rect>
+<rect x="385.28" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1928: modificări intrate în vigoare: 1</title></rect>
+<rect x="394.35" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1930: modificări intrate în vigoare: 36</title></rect>
+<rect x="398.89" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1931: modificări intrate în vigoare: 25</title></rect>
+<rect x="403.42" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1932: modificări intrate în vigoare: 2</title></rect>
+<rect x="407.96" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1933: modificări intrate în vigoare: 2</title></rect>
+<rect x="412.50" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1934: modificări intrate în vigoare: 4</title></rect>
+<rect x="421.57" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1936: modificări intrate în vigoare: 2</title></rect>
+<rect x="426.11" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1937: modificări intrate în vigoare: 10</title></rect>
+<rect x="430.64" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1938: modificări intrate în vigoare: 42</title></rect>
+<rect x="439.72" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1940: modificări intrate în vigoare: 16</title></rect>
+<text x="441.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1940</text>
+<rect x="444.25" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1941: modificări intrate în vigoare: 9</title></rect>
+<rect x="453.33" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1943: modificări intrate în vigoare: 3</title></rect>
+<rect x="457.86" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1944: modificări intrate în vigoare: 6</title></rect>
+<rect x="462.40" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1945: modificări intrate în vigoare: 14</title></rect>
+<rect x="466.94" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1946: modificări intrate în vigoare: 5</title></rect>
+<rect x="471.47" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1947: modificări intrate în vigoare: 14</title></rect>
+<rect x="476.01" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1948: modificări intrate în vigoare: 64</title></rect>
+<rect x="480.55" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1949: modificări intrate în vigoare: 86</title></rect>
+<rect x="485.08" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1950: modificări intrate în vigoare: 26</title></rect>
+<rect x="489.62" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1951: modificări intrate în vigoare: 9</title></rect>
+<rect x="494.16" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1952: modificări intrate în vigoare: 10</title></rect>
+<rect x="498.69" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1953: modificări intrate în vigoare: 21</title></rect>
+<rect x="503.23" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1954: modificări intrate în vigoare: 16</title></rect>
+<rect x="507.77" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1955: modificări intrate în vigoare: 8</title></rect>
+<rect x="512.30" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1956: modificări intrate în vigoare: 9</title></rect>
+<rect x="516.84" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1957: modificări intrate în vigoare: 13</title></rect>
+<rect x="521.38" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1958: modificări intrate în vigoare: 17</title></rect>
+<rect x="525.91" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1959: modificări intrate în vigoare: 14</title></rect>
+<rect x="530.45" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1960: modificări intrate în vigoare: 19</title></rect>
+<text x="532.3" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1960</text>
+<rect x="534.99" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1961: modificări intrate în vigoare: 7</title></rect>
+<rect x="539.52" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1962: modificări intrate în vigoare: 5</title></rect>
+<rect x="544.06" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1963: modificări intrate în vigoare: 27</title></rect>
+<rect x="548.60" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1964: modificări intrate în vigoare: 32</title></rect>
+<rect x="553.13" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1965: modificări intrate în vigoare: 11</title></rect>
+<rect x="557.67" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1966: modificări intrate în vigoare: 18</title></rect>
+<rect x="562.20" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1967: modificări intrate în vigoare: 28</title></rect>
+<rect x="566.74" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1968: modificări intrate în vigoare: 62</title></rect>
+<rect x="571.28" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1969: modificări intrate în vigoare: 76</title></rect>
+<rect x="575.81" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1970: modificări intrate în vigoare: 50</title></rect>
+<rect x="580.35" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1971: modificări intrate în vigoare: 117</title></rect>
+<rect x="584.89" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1972: modificări intrate în vigoare: 80</title></rect>
+<rect x="589.42" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1973: modificări intrate în vigoare: 68</title></rect>
+<rect x="593.96" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1974: modificări intrate în vigoare: 71</title></rect>
+<rect x="598.50" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1975: modificări intrate în vigoare: 58</title></rect>
+<rect x="603.03" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1976: modificări intrate în vigoare: 89</title></rect>
+<rect x="607.57" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1977: modificări intrate în vigoare: 65</title></rect>
+<rect x="612.11" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1978: modificări intrate în vigoare: 61</title></rect>
+<rect x="616.64" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1979: modificări intrate în vigoare: 52</title></rect>
+<rect x="621.18" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1980: modificări intrate în vigoare: 57</title></rect>
+<text x="623.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1980</text>
+<rect x="625.72" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1981: modificări intrate în vigoare: 49</title></rect>
+<rect x="630.25" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1982: modificări intrate în vigoare: 87</title></rect>
+<rect x="634.79" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1983: modificări intrate în vigoare: 59</title></rect>
+<rect x="639.33" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1984: modificări intrate în vigoare: 49</title></rect>
+<rect x="643.86" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1985: modificări intrate în vigoare: 48</title></rect>
+<rect x="648.40" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1986: modificări intrate în vigoare: 62</title></rect>
+<rect x="652.94" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1987: modificări intrate în vigoare: 54</title></rect>
+<rect x="657.47" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1988: modificări intrate în vigoare: 72</title></rect>
+<rect x="662.01" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1989: modificări intrate în vigoare: 124</title></rect>
+<rect x="666.55" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1990: modificări intrate în vigoare: 523</title></rect>
+<rect x="671.08" y="344.5" width="3.74" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1991: modificări intrate în vigoare: 775</title></rect>
+<rect x="675.62" y="343.8" width="3.74" height="2.2" rx="1.5" fill="url(#yg-dark)"><title>1992: modificări intrate în vigoare: 1.298</title></rect>
+<rect x="680.16" y="343.9" width="3.74" height="2.1" rx="1.5" fill="url(#yg-dark)"><title>1993: modificări intrate în vigoare: 1.201</title></rect>
+<rect x="684.69" y="343.5" width="3.74" height="2.5" rx="1.5" fill="url(#yg-dark)"><title>1994: modificări intrate în vigoare: 1.465</title></rect>
+<rect x="689.23" y="343.3" width="3.74" height="2.7" rx="1.5" fill="url(#yg-dark)"><title>1995: modificări intrate în vigoare: 1.582</title></rect>
+<rect x="693.77" y="342.1" width="3.74" height="3.9" rx="1.5" fill="url(#yg-dark)"><title>1996: modificări intrate în vigoare: 2.262</title></rect>
+<rect x="698.30" y="342.0" width="3.74" height="4.0" rx="1.5" fill="url(#yg-dark)"><title>1997: modificări intrate în vigoare: 2.313</title></rect>
+<rect x="702.84" y="341.3" width="3.74" height="4.7" rx="1.5" fill="url(#yg-dark)"><title>1998: modificări intrate în vigoare: 2.748</title></rect>
+<rect x="707.38" y="340.9" width="3.74" height="5.1" rx="1.5" fill="url(#yg-dark)"><title>1999: modificări intrate în vigoare: 2.930</title></rect>
+<rect x="711.91" y="339.9" width="3.74" height="6.1" rx="1.5" fill="url(#yg-dark)"><title>2000: modificări intrate în vigoare: 3.513</title></rect>
+<text x="713.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2000</text>
+<rect x="716.45" y="338.5" width="3.74" height="7.5" rx="1.5" fill="url(#yg-dark)"><title>2001: modificări intrate în vigoare: 4.358</title></rect>
+<rect x="720.99" y="336.7" width="3.74" height="9.3" rx="1.5" fill="url(#yg-dark)"><title>2002: modificări intrate în vigoare: 5.399</title></rect>
+<rect x="725.52" y="335.7" width="3.74" height="10.3" rx="1.5" fill="url(#yg-dark)"><title>2003: modificări intrate în vigoare: 5.964</title></rect>
+<rect x="730.06" y="332.6" width="3.74" height="13.4" rx="1.5" fill="url(#yg-dark)"><title>2004: modificări intrate în vigoare: 7.749</title></rect>
+<rect x="734.60" y="333.7" width="3.74" height="12.3" rx="1.5" fill="url(#yg-dark)"><title>2005: modificări intrate în vigoare: 7.106</title></rect>
+<rect x="739.13" y="332.8" width="3.74" height="13.2" rx="1.5" fill="url(#yg-dark)"><title>2006: modificări intrate în vigoare: 7.671</title></rect>
+<rect x="743.67" y="331.5" width="3.74" height="14.5" rx="1.5" fill="url(#yg-dark)"><title>2007: modificări intrate în vigoare: 8.402</title></rect>
+<rect x="748.20" y="330.2" width="3.74" height="15.8" rx="1.5" fill="url(#yg-dark)"><title>2008: modificări intrate în vigoare: 9.145</title></rect>
+<rect x="752.74" y="329.8" width="3.74" height="16.2" rx="1.5" fill="url(#yg-dark)"><title>2009: modificări intrate în vigoare: 9.364</title></rect>
+<rect x="757.28" y="330.5" width="3.74" height="15.5" rx="1.5" fill="url(#yg-dark)"><title>2010: modificări intrate în vigoare: 8.969</title></rect>
+<rect x="761.81" y="328.9" width="3.74" height="17.1" rx="1.5" fill="url(#yg-dark)"><title>2011: modificări intrate în vigoare: 9.907</title></rect>
+<rect x="766.35" y="330.8" width="3.74" height="15.2" rx="1.5" fill="url(#yg-dark)"><title>2012: modificări intrate în vigoare: 8.840</title></rect>
+<rect x="770.89" y="329.1" width="3.74" height="16.9" rx="1.5" fill="url(#yg-dark)"><title>2013: modificări intrate în vigoare: 9.797</title></rect>
+<rect x="775.42" y="328.1" width="3.74" height="17.9" rx="1.5" fill="url(#yg-dark)"><title>2014: modificări intrate în vigoare: 10.378</title></rect>
+<rect x="779.96" y="328.5" width="3.74" height="17.5" rx="1.5" fill="url(#yg-dark)"><title>2015: modificări intrate în vigoare: 10.169</title></rect>
+<rect x="784.50" y="325.2" width="3.74" height="20.8" rx="1.5" fill="url(#yg-dark)"><title>2016: modificări intrate în vigoare: 12.079</title></rect>
+<rect x="789.03" y="323.2" width="3.74" height="22.8" rx="1.5" fill="url(#yg-dark)"><title>2017: modificări intrate în vigoare: 13.196</title></rect>
+<rect x="793.57" y="320.3" width="3.74" height="25.7" rx="1.5" fill="url(#yg-dark)"><title>2018: modificări intrate în vigoare: 14.907</title></rect>
+<rect x="798.11" y="321.8" width="3.74" height="24.2" rx="1.5" fill="url(#yg-dark)"><title>2019: modificări intrate în vigoare: 14.017</title></rect>
+<rect x="802.64" y="294.9" width="3.74" height="51.1" rx="1.5" fill="url(#yg-dark)"><title>2020: modificări intrate în vigoare: 29.649</title></rect>
+<text x="804.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2020</text>
+<rect x="807.18" y="273.0" width="3.74" height="73.0" rx="1.5" fill="url(#yg-dark)"><title>2021: modificări intrate în vigoare: 42.340</title></rect>
+<rect x="811.72" y="264.1" width="3.74" height="81.9" rx="1.5" fill="url(#yg-dark)"><title>2022: modificări intrate în vigoare: 47.498</title></rect>
+<rect x="816.25" y="239.3" width="3.74" height="106.7" rx="1.5" fill="url(#yg-dark)"><title>2023: modificări intrate în vigoare: 61.854</title></rect>
+<rect x="820.79" y="237.1" width="3.74" height="108.9" rx="1.5" fill="url(#yg-dark)"><title>2024: modificări intrate în vigoare: 63.124</title></rect>
+<rect x="825.33" y="226.4" width="3.74" height="119.6" rx="1.5" fill="url(#yg-dark)"><title>2025: modificări intrate în vigoare: 69.333</title></rect>
+<text x="827.2" y="218.4" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#e9f2ec">69.333 în 2025</text>
+<rect x="829.86" y="235.3" width="3.74" height="110.7" rx="1.5" fill="url(#yg-dark)"><title>2026: modificări intrate în vigoare: 64.150</title></rect>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b" textLength="788" lengthAdjust="spacingAndGlyphs">Modificări datate după ziua intrării în vigoare: 578.166; fără dată de intrare în vigoare: 49.101; cu dată de intrare în vigoare imposibilă (înainte de 1200), neafișate: 4.</text>
+<rect x="28" y="412" width="824" height="197" rx="8" fill="#141c18"/>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Completitudine față de sursele oficiale la 12 nov. 2026</text>
+<text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Constituția</text>
+<text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">inclusă în depozit</text>
+<g><title>Constituția: 100 %</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Legislație regională</text>
+<text x="460.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">fără unități cu putere legislativă</text>
+<text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">nu se aplică</text>
+<text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Coduri principale</text>
+<text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">ponderea codurilor esențiale incluse</text>
+<g><title>Coduri principale: 100 %</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Jurisprudență</text>
+<text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">instanțe supreme incluse</text>
+<g><title>Jurisprudență: 75 %</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="708.0" y="509.0" width="46.5" height="4" rx="2" fill="#e3a33b"/></g>
+<text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">75 %</text>
+<text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Legislație națională</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">acte incluse din totalul oficial</text>
+<g><title>Legislație națională: 100 %</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<rect x="28" y="625" width="824" height="152" rx="8" fill="#141c18"/>
+<text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Corectitudinea conținutului</text>
+<text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Cu dată de intrare în vigoare</text>
+<text x="46.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">ponderea modificărilor</text>
+<g><title>Cu dată de intrare în vigoare: 92 %</title><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="677.0" width="57.1" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">92 %</text>
+<text x="460.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Corpusurile țării în global-law</text>
+<text x="460.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">acte naționale: 1</text>
+<text x="834.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">1</text>
+<text x="46.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Modificări cu sursă oficială</text>
+<text x="46.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">rând Source sau link în commit</text>
+<g><title>Modificări cu sursă oficială: 99,2 %</title><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="722.0" width="61.5" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">99,2 %</text>
+<text x="460.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Verificat față de sursa oficială</text>
+<text x="460.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">Portalul legislativ (Ministerul Justiției)</text>
+<text x="834.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">4 nov. 2026</text>
 </svg>
