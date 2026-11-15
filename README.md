@@ -30,7 +30,8 @@ Textul este în limba română, așa cum îl publică sursele oficiale. O traduc
 
 - **[Întrebați Claude despre dreptul românesc](https://global-law.lexifina.com/v1/try_claude?country=romania)**: deschide Claude cu o primă întrebare pregătită.
 - **[Întrebați ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=romania)**: aceeași întrebare în ChatGPT.
-- **[Apelați API-ul în browser](https://global-law.lexifina.com/v1/search_law?query=concediu+de+odihn%C4%83&jurisdictions=romania)**: o căutare în dreptul românesc după „concediu de odihnă”, cu răspunsul în JSON. Documentația este [aici](https://lexifina.com/api/global-law).
+- **[Căutați în dreptul românesc pe site-ul nostru](https://lexifina.com/law?country=romania&q=concediu+de+odihn%C4%83)**: o căutare după „concediu de odihnă”, cu textul fiecărui articol și versiunile lui, fără cont.
+- **[API REST pentru dezvoltatori](https://global-law.lexifina.com/v1/search_law?query=concediu+de+odihn%C4%83&jurisdiction=romania)**: aceeași căutare în JSON, fără cheie. Documentația este [aici](https://lexifina.com/api/global-law).
 
 Ambii asistenți citesc evidența prin conectorul gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`); prima dată, conversația vă oferă linkul care îl adaugă. Întrebați în română, cu sau fără diacritice, sau în engleză.
 
